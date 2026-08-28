@@ -58,11 +58,11 @@
       "example_en": "Just washing your hands often helps greatly in preventing colds."
     },
     {
-      "word": "증상",
+      "word": "치료",
       "pos": "명사",
-      "en": "symptom",
-      "example_ko": "열이 나고 기침이 심해지는 증상이 이틀째 계속되고 있다.",
-      "example_en": "Symptoms of fever and worsening cough have continued for two days."
+      "en": "treatment, cure",
+      "example_ko": "이 병은 초기에 발견하면 치료가 어렵지 않다고 한다.",
+      "example_en": "They say this illness is not difficult to treat if it is discovered early."
     },
     {
       "word": "면역",
@@ -72,18 +72,18 @@
       "example_en": "When you lack sleep, your immune function weakens, making you prone to illness."
     },
     {
-      "word": "처방",
+      "word": "소화",
       "pos": "명사",
-      "en": "prescription",
-      "example_ko": "의사는 증세에 맞는 약을 일주일 치 처방해 주었다.",
-      "example_en": "The doctor prescribed a week's worth of medicine suited to my condition."
+      "en": "digestion",
+      "example_ko": "저녁을 너무 늦게 먹으면 소화가 잘 안 된다.",
+      "example_en": "When I eat dinner too late, I have trouble with digestion."
     },
     {
-      "word": "진료",
+      "word": "진단",
       "pos": "명사",
-      "en": "medical treatment, consultation",
-      "example_ko": "그 병원은 토요일 오전에도 진료를 한다.",
-      "example_en": "That hospital also sees patients on Saturday mornings."
+      "en": "diagnosis",
+      "example_ko": "의사는 정확한 진단을 위해 몇 가지 검사를 더 하자고 했다.",
+      "example_en": "The doctor suggested a few more tests for an accurate diagnosis."
     },
     {
       "word": "회복",

@@ -64,18 +64,18 @@
       "example_en": "This performance was so popular that the tickets sold out early."
     },
     {
-      "word": "창작",
+      "word": "개봉",
       "pos": "명사",
-      "en": "creation, creative work",
-      "example_ko": "그 작가는 창작에 몰두하느라 외부 활동을 거의 하지 않는다.",
-      "example_en": "That writer is so absorbed in creative work that he rarely takes part in outside activities."
+      "en": "release (of a movie)",
+      "example_ko": "기다리던 영화가 다음 주에 드디어 개봉한다.",
+      "example_en": "The movie I have been waiting for finally opens next week."
     },
     {
-      "word": "감상하다",
-      "pos": "동사",
-      "en": "to appreciate, to enjoy (art, music)",
-      "example_ko": "주말마다 미술관에 가서 그림을 감상하는 것이 취미다.",
-      "example_en": "My hobby is going to the art museum every weekend to appreciate paintings."
+      "word": "관객",
+      "pos": "명사",
+      "en": "audience, spectator",
+      "example_ko": "공연이 끝나자 관객들은 일어나서 박수를 보냈다.",
+      "example_en": "When the performance ended, the audience stood up and applauded."
     },
     {
       "word": "연주",
@@ -92,11 +92,11 @@
       "example_en": "Sculptures by famous artists stand throughout the park."
     },
     {
-      "word": "유산",
+      "word": "감독",
       "pos": "명사",
-      "en": "heritage, legacy",
-      "example_ko": "한옥 마을은 소중한 문화 유산으로 보호받고 있다.",
-      "example_en": "The hanok village is protected as a precious cultural heritage."
+      "en": "director (of a film)",
+      "example_ko": "그 감독의 새 영화가 국제 영화제에서 상을 받았다.",
+      "example_en": "The director's new film won an award at an international film festival."
     },
     {
       "word": "흥행",
@@ -113,11 +113,11 @@
       "example_en": "For popular musicals, you have to book tickets a month in advance."
     },
     {
-      "word": "걸작",
+      "word": "작품",
       "pos": "명사",
-      "en": "masterpiece",
-      "example_ko": "이 소설은 20세기 문학의 걸작으로 꼽힌다.",
-      "example_en": "This novel is counted among the masterpieces of twentieth-century literature."
+      "en": "work (of art), piece",
+      "example_ko": "이번 전시에서는 젊은 화가들의 작품을 만나 볼 수 있다.",
+      "example_en": "At this exhibition, you can see works by young painters."
     },
     {
       "word": "소감",

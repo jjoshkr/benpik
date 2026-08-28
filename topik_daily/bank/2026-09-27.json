@@ -57,11 +57,11 @@
   ],
   "daily_vocab": [
     {
-      "word": "오염",
+      "word": "기후",
       "pos": "명사",
-      "en": "pollution, contamination",
-      "example_ko": "공장 폐수로 인한 강물 오염이 심각한 수준에 이르렀다.",
-      "example_en": "River pollution caused by factory wastewater has reached a serious level."
+      "en": "climate",
+      "example_ko": "기후가 변하면서 봄과 가을이 점점 짧아지고 있다.",
+      "example_en": "As the climate changes, spring and fall are getting shorter and shorter."
     },
     {
       "word": "배출하다",
@@ -71,25 +71,25 @@
       "example_en": "Cars are one of the biggest sources emitting greenhouse gases in cities."
     },
     {
-      "word": "재활용",
+      "word": "분리수거",
       "pos": "명사",
-      "en": "recycling",
-      "example_ko": "우리 아파트는 매주 수요일에 재활용 쓰레기를 수거한다.",
-      "example_en": "Our apartment complex collects recyclables every Wednesday."
+      "en": "separate collection of recyclables, waste sorting",
+      "example_ko": "우리 아파트는 매주 목요일에 분리수거를 한다.",
+      "example_en": "In our apartment complex, recyclables are collected separately every Thursday."
     },
     {
-      "word": "멸종",
+      "word": "쓰레기",
       "pos": "명사",
-      "en": "extinction",
-      "example_ko": "서식지 파괴로 멸종 위기에 처한 동물이 늘고 있다.",
-      "example_en": "The number of animals facing extinction due to habitat destruction is increasing."
+      "en": "trash, garbage",
+      "example_ko": "축제가 끝난 거리에는 쓰레기가 가득 쌓여 있었다.",
+      "example_en": "After the festival, the streets were piled high with trash."
     },
     {
-      "word": "가뭄",
+      "word": "에너지",
       "pos": "명사",
-      "en": "drought",
-      "example_ko": "몇 달째 이어진 가뭄으로 농작물 피해가 커지고 있다.",
-      "example_en": "Crop damage is growing due to the drought that has lasted for months."
+      "en": "energy",
+      "example_ko": "사용하지 않는 전자 제품의 플러그를 뽑으면 에너지를 아낄 수 있다.",
+      "example_en": "You can save energy by unplugging electronic devices you are not using."
     },
     {
       "word": "폭염",
@@ -99,18 +99,18 @@
       "example_en": "Outdoor work during the day was suspended because of the record heat wave."
     },
     {
-      "word": "보존하다",
+      "word": "보호하다",
       "pos": "동사",
-      "en": "to preserve, to conserve",
-      "example_ko": "이 습지는 희귀 새들의 서식지라서 반드시 보존해야 한다.",
-      "example_en": "This wetland must be preserved because it is a habitat for rare birds."
+      "en": "to protect",
+      "example_ko": "환경을 보호하기 위해 가까운 거리는 걸어 다니려고 한다.",
+      "example_en": "To protect the environment, I try to walk when the distance is short."
     },
     {
-      "word": "일회용품",
-      "pos": "명사",
-      "en": "disposable products",
-      "example_ko": "카페에서 일회용품 사용을 줄이기 위해 컵 보증금 제도를 도입했다.",
-      "example_en": "The cafe introduced a cup deposit system to reduce the use of disposables."
+      "word": "줄이다",
+      "pos": "동사",
+      "en": "to reduce, to cut down",
+      "example_ko": "플라스틱 사용을 줄이기 위해 텀블러를 가지고 다닌다.",
+      "example_en": "I carry a tumbler to reduce my use of plastic."
     },
     {
       "word": "온실가스",

@@ -78,11 +78,11 @@
       "example_en": "Roads were flooded in many places because of the downpour that fell overnight."
     },
     {
-      "word": "가뭄",
+      "word": "미세먼지",
       "pos": "명사",
-      "en": "drought",
-      "example_ko": "오랜 가뭄으로 농작물이 말라 가고 있다.",
-      "example_en": "Crops are drying up because of the long drought."
+      "en": "fine dust",
+      "example_ko": "요즘은 외출 전에 미세먼지 농도를 확인하는 사람이 많다.",
+      "example_en": "These days, many people check the fine dust level before going out."
     },
     {
       "word": "생태계",

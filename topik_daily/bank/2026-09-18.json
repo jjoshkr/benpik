@@ -57,11 +57,11 @@
   ],
   "daily_vocab": [
     {
-      "word": "환불",
+      "word": "세금",
       "pos": "명사",
-      "en": "refund",
-      "example_ko": "옷이 마음에 들지 않아서 일주일 안에 환불을 신청했다.",
-      "example_en": "I did not like the clothes, so I requested a refund within a week."
+      "en": "tax",
+      "example_ko": "월급에서 세금을 빼고 나면 실제로 받는 돈은 생각보다 적다.",
+      "example_en": "After taxes are deducted from my salary, the money I actually receive is less than I expected."
     },
     {
       "word": "저축",

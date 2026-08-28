@@ -51,11 +51,11 @@
   ],
   "daily_vocab": [
     {
-      "word": "승진",
+      "word": "업무",
       "pos": "명사",
-      "en": "promotion (at work)",
-      "example_ko": "그는 입사 오 년 만에 과장으로 승진했다.",
-      "example_en": "He was promoted to section chief just five years after joining the company."
+      "en": "work, duties (at a job)",
+      "example_ko": "새로 맡은 업무가 많아서 요즘 정신없이 바쁘다.",
+      "example_en": "I have so many new duties that I have been terribly busy lately."
     },
     {
       "word": "연봉",
@@ -65,11 +65,11 @@
       "example_en": "My annual salary went up by about 20 percent when I changed jobs."
     },
     {
-      "word": "야근",
+      "word": "퇴근",
       "pos": "명사",
-      "en": "working overtime at night",
-      "example_ko": "마감이 다가오자 야근이 일주일 내내 이어졌다.",
-      "example_en": "As the deadline approached, overtime work continued all week long."
+      "en": "leaving work, getting off work",
+      "example_ko": "퇴근 후에 동료들과 저녁을 먹기로 했다.",
+      "example_en": "I decided to have dinner with my coworkers after getting off work."
     },
     {
       "word": "출장",
@@ -86,25 +86,25 @@
       "example_en": "Only people with at least three years of experience in the field can apply for this position."
     },
     {
-      "word": "면접",
+      "word": "이력서",
       "pos": "명사",
-      "en": "job interview",
-      "example_ko": "면접에서 긴장한 나머지 준비한 말을 다 하지 못했다.",
-      "example_en": "I was so nervous in the interview that I could not say everything I had prepared."
+      "en": "resume, CV",
+      "example_ko": "그 회사에 지원하려고 밤새 이력서를 고쳐 썼다.",
+      "example_en": "I stayed up all night revising my resume to apply to that company."
     },
     {
-      "word": "채용",
+      "word": "상사",
       "pos": "명사",
-      "en": "hiring, recruitment",
-      "example_ko": "그 회사는 올해 신입 사원 채용 규모를 두 배로 늘렸다.",
-      "example_en": "That company doubled the scale of its new employee recruitment this year."
+      "en": "boss, superior (at work)",
+      "example_ko": "상사에게 보고서를 제출하기 전에 다시 한번 확인했다.",
+      "example_en": "I double-checked the report before submitting it to my boss."
     },
     {
-      "word": "성과",
+      "word": "급여",
       "pos": "명사",
-      "en": "results, achievements",
-      "example_ko": "팀원들이 밤낮없이 노력한 끝에 눈에 띄는 성과를 거두었다.",
-      "example_en": "After the team members worked day and night, they achieved remarkable results."
+      "en": "pay, salary",
+      "example_ko": "이 회사는 급여는 많지 않지만 근무 환경이 좋다.",
+      "example_en": "This company does not pay much, but the working environment is good."
     },
     {
       "word": "마감",

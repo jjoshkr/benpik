@@ -57,11 +57,11 @@
   ],
   "daily_vocab": [
     {
-      "word": "배려",
+      "word": "우정",
       "pos": "명사",
-      "en": "consideration, thoughtfulness",
-      "example_ko": "작은 배려가 상대방의 마음을 움직이는 법이다.",
-      "example_en": "It is small acts of consideration that move the other person's heart."
+      "en": "friendship",
+      "example_ko": "십 년 넘게 이어 온 우정이라 서로 말하지 않아도 마음이 통한다.",
+      "example_en": "Because it is a friendship of over ten years, we understand each other without saying a word."
     },
     {
       "word": "공감",
@@ -78,11 +78,11 @@
       "example_en": "It took a long time to clear up the misunderstanding caused by his tone of speech."
     },
     {
-      "word": "신뢰",
+      "word": "첫인상",
       "pos": "명사",
-      "en": "trust",
-      "example_ko": "신뢰는 쌓기는 어렵지만 무너지는 것은 한순간이다.",
-      "example_en": "Trust is hard to build, but it collapses in an instant."
+      "en": "first impression",
+      "example_ko": "그는 첫인상은 차가워 보이지만 알고 보면 정이 많은 사람이다.",
+      "example_en": "He seems cold at first impression, but once you get to know him, he is a warm-hearted person."
     },
     {
       "word": "위로하다",
@@ -99,11 +99,11 @@
       "example_en": "I felt hurt by my husband, who had forgotten my birthday."
     },
     {
-      "word": "다투다",
+      "word": "어울리다",
       "pos": "동사",
-      "en": "to quarrel, to argue",
-      "example_ko": "사소한 일로 다투고 나면 늘 후회가 남는다.",
-      "example_en": "After quarreling over something trivial, I am always left with regret."
+      "en": "to get along with, to mix with",
+      "example_ko": "그 아이는 성격이 밝아서 누구와도 잘 어울린다.",
+      "example_en": "That child has a cheerful personality and gets along well with anyone."
     },
     {
       "word": "화해하다",

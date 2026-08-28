@@ -64,25 +64,25 @@
       "example_en": "During the holiday season, lodging rates jump to double the usual price."
     },
     {
-      "word": "명소",
+      "word": "관광객",
       "pos": "명사",
-      "en": "famous spot, attraction",
-      "example_ko": "이 다리는 야경이 아름다워 도시의 새로운 명소가 되었다.",
-      "example_en": "With its beautiful night view, this bridge has become a new attraction in the city."
+      "en": "tourist",
+      "example_ko": "휴가철이 되자 바닷가에 관광객이 몰려들었다.",
+      "example_en": "When the holiday season came, tourists flocked to the beach."
     },
     {
-      "word": "휴양지",
+      "word": "일정",
       "pos": "명사",
-      "en": "resort, vacation spot",
-      "example_ko": "그 섬은 조용히 쉬고 싶은 사람들에게 인기 있는 휴양지다.",
-      "example_en": "That island is a popular resort for people who want to rest quietly."
+      "en": "schedule, itinerary",
+      "example_ko": "이번 여행은 일정이 빡빡해서 쉴 시간이 거의 없었다.",
+      "example_en": "The itinerary for this trip was so tight that we had almost no time to rest."
     },
     {
-      "word": "풍경",
+      "word": "경치",
       "pos": "명사",
-      "en": "scenery, landscape",
-      "example_ko": "기차 창밖으로 펼쳐진 가을 풍경이 그림 같았다.",
-      "example_en": "The autumn scenery spreading outside the train window was like a painting."
+      "en": "scenery, view",
+      "example_ko": "산 정상에 오르니 경치가 정말 아름다웠다.",
+      "example_en": "When we reached the top of the mountain, the view was truly beautiful."
     },
     {
       "word": "기념품",
@@ -99,11 +99,11 @@
       "example_en": "If you travel outside the peak season, you can cut costs significantly."
     },
     {
-      "word": "왕복",
+      "word": "환전",
       "pos": "명사",
-      "en": "round trip",
-      "example_ko": "서울에서 제주까지 왕복 항공권을 미리 사 두었다.",
-      "example_en": "I bought a round-trip plane ticket from Seoul to Jeju in advance."
+      "en": "currency exchange",
+      "example_ko": "출국 전에 공항에서 달러로 환전을 했다.",
+      "example_en": "Before departure, I exchanged money for dollars at the airport."
     },
     {
       "word": "예약하다",

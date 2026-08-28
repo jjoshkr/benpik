@@ -58,25 +58,25 @@
       "example_en": "The era in which artificial intelligence assists doctors' diagnoses has already begun."
     },
     {
-      "word": "발명",
+      "word": "연구",
       "pos": "명사",
-      "en": "invention",
-      "example_ko": "전화기의 발명은 인류의 생활 방식을 완전히 바꾸어 놓았다.",
-      "example_en": "The invention of the telephone completely changed the way humans live."
+      "en": "research",
+      "example_ko": "그 연구소는 새로운 에너지 기술에 대한 연구를 진행하고 있다.",
+      "example_en": "The institute is conducting research on new energy technology."
     },
     {
-      "word": "첨단",
-      "pos": "명사",
-      "en": "cutting edge, state of the art",
-      "example_ko": "이 공장은 첨단 기술을 도입해 생산 속도를 두 배로 높였다.",
-      "example_en": "This factory doubled its production speed by introducing cutting-edge technology."
+      "word": "발달하다",
+      "pos": "동사",
+      "en": "to develop, to advance",
+      "example_ko": "과학 기술이 발달하면서 우리 생활이 훨씬 편리해졌다.",
+      "example_en": "As science and technology have advanced, our lives have become much more convenient."
     },
     {
-      "word": "실험",
-      "pos": "명사",
-      "en": "experiment",
-      "example_ko": "연구팀은 같은 실험을 백 번 넘게 반복해서 결과를 확인했다.",
-      "example_en": "The research team repeated the same experiment more than a hundred times to confirm the results."
+      "word": "관찰하다",
+      "pos": "동사",
+      "en": "to observe",
+      "example_ko": "학생들은 현미경으로 식물 세포를 관찰했다.",
+      "example_en": "The students observed plant cells under a microscope."
     },
     {
       "word": "개발",
@@ -93,11 +93,11 @@
       "example_en": "This car is equipped with a safety device that prevents drowsy driving."
     },
     {
-      "word": "성능",
-      "pos": "명사",
-      "en": "performance (of a machine)",
-      "example_ko": "새로 나온 노트북은 성능이 좋아진 대신 가격도 올랐다.",
-      "example_en": "The newly released laptop has better performance, but its price has gone up as well."
+      "word": "검색하다",
+      "pos": "동사",
+      "en": "to search (for information)",
+      "example_ko": "모르는 단어가 나오면 바로 인터넷으로 검색해 본다.",
+      "example_en": "Whenever I come across a word I don't know, I search for it on the internet right away."
     },
     {
       "word": "정보",

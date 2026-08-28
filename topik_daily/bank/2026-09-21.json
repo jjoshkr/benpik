@@ -78,11 +78,11 @@
       "example_en": "I felt a great sense of accomplishment when I solved the difficult problem on my own."
     },
     {
-      "word": "암기하다",
-      "pos": "동사",
-      "en": "to memorize",
-      "example_ko": "단어를 무작정 암기하는 것보다 문장 속에서 익히는 것이 효과적이다.",
-      "example_en": "Learning words in sentences is more effective than memorizing them blindly."
+      "word": "예습",
+      "pos": "명사",
+      "en": "preparation, studying ahead of class",
+      "example_ko": "수업 전에 예습을 해 두면 강의 내용을 이해하기가 훨씬 쉽다.",
+      "example_en": "If you prepare before class, it is much easier to understand the lecture."
     },
     {
       "word": "복습",
@@ -120,11 +120,11 @@
       "example_en": "Teenagers' literacy is declining due to the habit of not reading long texts."
     },
     {
-      "word": "습득하다",
+      "word": "익히다",
       "pos": "동사",
-      "en": "to acquire (knowledge, skills)",
-      "example_ko": "아이들은 놀이를 통해 자연스럽게 언어를 습득한다.",
-      "example_en": "Children naturally acquire language through play."
+      "en": "to learn, to master",
+      "example_ko": "외국어는 매일 조금씩 연습해야 자연스럽게 익힐 수 있다.",
+      "example_en": "You can master a foreign language naturally only by practicing a little every day."
     }
   ]
 }

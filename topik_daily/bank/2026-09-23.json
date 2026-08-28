@@ -64,25 +64,25 @@
       "example_en": "As the population ages rapidly, welfare costs are also increasing sharply."
     },
     {
-      "word": "복지",
+      "word": "인구",
       "pos": "명사",
-      "en": "welfare",
-      "example_ko": "정부는 노인 복지 예산을 작년보다 늘리기로 했다.",
-      "example_en": "The government decided to increase the budget for elderly welfare compared to last year."
+      "en": "population",
+      "example_ko": "농촌 지역의 인구가 해마다 줄어들고 있다.",
+      "example_en": "The population of rural areas is decreasing every year."
     },
     {
-      "word": "소외",
+      "word": "편견",
       "pos": "명사",
-      "en": "alienation, marginalization",
-      "example_ko": "디지털 기기에 익숙하지 않은 세대는 소외를 겪기 쉽다.",
-      "example_en": "Generations unfamiliar with digital devices are prone to experiencing alienation."
+      "en": "prejudice, bias",
+      "example_ko": "외모에 대한 편견 때문에 상처를 받는 사람들이 있다.",
+      "example_en": "Some people are hurt by prejudice about their appearance."
     },
     {
-      "word": "빈곤",
+      "word": "저출산",
       "pos": "명사",
-      "en": "poverty",
-      "example_ko": "노인 빈곤 문제는 더 이상 미룰 수 없는 과제가 되었다.",
-      "example_en": "Elderly poverty has become an issue that can no longer be put off."
+      "en": "low birthrate",
+      "example_ko": "저출산 문제를 해결하기 위해 정부가 다양한 정책을 내놓고 있다.",
+      "example_en": "The government is introducing various policies to solve the problem of the low birthrate."
     },
     {
       "word": "대책",
@@ -92,18 +92,18 @@
       "example_en": "A fundamental countermeasure against youth unemployment is needed."
     },
     {
-      "word": "갈등",
+      "word": "실업",
       "pos": "명사",
-      "en": "conflict, discord",
-      "example_ko": "세대 간 갈등을 줄이려면 서로의 입장을 이해하려는 노력이 필요하다.",
-      "example_en": "To reduce generational conflict, we need to make an effort to understand each other's positions."
+      "en": "unemployment",
+      "example_ko": "경기가 나빠지면서 청년 실업 문제가 더욱 심각해지고 있다.",
+      "example_en": "As the economy worsens, the problem of youth unemployment is becoming more serious."
     },
     {
-      "word": "차별",
+      "word": "범죄",
       "pos": "명사",
-      "en": "discrimination",
-      "example_ko": "나이나 성별에 따른 차별은 법으로 금지되어 있다.",
-      "example_en": "Discrimination based on age or gender is prohibited by law."
+      "en": "crime",
+      "example_ko": "밤길의 범죄를 막기 위해 골목마다 CCTV가 설치되었다.",
+      "example_en": "CCTV cameras were installed in every alley to prevent crime at night."
     },
     {
       "word": "지원하다",
