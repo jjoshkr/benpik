@@ -1,0 +1,130 @@
+{
+  "passage_ko": "얼마 전부터 나는 잠들기 전에 스마트폰을 보는 대신에 종이책을 읽기 시작했다. 처음에는 습관이 되지 않아 자꾸 휴대폰에 손이 갔지만, 일주일쯤 지나자 잠도 잘 오고 아침에 머리가 한결 맑아졌다. 기술은 분명 우리 생활을 편리하게 해 주지만, 그 편리함에 익숙해질수록 잃어버리는 것도 있다는 생각이 들었다. 이제 나는 기술을 무조건 멀리하기보다는 나에게 맞게 조절하며 사용하는 지혜가 필요하다고 믿는다.",
+  "passage_en": "A while ago, I started reading paper books before falling asleep instead of looking at my smartphone. At first the habit did not stick and my hand kept reaching for the phone, but after about a week I slept better and my head felt much clearer in the morning. Technology certainly makes our lives convenient, but it occurred to me that the more accustomed we grow to that convenience, the more we also lose. Now I believe that rather than shunning technology altogether, we need the wisdom to adjust it to ourselves and use it accordingly.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "종이책은 전자책보다 눈 건강에 좋다.",
+      "en": "Paper books are better for eye health than e-books."
+    },
+    {
+      "ko": "스마트폰은 수면에 아무런 영향을 주지 않는다.",
+      "en": "Smartphones have no effect on sleep."
+    },
+    {
+      "ko": "기술의 발전 속도를 지금보다 늦추어야 한다.",
+      "en": "The pace of technological development should be slowed down."
+    },
+    {
+      "ko": "기술은 무조건 피하기보다 자신에게 맞게 조절하며 쓰는 것이 중요하다.",
+      "en": "Rather than avoiding technology outright, it is important to use it in a way adjusted to oneself."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "글쓴이는 자신의 경험을 통해 기술의 편리함 뒤에 잃는 것이 있음을 깨닫고, 마지막 문장에서 기술을 멀리하기보다 알맞게 조절해 쓰는 지혜가 필요하다고 말하므로 4번이 주제이다. 1번과 2번은 글에서 다루지 않은 내용이고, 3번은 기술 발전 자체를 문제 삼은 것이 아니므로 알맞지 않다.",
+  "explanation_en": "Through a personal experiment, the writer concludes that the key is not rejecting technology but using it in a wisely adjusted way.",
+  "passage_vocab": [
+    {
+      "word": "한결",
+      "pos": "부사",
+      "en": "noticeably, much more",
+      "context": "머리가 한결 맑아졌다"
+    },
+    {
+      "word": "익숙해지다",
+      "pos": "동사",
+      "en": "to become accustomed to",
+      "context": "그 편리함에 익숙해질수록"
+    },
+    {
+      "word": "조절하다",
+      "pos": "동사",
+      "en": "to adjust, to regulate",
+      "context": "나에게 맞게 조절하며 사용하는"
+    },
+    {
+      "word": "지혜",
+      "pos": "명사",
+      "en": "wisdom",
+      "context": "사용하는 지혜가 필요하다"
+    },
+    {
+      "word": "무조건",
+      "pos": "부사",
+      "en": "unconditionally, no matter what",
+      "context": "기술을 무조건 멀리하기보다는"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "인공지능",
+      "pos": "명사",
+      "en": "artificial intelligence",
+      "example_ko": "인공지능이 사람의 일자리를 대신할 것이라는 전망이 많다.",
+      "example_en": "Many predict that artificial intelligence will take over human jobs."
+    },
+    {
+      "word": "발명",
+      "pos": "명사",
+      "en": "invention",
+      "example_ko": "전화기의 발명은 인류의 생활을 크게 바꾸었다.",
+      "example_en": "The invention of the telephone greatly changed human life."
+    },
+    {
+      "word": "실험",
+      "pos": "명사",
+      "en": "experiment",
+      "example_ko": "연구팀은 실험 결과를 논문으로 발표했다.",
+      "example_en": "The research team published the experiment results in a paper."
+    },
+    {
+      "word": "첨단",
+      "pos": "명사",
+      "en": "cutting edge, state of the art",
+      "example_ko": "이 공장에는 첨단 설비가 갖추어져 있다.",
+      "example_en": "This factory is equipped with cutting-edge facilities."
+    },
+    {
+      "word": "개발하다",
+      "pos": "동사",
+      "en": "to develop",
+      "example_ko": "그 회사는 새로운 치료제를 개발하고 있다.",
+      "example_en": "The company is developing a new treatment."
+    },
+    {
+      "word": "기능",
+      "pos": "명사",
+      "en": "function, feature",
+      "example_ko": "이 휴대폰에는 번역 기능이 들어 있다.",
+      "example_en": "This phone has a translation feature built in."
+    },
+    {
+      "word": "성능",
+      "pos": "명사",
+      "en": "performance (of a device)",
+      "example_ko": "새 노트북은 성능이 뛰어나지만 값이 비싸다.",
+      "example_en": "The new laptop has excellent performance but is expensive."
+    },
+    {
+      "word": "등장하다",
+      "pos": "동사",
+      "en": "to appear, to emerge",
+      "example_ko": "새로운 기술이 등장할 때마다 사회도 함께 변한다.",
+      "example_en": "Every time a new technology emerges, society changes along with it."
+    },
+    {
+      "word": "활용하다",
+      "pos": "동사",
+      "en": "to utilize, to make use of",
+      "example_ko": "수업 시간에 인터넷 자료를 활용하면 이해가 빠르다.",
+      "example_en": "Using internet resources in class helps students understand faster."
+    },
+    {
+      "word": "편의",
+      "pos": "명사",
+      "en": "convenience",
+      "example_ko": "이 서비스는 이용자의 편의를 위해 만들어졌다.",
+      "example_en": "This service was created for the convenience of its users."
+    }
+  ]
+}

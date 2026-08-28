@@ -1,0 +1,130 @@
+{
+  "passage_ko": "시립 미술관에서 특별전 '일상 속 예술'을 오는 10월 한 달 동안 개최합니다. 최근 공연이나 전시를 찾는 젊은 관람객은 꾸준히 늘고 있는 반면에 중장년층의 문화생활 참여율은 해마다 낮아지고 있습니다. 이에 저희 미술관은 50세 이상 관람객에게 입장료를 절반으로 할인해 드리고, 작품 해설 프로그램도 무료로 운영합니다. 예술은 특별한 사람만의 것이 아니라 누구나 누릴 수 있는 일상의 즐거움입니다. 망설이지 마시고 가까운 미술관에서 그 즐거움을 직접 느껴 보시기 바랍니다.",
+  "passage_en": "The Municipal Art Museum will hold the special exhibition 'Art in Everyday Life' throughout the coming month of October. While the number of young visitors attending performances and exhibitions has been steadily increasing, the cultural participation rate of middle-aged and older people is falling year by year. Accordingly, our museum offers visitors aged 50 and over a half-price discount on admission and also runs a free program of commentary on the works. Art is not something reserved for special people but an everyday joy that anyone can enjoy. Please do not hesitate — come and feel that joy for yourself at your nearest art museum.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "젊은 관람객이 늘어나는 것을 부담스러워하고 있다.",
+      "en": "The writer feels burdened by the increase in young visitors."
+    },
+    {
+      "ko": "미술관 운영의 재정적 어려움을 호소하고 있다.",
+      "en": "The writer is appealing about the museum's financial difficulties."
+    },
+    {
+      "ko": "중장년층의 문화생활 참여를 적극 권장하고 있다.",
+      "en": "The writer actively encourages middle-aged and older people to take part in cultural life."
+    },
+    {
+      "ko": "전시 프로그램이 줄어든 것을 아쉬워하고 있다.",
+      "en": "The writer laments the reduction of exhibition programs."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "글쓴이는 중장년층의 문화생활 참여율이 낮아지고 있다는 점을 지적한 뒤, 할인과 무료 해설 프로그램 같은 혜택을 안내하고 있다. 마지막에 '망설이지 마시고 직접 느껴 보시기 바랍니다'라고 권하므로 참여를 적극 권장하는 태도가 드러난다.",
+  "explanation_en": "By offering discounts and urging readers not to hesitate, the writer actively encourages older adults to participate in cultural life, so choice 3 is correct.",
+  "passage_vocab": [
+    {
+      "word": "개최하다",
+      "pos": "동사",
+      "en": "to hold, to host (an event)",
+      "context": "10월 한 달 동안 개최합니다"
+    },
+    {
+      "word": "관람객",
+      "pos": "명사",
+      "en": "visitor, audience member",
+      "context": "전시를 찾는 젊은 관람객"
+    },
+    {
+      "word": "중장년층",
+      "pos": "명사",
+      "en": "the middle-aged and older generation",
+      "context": "중장년층의 문화생활 참여율"
+    },
+    {
+      "word": "참여율",
+      "pos": "명사",
+      "en": "participation rate",
+      "context": "참여율은 해마다 낮아지고"
+    },
+    {
+      "word": "해설",
+      "pos": "명사",
+      "en": "commentary, explanation",
+      "context": "작품 해설 프로그램도 무료로"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "전통",
+      "pos": "명사",
+      "en": "tradition",
+      "example_ko": "이 마을은 오백 년 넘게 도자기를 굽는 전통을 이어 오고 있다.",
+      "example_en": "This village has carried on the tradition of firing pottery for over five hundred years."
+    },
+    {
+      "word": "유산",
+      "pos": "명사",
+      "en": "heritage, legacy",
+      "example_ko": "한글은 우리가 후손에게 물려줄 소중한 문화 유산이다.",
+      "example_en": "Hangul is a precious cultural heritage we will pass down to our descendants."
+    },
+    {
+      "word": "감상하다",
+      "pos": "동사",
+      "en": "to appreciate (art), to view",
+      "example_ko": "주말마다 미술관에 가서 그림을 감상하는 것이 나의 취미다.",
+      "example_en": "My hobby is going to art museums every weekend to appreciate paintings."
+    },
+    {
+      "word": "창작",
+      "pos": "명사",
+      "en": "creation, creative work",
+      "example_ko": "그 작가는 창작 활동에 전념하기 위해 시골로 내려갔다.",
+      "example_en": "The writer moved to the countryside to devote himself to creative work."
+    },
+    {
+      "word": "악기",
+      "pos": "명사",
+      "en": "musical instrument",
+      "example_ko": "어릴 때 악기를 하나쯤 배워 두면 평생의 취미가 된다.",
+      "example_en": "If you learn an instrument as a child, it becomes a lifelong hobby."
+    },
+    {
+      "word": "조각",
+      "pos": "명사",
+      "en": "sculpture",
+      "example_ko": "공원 곳곳에 유명 작가의 조각 작품이 전시되어 있다.",
+      "example_en": "Sculptures by famous artists are displayed throughout the park."
+    },
+    {
+      "word": "문학",
+      "pos": "명사",
+      "en": "literature",
+      "example_ko": "번역 덕분에 한국 문학이 세계 독자들과 만나고 있다.",
+      "example_en": "Thanks to translation, Korean literature is meeting readers around the world."
+    },
+    {
+      "word": "축제",
+      "pos": "명사",
+      "en": "festival",
+      "example_ko": "가을이면 도시 곳곳에서 크고 작은 축제가 열린다.",
+      "example_en": "In autumn, festivals large and small are held all over the city."
+    },
+    {
+      "word": "걸작",
+      "pos": "명사",
+      "en": "masterpiece",
+      "example_ko": "이 영화는 시간이 지날수록 걸작이라는 평가를 받고 있다.",
+      "example_en": "As time passes, this film is increasingly regarded as a masterpiece."
+    },
+    {
+      "word": "극장",
+      "pos": "명사",
+      "en": "theater",
+      "example_ko": "연말이라 그런지 극장마다 공연 표가 일찍 매진되었다.",
+      "example_en": "Perhaps because it is the end of the year, performance tickets sold out early at every theater."
+    }
+  ]
+}

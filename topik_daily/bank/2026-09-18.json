@@ -1,0 +1,130 @@
+{
+  "passage_ko": "고물가가 이어지면서 소비 내역을 기록하고 점검하는 가계부 앱 이용자가 크게 늘고 있다. 한 금융 회사의 조사에 따르면 올해 상반기 가계부 앱 이용자는 지난해 같은 기간보다 40퍼센트 이상 증가했으며, 특히 이십 대와 삼십 대가 전체 이용자의 절반을 넘었다. 이용자들은 지출을 한눈에 확인하게 되면서 충동구매가 눈에 띄게 줄었다고 입을 모았다. 한 재테크 전문가는 같은 소득이라도 결국 어떻게 관리하기 나름이라며 소비 습관을 꾸준히 점검하는 것이 절약의 첫걸음이라고 조언했다.",
+  "passage_en": "As high prices persist, the number of users of household account book apps, which record and review spending, is increasing sharply. According to a survey by a financial company, users of such apps in the first half of this year increased by more than 40 percent compared to the same period last year, and in particular, people in their twenties and thirties accounted for more than half of all users. Users agreed that impulse buying noticeably decreased once they could see their spending at a glance. A personal finance expert advised that even with the same income, everything ultimately depends on how you manage it, and that steadily reviewing one's spending habits is the first step toward saving.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "가계부 앱 이용자는 지난해 상반기보다 줄어들었다.",
+      "en": "The number of household account book app users decreased compared to the first half of last year."
+    },
+    {
+      "ko": "가계부 앱 이용자의 대부분은 오십 대 이상이다.",
+      "en": "Most household account book app users are in their fifties or older."
+    },
+    {
+      "ko": "이용자들은 앱을 쓴 뒤에 충동구매가 오히려 늘었다고 답했다.",
+      "en": "Users answered that impulse buying actually increased after using the apps."
+    },
+    {
+      "ko": "올해 상반기 이용자의 절반 이상은 이십 대와 삼십 대였다.",
+      "en": "More than half of the users in the first half of this year were in their twenties and thirties."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "조사 결과 이십 대와 삼십 대가 전체 이용자의 절반을 넘었다고 했으므로 4번이 글의 내용과 같다. 이용자는 지난해보다 40퍼센트 이상 늘었고, 이용자들은 충동구매가 줄었다고 말했다. 오십 대 이상이 대부분이라는 내용은 글에 없다.",
+  "explanation_en": "The survey found that people in their twenties and thirties made up more than half of all users, so choice 4 matches while the others contradict the reported increase and the drop in impulse buying.",
+  "passage_vocab": [
+    {
+      "word": "고물가",
+      "pos": "명사",
+      "en": "high prices, high cost of living",
+      "context": "고물가가 이어지면서"
+    },
+    {
+      "word": "지출",
+      "pos": "명사",
+      "en": "spending, expenditure",
+      "context": "지출을 한눈에 확인하게 되면서"
+    },
+    {
+      "word": "충동구매",
+      "pos": "명사",
+      "en": "impulse buying",
+      "context": "충동구매가 눈에 띄게 줄었다고"
+    },
+    {
+      "word": "입을 모으다",
+      "pos": "표현",
+      "en": "to say in unison, to agree unanimously",
+      "context": "줄었다고 입을 모았다"
+    },
+    {
+      "word": "첫걸음",
+      "pos": "명사",
+      "en": "first step",
+      "context": "절약의 첫걸음이라고 조언했다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "환불",
+      "pos": "명사",
+      "en": "refund",
+      "example_ko": "옷이 마음에 들지 않아서 일주일 안에 환불을 신청했다.",
+      "example_en": "I did not like the clothes, so I requested a refund within a week."
+    },
+    {
+      "word": "저축",
+      "pos": "명사",
+      "en": "saving (money)",
+      "example_ko": "그녀는 월급의 삼분의 일을 꾸준히 저축에 넣고 있다.",
+      "example_en": "She steadily puts a third of her salary into savings."
+    },
+    {
+      "word": "투자",
+      "pos": "명사",
+      "en": "investment",
+      "example_ko": "여윳돈이 생기자 그는 주식 투자에 관심을 갖기 시작했다.",
+      "example_en": "When he had spare money, he began to take an interest in stock investment."
+    },
+    {
+      "word": "예산",
+      "pos": "명사",
+      "en": "budget",
+      "example_ko": "이번 달에는 여행 때문에 예산을 초과해서 돈을 썼다.",
+      "example_en": "This month I spent over my budget because of a trip."
+    },
+    {
+      "word": "소비자",
+      "pos": "명사",
+      "en": "consumer",
+      "example_ko": "소비자는 물건을 사기 전에 후기를 꼼꼼히 비교한다.",
+      "example_en": "Consumers carefully compare reviews before buying a product."
+    },
+    {
+      "word": "이자",
+      "pos": "명사",
+      "en": "interest (on money)",
+      "example_ko": "금리가 올라서 예금 이자가 예전보다 많아졌다.",
+      "example_en": "Interest rates went up, so the interest on deposits is higher than before."
+    },
+    {
+      "word": "대출",
+      "pos": "명사",
+      "en": "loan",
+      "example_ko": "집을 사기 위해 은행에서 대출을 받았다.",
+      "example_en": "I took out a loan from the bank to buy a house."
+    },
+    {
+      "word": "품질",
+      "pos": "명사",
+      "en": "quality",
+      "example_ko": "이 브랜드는 가격은 비싸지만 품질이 뛰어나다.",
+      "example_en": "This brand is expensive, but its quality is outstanding."
+    },
+    {
+      "word": "지갑",
+      "pos": "명사",
+      "en": "wallet",
+      "example_ko": "물가가 오르자 사람들이 좀처럼 지갑을 열지 않는다.",
+      "example_en": "As prices rise, people are reluctant to open their wallets."
+    },
+    {
+      "word": "합리적",
+      "pos": "명사",
+      "en": "rational, reasonable (being rational)",
+      "example_ko": "그는 가격과 성능을 비교해 합리적인 소비를 하려고 노력한다.",
+      "example_en": "He tries to spend rationally by comparing price and performance."
+    }
+  ]
+}

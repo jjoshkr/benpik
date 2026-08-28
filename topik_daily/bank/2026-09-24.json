@@ -1,0 +1,124 @@
+{
+  "passage_ko": "직원 여러분께 안내 말씀 드립니다. 업무를 하다 보면 자신도 모르는 사이에 스트레스가 쌓이기 마련입니다. 이에 인사팀에서는 다음 달부터 전 직원을 대상으로 '마음 건강 상담 프로그램'을 운영합니다. 상담은 근무 시간 중에도 이용하실 수 있으며, 상담 내용은 (    ) 안심하고 신청하시기 바랍니다. 신청은 이번 주 금요일까지 사내 게시판을 통해 받습니다.",
+  "passage_en": "We would like to make an announcement to all employees. As you go about your work, stress inevitably builds up without your even realizing it. Accordingly, starting next month the HR team will run a 'Mental Wellness Counseling Program' for all employees. Counseling is available even during working hours, and since the content of the sessions (    ), please feel free to apply with confidence. Applications will be accepted through the company bulletin board until this Friday.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "인사 평가에 그대로 반영되니",
+      "en": "will be reflected directly in performance evaluations"
+    },
+    {
+      "ko": "부서 회의에서 함께 논의될 예정이니",
+      "en": "is scheduled to be discussed together in department meetings"
+    },
+    {
+      "ko": "회사 홈페이지에 게시될 예정이니",
+      "en": "is scheduled to be posted on the company website"
+    },
+    {
+      "ko": "외부에 일절 공개되지 않으니",
+      "en": "will not be disclosed to anyone under any circumstances"
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "빈칸 바로 뒤에 '안심하고 신청하시기 바랍니다'라는 표현이 이어진다. 직원들이 안심할 수 있는 조건은 상담 내용이 외부에 공개되지 않는다는 것이므로 4번이 알맞다. 평가 반영, 회의 논의, 홈페이지 게시는 오히려 신청을 꺼리게 만드는 내용이다.",
+  "explanation_en": "The phrase right after the blank urges employees to apply with confidence, so the blank must guarantee that counseling content is kept strictly confidential.",
+  "passage_vocab": [
+    {
+      "word": "-기 마련이다",
+      "pos": "표현",
+      "en": "to be bound to, to be only natural that",
+      "context": "스트레스가 쌓이기 마련입니다"
+    },
+    {
+      "word": "일절",
+      "pos": "부사",
+      "en": "never, not at all (with negatives)",
+      "context": "외부에 일절 공개되지 않으니"
+    },
+    {
+      "word": "운영하다",
+      "pos": "동사",
+      "en": "to operate, to run (a program, business)",
+      "context": "상담 프로그램을 운영합니다"
+    },
+    {
+      "word": "대상",
+      "pos": "명사",
+      "en": "target, subject (of a program)",
+      "context": "전 직원을 대상으로"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "승진",
+      "pos": "명사",
+      "en": "promotion (at work)",
+      "example_ko": "그는 입사 오 년 만에 과장으로 승진했다.",
+      "example_en": "He was promoted to section chief just five years after joining the company."
+    },
+    {
+      "word": "연봉",
+      "pos": "명사",
+      "en": "annual salary",
+      "example_ko": "이직을 하면서 연봉이 20% 정도 올랐다.",
+      "example_en": "My annual salary went up by about 20 percent when I changed jobs."
+    },
+    {
+      "word": "야근",
+      "pos": "명사",
+      "en": "working overtime at night",
+      "example_ko": "마감이 다가오자 야근이 일주일 내내 이어졌다.",
+      "example_en": "As the deadline approached, overtime work continued all week long."
+    },
+    {
+      "word": "출장",
+      "pos": "명사",
+      "en": "business trip",
+      "example_ko": "다음 주에 부산으로 이틀간 출장을 간다.",
+      "example_en": "Next week I am going on a two-day business trip to Busan."
+    },
+    {
+      "word": "경력",
+      "pos": "명사",
+      "en": "career, work experience",
+      "example_ko": "이 자리는 관련 분야 경력이 삼 년 이상인 사람만 지원할 수 있다.",
+      "example_en": "Only people with at least three years of experience in the field can apply for this position."
+    },
+    {
+      "word": "면접",
+      "pos": "명사",
+      "en": "job interview",
+      "example_ko": "면접에서 긴장한 나머지 준비한 말을 다 하지 못했다.",
+      "example_en": "I was so nervous in the interview that I could not say everything I had prepared."
+    },
+    {
+      "word": "채용",
+      "pos": "명사",
+      "en": "hiring, recruitment",
+      "example_ko": "그 회사는 올해 신입 사원 채용 규모를 두 배로 늘렸다.",
+      "example_en": "That company doubled the scale of its new employee recruitment this year."
+    },
+    {
+      "word": "성과",
+      "pos": "명사",
+      "en": "results, achievements",
+      "example_ko": "팀원들이 밤낮없이 노력한 끝에 눈에 띄는 성과를 거두었다.",
+      "example_en": "After the team members worked day and night, they achieved remarkable results."
+    },
+    {
+      "word": "마감",
+      "pos": "명사",
+      "en": "deadline, closing",
+      "example_ko": "보고서 마감이 내일이라서 오늘은 일찍 퇴근하기 어렵다.",
+      "example_en": "The report deadline is tomorrow, so it is hard to leave work early today."
+    },
+    {
+      "word": "협력하다",
+      "pos": "동사",
+      "en": "to cooperate",
+      "example_ko": "두 부서가 협력해서 신제품 출시를 앞당겼다.",
+      "example_en": "The two departments cooperated to move up the launch of the new product."
+    }
+  ]
+}

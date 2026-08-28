@@ -1,0 +1,130 @@
+{
+  "passage_ko": "며칠 전 늦은 밤, 편의점에서 혼자 저녁을 해결하시는 노인 한 분을 보았다. 바쁘다는 핑계로 무심하게 지내다 보니 우리 동네에 홀로 사는 어르신이 얼마나 많은지 그동안 전혀 알지 못했다. 알고 보니 옆집 할머니도 몇 년째 (    ) 계셨던 것이다. 그날 이후 나는 일주일에 한 번이라도 이웃의 안부를 묻기로 마음먹었다. 관심이라는 작은 온기가 누군가에게는 하루를 버티는 힘이 될지도 모르기 때문이다.",
+  "passage_en": "A few nights ago, I saw an elderly man having dinner alone at a convenience store. Having lived indifferently, using busyness as an excuse, I had never realized how many elderly people live alone in my neighborhood. It turned out that the grandmother next door, too, had for years been (    ). Since that day, I have resolved to ask after my neighbors at least once a week. Because the small warmth of caring might be what gives someone the strength to get through the day.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "찾아오는 이 없이 외롭게 지내고",
+      "en": "living lonely, with no one coming to visit"
+    },
+    {
+      "ko": "가족들과 함께 해외여행을 다니고",
+      "en": "traveling abroad with her family"
+    },
+    {
+      "ko": "이웃들에게 반찬을 나누어 주고",
+      "en": "sharing side dishes with the neighbors"
+    },
+    {
+      "ko": "취미 모임에 활발하게 참여하고",
+      "en": "actively taking part in hobby clubs"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "글쓴이는 홀로 사는 어르신이 많다는 사실을 몰랐던 자신을 돌아보며 이웃에게 관심을 갖기로 결심한다. '알고 보니'와 뒤에 이어지는 안부·온기 이야기로 보아 옆집 할머니가 외롭게 지내셨다는 1번이 알맞다. 나머지 선택지는 홀로 사는 노인의 외로움이라는 글의 흐름과 어긋난다.",
+  "explanation_en": "The essay is about elderly neighbors living alone and the writer's resolve to show them warmth, so the blank must say the grandmother next door had been living in lonely isolation.",
+  "passage_vocab": [
+    {
+      "word": "핑계",
+      "pos": "명사",
+      "en": "excuse, pretext",
+      "context": "바쁘다는 핑계로"
+    },
+    {
+      "word": "무심하다",
+      "pos": "형용사",
+      "en": "indifferent, unconcerned",
+      "context": "무심하게 지내다 보니"
+    },
+    {
+      "word": "안부",
+      "pos": "명사",
+      "en": "news of someone's well-being; regards",
+      "context": "이웃의 안부를 묻기로"
+    },
+    {
+      "word": "온기",
+      "pos": "명사",
+      "en": "warmth",
+      "context": "관심이라는 작은 온기가"
+    },
+    {
+      "word": "버티다",
+      "pos": "동사",
+      "en": "to endure, to hold out",
+      "context": "하루를 버티는 힘"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "고령화",
+      "pos": "명사",
+      "en": "aging (of a population)",
+      "example_ko": "고령화가 빠르게 진행되면서 복지 비용도 급격히 늘고 있다.",
+      "example_en": "As the population ages rapidly, welfare costs are also increasing sharply."
+    },
+    {
+      "word": "복지",
+      "pos": "명사",
+      "en": "welfare",
+      "example_ko": "정부는 노인 복지 예산을 작년보다 늘리기로 했다.",
+      "example_en": "The government decided to increase the budget for elderly welfare compared to last year."
+    },
+    {
+      "word": "소외",
+      "pos": "명사",
+      "en": "alienation, marginalization",
+      "example_ko": "디지털 기기에 익숙하지 않은 세대는 소외를 겪기 쉽다.",
+      "example_en": "Generations unfamiliar with digital devices are prone to experiencing alienation."
+    },
+    {
+      "word": "빈곤",
+      "pos": "명사",
+      "en": "poverty",
+      "example_ko": "노인 빈곤 문제는 더 이상 미룰 수 없는 과제가 되었다.",
+      "example_en": "Elderly poverty has become an issue that can no longer be put off."
+    },
+    {
+      "word": "대책",
+      "pos": "명사",
+      "en": "countermeasure, solution",
+      "example_ko": "청년 실업에 대한 근본적인 대책이 필요하다.",
+      "example_en": "A fundamental countermeasure against youth unemployment is needed."
+    },
+    {
+      "word": "갈등",
+      "pos": "명사",
+      "en": "conflict, discord",
+      "example_ko": "세대 간 갈등을 줄이려면 서로의 입장을 이해하려는 노력이 필요하다.",
+      "example_en": "To reduce generational conflict, we need to make an effort to understand each other's positions."
+    },
+    {
+      "word": "차별",
+      "pos": "명사",
+      "en": "discrimination",
+      "example_ko": "나이나 성별에 따른 차별은 법으로 금지되어 있다.",
+      "example_en": "Discrimination based on age or gender is prohibited by law."
+    },
+    {
+      "word": "지원하다",
+      "pos": "동사",
+      "en": "to support, to provide assistance",
+      "example_ko": "시에서는 홀로 사는 노인들에게 도시락을 지원하고 있다.",
+      "example_en": "The city provides lunch boxes to elderly people living alone."
+    },
+    {
+      "word": "심각하다",
+      "pos": "형용사",
+      "en": "serious, grave",
+      "example_ko": "대도시의 주택 부족 문제가 갈수록 심각해지고 있다.",
+      "example_en": "The housing shortage in big cities is becoming more and more serious."
+    },
+    {
+      "word": "해소하다",
+      "pos": "동사",
+      "en": "to resolve, to relieve",
+      "example_ko": "규칙적인 운동은 스트레스를 해소하는 데 큰 도움이 된다.",
+      "example_en": "Regular exercise is a great help in relieving stress."
+    }
+  ]
+}

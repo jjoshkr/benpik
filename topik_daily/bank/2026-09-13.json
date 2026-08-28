@@ -1,0 +1,124 @@
+{
+  "passage_ko": "최근 우리 사회에서 1인 가구가 빠르게 늘면서 사회적 고립이 새로운 사회 문제로 떠오르고 있다. 통신 기술이 발달하여 언제 어디서나 타인과 연락할 수 있음에도 불구하고 깊은 관계를 맺지 못하는 사람은 오히려 늘어나는 추세이다. 전문가들은 고립 상태가 장기화되면 우울증과 같은 정신 건강 문제로 이어질 수 있다고 경고한다. 따라서 고립된 이웃이 다시 사람들과 교류할 수 있도록 지역 공동체 차원의 지원이 마련되어야 한다.",
+  "passage_en": "Recently, as single-person households have rapidly increased in our society, social isolation has emerged as a new social problem. Even though communication technology has advanced so that people can contact others anytime and anywhere, the number of people who fail to form deep relationships is actually on the rise. Experts warn that if isolation is prolonged, it can lead to mental health problems such as depression. Therefore, support at the local community level must be put in place so that isolated neighbors can interact with people again.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "통신 기술이 발달하면 인간관계가 저절로 깊어진다.",
+      "en": "When communication technology advances, human relationships naturally deepen."
+    },
+    {
+      "ko": "우울증을 치료하려면 무엇보다 개인의 의지가 중요하다.",
+      "en": "To treat depression, an individual's willpower matters above all."
+    },
+    {
+      "ko": "사회적 고립 문제를 풀기 위해서는 공동체 차원의 지원이 필요하다.",
+      "en": "Community-level support is needed to solve the problem of social isolation."
+    },
+    {
+      "ko": "1인 가구의 증가를 막으려면 주택 정책을 바꿔야 한다.",
+      "en": "Housing policy must be changed to stop the increase of single-person households."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "이 글은 1인 가구 증가와 함께 사회적 고립이 심각한 사회 문제가 되고 있음을 설명한다. 마지막 문장에서 지역 공동체 차원의 지원이 마련되어야 한다고 주장하므로 3번이 주제로 알맞다. 통신 기술이나 주택 정책은 글의 중심 내용이 아니다.",
+  "explanation_en": "The passage explains the seriousness of social isolation and concludes that community-level support is needed, so choice 3 states the main idea.",
+  "passage_vocab": [
+    {
+      "word": "고립",
+      "pos": "명사",
+      "en": "isolation",
+      "context": "사회적 고립이 새로운 사회 문제로 떠오르고 있다"
+    },
+    {
+      "word": "추세",
+      "pos": "명사",
+      "en": "trend, tendency",
+      "context": "오히려 늘어나는 추세이다"
+    },
+    {
+      "word": "장기화되다",
+      "pos": "동사",
+      "en": "to be prolonged, to drag on",
+      "context": "고립 상태가 장기화되면"
+    },
+    {
+      "word": "교류하다",
+      "pos": "동사",
+      "en": "to interact, to exchange",
+      "context": "다시 사람들과 교류할 수 있도록"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "갈등",
+      "pos": "명사",
+      "en": "conflict",
+      "example_ko": "세대 간의 갈등을 줄이려면 서로의 입장을 이해하려는 노력이 필요하다.",
+      "example_en": "To reduce conflict between generations, we need to make an effort to understand each other's positions."
+    },
+    {
+      "word": "격차",
+      "pos": "명사",
+      "en": "gap, disparity",
+      "example_ko": "도시와 농촌의 교육 격차가 갈수록 벌어지고 있다.",
+      "example_en": "The education gap between cities and rural areas is widening more and more."
+    },
+    {
+      "word": "소외",
+      "pos": "명사",
+      "en": "alienation, marginalization",
+      "example_ko": "디지털 기기에 익숙하지 않은 노인들이 소외를 겪고 있다.",
+      "example_en": "Elderly people who are unfamiliar with digital devices are experiencing marginalization."
+    },
+    {
+      "word": "대책",
+      "pos": "명사",
+      "en": "countermeasure, solution",
+      "example_ko": "정부는 청년 실업 문제에 대한 대책을 서둘러 내놓았다.",
+      "example_en": "The government hurriedly announced countermeasures for the youth unemployment problem."
+    },
+    {
+      "word": "여론",
+      "pos": "명사",
+      "en": "public opinion",
+      "example_ko": "새 법안에 반대하는 여론이 점점 거세지고 있다.",
+      "example_en": "Public opinion opposing the new bill is growing stronger."
+    },
+    {
+      "word": "복지",
+      "pos": "명사",
+      "en": "welfare",
+      "example_ko": "이 나라는 노인 복지에 많은 예산을 쓰고 있다.",
+      "example_en": "This country spends a large budget on welfare for the elderly."
+    },
+    {
+      "word": "차별",
+      "pos": "명사",
+      "en": "discrimination",
+      "example_ko": "회사는 나이나 성별에 따른 차별을 없애기로 했다.",
+      "example_en": "The company decided to eliminate discrimination based on age or gender."
+    },
+    {
+      "word": "빈곤",
+      "pos": "명사",
+      "en": "poverty",
+      "example_ko": "한부모 가정의 빈곤 문제가 심각한 수준에 이르렀다.",
+      "example_en": "The poverty problem of single-parent families has reached a serious level."
+    },
+    {
+      "word": "제도",
+      "pos": "명사",
+      "en": "system, institution",
+      "example_ko": "육아 휴직 제도를 실제로 이용하는 아버지는 아직 많지 않다.",
+      "example_en": "There are still not many fathers who actually use the parental leave system."
+    },
+    {
+      "word": "시급하다",
+      "pos": "형용사",
+      "en": "to be urgent",
+      "example_ko": "저출산 문제를 해결하는 것이 무엇보다 시급하다.",
+      "example_en": "Solving the low birth rate problem is more urgent than anything else."
+    }
+  ]
+}

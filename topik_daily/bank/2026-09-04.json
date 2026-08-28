@@ -1,0 +1,130 @@
+{
+  "passage_ko": "인사팀에서 신입 사원을 위한 직무 교육을 다음과 같이 안내합니다. 교육은 10월 첫째 주 월요일부터 금요일까지 매일 오후 2시부터 4시까지 본관 3층 교육실에서 진행됩니다. 문서 작성, 보고 요령, 협업 도구 사용법 등 실무 중심으로 구성되어 있어, 성실히 참여하신다면 업무에 도움이 되지 않을 리가 없습니다. 부득이한 사정으로 참석이 어려운 경우에는 교육 시작 이틀 전까지 인사팀에 알려 주시기 바랍니다.",
+  "passage_en": "The HR team would like to announce the following job training for new employees. The training will take place in the training room on the third floor of the main building, every day from 2 p.m. to 4 p.m., Monday through Friday of the first week of October. It is organized around practical skills such as document writing, reporting know-how, and how to use collaboration tools, so if you participate diligently, there is no way it will fail to help your work. If unavoidable circumstances prevent you from attending, please inform the HR team no later than two days before the training begins.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "교육은 매일 오전에 두 시간씩 진행된다.",
+      "en": "The training runs for two hours every morning."
+    },
+    {
+      "ko": "교육은 이론 중심으로 구성되어 있다.",
+      "en": "The training is organized around theory."
+    },
+    {
+      "ko": "참석하지 못할 경우 이틀 전까지 인사팀에 알려야 한다.",
+      "en": "If you cannot attend, you must notify the HR team at least two days in advance."
+    },
+    {
+      "ko": "이 교육은 회사의 모든 직원을 대상으로 한다.",
+      "en": "This training is intended for all employees of the company."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "안내문 마지막에 참석이 어려운 경우 교육 시작 이틀 전까지 인사팀에 알려 달라고 했으므로 3번이 글의 내용과 같다. 1번은 교육이 오후 2시부터 4시까지 진행된다는 내용과 다르고, 2번은 실무 중심이라는 내용과, 4번은 신입 사원 대상이라는 내용과 어긋난다.",
+  "explanation_en": "The notice says employees who cannot attend must inform the HR team two days before the training starts, which matches choice 3.",
+  "passage_vocab": [
+    {
+      "word": "직무",
+      "pos": "명사",
+      "en": "job duties",
+      "context": "신입 사원을 위한 직무 교육을"
+    },
+    {
+      "word": "요령",
+      "pos": "명사",
+      "en": "know-how, knack",
+      "context": "문서 작성, 보고 요령"
+    },
+    {
+      "word": "협업",
+      "pos": "명사",
+      "en": "collaboration",
+      "context": "협업 도구 사용법 등"
+    },
+    {
+      "word": "실무",
+      "pos": "명사",
+      "en": "practical work, hands-on tasks",
+      "context": "실무 중심으로 구성되어 있어"
+    },
+    {
+      "word": "부득이하다",
+      "pos": "형용사",
+      "en": "unavoidable",
+      "context": "부득이한 사정으로 참석이 어려운 경우"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "채용",
+      "pos": "명사",
+      "en": "hiring, recruitment",
+      "example_ko": "그 회사는 올해 신입 사원 채용을 늘렸다.",
+      "example_en": "The company increased its hiring of new employees this year."
+    },
+    {
+      "word": "승진",
+      "pos": "명사",
+      "en": "promotion",
+      "example_ko": "그는 이번 인사에서 부장으로 승진이 결정되었다.",
+      "example_en": "In this round of personnel changes, his promotion to department head was confirmed."
+    },
+    {
+      "word": "야근",
+      "pos": "명사",
+      "en": "overtime work (at night)",
+      "example_ko": "요즘 프로젝트 마감 때문에 야근이 잦다.",
+      "example_en": "These days I often work late because of the project deadline."
+    },
+    {
+      "word": "출장",
+      "pos": "명사",
+      "en": "business trip",
+      "example_ko": "다음 주에 부산으로 출장을 간다.",
+      "example_en": "I am going on a business trip to Busan next week."
+    },
+    {
+      "word": "경력",
+      "pos": "명사",
+      "en": "work experience, career history",
+      "example_ko": "이 자리는 관련 경력이 삼 년 이상이어야 지원할 수 있다.",
+      "example_en": "You need at least three years of relevant experience to apply for this position."
+    },
+    {
+      "word": "퇴사",
+      "pos": "명사",
+      "en": "resignation, leaving a company",
+      "example_ko": "그는 건강 문제로 퇴사를 결심했다.",
+      "example_en": "He decided to leave the company for health reasons."
+    },
+    {
+      "word": "근무하다",
+      "pos": "동사",
+      "en": "to work (at a workplace)",
+      "example_ko": "언니는 은행에서 십 년째 근무하고 있다.",
+      "example_en": "My older sister has been working at a bank for ten years."
+    },
+    {
+      "word": "성과",
+      "pos": "명사",
+      "en": "performance, results",
+      "example_ko": "팀의 성과에 따라 보너스가 달라진다.",
+      "example_en": "Bonuses vary depending on the team's performance."
+    },
+    {
+      "word": "면접",
+      "pos": "명사",
+      "en": "job interview",
+      "example_ko": "면접에서는 첫인상이 중요하다.",
+      "example_en": "First impressions matter in a job interview."
+    },
+    {
+      "word": "동료",
+      "pos": "명사",
+      "en": "colleague",
+      "example_ko": "좋은 동료가 있으면 회사 생활이 즐겁다.",
+      "example_en": "Work life is enjoyable when you have good colleagues."
+    }
+  ]
+}

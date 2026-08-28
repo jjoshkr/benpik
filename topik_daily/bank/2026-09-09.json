@@ -1,0 +1,130 @@
+{
+  "passage_ko": "인공지능 기술은 의료와 교육을 비롯한 여러 분야에서 인간의 삶을 편리하게 만들고 있다. 그러나 기술의 판단을 검증 없이 그대로 받아들이다가는 잘못된 결정에 책임질 사람조차 사라질 수 있다. 실제로 인공지능이 내린 결론이 편향된 자료에서 비롯된 사례가 적지 않게 보고되고 있다. 따라서 기술이 주는 편리함을 누리되, 최종 판단은 인간이 내린다는 원칙만은 지켜야 한다.",
+  "passage_en": "Artificial intelligence technology is making human life more convenient in many fields, including medicine and education. However, if we keep accepting the technology's judgments without verification, there may end up being no one left to take responsibility for wrong decisions. In fact, quite a few cases have been reported in which conclusions drawn by AI stemmed from biased data. Therefore, while enjoying the convenience technology offers, we must at least uphold the principle that the final judgment is made by humans.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "인공지능 기술의 발전 속도를 낙관하고 있다.",
+      "en": "The writer is optimistic about the pace of AI development."
+    },
+    {
+      "ko": "기술을 무비판적으로 수용하는 것을 경계하고 있다.",
+      "en": "The writer is wary of accepting technology uncritically."
+    },
+    {
+      "ko": "인공지능의 의료 분야 활용을 적극 권장하고 있다.",
+      "en": "The writer actively recommends the use of AI in the medical field."
+    },
+    {
+      "ko": "기술 개발 자체를 중단해야 한다고 주장하고 있다.",
+      "en": "The writer argues that technological development itself should be halted."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "필자는 인공지능의 편리함을 인정하면서도 '검증 없이 받아들이다가는'이라는 표현으로 무비판적 수용의 위험을 지적한다. 마지막 문장에서 최종 판단은 인간이 내려야 한다는 원칙을 강조하므로, 기술의 무비판적 수용을 경계하는 태도가 드러난다.",
+  "explanation_en": "The writer acknowledges AI's benefits but warns against accepting its judgments without human verification, so choice 2 is correct.",
+  "passage_vocab": [
+    {
+      "word": "검증",
+      "pos": "명사",
+      "en": "verification, validation",
+      "context": "검증 없이 그대로 받아들이다가는"
+    },
+    {
+      "word": "편향되다",
+      "pos": "동사",
+      "en": "to be biased",
+      "context": "편향된 자료에서 비롯된"
+    },
+    {
+      "word": "비롯되다",
+      "pos": "동사",
+      "en": "to originate from, to stem from",
+      "context": "자료에서 비롯된 사례"
+    },
+    {
+      "word": "누리다",
+      "pos": "동사",
+      "en": "to enjoy (benefits)",
+      "context": "편리함을 누리되"
+    },
+    {
+      "word": "사례",
+      "pos": "명사",
+      "en": "case, instance",
+      "context": "비롯된 사례가 적지 않게"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "첨단",
+      "pos": "명사",
+      "en": "cutting edge, state of the art",
+      "example_ko": "이 병원은 첨단 장비를 갖추고 있어 정밀한 진단이 가능하다.",
+      "example_en": "This hospital is equipped with cutting-edge devices, enabling precise diagnoses."
+    },
+    {
+      "word": "개발하다",
+      "pos": "동사",
+      "en": "to develop",
+      "example_ko": "그 회사는 물을 적게 쓰는 세탁기를 새로 개발했다.",
+      "example_en": "The company newly developed a washing machine that uses less water."
+    },
+    {
+      "word": "실험",
+      "pos": "명사",
+      "en": "experiment",
+      "example_ko": "연구팀은 같은 실험을 백 번 넘게 반복해 결과를 확인했다.",
+      "example_en": "The research team repeated the same experiment more than a hundred times to confirm the results."
+    },
+    {
+      "word": "발명",
+      "pos": "명사",
+      "en": "invention",
+      "example_ko": "전화의 발명은 인류의 소통 방식을 완전히 바꾸어 놓았다.",
+      "example_en": "The invention of the telephone completely changed how humanity communicates."
+    },
+    {
+      "word": "성능",
+      "pos": "명사",
+      "en": "performance, capability",
+      "example_ko": "새 노트북은 이전 모델보다 성능이 두 배 가까이 좋아졌다.",
+      "example_en": "The new laptop's performance is nearly twice as good as the previous model's."
+    },
+    {
+      "word": "보급되다",
+      "pos": "동사",
+      "en": "to become widespread",
+      "example_ko": "스마트폰이 보급되면서 은행에 직접 갈 일이 크게 줄었다.",
+      "example_en": "As smartphones became widespread, trips to the bank decreased greatly."
+    },
+    {
+      "word": "오작동",
+      "pos": "명사",
+      "en": "malfunction",
+      "example_ko": "센서의 오작동으로 공장의 기계가 한때 멈추었다.",
+      "example_en": "A sensor malfunction temporarily stopped the machines in the factory."
+    },
+    {
+      "word": "혁신",
+      "pos": "명사",
+      "en": "innovation",
+      "example_ko": "작은 기술 혁신이 산업 전체의 모습을 바꾸기도 한다.",
+      "example_en": "A small technological innovation can sometimes change the face of an entire industry."
+    },
+    {
+      "word": "분석하다",
+      "pos": "동사",
+      "en": "to analyze",
+      "example_ko": "프로그램이 방대한 자료를 몇 초 만에 분석해 준다.",
+      "example_en": "The program analyzes vast amounts of data in just a few seconds."
+    },
+    {
+      "word": "장비",
+      "pos": "명사",
+      "en": "equipment",
+      "example_ko": "안전 장비를 착용하지 않으면 실험실에 들어갈 수 없다.",
+      "example_en": "You cannot enter the laboratory without wearing safety equipment."
+    }
+  ]
+}

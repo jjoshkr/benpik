@@ -1,0 +1,130 @@
+{
+  "passage_ko": "쉰이 넘어 시작한 한문 공부가 벌써 삼 년째다. 처음에는 젊은 사람들 틈에서 뒤처질까 봐 한참을 망설였지만, 지금은 일주일 가운데 수업이 있는 날이 가장 기다려진다. 신기하게도 배우면 배울수록 모르는 것이 더 많아 보이는데, 그 사실이 오히려 나를 설레게 한다. 배움에는 정해진 때가 없다는 말을 이제야 몸으로 이해하게 되었다. 늦게 시작한 공부가 내 삶에 이렇게 큰 활력을 줄 줄은 미처 몰랐다.",
+  "passage_en": "It has already been three years since I began studying classical Chinese after turning fifty. At first I hesitated for a long time, afraid I would fall behind among the young people, but now the day of the week with class is the one I look forward to most. Strangely, the more I learn, the more there seems to be that I do not know, and that fact actually thrills me. Only now do I understand, in my bones, the saying that there is no set time for learning. I never imagined that studies begun late would bring such vitality to my life.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "늦은 나이에 시작한 배움을 긍정적으로 받아들이고 있다.",
+      "en": "The writer embraces learning begun late in life positively."
+    },
+    {
+      "ko": "젊은 세대의 학습 태도를 비판하고 있다.",
+      "en": "The writer criticizes the younger generation's attitude toward learning."
+    },
+    {
+      "ko": "공부를 늦게 시작한 것을 후회하고 있다.",
+      "en": "The writer regrets having started studying late."
+    },
+    {
+      "ko": "공부의 어려움에 좌절감을 느끼고 있다.",
+      "en": "The writer feels frustrated by the difficulty of studying."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "글쓴이는 수업이 있는 날을 가장 기다리고, 배울수록 모르는 것이 많아 보이는 사실조차 설렘으로 받아들인다. 늦게 시작한 공부가 삶에 큰 활력을 주었다고 말하므로, 늦은 나이의 배움을 긍정적으로 여기는 태도가 드러난다.",
+  "explanation_en": "The writer looks forward to class and says late-life study energizes her life, showing a positive attitude toward learning at any age.",
+  "passage_vocab": [
+    {
+      "word": "뒤처지다",
+      "pos": "동사",
+      "en": "to fall behind",
+      "context": "틈에서 뒤처질까 봐"
+    },
+    {
+      "word": "망설이다",
+      "pos": "동사",
+      "en": "to hesitate",
+      "context": "한참을 망설였지만"
+    },
+    {
+      "word": "설레다",
+      "pos": "동사",
+      "en": "to flutter with excitement",
+      "context": "오히려 나를 설레게 한다"
+    },
+    {
+      "word": "활력",
+      "pos": "명사",
+      "en": "vitality, energy",
+      "context": "이렇게 큰 활력을 줄 줄은"
+    },
+    {
+      "word": "미처",
+      "pos": "부사",
+      "en": "(not) yet, (never) even",
+      "context": "줄 줄은 미처 몰랐다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "강의",
+      "pos": "명사",
+      "en": "lecture",
+      "example_ko": "그 교수님의 강의는 어려운 내용도 쉽게 풀어 주기로 유명하다.",
+      "example_en": "That professor's lectures are famous for explaining difficult content simply."
+    },
+    {
+      "word": "복습하다",
+      "pos": "동사",
+      "en": "to review (what one learned)",
+      "example_ko": "배운 내용은 그날 저녁에 복습해야 오래 기억에 남는다.",
+      "example_en": "You remember what you learned longer if you review it that evening."
+    },
+    {
+      "word": "집중하다",
+      "pos": "동사",
+      "en": "to concentrate",
+      "example_ko": "휴대폰을 꺼 두었더니 공부에 훨씬 잘 집중할 수 있었다.",
+      "example_en": "After turning off my phone, I could concentrate on studying much better."
+    },
+    {
+      "word": "성취",
+      "pos": "명사",
+      "en": "achievement, accomplishment",
+      "example_ko": "작은 목표를 이룰 때마다 느끼는 성취가 공부를 계속하게 한다.",
+      "example_en": "The sense of achievement from reaching small goals keeps me studying."
+    },
+    {
+      "word": "진로",
+      "pos": "명사",
+      "en": "career path",
+      "example_ko": "고등학생 때는 진로를 두고 고민하는 시간이 많았다.",
+      "example_en": "In high school I spent a lot of time worrying about my career path."
+    },
+    {
+      "word": "암기하다",
+      "pos": "동사",
+      "en": "to memorize",
+      "example_ko": "단어를 무작정 암기하기보다 문장 속에서 익히는 편이 낫다.",
+      "example_en": "Rather than memorizing words blindly, it is better to learn them in sentences."
+    },
+    {
+      "word": "학문",
+      "pos": "명사",
+      "en": "scholarship, academic study",
+      "example_ko": "그는 평생을 학문에 바친 존경받는 학자이다.",
+      "example_en": "He is a respected scholar who devoted his whole life to academic study."
+    },
+    {
+      "word": "지식",
+      "pos": "명사",
+      "en": "knowledge",
+      "example_ko": "책에서 얻은 지식은 경험과 만날 때 비로소 힘이 된다.",
+      "example_en": "Knowledge gained from books becomes power only when it meets experience."
+    },
+    {
+      "word": "습득하다",
+      "pos": "동사",
+      "en": "to acquire (a skill or knowledge)",
+      "example_ko": "어린아이일수록 새로운 언어를 빨리 습득한다.",
+      "example_en": "The younger a child is, the faster they acquire a new language."
+    },
+    {
+      "word": "열정",
+      "pos": "명사",
+      "en": "passion",
+      "example_ko": "나이와 상관없이 열정만 있다면 무엇이든 배울 수 있다.",
+      "example_en": "Regardless of age, you can learn anything as long as you have passion."
+    }
+  ]
+}

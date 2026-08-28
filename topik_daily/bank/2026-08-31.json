@@ -1,0 +1,130 @@
+{
+  "passage_ko": "행복시 보건소에서는 9월 한 달 동안 시민을 대상으로 무료 건강 검진을 실시합니다. 이번 검진에서는 혈압과 혈당을 측정할 뿐만 아니라 전문의의 영양 상담도 받으실 수 있습니다. 검진을 원하시는 분은 보건소 누리집에서 미리 신청하시기 바라며, 당일에는 신분증을 반드시 지참하셔야 합니다. 검진은 평일 오전 9시부터 오후 5시까지 진행되며, 자세한 내용은 보건소 건강관리과로 문의해 주시기 바랍니다.",
+  "passage_en": "During the month of September, the Haengbok City Public Health Center will offer free health checkups for citizens. At this checkup, you can not only have your blood pressure and blood sugar measured but also receive nutrition counseling from a specialist. Those who wish to be examined should apply in advance on the health center's website, and on the day of the checkup you must bring your ID card. Checkups run on weekdays from 9 a.m. to 5 p.m., and for further details please contact the health center's Health Management Division.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "보건소가 평일 운영 시간을 연장하기로 했다.",
+      "en": "The public health center has decided to extend its weekday hours."
+    },
+    {
+      "ko": "보건소가 무료 건강 검진을 실시하니 미리 신청해야 한다.",
+      "en": "The public health center is offering free health checkups, and you should apply in advance."
+    },
+    {
+      "ko": "건강을 지키려면 혈압과 혈당을 자주 측정해야 한다.",
+      "en": "To stay healthy, you should measure your blood pressure and blood sugar often."
+    },
+    {
+      "ko": "영양 상담은 반드시 전문의에게 받아야 한다.",
+      "en": "Nutrition counseling must always be received from a specialist."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "이 안내문의 핵심은 보건소에서 무료 건강 검진을 실시한다는 사실과 누리집에서 미리 신청해야 한다는 안내이므로 2번이 알맞다. 1번은 운영 시간 연장이 아니라 검진 진행 시간을 알린 것이고, 3번과 4번은 검진 내용의 일부일 뿐 글 전체의 주제가 아니다.",
+  "explanation_en": "The notice's main point is that the health center is holding free checkups in September and that citizens must sign up in advance online.",
+  "passage_vocab": [
+    {
+      "word": "검진",
+      "pos": "명사",
+      "en": "medical checkup",
+      "context": "무료 건강 검진을 실시합니다"
+    },
+    {
+      "word": "측정하다",
+      "pos": "동사",
+      "en": "to measure",
+      "context": "혈압과 혈당을 측정할 뿐만 아니라"
+    },
+    {
+      "word": "지참하다",
+      "pos": "동사",
+      "en": "to bring (something with oneself)",
+      "context": "신분증을 반드시 지참하셔야 합니다"
+    },
+    {
+      "word": "실시하다",
+      "pos": "동사",
+      "en": "to carry out, to conduct",
+      "context": "무료 건강 검진을 실시합니다"
+    },
+    {
+      "word": "문의하다",
+      "pos": "동사",
+      "en": "to inquire",
+      "context": "건강관리과로 문의해 주시기 바랍니다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "증상",
+      "pos": "명사",
+      "en": "symptom",
+      "example_ko": "감기 증상이 심하면 병원에 가 보세요.",
+      "example_en": "If your cold symptoms are severe, you should see a doctor."
+    },
+    {
+      "word": "예방",
+      "pos": "명사",
+      "en": "prevention",
+      "example_ko": "손을 자주 씻는 것이 감염 예방에 효과적이다.",
+      "example_en": "Washing your hands often is effective for preventing infection."
+    },
+    {
+      "word": "처방",
+      "pos": "명사",
+      "en": "prescription",
+      "example_ko": "의사의 처방 없이는 이 약을 살 수 없다.",
+      "example_en": "You cannot buy this medicine without a doctor's prescription."
+    },
+    {
+      "word": "회복하다",
+      "pos": "동사",
+      "en": "to recover",
+      "example_ko": "수술 후에는 충분히 쉬어야 빨리 회복할 수 있다.",
+      "example_en": "After surgery, you need plenty of rest to recover quickly."
+    },
+    {
+      "word": "면역력",
+      "pos": "명사",
+      "en": "immunity",
+      "example_ko": "규칙적인 운동은 면역력을 높여 준다.",
+      "example_en": "Regular exercise boosts your immunity."
+    },
+    {
+      "word": "진료",
+      "pos": "명사",
+      "en": "medical treatment, consultation",
+      "example_ko": "이 병원은 토요일에도 진료를 한다.",
+      "example_en": "This hospital sees patients on Saturdays as well."
+    },
+    {
+      "word": "수면",
+      "pos": "명사",
+      "en": "sleep",
+      "example_ko": "수면이 부족하면 집중력이 떨어진다.",
+      "example_en": "When you lack sleep, your concentration drops."
+    },
+    {
+      "word": "균형",
+      "pos": "명사",
+      "en": "balance",
+      "example_ko": "균형 잡힌 식사가 건강의 기본이다.",
+      "example_en": "A balanced diet is the foundation of good health."
+    },
+    {
+      "word": "해롭다",
+      "pos": "형용사",
+      "en": "harmful",
+      "example_ko": "지나친 음주는 건강에 해롭다.",
+      "example_en": "Excessive drinking is harmful to your health."
+    },
+    {
+      "word": "앓다",
+      "pos": "동사",
+      "en": "to suffer from (an illness)",
+      "example_ko": "그는 오랫동안 허리 통증을 앓았다.",
+      "example_en": "He suffered from back pain for a long time."
+    }
+  ]
+}

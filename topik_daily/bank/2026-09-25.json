@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 짧은 기간에 여러 관광지를 도는 이른바 '속성 여행'이 유행하고 있다. 그러나 하루에 서너 도시를 이동하는 일정은 여행의 의미를 제대로 느끼기에는 지나치게 촉박하다. 사진만 찍고 서둘러 떠나는 여행에서는 그 지역의 문화나 사람들의 삶이 눈에 들어올 리 없다. 진정한 휴식과 배움은 한곳에 오래 머물며 천천히 걸을 때 비로소 얻어진다. 이제는 여행의 양이 아니라 질을 따져 봐야 할 때다.",
+  "passage_en": "Recently, so-called 'express tours' that cover several tourist spots in a short period have become popular. However, an itinerary that moves through three or four cities in a single day is far too rushed for one to properly feel the meaning of travel. On a trip where you only take photos and hurry off, there is no way the region's culture or the lives of its people can come into view. True rest and learning are gained only when you stay long in one place and walk slowly. It is now time to weigh the quality of travel, not its quantity.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "속성 여행의 경제적 효과를 긍정적으로 평가하고 있다.",
+      "en": "The writer evaluates the economic effects of express tours positively."
+    },
+    {
+      "ko": "짧은 일정으로 여러 곳을 도는 여행 방식에 대해 비판적이다.",
+      "en": "The writer is critical of the style of travel that covers many places on a short itinerary."
+    },
+    {
+      "ko": "여행 산업의 앞날을 낙관적으로 전망하고 있다.",
+      "en": "The writer is optimistic about the future of the travel industry."
+    },
+    {
+      "ko": "관광지의 환경 오염 문제를 우려하고 있다.",
+      "en": "The writer is concerned about environmental pollution at tourist sites."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "필자는 속성 여행의 일정이 '지나치게 촉박하다'고 지적하고, 사진만 찍는 여행으로는 지역의 문화가 보이지 않는다고 말한다. 마지막 문장에서 여행의 양이 아니라 질을 따져야 한다고 주장하므로 짧은 일정의 여행 방식에 비판적인 태도가 드러난다. 경제 효과나 환경 오염은 글에서 다루지 않았다.",
+  "explanation_en": "By calling express-tour schedules overly rushed and urging readers to value the quality of travel over quantity, the writer shows a critical attitude toward whirlwind travel.",
+  "passage_vocab": [
+    {
+      "word": "촉박하다",
+      "pos": "형용사",
+      "en": "pressed for time, tight (schedule)",
+      "context": "느끼기에는 지나치게 촉박하다"
+    },
+    {
+      "word": "비로소",
+      "pos": "부사",
+      "en": "only then, for the first time",
+      "context": "천천히 걸을 때 비로소 얻어진다"
+    },
+    {
+      "word": "진정하다",
+      "pos": "형용사",
+      "en": "true, genuine",
+      "context": "진정한 휴식과 배움"
+    },
+    {
+      "word": "따지다",
+      "pos": "동사",
+      "en": "to weigh, to scrutinize",
+      "context": "질을 따져 봐야 할 때다"
+    },
+    {
+      "word": "이른바",
+      "pos": "부사",
+      "en": "so-called",
+      "context": "이른바 '속성 여행'이 유행하고 있다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "숙박",
+      "pos": "명사",
+      "en": "lodging, accommodation",
+      "example_ko": "휴가철에는 숙박 요금이 평소의 두 배로 뛴다.",
+      "example_en": "During the holiday season, lodging rates jump to double the usual price."
+    },
+    {
+      "word": "명소",
+      "pos": "명사",
+      "en": "famous spot, attraction",
+      "example_ko": "이 다리는 야경이 아름다워 도시의 새로운 명소가 되었다.",
+      "example_en": "With its beautiful night view, this bridge has become a new attraction in the city."
+    },
+    {
+      "word": "휴양지",
+      "pos": "명사",
+      "en": "resort, vacation spot",
+      "example_ko": "그 섬은 조용히 쉬고 싶은 사람들에게 인기 있는 휴양지다.",
+      "example_en": "That island is a popular resort for people who want to rest quietly."
+    },
+    {
+      "word": "풍경",
+      "pos": "명사",
+      "en": "scenery, landscape",
+      "example_ko": "기차 창밖으로 펼쳐진 가을 풍경이 그림 같았다.",
+      "example_en": "The autumn scenery spreading outside the train window was like a painting."
+    },
+    {
+      "word": "기념품",
+      "pos": "명사",
+      "en": "souvenir",
+      "example_ko": "여행지에서 가족에게 줄 기념품을 몇 개 골랐다.",
+      "example_en": "At my travel destination, I picked out a few souvenirs to give my family."
+    },
+    {
+      "word": "성수기",
+      "pos": "명사",
+      "en": "peak season",
+      "example_ko": "성수기를 피해서 여행하면 비용을 크게 줄일 수 있다.",
+      "example_en": "If you travel outside the peak season, you can cut costs significantly."
+    },
+    {
+      "word": "왕복",
+      "pos": "명사",
+      "en": "round trip",
+      "example_ko": "서울에서 제주까지 왕복 항공권을 미리 사 두었다.",
+      "example_en": "I bought a round-trip plane ticket from Seoul to Jeju in advance."
+    },
+    {
+      "word": "예약하다",
+      "pos": "동사",
+      "en": "to make a reservation",
+      "example_ko": "주말이라 식당을 미리 예약하지 않으면 자리가 없다.",
+      "example_en": "Since it is the weekend, there are no seats unless you reserve the restaurant in advance."
+    },
+    {
+      "word": "들르다",
+      "pos": "동사",
+      "en": "to stop by, to drop in",
+      "example_ko": "집에 가는 길에 시장에 들러 과일을 샀다.",
+      "example_en": "On my way home, I stopped by the market and bought some fruit."
+    },
+    {
+      "word": "여유",
+      "pos": "명사",
+      "en": "leeway, (time or mental) room to spare",
+      "example_ko": "일정에 여유를 두어야 갑작스러운 변수에 대응할 수 있다.",
+      "example_en": "You need to leave some leeway in your schedule to deal with unexpected changes."
+    }
+  ]
+}

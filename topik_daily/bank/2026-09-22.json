@@ -1,0 +1,130 @@
+{
+  "passage_ko": "지역 미술관들이 관람객 유치를 위해 전시와 체험 활동을 연계한 프로그램을 잇달아 선보이고 있다. 관람객들은 전시를 보러 온 김에 도자기 만들기나 판화 찍기 같은 체험에도 참여할 수 있다. 미술관 측은 이런 프로그램이 (    ) 효과가 있다고 설명했다. 실제로 체험 프로그램을 도입한 미술관의 재방문율은 지난해보다 30% 이상 높아진 것으로 나타났다.",
+  "passage_en": "Regional art museums are launching one program after another that links exhibitions with hands-on activities in order to attract visitors. Since visitors have come to see an exhibition anyway, they can also take part in activities such as pottery making or printmaking. The museums explained that these programs have the effect of (    ). In fact, the revisit rate of museums that introduced hands-on programs turned out to be more than 30 percent higher than last year.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "전시 작품의 판매 가격을 크게 올리는",
+      "en": "greatly raising the sale price of exhibited works"
+    },
+    {
+      "ko": "관람객 수를 제한해 혼잡을 줄이는",
+      "en": "reducing congestion by limiting the number of visitors"
+    },
+    {
+      "ko": "관람객이 예술을 가깝게 느끼고 미술관을 다시 찾게 하는",
+      "en": "making visitors feel closer to art and come back to the museum"
+    },
+    {
+      "ko": "유명 작가의 작품을 값싸게 확보하는",
+      "en": "securing famous artists' works at low cost"
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "마지막 문장에서 체험 프로그램을 도입한 미술관의 재방문율이 30% 이상 높아졌다는 근거를 제시하고 있다. 따라서 빈칸에는 관람객이 예술을 가깝게 느껴 다시 찾게 된다는 내용이 들어가야 자연스럽다. 작품 가격, 관람객 제한, 작품 확보는 기사에서 언급된 효과와 관계가 없다.",
+  "explanation_en": "The final sentence cites a rise of over 30 percent in the revisit rate as evidence, so the blank must describe the effect of visitors feeling closer to art and returning to the museum.",
+  "passage_vocab": [
+    {
+      "word": "유치",
+      "pos": "명사",
+      "en": "attraction, drawing in (visitors, events)",
+      "context": "관람객 유치를 위해"
+    },
+    {
+      "word": "연계하다",
+      "pos": "동사",
+      "en": "to link, to connect (programs, systems)",
+      "context": "전시와 체험 활동을 연계한"
+    },
+    {
+      "word": "잇달아",
+      "pos": "부사",
+      "en": "one after another, in succession",
+      "context": "프로그램을 잇달아 선보이고 있다"
+    },
+    {
+      "word": "선보이다",
+      "pos": "동사",
+      "en": "to unveil, to present to the public",
+      "context": "잇달아 선보이고 있다"
+    },
+    {
+      "word": "도입하다",
+      "pos": "동사",
+      "en": "to introduce, to adopt (a system)",
+      "context": "체험 프로그램을 도입한 미술관"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "공연",
+      "pos": "명사",
+      "en": "performance, show",
+      "example_ko": "이번 공연은 표가 일찍 매진될 정도로 인기가 많았다.",
+      "example_en": "This performance was so popular that the tickets sold out early."
+    },
+    {
+      "word": "창작",
+      "pos": "명사",
+      "en": "creation, creative work",
+      "example_ko": "그 작가는 창작에 몰두하느라 외부 활동을 거의 하지 않는다.",
+      "example_en": "That writer is so absorbed in creative work that he rarely takes part in outside activities."
+    },
+    {
+      "word": "감상하다",
+      "pos": "동사",
+      "en": "to appreciate, to enjoy (art, music)",
+      "example_ko": "주말마다 미술관에 가서 그림을 감상하는 것이 취미다.",
+      "example_en": "My hobby is going to the art museum every weekend to appreciate paintings."
+    },
+    {
+      "word": "연주",
+      "pos": "명사",
+      "en": "musical performance, playing an instrument",
+      "example_ko": "피아니스트의 연주가 끝나자 박수가 터져 나왔다.",
+      "example_en": "As soon as the pianist's performance ended, applause broke out."
+    },
+    {
+      "word": "조각",
+      "pos": "명사",
+      "en": "sculpture",
+      "example_ko": "공원 곳곳에 유명 작가의 조각 작품이 세워져 있다.",
+      "example_en": "Sculptures by famous artists stand throughout the park."
+    },
+    {
+      "word": "유산",
+      "pos": "명사",
+      "en": "heritage, legacy",
+      "example_ko": "한옥 마을은 소중한 문화 유산으로 보호받고 있다.",
+      "example_en": "The hanok village is protected as a precious cultural heritage."
+    },
+    {
+      "word": "흥행",
+      "pos": "명사",
+      "en": "box-office success",
+      "example_ko": "그 영화는 개봉 첫 주에 흥행 기록을 새로 썼다.",
+      "example_en": "The movie set a new box-office record in its first week of release."
+    },
+    {
+      "word": "예매하다",
+      "pos": "동사",
+      "en": "to book (tickets) in advance",
+      "example_ko": "인기 있는 뮤지컬은 한 달 전에 표를 예매해야 한다.",
+      "example_en": "For popular musicals, you have to book tickets a month in advance."
+    },
+    {
+      "word": "걸작",
+      "pos": "명사",
+      "en": "masterpiece",
+      "example_ko": "이 소설은 20세기 문학의 걸작으로 꼽힌다.",
+      "example_en": "This novel is counted among the masterpieces of twentieth-century literature."
+    },
+    {
+      "word": "소감",
+      "pos": "명사",
+      "en": "impressions, thoughts (on an experience)",
+      "example_ko": "수상 소감을 말하던 배우는 끝내 눈물을 보였다.",
+      "example_en": "The actor finally shed tears while giving his acceptance speech."
+    }
+  ]
+}

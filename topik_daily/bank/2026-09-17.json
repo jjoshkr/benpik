@@ -1,0 +1,130 @@
+{
+  "passage_ko": "도시의 기온이 주변 지역보다 높아지는 현상을 열섬 현상이라고 한다. 도시에는 열을 흡수하는 아스팔트와 콘크리트 건물이 많은 데다가 자동차와 냉방기에서 나오는 인공 열까지 더해져 기온이 쉽게 올라간다. 특히 바람이 잘 통하지 않는 밤에는 도시와 교외의 기온 차이가 더욱 커진다. 이를 완화하기 위해 여러 도시에서는 건물 옥상에 정원을 만들고 도심에 바람이 지나는 길을 확보하는 정책을 추진하고 있다.",
+  "passage_en": "The phenomenon in which a city's temperature becomes higher than that of surrounding areas is called the heat island effect. Cities have many asphalt surfaces and concrete buildings that absorb heat, and on top of that, artificial heat from cars and air conditioners is added, so the temperature rises easily. Especially at night, when the wind does not circulate well, the temperature difference between the city and the suburbs grows even larger. To mitigate this, many cities are pursuing policies of creating gardens on building rooftops and securing corridors for wind to pass through downtown areas.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "열섬 현상은 낮에 도시와 교외의 기온 차이가 가장 커진다.",
+      "en": "With the heat island effect, the temperature difference between the city and the suburbs becomes largest during the day."
+    },
+    {
+      "ko": "자동차와 냉방기에서 나오는 열은 도시의 기온을 높이는 원인이 된다.",
+      "en": "Heat from cars and air conditioners is a cause of raising city temperatures."
+    },
+    {
+      "ko": "옥상 정원은 열섬 현상을 오히려 심하게 만드는 것으로 밝혀졌다.",
+      "en": "Rooftop gardens have been found to actually worsen the heat island effect."
+    },
+    {
+      "ko": "열섬 현상은 교외의 기온이 도시보다 높아지는 현상을 말한다.",
+      "en": "The heat island effect refers to the phenomenon in which suburban temperatures become higher than the city's."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "글에서 자동차와 냉방기에서 나오는 인공 열이 더해져 도시의 기온이 쉽게 올라간다고 했으므로 2번이 글의 내용과 같다. 기온 차이는 낮이 아니라 바람이 잘 통하지 않는 밤에 더 커진다고 했다. 옥상 정원은 열섬 현상을 완화하기 위한 정책이며, 열섬 현상은 도시의 기온이 교외보다 높아지는 현상이다.",
+  "explanation_en": "The passage states that artificial heat from cars and air conditioners adds to rising city temperatures, so choice 2 matches, while the other choices contradict details about nighttime differences, rooftop gardens, and the definition of the effect.",
+  "passage_vocab": [
+    {
+      "word": "흡수하다",
+      "pos": "동사",
+      "en": "to absorb",
+      "context": "열을 흡수하는 아스팔트와 콘크리트 건물"
+    },
+    {
+      "word": "인공",
+      "pos": "명사",
+      "en": "artificial, man-made",
+      "context": "냉방기에서 나오는 인공 열까지 더해져"
+    },
+    {
+      "word": "완화하다",
+      "pos": "동사",
+      "en": "to mitigate, to ease",
+      "context": "이를 완화하기 위해 여러 도시에서는"
+    },
+    {
+      "word": "확보하다",
+      "pos": "동사",
+      "en": "to secure, to obtain",
+      "context": "바람이 지나는 길을 확보하는 정책"
+    },
+    {
+      "word": "추진하다",
+      "pos": "동사",
+      "en": "to push forward, to pursue (a policy)",
+      "context": "정책을 추진하고 있다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "매연",
+      "pos": "명사",
+      "en": "exhaust fumes, smoke",
+      "example_ko": "출퇴근 시간에는 도로에 자동차 매연이 가득하다.",
+      "example_en": "During rush hour, the roads are full of car exhaust fumes."
+    },
+    {
+      "word": "친환경",
+      "pos": "명사",
+      "en": "eco-friendliness (eco-friendly)",
+      "example_ko": "요즘 소비자들은 친환경 제품을 일부러 찾아서 산다.",
+      "example_en": "These days, consumers deliberately seek out and buy eco-friendly products."
+    },
+    {
+      "word": "폭우",
+      "pos": "명사",
+      "en": "torrential rain, downpour",
+      "example_ko": "밤사이 내린 폭우로 도로 곳곳이 물에 잠겼다.",
+      "example_en": "Roads were flooded in many places because of the downpour that fell overnight."
+    },
+    {
+      "word": "가뭄",
+      "pos": "명사",
+      "en": "drought",
+      "example_ko": "오랜 가뭄으로 농작물이 말라 가고 있다.",
+      "example_en": "Crops are drying up because of the long drought."
+    },
+    {
+      "word": "생태계",
+      "pos": "명사",
+      "en": "ecosystem",
+      "example_ko": "외래종이 들어오면서 호수의 생태계가 흔들리고 있다.",
+      "example_en": "With the arrival of invasive species, the lake's ecosystem is being shaken."
+    },
+    {
+      "word": "온난화",
+      "pos": "명사",
+      "en": "global warming",
+      "example_ko": "지구 온난화로 북극의 얼음이 빠르게 녹고 있다.",
+      "example_en": "Because of global warming, Arctic ice is melting rapidly."
+    },
+    {
+      "word": "자원",
+      "pos": "명사",
+      "en": "resources",
+      "example_ko": "한정된 자원을 아껴 쓰는 습관을 어릴 때부터 길러야 한다.",
+      "example_en": "We should build the habit of using limited resources sparingly from childhood."
+    },
+    {
+      "word": "일회용품",
+      "pos": "명사",
+      "en": "disposable products",
+      "example_ko": "카페에서 일회용품 사용을 줄이자는 운동이 벌어지고 있다.",
+      "example_en": "A campaign is under way to reduce the use of disposables in cafes."
+    },
+    {
+      "word": "서식지",
+      "pos": "명사",
+      "en": "habitat",
+      "example_ko": "개발 공사로 철새들의 서식지가 사라질 위기에 놓였다.",
+      "example_en": "Due to development work, the migratory birds' habitat is at risk of disappearing."
+    },
+    {
+      "word": "무분별하다",
+      "pos": "형용사",
+      "en": "to be reckless, indiscriminate",
+      "example_ko": "무분별한 개발이 산림을 크게 훼손했다.",
+      "example_en": "Reckless development has severely damaged the forests."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "passage_ko": "사람의 기억은 시간이 지나면 흐려지기 마련이다. 그래서 학습한 내용을 오래 기억하려면 한 번에 몰아서 공부하는 것보다 여러 날에 나누어 반복하는 것이 효과적이다. 실제로 한 연구에서는 같은 시간을 공부하더라도 여러 번 나누어 복습한 학생들이 시험에서 더 높은 점수를 받았다. 또한 배운 내용을 다른 사람에게 설명해 보는 것도 기억을 오래 유지하는 데 도움이 된다.",
+  "passage_en": "Human memory is bound to fade as time passes. Therefore, to remember what you have learned for a long time, it is more effective to spread repetition over several days than to cram everything at once. In fact, one study found that even with the same total study time, students who reviewed in several separate sessions earned higher test scores. In addition, explaining what you have learned to someone else also helps you retain it longer.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "한 번에 오래 공부할수록 기억이 오래 남는다.",
+      "en": "The longer you study in a single sitting, the longer the memory lasts."
+    },
+    {
+      "ko": "같은 시간을 공부해도 나누어 복습한 학생들의 성적이 더 좋았다.",
+      "en": "Even with the same study time, students who reviewed in separate sessions got better grades."
+    },
+    {
+      "ko": "배운 내용을 남에게 설명하는 것은 기억 유지에 도움이 되지 않는다.",
+      "en": "Explaining what you learned to others does not help you retain it."
+    },
+    {
+      "ko": "사람의 기억력은 시간이 지나도 거의 변하지 않는다.",
+      "en": "Human memory hardly changes over time."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "글에서 같은 시간을 공부해도 나누어 복습한 학생들이 더 높은 점수를 받았다는 연구 결과를 소개하므로 2번이 글의 내용과 같다. 1번은 몰아서 공부하는 것보다 나누어 반복하는 것이 효과적이라는 내용과 반대되고, 3번과 4번도 글의 내용과 어긋난다.",
+  "explanation_en": "The passage cites a study showing that spaced review led to higher scores even with equal study time, which matches choice 2.",
+  "passage_vocab": [
+    {
+      "word": "흐려지다",
+      "pos": "동사",
+      "en": "to fade, to become dim",
+      "context": "기억은 시간이 지나면 흐려지기 마련이다"
+    },
+    {
+      "word": "몰아서 하다",
+      "pos": "표현",
+      "en": "to do all at once, to cram",
+      "context": "한 번에 몰아서 공부하는 것보다"
+    },
+    {
+      "word": "효과적",
+      "pos": "명사",
+      "en": "effective",
+      "context": "나누어 반복하는 것이 효과적이다"
+    },
+    {
+      "word": "복습하다",
+      "pos": "동사",
+      "en": "to review (what one has learned)",
+      "context": "여러 번 나누어 복습한 학생들이"
+    },
+    {
+      "word": "유지하다",
+      "pos": "동사",
+      "en": "to maintain, to keep",
+      "context": "기억을 오래 유지하는 데 도움이 된다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "진로",
+      "pos": "명사",
+      "en": "career path",
+      "example_ko": "고등학생 때 진로를 정하는 것은 쉽지 않다.",
+      "example_en": "Deciding on a career path in high school is not easy."
+    },
+    {
+      "word": "집중력",
+      "pos": "명사",
+      "en": "concentration",
+      "example_ko": "조용한 곳에서 공부하면 집중력이 높아진다.",
+      "example_en": "Studying in a quiet place improves your concentration."
+    },
+    {
+      "word": "성취감",
+      "pos": "명사",
+      "en": "sense of accomplishment",
+      "example_ko": "목표를 이루고 나면 큰 성취감을 느낀다.",
+      "example_en": "After achieving a goal, you feel a great sense of accomplishment."
+    },
+    {
+      "word": "암기하다",
+      "pos": "동사",
+      "en": "to memorize",
+      "example_ko": "단어를 무조건 암기하는 것보다 문장 속에서 익히는 것이 좋다.",
+      "example_en": "It is better to learn words in sentences than to memorize them blindly."
+    },
+    {
+      "word": "강의",
+      "pos": "명사",
+      "en": "lecture",
+      "example_ko": "요즘은 인터넷으로 대학 강의를 들을 수 있다.",
+      "example_en": "These days you can take university lectures online."
+    },
+    {
+      "word": "시행착오",
+      "pos": "명사",
+      "en": "trial and error",
+      "example_ko": "누구나 시행착오를 거치면서 배우게 된다.",
+      "example_en": "Everyone learns through trial and error."
+    },
+    {
+      "word": "습득하다",
+      "pos": "동사",
+      "en": "to acquire (knowledge or a skill)",
+      "example_ko": "아이들은 외국어를 어른보다 빨리 습득한다.",
+      "example_en": "Children acquire foreign languages faster than adults."
+    },
+    {
+      "word": "평가",
+      "pos": "명사",
+      "en": "evaluation, assessment",
+      "example_ko": "이 수업은 시험 대신 발표로 평가를 한다.",
+      "example_en": "In this class, assessment is done through presentations instead of exams."
+    },
+    {
+      "word": "열정",
+      "pos": "명사",
+      "en": "passion",
+      "example_ko": "그는 가르치는 일에 대한 열정이 대단하다.",
+      "example_en": "He has great passion for teaching."
+    },
+    {
+      "word": "꾸준히",
+      "pos": "부사",
+      "en": "steadily, consistently",
+      "example_ko": "실력을 늘리려면 꾸준히 연습해야 한다.",
+      "example_en": "To improve your skills, you have to practice consistently."
+    }
+  ]
+}

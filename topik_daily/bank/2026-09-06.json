@@ -1,0 +1,130 @@
+{
+  "passage_ko": "직장인 열 명 가운데 일곱 명이 동료와의 갈등으로 스트레스를 받은 경험이 있는 것으로 나타났다. 한 취업 포털이 직장인 1,200명을 대상으로 실시한 설문 조사에서 응답자들은 갈등의 가장 큰 원인으로 소통 부족을 꼽았다. 전문가들은 갈등이 커지지 않도록 (    ) 것이 중요하다고 조언한다. 감정이 격해진 상태에서는 사소한 오해도 쌓이기 쉽기 때문이다.",
+  "passage_en": "It has been found that seven out of ten office workers have experienced stress from conflicts with coworkers. In a survey of 1,200 office workers conducted by a job portal, respondents cited a lack of communication as the biggest cause of conflict. Experts advise that, so that conflicts do not escalate, it is important to (    ). This is because even trivial misunderstandings easily pile up when emotions are running high.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "문제가 생겼을 때 바로 대화로 푸는",
+      "en": "resolve issues through conversation as soon as they arise"
+    },
+    {
+      "ko": "불만을 마음속에 담아 두는",
+      "en": "keep complaints bottled up inside"
+    },
+    {
+      "ko": "상대방의 잘못을 주변에 알리는",
+      "en": "let those around you know about the other person's faults"
+    },
+    {
+      "ko": "가능한 한 동료와 거리를 두는",
+      "en": "keep as much distance from coworkers as possible"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "갈등의 가장 큰 원인이 소통 부족이라고 했고, 마지막 문장에서 감정이 격해지면 오해가 쌓이기 쉽다고 했다. 따라서 갈등이 커지기 전에 바로 대화로 푸는 것이 중요하다는 1번이 글의 흐름에 맞는다.",
+  "explanation_en": "Since the passage blames conflicts on poor communication, the advice must be to talk problems out immediately before emotions escalate, making choice 1 correct.",
+  "passage_vocab": [
+    {
+      "word": "갈등",
+      "pos": "명사",
+      "en": "conflict, discord",
+      "context": "동료와의 갈등으로"
+    },
+    {
+      "word": "실시하다",
+      "pos": "동사",
+      "en": "to conduct, to carry out",
+      "context": "1,200명을 대상으로 실시한 설문 조사"
+    },
+    {
+      "word": "소통",
+      "pos": "명사",
+      "en": "communication",
+      "context": "원인으로 소통 부족을 꼽았다"
+    },
+    {
+      "word": "꼽다",
+      "pos": "동사",
+      "en": "to cite, to single out",
+      "context": "가장 큰 원인으로 꼽았다"
+    },
+    {
+      "word": "격해지다",
+      "pos": "동사",
+      "en": "to become heated, to intensify",
+      "context": "감정이 격해진 상태에서는"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "신뢰",
+      "pos": "명사",
+      "en": "trust",
+      "example_ko": "한번 무너진 신뢰를 다시 쌓는 데는 오랜 시간이 걸린다.",
+      "example_en": "It takes a long time to rebuild trust once it has collapsed."
+    },
+    {
+      "word": "배려하다",
+      "pos": "동사",
+      "en": "to be considerate of",
+      "example_ko": "그는 늘 상대방의 입장을 먼저 배려하는 사람이다.",
+      "example_en": "He is someone who always considers the other person's position first."
+    },
+    {
+      "word": "공감",
+      "pos": "명사",
+      "en": "empathy, sympathy",
+      "example_ko": "그녀의 발표는 청중의 큰 공감을 얻었다.",
+      "example_en": "Her presentation won great empathy from the audience."
+    },
+    {
+      "word": "위로하다",
+      "pos": "동사",
+      "en": "to comfort, to console",
+      "example_ko": "친구는 시험에 떨어진 나를 따뜻한 말로 위로해 주었다.",
+      "example_en": "My friend comforted me with warm words after I failed the exam."
+    },
+    {
+      "word": "다투다",
+      "pos": "동사",
+      "en": "to quarrel, to argue",
+      "example_ko": "사소한 일로 다투고 나면 늘 후회가 남는다.",
+      "example_en": "After quarreling over something trivial, I am always left with regret."
+    },
+    {
+      "word": "사과하다",
+      "pos": "동사",
+      "en": "to apologize",
+      "example_ko": "잘못을 깨달았다면 늦기 전에 진심으로 사과해야 한다.",
+      "example_en": "If you realize your mistake, you should sincerely apologize before it is too late."
+    },
+    {
+      "word": "친밀하다",
+      "pos": "형용사",
+      "en": "to be close, intimate",
+      "example_ko": "두 사람은 오래 함께 일하면서 친밀한 사이가 되었다.",
+      "example_en": "The two became close while working together for a long time."
+    },
+    {
+      "word": "소외감",
+      "pos": "명사",
+      "en": "sense of alienation",
+      "example_ko": "새 직장에서 처음 몇 주 동안은 소외감을 느끼기 쉽다.",
+      "example_en": "It is easy to feel a sense of alienation during the first few weeks at a new job."
+    },
+    {
+      "word": "격려하다",
+      "pos": "동사",
+      "en": "to encourage",
+      "example_ko": "감독은 실수한 선수를 꾸짖는 대신 격려해 주었다.",
+      "example_en": "Instead of scolding the player who made a mistake, the coach encouraged him."
+    },
+    {
+      "word": "심리",
+      "pos": "명사",
+      "en": "psychology, state of mind",
+      "example_ko": "광고는 소비자의 심리를 교묘하게 이용한다.",
+      "example_en": "Advertisements cleverly exploit the psychology of consumers."
+    }
+  ]
+}

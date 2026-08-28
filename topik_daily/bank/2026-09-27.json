@@ -1,0 +1,130 @@
+{
+  "passage_ko": "지난여름은 유난히 길고 무더웠다. 기상청 발표에 따르면 올해 열대야 일수가 관측 이래 가장 많았다고 한다. 그런데도 나는 에어컨을 켠 채 기후 위기를 걱정하는 뉴스를 무심코 바라보고만 있었다. 문득 걱정만 할 뿐 정작 아무것도 하지 않는 내 모습이 부끄러워졌다. 그날부터 나는 가까운 거리는 걸어 다니고 장을 볼 때는 장바구니를 챙기기 시작했다. 작은 실천이 당장 세상을 바꾸지는 못하겠지만 적어도 방관자로 남고 싶지는 않다.",
+  "passage_en": "Last summer was unusually long and sweltering. According to the Korea Meteorological Administration, this year saw the highest number of tropical nights since records began. Even so, I just sat there with the air conditioner on, absentmindedly watching the news fret about the climate crisis. Suddenly I felt ashamed of myself for only worrying while actually doing nothing. From that day on, I began walking short distances and bringing a shopping bag when I went grocery shopping. Small actions may not change the world right away, but at the very least I do not want to remain a bystander.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "자신의 무관심을 반성하며 실천 의지를 다지고 있다.",
+      "en": "The writer reflects on their own indifference and strengthens their resolve to act."
+    },
+    {
+      "ko": "기후 문제 해결 가능성에 대해 냉소적인 태도를 보이고 있다.",
+      "en": "The writer shows a cynical attitude toward the possibility of solving the climate problem."
+    },
+    {
+      "ko": "정부의 환경 정책을 강하게 비판하고 있다.",
+      "en": "The writer strongly criticizes the government's environmental policies."
+    },
+    {
+      "ko": "개인의 노력은 무의미하다고 체념하고 있다.",
+      "en": "The writer resigns themselves to the idea that individual efforts are meaningless."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 걱정만 하고 아무것도 하지 않던 자신이 부끄러워졌다고 고백하며 걷기, 장바구니 사용 같은 실천을 시작한다. 마지막 문장의 '방관자로 남고 싶지는 않다'에서 실천 의지가 뚜렷이 드러나므로 1번이 알맞다. 냉소나 체념이 아니라 작은 행동의 가치를 인정하는 태도이며, 정부 정책 비판은 나오지 않는다.",
+  "explanation_en": "The writer confesses shame at having only worried without acting, then starts small habits and declares a refusal to remain a bystander, showing self-reflection and a resolve to act.",
+  "passage_vocab": [
+    {
+      "word": "열대야",
+      "pos": "명사",
+      "en": "tropical night (night with minimum temperature above 25°C)",
+      "context": "올해 열대야 일수가"
+    },
+    {
+      "word": "관측",
+      "pos": "명사",
+      "en": "observation (meteorological, scientific)",
+      "context": "관측 이래 가장 많았다"
+    },
+    {
+      "word": "무심코",
+      "pos": "부사",
+      "en": "absentmindedly, without thinking",
+      "context": "뉴스를 무심코 바라보고만 있었다"
+    },
+    {
+      "word": "실천",
+      "pos": "명사",
+      "en": "practice, putting into action",
+      "context": "작은 실천이 당장 세상을 바꾸지는"
+    },
+    {
+      "word": "방관자",
+      "pos": "명사",
+      "en": "bystander, onlooker",
+      "context": "방관자로 남고 싶지는 않다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "오염",
+      "pos": "명사",
+      "en": "pollution, contamination",
+      "example_ko": "공장 폐수로 인한 강물 오염이 심각한 수준에 이르렀다.",
+      "example_en": "River pollution caused by factory wastewater has reached a serious level."
+    },
+    {
+      "word": "배출하다",
+      "pos": "동사",
+      "en": "to emit, to discharge",
+      "example_ko": "자동차는 도시에서 온실가스를 가장 많이 배출하는 요인 중 하나다.",
+      "example_en": "Cars are one of the biggest sources emitting greenhouse gases in cities."
+    },
+    {
+      "word": "재활용",
+      "pos": "명사",
+      "en": "recycling",
+      "example_ko": "우리 아파트는 매주 수요일에 재활용 쓰레기를 수거한다.",
+      "example_en": "Our apartment complex collects recyclables every Wednesday."
+    },
+    {
+      "word": "멸종",
+      "pos": "명사",
+      "en": "extinction",
+      "example_ko": "서식지 파괴로 멸종 위기에 처한 동물이 늘고 있다.",
+      "example_en": "The number of animals facing extinction due to habitat destruction is increasing."
+    },
+    {
+      "word": "가뭄",
+      "pos": "명사",
+      "en": "drought",
+      "example_ko": "몇 달째 이어진 가뭄으로 농작물 피해가 커지고 있다.",
+      "example_en": "Crop damage is growing due to the drought that has lasted for months."
+    },
+    {
+      "word": "폭염",
+      "pos": "명사",
+      "en": "heat wave",
+      "example_ko": "기록적인 폭염으로 낮 시간대 야외 작업이 중단되었다.",
+      "example_en": "Outdoor work during the day was suspended because of the record heat wave."
+    },
+    {
+      "word": "보존하다",
+      "pos": "동사",
+      "en": "to preserve, to conserve",
+      "example_ko": "이 습지는 희귀 새들의 서식지라서 반드시 보존해야 한다.",
+      "example_en": "This wetland must be preserved because it is a habitat for rare birds."
+    },
+    {
+      "word": "일회용품",
+      "pos": "명사",
+      "en": "disposable products",
+      "example_ko": "카페에서 일회용품 사용을 줄이기 위해 컵 보증금 제도를 도입했다.",
+      "example_en": "The cafe introduced a cup deposit system to reduce the use of disposables."
+    },
+    {
+      "word": "온실가스",
+      "pos": "명사",
+      "en": "greenhouse gas",
+      "example_ko": "각국은 2050년까지 온실가스 배출량을 크게 줄이기로 약속했다.",
+      "example_en": "Countries have promised to greatly reduce greenhouse gas emissions by 2050."
+    },
+    {
+      "word": "훼손되다",
+      "pos": "동사",
+      "en": "to be damaged, to be defaced",
+      "example_ko": "무분별한 개발로 산림이 훼손되는 일이 잦다.",
+      "example_en": "Forests are frequently damaged by reckless development."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "passage_ko": "지구의 평균 기온이 상승하면서 세계 곳곳에서 이상 기후 현상이 나타나고 있다. 지난여름 유럽에서는 기록적인 폭염이 이어지는 바람에 강물이 마르고 농작물이 큰 피해를 입었다. 이러한 기후 변화는 자연재해에 그치지 않고 식량 가격 상승과 같은 경제 문제로도 이어진다. 전문가들은 온실가스 배출을 줄이는 것뿐만 아니라 이미 변해 버린 기후에 적응하기 위한 대책도 함께 마련해야 한다고 강조한다.",
+  "passage_en": "As the Earth's average temperature rises, abnormal climate phenomena are appearing all over the world. Last summer in Europe, a record-breaking heat wave went on and on, so rivers dried up and crops suffered severe damage. Climate change of this kind does not stop at natural disasters; it also leads to economic problems such as rising food prices. Experts stress that we must not only reduce greenhouse gas emissions but also prepare measures to adapt to the climate that has already changed.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "이상 기후 현상은 주로 유럽에서만 나타난다.",
+      "en": "Abnormal climate phenomena appear mainly in Europe only."
+    },
+    {
+      "ko": "농작물 피해를 막으려면 강물을 아껴 써야 한다.",
+      "en": "To prevent crop damage, we must use river water sparingly."
+    },
+    {
+      "ko": "기후 변화의 피해가 커지고 있어 배출을 줄이는 노력과 적응 대책이 함께 필요하다.",
+      "en": "The damage from climate change is growing, so efforts to cut emissions and adaptation measures are both needed."
+    },
+    {
+      "ko": "식량 가격 상승은 기후와 관계없는 경제 문제이다.",
+      "en": "Rising food prices are an economic problem unrelated to the climate."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "이 글은 기후 변화가 자연재해뿐 아니라 경제 문제까지 일으킨다는 점을 설명하고, 마지막 문장에서 배출 감축과 적응 대책이 모두 필요하다고 강조하므로 3번이 주제로 알맞다. 1번은 이상 기후가 세계 곳곳에서 나타난다는 첫 문장과 어긋나고, 4번은 식량 가격 상승이 기후 변화의 결과라는 글의 내용과 반대된다.",
+  "explanation_en": "The passage explains that climate change causes both natural disasters and economic harm, concluding that emission cuts and adaptation measures are equally necessary.",
+  "passage_vocab": [
+    {
+      "word": "이상 기후",
+      "pos": "명사",
+      "en": "abnormal climate",
+      "context": "세계 곳곳에서 이상 기후 현상이 나타나고 있다"
+    },
+    {
+      "word": "폭염",
+      "pos": "명사",
+      "en": "heat wave",
+      "context": "기록적인 폭염이 이어지는 바람에"
+    },
+    {
+      "word": "배출",
+      "pos": "명사",
+      "en": "emission, discharge",
+      "context": "온실가스 배출을 줄이는 것뿐만 아니라"
+    },
+    {
+      "word": "적응하다",
+      "pos": "동사",
+      "en": "to adapt",
+      "context": "변해 버린 기후에 적응하기 위한"
+    },
+    {
+      "word": "마련하다",
+      "pos": "동사",
+      "en": "to prepare, to arrange",
+      "context": "대책도 함께 마련해야 한다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "오염",
+      "pos": "명사",
+      "en": "pollution",
+      "example_ko": "공장 폐수 때문에 강물의 오염이 심해졌다.",
+      "example_en": "The pollution of the river has worsened because of factory wastewater."
+    },
+    {
+      "word": "재활용",
+      "pos": "명사",
+      "en": "recycling",
+      "example_ko": "우리 동네는 매주 수요일에 재활용 쓰레기를 수거한다.",
+      "example_en": "In my neighborhood, recyclable waste is collected every Wednesday."
+    },
+    {
+      "word": "멸종",
+      "pos": "명사",
+      "en": "extinction",
+      "example_ko": "북극곰은 멸종 위기에 처한 대표적인 동물이다.",
+      "example_en": "The polar bear is a well-known animal facing extinction."
+    },
+    {
+      "word": "가뭄",
+      "pos": "명사",
+      "en": "drought",
+      "example_ko": "오랜 가뭄으로 저수지가 바닥을 드러냈다.",
+      "example_en": "The long drought left the reservoir nearly empty."
+    },
+    {
+      "word": "홍수",
+      "pos": "명사",
+      "en": "flood",
+      "example_ko": "폭우가 계속되면 홍수가 날 위험이 있다.",
+      "example_en": "If the heavy rain continues, there is a risk of flooding."
+    },
+    {
+      "word": "훼손",
+      "pos": "명사",
+      "en": "damage, destruction",
+      "example_ko": "등산객들이 버린 쓰레기로 산이 훼손되고 있다.",
+      "example_en": "The mountain is being damaged by the trash hikers leave behind."
+    },
+    {
+      "word": "보존하다",
+      "pos": "동사",
+      "en": "to preserve",
+      "example_ko": "생태계를 보존하기 위한 노력이 필요하다.",
+      "example_en": "Efforts are needed to preserve the ecosystem."
+    },
+    {
+      "word": "심각하다",
+      "pos": "형용사",
+      "en": "serious, severe",
+      "example_ko": "미세먼지 문제가 갈수록 심각해지고 있다.",
+      "example_en": "The fine dust problem is becoming more and more serious."
+    },
+    {
+      "word": "대기",
+      "pos": "명사",
+      "en": "atmosphere, air",
+      "example_ko": "자동차 배기가스는 대기 오염의 주요 원인이다.",
+      "example_en": "Car exhaust is a major cause of air pollution."
+    },
+    {
+      "word": "절약하다",
+      "pos": "동사",
+      "en": "to save, to conserve",
+      "example_ko": "에너지를 절약하는 습관을 어릴 때부터 길러야 한다.",
+      "example_en": "The habit of conserving energy should be developed from childhood."
+    }
+  ]
+}

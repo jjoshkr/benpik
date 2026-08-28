@@ -1,0 +1,130 @@
+{
+  "passage_ko": "지하철에서 한 할머니가 무거운 짐을 들고 힘겹게 서 계신 것을 본 적이 있다. 나는 피곤하다는 핑계로 눈을 감고 자는 척했지만, 마음 한구석이 계속 불편했다. 결국 다음 역에서 자리를 양보해 드렸는데, 할머니의 환한 미소에 오히려 내가 더 큰 위로를 받았다. 그날 이후 나는 어려운 이웃을 외면하는 것이야말로 우리 사회를 차갑게 만드는 일이라는 생각을 하게 되었다.",
+  "passage_en": "Once, on the subway, I saw an elderly woman standing with difficulty, holding heavy bags. Using tiredness as an excuse, I closed my eyes and pretended to sleep, but one corner of my heart kept feeling uneasy. In the end, I gave up my seat at the next station, and her bright smile actually gave me the greater comfort. Since that day, I have come to think that turning away from neighbors in need is exactly what makes our society cold.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "글쓴이는 처음에 자리를 양보하지 않고 자는 척했다.",
+      "en": "At first, the writer pretended to sleep instead of giving up the seat."
+    },
+    {
+      "ko": "할머니는 글쓴이에게 자리를 양보해 달라고 부탁했다.",
+      "en": "The elderly woman asked the writer to give up the seat."
+    },
+    {
+      "ko": "글쓴이는 끝까지 자리를 양보하지 않았다.",
+      "en": "The writer never gave up the seat in the end."
+    },
+    {
+      "ko": "글쓴이는 자리를 양보한 것을 후회했다.",
+      "en": "The writer regretted giving up the seat."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "글쓴이는 처음에 피곤하다는 핑계로 눈을 감고 자는 척했다고 했으므로 1번이 글의 내용과 같다. 3번은 결국 다음 역에서 자리를 양보했다는 내용과 반대되고, 4번은 양보한 뒤 오히려 더 큰 위로를 받았다고 했으므로 틀렸다.",
+  "explanation_en": "The writer admits to initially pretending to sleep before eventually giving up the seat and feeling comforted, so choice 1 matches the passage.",
+  "passage_vocab": [
+    {
+      "word": "힘겹다",
+      "pos": "형용사",
+      "en": "strenuous, hard to bear",
+      "context": "무거운 짐을 들고 힘겹게 서 계신"
+    },
+    {
+      "word": "핑계",
+      "pos": "명사",
+      "en": "excuse",
+      "context": "피곤하다는 핑계로 눈을 감고"
+    },
+    {
+      "word": "양보하다",
+      "pos": "동사",
+      "en": "to yield, to give up (one's seat)",
+      "context": "다음 역에서 자리를 양보해 드렸는데"
+    },
+    {
+      "word": "외면하다",
+      "pos": "동사",
+      "en": "to turn away from, to ignore",
+      "context": "어려운 이웃을 외면하는 것이야말로"
+    },
+    {
+      "word": "위로",
+      "pos": "명사",
+      "en": "comfort, consolation",
+      "context": "오히려 내가 더 큰 위로를 받았다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "고령화",
+      "pos": "명사",
+      "en": "aging (of a population)",
+      "example_ko": "고령화가 진행되면서 노인 돌봄이 중요한 과제가 되었다.",
+      "example_en": "As the population ages, caring for the elderly has become a key task."
+    },
+    {
+      "word": "차별",
+      "pos": "명사",
+      "en": "discrimination",
+      "example_ko": "어떤 이유로도 차별은 정당화될 수 없다.",
+      "example_en": "Discrimination cannot be justified for any reason."
+    },
+    {
+      "word": "복지",
+      "pos": "명사",
+      "en": "welfare",
+      "example_ko": "정부는 내년에 복지 예산을 늘리기로 했다.",
+      "example_en": "The government has decided to increase the welfare budget next year."
+    },
+    {
+      "word": "갈등",
+      "pos": "명사",
+      "en": "conflict",
+      "example_ko": "세대 간 갈등을 줄이려면 서로 대화하려는 노력이 필요하다.",
+      "example_en": "To reduce conflict between generations, both sides need to make an effort to talk."
+    },
+    {
+      "word": "소외",
+      "pos": "명사",
+      "en": "alienation, marginalization",
+      "example_ko": "혼자 사는 노인들이 소외를 느끼지 않도록 돌봐야 한다.",
+      "example_en": "We should look after elderly people living alone so they do not feel isolated."
+    },
+    {
+      "word": "빈곤",
+      "pos": "명사",
+      "en": "poverty",
+      "example_ko": "빈곤 문제는 개인의 노력만으로 해결되지 않는다.",
+      "example_en": "The problem of poverty cannot be solved by individual effort alone."
+    },
+    {
+      "word": "봉사",
+      "pos": "명사",
+      "en": "volunteer service",
+      "example_ko": "그는 주말마다 보육원에서 봉사 활동을 한다.",
+      "example_en": "He volunteers at an orphanage every weekend."
+    },
+    {
+      "word": "배려",
+      "pos": "명사",
+      "en": "consideration (for others)",
+      "example_ko": "작은 배려가 사회를 따뜻하게 만든다.",
+      "example_en": "Small acts of consideration make society warmer."
+    },
+    {
+      "word": "참여하다",
+      "pos": "동사",
+      "en": "to participate",
+      "example_ko": "많은 시민이 환경 보호 캠페인에 참여했다.",
+      "example_en": "Many citizens participated in the environmental protection campaign."
+    },
+    {
+      "word": "이웃",
+      "pos": "명사",
+      "en": "neighbor",
+      "example_ko": "어려울 때 서로 돕는 것이 좋은 이웃이다.",
+      "example_en": "Good neighbors are those who help each other in hard times."
+    }
+  ]
+}

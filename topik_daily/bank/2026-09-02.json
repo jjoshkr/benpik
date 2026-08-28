@@ -1,0 +1,130 @@
+{
+  "passage_ko": "지난해 국내 공연 시장이 사상 처음으로 영화 시장 규모를 넘어섰다. 공연 티켓 판매액은 약 1조 2천억 원으로, 5년 전과 비교하면 두 배 가까이 늘어난 셈이다. 특히 뮤지컬과 대중음악 콘서트가 전체 판매액의 절반 이상을 차지하며 성장을 이끌었다. 다만 연극이나 무용 같은 순수 예술 분야는 여전히 관객 확보에 어려움을 겪고 있어, 장르 간 불균형을 해소해야 한다는 지적이 나온다.",
+  "passage_en": "Last year, the domestic performing arts market surpassed the size of the film market for the first time in history. Ticket sales for performances reached about 1.2 trillion won, which effectively means they nearly doubled compared with five years ago. In particular, musicals and pop concerts drove this growth, accounting for more than half of total sales. However, pure art genres such as theater and dance still struggle to attract audiences, prompting calls to resolve the imbalance between genres.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "지난해 영화 시장은 공연 시장보다 규모가 컸다.",
+      "en": "Last year, the film market was larger than the performing arts market."
+    },
+    {
+      "ko": "연극과 무용이 공연 시장의 성장을 이끌었다.",
+      "en": "Theater and dance led the growth of the performing arts market."
+    },
+    {
+      "ko": "공연 티켓 판매액은 5년 전보다 줄어들었다.",
+      "en": "Performance ticket sales decreased compared with five years ago."
+    },
+    {
+      "ko": "뮤지컬과 콘서트가 전체 판매액의 절반 이상을 차지했다.",
+      "en": "Musicals and concerts accounted for more than half of total sales."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "글에서 뮤지컬과 대중음악 콘서트가 전체 판매액의 절반 이상을 차지하며 성장을 이끌었다고 했으므로 4번이 글의 내용과 같다. 1번은 공연 시장이 영화 시장을 넘어섰다는 내용과 반대되고, 2번은 성장을 이끈 것이 연극·무용이 아니라 뮤지컬·콘서트라는 점에서 틀렸다.",
+  "explanation_en": "The article states that musicals and pop concerts made up over half of ticket sales and drove the market's growth, matching choice 4.",
+  "passage_vocab": [
+    {
+      "word": "사상",
+      "pos": "명사",
+      "en": "in history, on record",
+      "context": "사상 처음으로 영화 시장 규모를 넘어섰다"
+    },
+    {
+      "word": "규모",
+      "pos": "명사",
+      "en": "scale, size",
+      "context": "영화 시장 규모를 넘어섰다"
+    },
+    {
+      "word": "차지하다",
+      "pos": "동사",
+      "en": "to occupy, to account for",
+      "context": "전체 판매액의 절반 이상을 차지하며"
+    },
+    {
+      "word": "확보",
+      "pos": "명사",
+      "en": "securing, obtaining",
+      "context": "관객 확보에 어려움을 겪고 있어"
+    },
+    {
+      "word": "해소하다",
+      "pos": "동사",
+      "en": "to resolve, to relieve",
+      "context": "장르 간 불균형을 해소해야 한다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "전시회",
+      "pos": "명사",
+      "en": "exhibition",
+      "example_ko": "주말에 미술관에서 사진 전시회가 열린다.",
+      "example_en": "A photo exhibition opens at the art museum this weekend."
+    },
+    {
+      "word": "관람",
+      "pos": "명사",
+      "en": "viewing, attendance (of a show)",
+      "example_ko": "이 공연은 여덟 살 이상만 관람이 가능하다.",
+      "example_en": "This performance can only be viewed by those aged eight and older."
+    },
+    {
+      "word": "걸작",
+      "pos": "명사",
+      "en": "masterpiece",
+      "example_ko": "이 소설은 20세기 문학의 걸작으로 꼽힌다.",
+      "example_en": "This novel is considered a masterpiece of twentieth-century literature."
+    },
+    {
+      "word": "유산",
+      "pos": "명사",
+      "en": "heritage, legacy",
+      "example_ko": "한옥은 우리가 지켜야 할 소중한 문화유산이다.",
+      "example_en": "Hanok houses are a precious cultural heritage we must protect."
+    },
+    {
+      "word": "창작",
+      "pos": "명사",
+      "en": "creation, creative work",
+      "example_ko": "그 작가는 요즘 새 작품 창작에 몰두하고 있다.",
+      "example_en": "The writer is currently immersed in creating a new work."
+    },
+    {
+      "word": "감상하다",
+      "pos": "동사",
+      "en": "to appreciate, to enjoy (art)",
+      "example_ko": "음악을 감상하며 하루의 피로를 푼다.",
+      "example_en": "I relieve the day's fatigue by listening to music."
+    },
+    {
+      "word": "무대",
+      "pos": "명사",
+      "en": "stage",
+      "example_ko": "그는 떨리는 마음으로 무대에 올랐다.",
+      "example_en": "He stepped onto the stage with a pounding heart."
+    },
+    {
+      "word": "전통",
+      "pos": "명사",
+      "en": "tradition",
+      "example_ko": "명절에는 가족이 모여 전통 음식을 만들어 먹는다.",
+      "example_en": "On holidays, families gather to make and eat traditional food."
+    },
+    {
+      "word": "흥행",
+      "pos": "명사",
+      "en": "box-office success",
+      "example_ko": "그 영화는 흥행에 성공해 천만 관객을 모았다.",
+      "example_en": "The movie was a box-office success, drawing ten million viewers."
+    },
+    {
+      "word": "개최하다",
+      "pos": "동사",
+      "en": "to hold, to host (an event)",
+      "example_ko": "시에서 해마다 국제 영화제를 개최한다.",
+      "example_en": "The city hosts an international film festival every year."
+    }
+  ]
+}

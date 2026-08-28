@@ -1,0 +1,130 @@
+{
+  "passage_ko": "직장인의 절반 이상이 일 년 동안 연차 휴가를 절반도 쓰지 못한다는 조사 결과가 나왔다. 한 취업 포털이 직장인 천여 명을 대상으로 실시한 설문에서 응답자들은 과도한 업무량과 상사의 눈치를 주된 이유로 꼽았다. 일과 삶의 균형을 중시하는 문화가 확산되고 있다고 하지만, 현실에서는 휴식을 마음껏 누리기는커녕 주어진 휴가조차 제대로 쓰지 못하는 셈이다. 전문가들은 휴가 사용을 개인의 선택에만 맡기지 말고 기업이 눈치 보지 않고 쉴 수 있는 분위기를 조성해야 한다고 지적했다.",
+  "passage_en": "A survey found that more than half of office workers fail to use even half of their annual leave in a year. In a questionnaire conducted by a job portal with about a thousand office workers, respondents cited excessive workloads and worrying about their boss's reaction as the main reasons. Although a culture that values work-life balance is said to be spreading, in reality, far from fully enjoying rest, workers cannot even properly use the leave they are given. Experts pointed out that companies should not leave the use of leave solely to individual choice but should create an atmosphere where employees can rest without feeling self-conscious.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "직장인이 휴가를 자유롭게 쓰려면 기업이 분위기를 바꿔야 한다.",
+      "en": "For office workers to use their leave freely, companies need to change the atmosphere."
+    },
+    {
+      "ko": "연차 휴가 일수를 늘리면 업무 효율이 크게 높아진다.",
+      "en": "Increasing the number of annual leave days greatly improves work efficiency."
+    },
+    {
+      "ko": "직장인들은 휴가보다 급여 인상을 더 중요하게 생각한다.",
+      "en": "Office workers consider a pay raise more important than vacation."
+    },
+    {
+      "ko": "일과 삶의 균형은 개인의 노력만으로 충분히 이룰 수 있다.",
+      "en": "Work-life balance can be fully achieved through individual effort alone."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "기사는 직장인들이 업무량과 상사의 눈치 때문에 휴가를 제대로 쓰지 못하는 현실을 전한다. 마지막에 전문가의 말을 빌려 기업이 쉴 수 있는 분위기를 만들어야 한다고 강조하므로 1번이 주제이다. 급여나 휴가 일수에 대한 내용은 글에 나오지 않는다.",
+  "explanation_en": "The article reports that workers cannot use their leave and stresses that companies must create an atmosphere where resting is acceptable, which matches choice 1.",
+  "passage_vocab": [
+    {
+      "word": "과도하다",
+      "pos": "형용사",
+      "en": "to be excessive",
+      "context": "과도한 업무량과 상사의 눈치를 주된 이유로 꼽았다"
+    },
+    {
+      "word": "눈치",
+      "pos": "명사",
+      "en": "awareness of others' reactions; social tact",
+      "context": "상사의 눈치를 주된 이유로 꼽았다"
+    },
+    {
+      "word": "확산되다",
+      "pos": "동사",
+      "en": "to spread, to be diffused",
+      "context": "중시하는 문화가 확산되고 있다고 하지만"
+    },
+    {
+      "word": "조성하다",
+      "pos": "동사",
+      "en": "to create, to foster (an atmosphere)",
+      "context": "쉴 수 있는 분위기를 조성해야 한다고"
+    },
+    {
+      "word": "-는 셈이다",
+      "pos": "표현",
+      "en": "it amounts to; it is practically the case that",
+      "context": "휴가조차 제대로 쓰지 못하는 셈이다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "채용",
+      "pos": "명사",
+      "en": "recruitment, hiring",
+      "example_ko": "우리 회사는 올해 하반기에 신입 사원 채용을 진행할 예정이다.",
+      "example_en": "Our company plans to carry out recruitment of new employees in the second half of this year."
+    },
+    {
+      "word": "승진",
+      "pos": "명사",
+      "en": "promotion",
+      "example_ko": "그는 입사 오 년 만에 과장으로 승진을 했다.",
+      "example_en": "He was promoted to section chief just five years after joining the company."
+    },
+    {
+      "word": "야근",
+      "pos": "명사",
+      "en": "working overtime at night",
+      "example_ko": "마감이 다가와서 이번 주 내내 야근을 했다.",
+      "example_en": "With the deadline approaching, I worked overtime every night this week."
+    },
+    {
+      "word": "퇴직",
+      "pos": "명사",
+      "en": "retirement, leaving a job",
+      "example_ko": "아버지는 삼십 년 다닌 회사에서 지난달에 퇴직을 하셨다.",
+      "example_en": "My father retired last month from the company he had worked at for thirty years."
+    },
+    {
+      "word": "연봉",
+      "pos": "명사",
+      "en": "annual salary",
+      "example_ko": "이직을 하면서 연봉이 이십 퍼센트나 올랐다.",
+      "example_en": "When I changed jobs, my annual salary rose by as much as twenty percent."
+    },
+    {
+      "word": "면접",
+      "pos": "명사",
+      "en": "job interview",
+      "example_ko": "내일 면접이 있어서 예상 질문에 대한 답을 준비하고 있다.",
+      "example_en": "I have a job interview tomorrow, so I am preparing answers to expected questions."
+    },
+    {
+      "word": "동료",
+      "pos": "명사",
+      "en": "colleague, coworker",
+      "example_ko": "힘든 일이 있을 때마다 동료들이 큰 힘이 되어 준다.",
+      "example_en": "Whenever things get hard, my colleagues are a great source of support."
+    },
+    {
+      "word": "성과",
+      "pos": "명사",
+      "en": "results, achievement",
+      "example_ko": "이번 프로젝트에서 기대 이상의 성과를 거두었다.",
+      "example_en": "We achieved better results than expected in this project."
+    },
+    {
+      "word": "출근",
+      "pos": "명사",
+      "en": "going to work",
+      "example_ko": "길이 막혀서 출근에 한 시간 반이나 걸렸다.",
+      "example_en": "Because of the traffic, it took me an hour and a half to get to work."
+    },
+    {
+      "word": "회식",
+      "pos": "명사",
+      "en": "company dinner, team gathering",
+      "example_ko": "요즘은 점심시간에 간단히 회식을 하는 회사가 늘고 있다.",
+      "example_en": "These days, more companies are having simple team gatherings during lunchtime."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "passage_ko": "스마트폰 사용의 확산으로 인해 얼굴을 마주 보고 대화하는 시간이 줄고 있다는 조사 결과가 나왔다. 한 연구팀이 성인 천 명을 조사한 결과, 응답자의 절반 이상이 가족과 식사하는 동안에도 각자 휴대폰만 들여다본다고 답했다. 전문가들은 이런 습관이 굳어지면 가까운 사이일수록 오히려 정서적 거리가 멀어질 수 있다고 경고한다. 기술은 사람을 잇기 위해 만들어졌지만 정작 곁에 있는 사람과의 관계는 소홀해지고 있는 셈이다. 편리함의 대가로 우리가 무엇을 잃고 있는지 돌아볼 필요가 있다.",
+  "passage_en": "Survey results have come out showing that, due to the spread of smartphone use, time spent talking face to face is decreasing. When a research team surveyed one thousand adults, more than half of the respondents answered that even while eating with their families, each person just stares at their own phone. Experts warn that if this habit becomes entrenched, the emotional distance may, ironically, grow wider the closer the relationship is. Technology was created to connect people, yet in effect our relationships with the very people beside us are being neglected. We need to reflect on what we are losing as the price of convenience.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "스마트폰 기술의 발전을 낙관적으로 전망하고 있다.",
+      "en": "The writer takes an optimistic view of the advancement of smartphone technology."
+    },
+    {
+      "ko": "조사 결과의 신뢰성에 의문을 제기하고 있다.",
+      "en": "The writer raises doubts about the reliability of the survey results."
+    },
+    {
+      "ko": "기기 사용으로 인해 관계가 멀어지는 현상을 우려하고 있다.",
+      "en": "The writer is concerned about relationships growing distant due to device use."
+    },
+    {
+      "ko": "대화 부족의 책임을 전적으로 개인에게 돌리고 있다.",
+      "en": "The writer places the blame for the lack of conversation entirely on individuals."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "필자는 전문가의 경고를 인용하며 정서적 거리가 멀어질 수 있다는 점을 강조하고 있다. '편리함의 대가로 무엇을 잃고 있는지 돌아볼 필요가 있다'는 마지막 문장에서 우려하는 태도가 분명히 드러난다. 조사 결과를 의심하거나 특정 개인을 탓하는 내용은 없다.",
+  "explanation_en": "By citing experts' warnings and closing with a call to reflect on what we are losing to convenience, the writer clearly expresses concern about device use pushing close relationships apart.",
+  "passage_vocab": [
+    {
+      "word": "확산",
+      "pos": "명사",
+      "en": "spread, diffusion",
+      "context": "스마트폰 사용의 확산으로 인해"
+    },
+    {
+      "word": "정서적",
+      "pos": "명사",
+      "en": "emotional",
+      "context": "정서적 거리가 멀어질 수 있다"
+    },
+    {
+      "word": "굳어지다",
+      "pos": "동사",
+      "en": "to harden, to become entrenched",
+      "context": "이런 습관이 굳어지면"
+    },
+    {
+      "word": "소홀하다",
+      "pos": "형용사",
+      "en": "negligent, careless",
+      "context": "관계는 소홀해지고 있는 셈이다"
+    },
+    {
+      "word": "대가",
+      "pos": "명사",
+      "en": "price, cost (paid in exchange)",
+      "context": "편리함의 대가로"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "배려",
+      "pos": "명사",
+      "en": "consideration, thoughtfulness",
+      "example_ko": "작은 배려가 상대방의 마음을 움직이는 법이다.",
+      "example_en": "It is small acts of consideration that move the other person's heart."
+    },
+    {
+      "word": "공감",
+      "pos": "명사",
+      "en": "empathy, sympathy",
+      "example_ko": "그의 연설은 많은 청중의 공감을 얻었다.",
+      "example_en": "His speech won the empathy of many in the audience."
+    },
+    {
+      "word": "오해",
+      "pos": "명사",
+      "en": "misunderstanding",
+      "example_ko": "말투 때문에 생긴 오해를 풀기까지 오랜 시간이 걸렸다.",
+      "example_en": "It took a long time to clear up the misunderstanding caused by his tone of speech."
+    },
+    {
+      "word": "신뢰",
+      "pos": "명사",
+      "en": "trust",
+      "example_ko": "신뢰는 쌓기는 어렵지만 무너지는 것은 한순간이다.",
+      "example_en": "Trust is hard to build, but it collapses in an instant."
+    },
+    {
+      "word": "위로하다",
+      "pos": "동사",
+      "en": "to comfort, to console",
+      "example_ko": "친구는 시험에 떨어진 나를 밤늦게까지 위로해 주었다.",
+      "example_en": "My friend comforted me until late at night after I failed the exam."
+    },
+    {
+      "word": "서운하다",
+      "pos": "형용사",
+      "en": "to feel hurt or let down",
+      "example_ko": "생일을 잊어버린 남편에게 서운한 마음이 들었다.",
+      "example_en": "I felt hurt by my husband, who had forgotten my birthday."
+    },
+    {
+      "word": "다투다",
+      "pos": "동사",
+      "en": "to quarrel, to argue",
+      "example_ko": "사소한 일로 다투고 나면 늘 후회가 남는다.",
+      "example_en": "After quarreling over something trivial, I am always left with regret."
+    },
+    {
+      "word": "화해하다",
+      "pos": "동사",
+      "en": "to reconcile, to make up",
+      "example_ko": "두 사람은 오랜 침묵 끝에 마침내 화해했다.",
+      "example_en": "After a long silence, the two finally reconciled."
+    },
+    {
+      "word": "성격",
+      "pos": "명사",
+      "en": "personality, character",
+      "example_ko": "두 사람은 성격이 정반대인데도 사이가 아주 좋다.",
+      "example_en": "Even though their personalities are complete opposites, the two get along very well."
+    },
+    {
+      "word": "소통",
+      "pos": "명사",
+      "en": "communication, mutual understanding",
+      "example_ko": "세대 간의 소통이 부족하면 오해가 쌓이기 쉽다.",
+      "example_en": "When communication between generations is lacking, misunderstandings easily pile up."
+    }
+  ]
+}

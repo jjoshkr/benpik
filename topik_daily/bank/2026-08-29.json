@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 물가가 계속 오르면서 소비자들의 지갑이 얇아지고 있다. 한 조사에 따르면 직장인 열 명 중 여섯 명이 생활비를 감당하느라고 저축을 거의 하지 못하는 것으로 나타났다. 특히 20~30대 젊은 층은 월세와 식비 지출이 늘어 외식이나 여가 활동부터 줄이고 있는 것으로 조사됐다. 전문가들은 고물가가 이어질 경우 소비 위축이 경기 전반에 부담을 줄 수 있다고 지적했다.",
+  "passage_en": "With prices continuing to rise recently, consumers' wallets are getting thinner. According to one survey, six out of ten office workers are barely able to save because they are busy covering their living expenses. In particular, people in their twenties and thirties, facing higher rent and food costs, were found to be cutting back on eating out and leisure activities first. Experts pointed out that if high prices persist, shrinking consumption could weigh on the economy as a whole.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "물가 상승으로 가계의 저축과 소비가 위축되고 있다.",
+      "en": "Because of rising prices, household saving and spending are shrinking."
+    },
+    {
+      "ko": "젊은 층은 저축보다 여가 활동을 더 중요하게 생각한다.",
+      "en": "Young people consider leisure activities more important than saving."
+    },
+    {
+      "ko": "직장인의 월급은 물가보다 빠르게 오르고 있다.",
+      "en": "Office workers' salaries are rising faster than prices."
+    },
+    {
+      "ko": "외식비만 줄이면 생활비 부담은 충분히 해결된다.",
+      "en": "Simply cutting dining-out costs is enough to solve the burden of living expenses."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "이 기사는 물가 상승 때문에 직장인들이 저축을 못 하고 소비를 줄이고 있으며, 그것이 경기에 부담이 될 수 있다는 내용이므로 1번이 주제로 알맞다. 2번은 젊은 층이 여가 활동부터 줄인다는 내용과 어긋나고, 3번은 글에 나오지 않는 내용이다.",
+  "explanation_en": "The article's main point is that rising prices are squeezing household saving and consumption, which could burden the broader economy.",
+  "passage_vocab": [
+    {
+      "word": "물가",
+      "pos": "명사",
+      "en": "prices, cost of living",
+      "context": "최근 물가가 계속 오르면서"
+    },
+    {
+      "word": "감당하다",
+      "pos": "동사",
+      "en": "to bear, to manage, to cope with",
+      "context": "생활비를 감당하느라고"
+    },
+    {
+      "word": "지출",
+      "pos": "명사",
+      "en": "spending, expenditure",
+      "context": "월세와 식비 지출이 늘어"
+    },
+    {
+      "word": "위축",
+      "pos": "명사",
+      "en": "contraction, shrinking",
+      "context": "소비 위축이 경기 전반에"
+    },
+    {
+      "word": "경기",
+      "pos": "명사",
+      "en": "economic conditions, business climate",
+      "context": "경기 전반에 부담을 줄 수 있다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "소득",
+      "pos": "명사",
+      "en": "income",
+      "example_ko": "소득이 늘어도 계획 없이 쓰면 돈이 모이지 않는다.",
+      "example_en": "Even if your income grows, money will not accumulate if you spend without a plan."
+    },
+    {
+      "word": "할인",
+      "pos": "명사",
+      "en": "discount",
+      "example_ko": "이 매장은 회원에게 십 퍼센트 할인을 해 준다.",
+      "example_en": "This store gives members a ten percent discount."
+    },
+    {
+      "word": "환불",
+      "pos": "명사",
+      "en": "refund",
+      "example_ko": "영수증이 없으면 환불을 받기 어렵다.",
+      "example_en": "It is hard to get a refund without a receipt."
+    },
+    {
+      "word": "저렴하다",
+      "pos": "형용사",
+      "en": "inexpensive, cheap",
+      "example_ko": "시장이 마트보다 채소 값이 저렴한 편이다.",
+      "example_en": "Vegetables tend to be cheaper at the traditional market than at the supermarket."
+    },
+    {
+      "word": "투자",
+      "pos": "명사",
+      "en": "investment",
+      "example_ko": "그는 주식 투자로 큰 손해를 봤다.",
+      "example_en": "He suffered a big loss from investing in stocks."
+    },
+    {
+      "word": "예산",
+      "pos": "명사",
+      "en": "budget",
+      "example_ko": "여행을 떠나기 전에 예산부터 세우는 것이 좋다.",
+      "example_en": "It is best to set a budget before going on a trip."
+    },
+    {
+      "word": "구매하다",
+      "pos": "동사",
+      "en": "to purchase",
+      "example_ko": "요즘은 휴대폰으로 물건을 구매하는 사람이 많다.",
+      "example_en": "These days, many people purchase things with their phones."
+    },
+    {
+      "word": "대출",
+      "pos": "명사",
+      "en": "loan",
+      "example_ko": "은행에서 대출을 받아 집을 샀다.",
+      "example_en": "I bought a house with a loan from the bank."
+    },
+    {
+      "word": "아끼다",
+      "pos": "동사",
+      "en": "to save, to use sparingly",
+      "example_ko": "용돈을 아껴서 부모님 선물을 샀다.",
+      "example_en": "I saved my allowance and bought a present for my parents."
+    },
+    {
+      "word": "품질",
+      "pos": "명사",
+      "en": "quality (of goods)",
+      "example_ko": "가격이 싸다고 해서 품질까지 나쁜 것은 아니다.",
+      "example_en": "Just because something is cheap does not mean its quality is poor."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "passage_ko": "주민 여러분께 알려 드립니다. 여러분도 아시다시피 현대인은 바쁜 일상 속에서 가족이나 이웃과 마음을 터놓고 이야기할 기회가 점점 줄어들고 있습니다. 이에 우리 복지관에서는 다음 달부터 매주 수요일 저녁에 '마음 나눔 대화 교실'을 열어 경청과 공감의 대화법을 배우는 시간을 마련하고자 합니다. 참가비는 무료이며, 관심 있는 분은 이달 말까지 복지관 사무실이나 홈페이지에서 신청하시기 바랍니다.",
+  "passage_en": "We would like to inform our residents of the following. As you know, in their busy daily lives, people today have fewer and fewer chances to talk openly with family or neighbors. Accordingly, starting next month, our community welfare center will open a 'Heart-Sharing Conversation Class' every Wednesday evening to provide time to learn conversation skills of listening and empathy. Participation is free, and those who are interested are asked to apply at the welfare center office or on our website by the end of this month.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "복지관 사무실의 운영 시간 변경 안내",
+      "en": "Notice of a change in the welfare center office's operating hours"
+    },
+    {
+      "ko": "대화법을 배우는 무료 프로그램의 참가자 모집",
+      "en": "Recruitment of participants for a free program teaching conversation skills"
+    },
+    {
+      "ko": "이웃 간의 갈등을 해결해 주는 상담소 개소 홍보",
+      "en": "Promotion of the opening of a counseling office that resolves conflicts between neighbors"
+    },
+    {
+      "ko": "가족 초청 행사를 도울 자원봉사자 모집",
+      "en": "Recruitment of volunteers to help with a family invitation event"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "이 안내문은 복지관에서 새로 여는 '마음 나눔 대화 교실'을 소개하고 신청 방법을 알리는 글이다. 경청과 공감의 대화법을 배우는 무료 프로그램의 참가자를 모집하는 것이 목적이므로 2번이 알맞다. 운영 시간 변경이나 상담소, 자원봉사자에 대한 내용은 나오지 않는다.",
+  "explanation_en": "The notice introduces a free conversation class and explains how to apply, so its purpose is to recruit participants, as stated in choice 2.",
+  "passage_vocab": [
+    {
+      "word": "터놓다",
+      "pos": "동사",
+      "en": "to open up, to speak frankly",
+      "context": "마음을 터놓고 이야기할 기회가"
+    },
+    {
+      "word": "경청",
+      "pos": "명사",
+      "en": "attentive listening",
+      "context": "경청과 공감의 대화법을 배우는 시간"
+    },
+    {
+      "word": "공감",
+      "pos": "명사",
+      "en": "empathy, sympathy",
+      "context": "경청과 공감의 대화법을 배우는 시간"
+    },
+    {
+      "word": "마련하다",
+      "pos": "동사",
+      "en": "to arrange, to prepare, to set up",
+      "context": "배우는 시간을 마련하고자 합니다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "배려",
+      "pos": "명사",
+      "en": "consideration, thoughtfulness",
+      "example_ko": "작은 배려가 상대방에게는 큰 감동이 될 수 있다.",
+      "example_en": "A small act of consideration can deeply touch the other person."
+    },
+    {
+      "word": "오해",
+      "pos": "명사",
+      "en": "misunderstanding",
+      "example_ko": "말투 때문에 생긴 오해를 풀기 위해 그와 오래 이야기했다.",
+      "example_en": "I talked with him for a long time to clear up a misunderstanding caused by my tone."
+    },
+    {
+      "word": "신뢰",
+      "pos": "명사",
+      "en": "trust",
+      "example_ko": "한번 무너진 신뢰를 다시 쌓기는 쉽지 않다.",
+      "example_en": "Once trust is broken, it is not easy to rebuild it."
+    },
+    {
+      "word": "위로",
+      "pos": "명사",
+      "en": "consolation, comfort",
+      "example_ko": "친구의 따뜻한 위로 덕분에 마음이 한결 가벼워졌다.",
+      "example_en": "Thanks to my friend's warm words of comfort, my heart felt much lighter."
+    },
+    {
+      "word": "존중",
+      "pos": "명사",
+      "en": "respect",
+      "example_ko": "좋은 관계는 서로에 대한 존중에서 시작된다.",
+      "example_en": "A good relationship begins with respect for each other."
+    },
+    {
+      "word": "질투",
+      "pos": "명사",
+      "en": "jealousy",
+      "example_ko": "친한 친구의 성공에 질투를 느끼는 자신이 부끄러웠다.",
+      "example_en": "I was ashamed of myself for feeling jealous of my close friend's success."
+    },
+    {
+      "word": "소통",
+      "pos": "명사",
+      "en": "communication",
+      "example_ko": "부모와 자녀 사이에는 무엇보다 소통이 중요하다.",
+      "example_en": "Between parents and children, communication matters more than anything."
+    },
+    {
+      "word": "성격",
+      "pos": "명사",
+      "en": "personality, character",
+      "example_ko": "두 사람은 성격이 정반대인데도 사이가 아주 좋다.",
+      "example_en": "Although the two have completely opposite personalities, they get along very well."
+    },
+    {
+      "word": "다투다",
+      "pos": "동사",
+      "en": "to quarrel, to argue",
+      "example_ko": "사소한 일로 다투고 나서 하루 종일 마음이 불편했다.",
+      "example_en": "After arguing over something trivial, I felt uneasy all day."
+    },
+    {
+      "word": "사귀다",
+      "pos": "동사",
+      "en": "to make friends with, to date",
+      "example_ko": "그는 성격이 밝아서 어디에서든 친구를 잘 사귄다.",
+      "example_en": "He has a cheerful personality, so he makes friends easily wherever he goes."
+    }
+  ]
+}

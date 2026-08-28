@@ -1,0 +1,130 @@
+{
+  "passage_ko": "한빛시에서 알뜰 소비 문화를 넓히고자 '중고 나눔 장터'를 엽니다. 지난해 처음 행사를 열었더니 예상보다 많은 시민이 찾아와 준비한 물품이 오전에 모두 동났습니다. 이에 올해는 (    ) 운영 시간도 오후 6시까지 연장했습니다. 판매를 원하시는 분은 9월 15일까지 시청 누리집에서 신청하시기 바랍니다. 수익금의 일부는 지역의 저소득 가정에 전달됩니다.",
+  "passage_en": "Hanbit City is opening a 'Secondhand Sharing Market' to spread a culture of thrifty spending. When we held the event for the first time last year, far more citizens came than expected and all the prepared goods sold out in the morning. Accordingly, this year we have (    ) and also extended the operating hours to 6 p.m. Those who wish to sell should apply on the city hall website by September 15. Part of the proceeds will be delivered to low-income families in the area.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "행사 장소를 실내로 옮기고",
+      "en": "moved the venue indoors"
+    },
+    {
+      "ko": "판매 물품을 두 배로 늘리고",
+      "en": "doubled the number of items for sale"
+    },
+    {
+      "ko": "참가 인원을 절반으로 줄이고",
+      "en": "cut the number of participants in half"
+    },
+    {
+      "ko": "입장료를 새로 도입하고",
+      "en": "newly introduced an admission fee"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "지난해에는 시민이 많이 찾아와 물품이 오전에 모두 동났다고 했다. 그 문제를 해결하기 위한 조치가 빈칸에 와야 하므로, 운영 시간 연장과 함께 판매 물품을 두 배로 늘렸다는 2번이 자연스럽다.",
+  "explanation_en": "Since last year's goods sold out in the morning, the natural remedy paired with longer hours is doubling the items for sale, making choice 2 correct.",
+  "passage_vocab": [
+    {
+      "word": "알뜰",
+      "pos": "명사",
+      "en": "thriftiness, frugality",
+      "context": "알뜰 소비 문화를 넓히고자"
+    },
+    {
+      "word": "동나다",
+      "pos": "동사",
+      "en": "to run out, to sell out",
+      "context": "물품이 오전에 모두 동났습니다"
+    },
+    {
+      "word": "연장하다",
+      "pos": "동사",
+      "en": "to extend",
+      "context": "오후 6시까지 연장했습니다"
+    },
+    {
+      "word": "수익금",
+      "pos": "명사",
+      "en": "proceeds, profits",
+      "context": "수익금의 일부는"
+    },
+    {
+      "word": "저소득",
+      "pos": "명사",
+      "en": "low income",
+      "context": "지역의 저소득 가정에"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "물가",
+      "pos": "명사",
+      "en": "prices, cost of living",
+      "example_ko": "물가가 계속 올라서 장보기가 부담스러워졌다.",
+      "example_en": "Prices keep rising, so grocery shopping has become a burden."
+    },
+    {
+      "word": "할인",
+      "pos": "명사",
+      "en": "discount",
+      "example_ko": "회원 가입을 하면 첫 구매에서 10% 할인을 받을 수 있다.",
+      "example_en": "If you sign up as a member, you can get a 10% discount on your first purchase."
+    },
+    {
+      "word": "지출",
+      "pos": "명사",
+      "en": "expenditure, spending",
+      "example_ko": "이번 달은 경조사가 많아 지출이 크게 늘었다.",
+      "example_en": "This month my spending increased greatly because of many family events."
+    },
+    {
+      "word": "절약하다",
+      "pos": "동사",
+      "en": "to save, to economize",
+      "example_ko": "전기를 절약하기 위해 안 쓰는 플러그는 뽑아 둔다.",
+      "example_en": "To save electricity, I unplug appliances that are not in use."
+    },
+    {
+      "word": "소득",
+      "pos": "명사",
+      "en": "income",
+      "example_ko": "소득이 늘어도 저축하는 습관이 없으면 돈이 모이지 않는다.",
+      "example_en": "Even if your income grows, money will not accumulate without a habit of saving."
+    },
+    {
+      "word": "환불",
+      "pos": "명사",
+      "en": "refund",
+      "example_ko": "영수증이 없으면 환불이 어려울 수 있습니다.",
+      "example_en": "Without a receipt, getting a refund may be difficult."
+    },
+    {
+      "word": "투자하다",
+      "pos": "동사",
+      "en": "to invest",
+      "example_ko": "그는 여유 자금을 무리하게 주식에 투자하지 않는다.",
+      "example_en": "He does not recklessly invest his spare money in stocks."
+    },
+    {
+      "word": "가계부",
+      "pos": "명사",
+      "en": "household account book",
+      "example_ko": "가계부를 쓰기 시작한 뒤로 낭비가 눈에 띄게 줄었다.",
+      "example_en": "Since I started keeping a household account book, waste has noticeably decreased."
+    },
+    {
+      "word": "충동구매",
+      "pos": "명사",
+      "en": "impulse buying",
+      "example_ko": "세일 광고를 보면 충동구매를 하기 쉬우니 목록을 미리 적어 가자.",
+      "example_en": "Sale ads make impulse buying easy, so let's write a shopping list in advance."
+    },
+    {
+      "word": "합리적",
+      "pos": "명사",
+      "en": "rational, reasonable",
+      "example_ko": "가격과 품질을 꼼꼼히 비교하는 것이 합리적인 소비의 첫걸음이다.",
+      "example_en": "Carefully comparing price and quality is the first step of rational consumption."
+    }
+  ]
+}

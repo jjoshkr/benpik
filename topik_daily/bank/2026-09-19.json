@@ -1,0 +1,124 @@
+{
+  "passage_ko": "얼마 전 휴대폰이 고장 나서 수리점에 맡기고 이틀을 보낸 적이 있다. 늘 스마트폰에 기대어 사는 탓에 처음에는 길을 찾는 것도, 가족에게 연락하는 것도 막막하기만 했다. 그런데 하루가 지나자 나는 오랜만에 종이 지도를 펼쳐 보고, 버스 옆자리에 앉은 사람과 이야기를 나누며 묘한 해방감을 느꼈다. 휴대폰을 되찾은 날, 나는 기술이 주는 편리함에 감사하면서도 가끔은 스스로 그것과 거리를 두어야겠다고 다짐했다.",
+  "passage_en": "Not long ago, my cell phone broke down, and I spent two days after leaving it at a repair shop. Because I always live leaning on my smartphone, at first even finding my way and contacting my family felt hopelessly daunting. But after a day had passed, I opened a paper map for the first time in ages and chatted with the person sitting next to me on the bus, feeling a strange sense of liberation. On the day I got my phone back, I was grateful for the convenience technology gives, yet I resolved to sometimes keep my distance from it on my own.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "나는 휴대폰이 없는 동안 처음에는 답답함을 느꼈다.",
+      "en": "While I was without my phone, at first I felt frustrated."
+    },
+    {
+      "ko": "나는 휴대폰을 잃어버려서 새 휴대폰을 샀다.",
+      "en": "I lost my phone, so I bought a new one."
+    },
+    {
+      "ko": "나는 휴대폰 없이 일주일을 보냈다.",
+      "en": "I spent a week without my phone."
+    },
+    {
+      "ko": "나는 앞으로 휴대폰을 전혀 쓰지 않기로 결심했다.",
+      "en": "I decided not to use my phone at all from now on."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "글쓴이는 스마트폰에 기대어 사는 탓에 처음에는 길 찾기와 연락이 막막했다고 했으므로 1번이 글의 내용과 같다. 휴대폰은 잃어버린 것이 아니라 고장 나서 수리점에 맡겼고, 보낸 기간은 일주일이 아니라 이틀이다. 또 글쓴이는 휴대폰을 아예 안 쓰기로 한 것이 아니라 가끔 거리를 두기로 다짐했다.",
+  "explanation_en": "The writer says everything felt daunting at first without the phone, so choice 1 matches, while the phone was repaired (not lost), the period was two days (not a week), and the resolution was to keep some distance (not to stop using it entirely).",
+  "passage_vocab": [
+    {
+      "word": "기대다",
+      "pos": "동사",
+      "en": "to lean on, to depend on",
+      "context": "늘 스마트폰에 기대어 사는 탓에"
+    },
+    {
+      "word": "막막하다",
+      "pos": "형용사",
+      "en": "to feel at a loss, daunting",
+      "context": "연락하는 것도 막막하기만 했다"
+    },
+    {
+      "word": "해방감",
+      "pos": "명사",
+      "en": "sense of liberation",
+      "context": "이야기를 나누며 묘한 해방감을 느꼈다"
+    },
+    {
+      "word": "다짐하다",
+      "pos": "동사",
+      "en": "to resolve, to pledge to oneself",
+      "context": "거리를 두어야겠다고 다짐했다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "인공지능",
+      "pos": "명사",
+      "en": "artificial intelligence",
+      "example_ko": "인공지능이 의사의 진단을 돕는 시대가 이미 열렸다.",
+      "example_en": "The era in which artificial intelligence assists doctors' diagnoses has already begun."
+    },
+    {
+      "word": "발명",
+      "pos": "명사",
+      "en": "invention",
+      "example_ko": "전화기의 발명은 인류의 생활 방식을 완전히 바꾸어 놓았다.",
+      "example_en": "The invention of the telephone completely changed the way humans live."
+    },
+    {
+      "word": "첨단",
+      "pos": "명사",
+      "en": "cutting edge, state of the art",
+      "example_ko": "이 공장은 첨단 기술을 도입해 생산 속도를 두 배로 높였다.",
+      "example_en": "This factory doubled its production speed by introducing cutting-edge technology."
+    },
+    {
+      "word": "실험",
+      "pos": "명사",
+      "en": "experiment",
+      "example_ko": "연구팀은 같은 실험을 백 번 넘게 반복해서 결과를 확인했다.",
+      "example_en": "The research team repeated the same experiment more than a hundred times to confirm the results."
+    },
+    {
+      "word": "개발",
+      "pos": "명사",
+      "en": "development",
+      "example_ko": "그 회사는 신약 개발에 십 년 넘게 투자해 왔다.",
+      "example_en": "That company has invested more than ten years in developing new drugs."
+    },
+    {
+      "word": "장치",
+      "pos": "명사",
+      "en": "device, apparatus",
+      "example_ko": "이 자동차에는 졸음운전을 막는 안전 장치가 달려 있다.",
+      "example_en": "This car is equipped with a safety device that prevents drowsy driving."
+    },
+    {
+      "word": "성능",
+      "pos": "명사",
+      "en": "performance (of a machine)",
+      "example_ko": "새로 나온 노트북은 성능이 좋아진 대신 가격도 올랐다.",
+      "example_en": "The newly released laptop has better performance, but its price has gone up as well."
+    },
+    {
+      "word": "정보",
+      "pos": "명사",
+      "en": "information",
+      "example_ko": "인터넷에는 정보가 넘치지만 그중에는 잘못된 것도 많다.",
+      "example_en": "The internet overflows with information, but much of it is incorrect."
+    },
+    {
+      "word": "혁신",
+      "pos": "명사",
+      "en": "innovation",
+      "example_ko": "작은 기업일수록 과감한 혁신이 살아남는 길이 된다.",
+      "example_en": "For smaller companies, bold innovation becomes the way to survive."
+    },
+    {
+      "word": "보안",
+      "pos": "명사",
+      "en": "security",
+      "example_ko": "개인 정보 유출을 막으려면 보안 프로그램을 최신으로 유지해야 한다.",
+      "example_en": "To prevent personal data leaks, you should keep your security programs up to date."
+    }
+  ]
+}

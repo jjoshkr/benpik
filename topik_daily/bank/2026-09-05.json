@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 여행의 목적이 단순한 관광에서 휴식과 자기 성찰로 바뀌고 있다. 유명 관광지를 서둘러 둘러보는 대신 한적한 소도시에 머물며 일상에서 벗어나고자 하는 여행자가 늘어난 것이다. 이들은 빡빡한 일정을 짜기보다는 (    ) 여행지를 선택하는 경향이 있다. 전문가들은 이러한 변화가 과로에 지친 현대인의 생활 방식을 반영한 것이라고 분석한다.",
+  "passage_en": "Recently, the purpose of travel has been shifting from simple sightseeing to rest and self-reflection. Instead of hurriedly touring famous attractions, a growing number of travelers stay in quiet small towns, seeking to escape their daily routines. Rather than drawing up packed itineraries, these travelers tend to choose destinations (    ). Experts analyze that this change reflects the lifestyle of modern people worn out by overwork.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "짧은 시간에 많은 곳을 볼 수 있는",
+      "en": "where they can see many places in a short time"
+    },
+    {
+      "ko": "기념품을 저렴하게 살 수 있는",
+      "en": "where they can buy souvenirs at low prices"
+    },
+    {
+      "ko": "느긋하게 머물며 재충전할 수 있는",
+      "en": "where they can stay at a leisurely pace and recharge"
+    },
+    {
+      "ko": "유명 연예인이 자주 방문하는",
+      "en": "that famous celebrities often visit"
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "앞 문장에서 한적한 소도시에 머물며 일상에서 벗어나고자 하는 여행자가 늘었다고 했다. 빈칸 앞의 '빡빡한 일정을 짜기보다는'과 대조를 이루려면 느긋하게 머물며 재충전할 수 있는 곳을 고른다는 내용이 와야 하므로 3번이 가장 자연스럽다.",
+  "explanation_en": "The contrast with 'rather than packed itineraries' calls for destinations where travelers can relax and recharge, so choice 3 fits best.",
+  "passage_vocab": [
+    {
+      "word": "성찰",
+      "pos": "명사",
+      "en": "self-reflection, introspection",
+      "context": "휴식과 자기 성찰로"
+    },
+    {
+      "word": "한적하다",
+      "pos": "형용사",
+      "en": "quiet, secluded",
+      "context": "한적한 소도시에 머물며"
+    },
+    {
+      "word": "경향",
+      "pos": "명사",
+      "en": "tendency, trend",
+      "context": "선택하는 경향이 있다"
+    },
+    {
+      "word": "과로",
+      "pos": "명사",
+      "en": "overwork",
+      "context": "과로에 지친 현대인"
+    },
+    {
+      "word": "반영하다",
+      "pos": "동사",
+      "en": "to reflect, to mirror",
+      "context": "생활 방식을 반영한 것"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "숙박",
+      "pos": "명사",
+      "en": "lodging, accommodation",
+      "example_ko": "성수기에는 숙박 요금이 평소보다 두 배 가까이 오른다.",
+      "example_en": "In peak season, lodging rates rise to nearly double the usual price."
+    },
+    {
+      "word": "예약하다",
+      "pos": "동사",
+      "en": "to reserve, to book",
+      "example_ko": "출발 한 달 전에 기차표를 미리 예약해 두었다.",
+      "example_en": "I booked the train tickets a month before departure."
+    },
+    {
+      "word": "항공권",
+      "pos": "명사",
+      "en": "airline ticket",
+      "example_ko": "항공권을 일찍 살수록 가격이 저렴한 편이다.",
+      "example_en": "The earlier you buy an airline ticket, the cheaper it tends to be."
+    },
+    {
+      "word": "명소",
+      "pos": "명사",
+      "en": "famous spot, attraction",
+      "example_ko": "이 도시는 골목마다 사진 찍기 좋은 명소가 숨어 있다.",
+      "example_en": "This city has photogenic attractions hidden in every alley."
+    },
+    {
+      "word": "배낭",
+      "pos": "명사",
+      "en": "backpack",
+      "example_ko": "그는 배낭 하나만 메고 두 달 동안 유럽을 돌아다녔다.",
+      "example_en": "He traveled around Europe for two months with just one backpack."
+    },
+    {
+      "word": "휴양지",
+      "pos": "명사",
+      "en": "resort, vacation spot",
+      "example_ko": "그 섬은 조용히 쉬고 싶은 사람들에게 인기 있는 휴양지이다.",
+      "example_en": "The island is a popular vacation spot for people who want a quiet rest."
+    },
+    {
+      "word": "동반하다",
+      "pos": "동사",
+      "en": "to accompany",
+      "example_ko": "이 호텔은 반려동물을 동반한 손님도 이용할 수 있다.",
+      "example_en": "Guests accompanied by pets can also stay at this hotel."
+    },
+    {
+      "word": "풍경",
+      "pos": "명사",
+      "en": "scenery, landscape",
+      "example_ko": "기차 창밖으로 펼쳐진 가을 풍경이 무척 아름다웠다.",
+      "example_en": "The autumn scenery unfolding outside the train window was truly beautiful."
+    },
+    {
+      "word": "체험",
+      "pos": "명사",
+      "en": "hands-on experience",
+      "example_ko": "아이들은 농촌 체험 프로그램에서 직접 감자를 캤다.",
+      "example_en": "The children dug up potatoes themselves in the farm experience program."
+    },
+    {
+      "word": "왕복",
+      "pos": "명사",
+      "en": "round trip",
+      "example_ko": "서울에서 부산까지 왕복 요금이 얼마인지 알아보았다.",
+      "example_en": "I checked how much the round-trip fare from Seoul to Busan is."
+    }
+  ]
+}

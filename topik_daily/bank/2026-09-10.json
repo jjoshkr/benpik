@@ -1,0 +1,130 @@
+{
+  "passage_ko": "청소년의 수면 부족이 심각한 수준에 이르렀다는 조사 결과가 발표되었다. 고등학생의 평균 수면 시간은 6시간에 못 미쳐 성장기 권장 시간보다 두 시간 이상 부족한 것으로 나타났다. 전문가들은 수면 부족이 면역력 저하와 우울감으로 이어질 수 있다고 경고한다. 학업 성적만을 앞세우는 사회 분위기가 바뀌지 않는 한 청소년의 건강 문제는 해결되기 어렵다. 이제는 잠을 줄여 공부하는 것을 미덕으로 여기는 인식부터 바로잡아야 한다.",
+  "passage_en": "Survey results have been released showing that sleep deprivation among adolescents has reached a serious level. High school students' average sleep time fell short of six hours, more than two hours below the amount recommended for their growth period. Experts warn that lack of sleep can lead to weakened immunity and depression. As long as the social atmosphere that puts academic grades above everything else does not change, adolescents' health problems will be hard to solve. It is time to correct, first of all, the perception that cutting back on sleep to study is a virtue.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "청소년 수면 연구의 성과에 만족하고 있다.",
+      "en": "The writer is satisfied with the achievements of adolescent sleep research."
+    },
+    {
+      "ko": "조사 결과의 신뢰성에 의문을 제기하고 있다.",
+      "en": "The writer questions the reliability of the survey results."
+    },
+    {
+      "ko": "문제가 시간이 지나면 나아질 것이라고 낙관하고 있다.",
+      "en": "The writer is optimistic that the problem will improve over time."
+    },
+    {
+      "ko": "현 상황을 우려하며 사회적 인식의 변화를 촉구하고 있다.",
+      "en": "The writer is concerned about the current situation and urges a change in social perceptions."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "필자는 조사 결과를 근거로 청소년 수면 부족의 심각성을 지적하고, 사회 분위기가 '바뀌지 않는 한' 문제가 해결되기 어렵다고 말한다. 마지막 문장에서 잘못된 인식부터 바로잡자고 요구하므로, 상황을 우려하며 변화를 촉구하는 4번이 알맞다.",
+  "explanation_en": "The writer treats teen sleep loss as a serious problem and calls for changing the grade-first mindset, so choice 4 describes the attitude correctly.",
+  "passage_vocab": [
+    {
+      "word": "못 미치다",
+      "pos": "표현",
+      "en": "to fall short of",
+      "context": "6시간에 못 미쳐"
+    },
+    {
+      "word": "면역력",
+      "pos": "명사",
+      "en": "immunity, immune strength",
+      "context": "면역력 저하와 우울감"
+    },
+    {
+      "word": "저하",
+      "pos": "명사",
+      "en": "decline, deterioration",
+      "context": "면역력 저하와 우울감으로"
+    },
+    {
+      "word": "미덕",
+      "pos": "명사",
+      "en": "virtue",
+      "context": "미덕으로 여기는 인식"
+    },
+    {
+      "word": "바로잡다",
+      "pos": "동사",
+      "en": "to correct, to set right",
+      "context": "인식부터 바로잡아야 한다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "증상",
+      "pos": "명사",
+      "en": "symptom",
+      "example_ko": "감기 증상이 일주일 넘게 계속되면 병원에 가 보는 것이 좋다.",
+      "example_en": "If cold symptoms last more than a week, it is best to see a doctor."
+    },
+    {
+      "word": "예방하다",
+      "pos": "동사",
+      "en": "to prevent",
+      "example_ko": "손을 자주 씻는 것만으로도 많은 질병을 예방할 수 있다.",
+      "example_en": "Just washing your hands often can prevent many diseases."
+    },
+    {
+      "word": "진료",
+      "pos": "명사",
+      "en": "medical treatment, consultation",
+      "example_ko": "이 병원은 토요일 오전에도 진료를 한다.",
+      "example_en": "This hospital also offers consultations on Saturday mornings."
+    },
+    {
+      "word": "회복하다",
+      "pos": "동사",
+      "en": "to recover",
+      "example_ko": "수술 후에는 충분히 쉬어야 빨리 회복할 수 있다.",
+      "example_en": "After surgery, you need plenty of rest to recover quickly."
+    },
+    {
+      "word": "규칙적",
+      "pos": "명사",
+      "en": "regular, routine",
+      "example_ko": "규칙적인 운동은 약보다 나은 보약이라고들 한다.",
+      "example_en": "People say regular exercise is a better tonic than medicine."
+    },
+    {
+      "word": "영양소",
+      "pos": "명사",
+      "en": "nutrient",
+      "example_ko": "아침을 거르면 하루에 필요한 영양소를 채우기 어렵다.",
+      "example_en": "If you skip breakfast, it is hard to get the nutrients you need for the day."
+    },
+    {
+      "word": "검진",
+      "pos": "명사",
+      "en": "medical checkup",
+      "example_ko": "마흔이 넘으면 해마다 건강 검진을 받는 것이 좋다.",
+      "example_en": "After turning forty, it is advisable to get a health checkup every year."
+    },
+    {
+      "word": "처방",
+      "pos": "명사",
+      "en": "prescription",
+      "example_ko": "의사의 처방 없이 약을 함부로 먹으면 안 된다.",
+      "example_en": "You should not take medicine carelessly without a doctor's prescription."
+    },
+    {
+      "word": "피로",
+      "pos": "명사",
+      "en": "fatigue",
+      "example_ko": "쌓인 피로를 풀지 않으면 결국 큰 병이 되기 쉽다.",
+      "example_en": "If accumulated fatigue is not relieved, it can easily turn into a serious illness."
+    },
+    {
+      "word": "비만",
+      "pos": "명사",
+      "en": "obesity",
+      "example_ko": "야식을 즐기는 습관은 비만의 주요 원인 가운데 하나이다.",
+      "example_en": "The habit of enjoying late-night snacks is one of the main causes of obesity."
+    }
+  ]
+}

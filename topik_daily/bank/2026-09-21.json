@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 취미와 공부를 결합한 성인 대상 학습 모임이 빠르게 늘고 있다. 참가자들은 스트레스를 풀 겸 새로운 지식도 쌓을 겸 퇴근 후 독서 모임이나 외국어 스터디에 참여한다. 전문가들은 이러한 자발적 학습이 학교 교육과 달리 (    ) 오래 지속되는 경향이 있다고 분석한다. 흥미와 필요에서 출발한 공부는 외부의 강요가 없어도 꾸준히 이어지기 때문이다.",
+  "passage_en": "Recently, adult study groups that combine hobbies with learning have been growing rapidly. Participants join book clubs or foreign language study groups after work, partly to relieve stress and partly to build new knowledge. Experts analyze that, unlike school education, this kind of voluntary learning tends to last a long time (    ). This is because studying that starts from interest and personal need continues steadily even without outside pressure.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "성적을 올리는 데 초점을 맞추기 때문에",
+      "en": "because it focuses on raising grades"
+    },
+    {
+      "ko": "의무감이 아니라 즐거움에서 비롯되기 때문에",
+      "en": "because it springs from enjoyment rather than a sense of obligation"
+    },
+    {
+      "ko": "정해진 교육 과정을 반드시 따라야 하기 때문에",
+      "en": "because a fixed curriculum must be followed"
+    },
+    {
+      "ko": "많은 비용과 시간이 들기 때문에",
+      "en": "because it requires a lot of money and time"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "빈칸 뒤 문장에서 '흥미와 필요에서 출발한 공부는 외부의 강요가 없어도 꾸준히 이어진다'고 이유를 밝히고 있다. 즉 자발적 학습이 오래 지속되는 까닭은 즐거움에서 비롯되기 때문이므로 2번이 알맞다. 성적, 정해진 교육 과정, 비용은 학교 교육의 특징이거나 지속의 이유가 될 수 없다.",
+  "explanation_en": "The following sentence explains that study rooted in interest continues without outside pressure, so the blank must say voluntary learning lasts because it comes from enjoyment, not obligation.",
+  "passage_vocab": [
+    {
+      "word": "자발적",
+      "pos": "명사",
+      "en": "voluntary, self-motivated",
+      "context": "이러한 자발적 학습이"
+    },
+    {
+      "word": "강요",
+      "pos": "명사",
+      "en": "coercion, compulsion",
+      "context": "외부의 강요가 없어도"
+    },
+    {
+      "word": "지속되다",
+      "pos": "동사",
+      "en": "to continue, to be sustained",
+      "context": "오래 지속되는 경향이 있다"
+    },
+    {
+      "word": "비롯되다",
+      "pos": "동사",
+      "en": "to originate from, to stem from",
+      "context": "즐거움에서 비롯되기 때문에"
+    },
+    {
+      "word": "결합하다",
+      "pos": "동사",
+      "en": "to combine, to unite",
+      "context": "취미와 공부를 결합한"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "진학",
+      "pos": "명사",
+      "en": "entering a higher-level school",
+      "example_ko": "그는 대학원 진학을 놓고 오랫동안 고민했다.",
+      "example_en": "He agonized for a long time over whether to go on to graduate school."
+    },
+    {
+      "word": "전공",
+      "pos": "명사",
+      "en": "major, field of study",
+      "example_ko": "전공과 관계없는 분야에 취직하는 사람이 늘고 있다.",
+      "example_en": "More and more people are getting jobs in fields unrelated to their major."
+    },
+    {
+      "word": "성취감",
+      "pos": "명사",
+      "en": "sense of accomplishment",
+      "example_ko": "어려운 문제를 혼자 풀었을 때 큰 성취감을 느꼈다.",
+      "example_en": "I felt a great sense of accomplishment when I solved the difficult problem on my own."
+    },
+    {
+      "word": "암기하다",
+      "pos": "동사",
+      "en": "to memorize",
+      "example_ko": "단어를 무작정 암기하는 것보다 문장 속에서 익히는 것이 효과적이다.",
+      "example_en": "Learning words in sentences is more effective than memorizing them blindly."
+    },
+    {
+      "word": "복습",
+      "pos": "명사",
+      "en": "review (of lessons)",
+      "example_ko": "수업이 끝난 날 바로 복습을 해야 기억에 오래 남는다.",
+      "example_en": "You should review on the same day the class ends so it stays in your memory longer."
+    },
+    {
+      "word": "집중력",
+      "pos": "명사",
+      "en": "concentration, focus",
+      "example_ko": "잠이 부족하면 집중력이 눈에 띄게 떨어진다.",
+      "example_en": "When you lack sleep, your concentration drops noticeably."
+    },
+    {
+      "word": "장학금",
+      "pos": "명사",
+      "en": "scholarship",
+      "example_ko": "그녀는 성적이 우수해서 4년 내내 장학금을 받았다.",
+      "example_en": "Her grades were so excellent that she received a scholarship for all four years."
+    },
+    {
+      "word": "교양",
+      "pos": "명사",
+      "en": "general culture, refinement",
+      "example_ko": "폭넓은 독서는 교양을 쌓는 가장 좋은 방법이다.",
+      "example_en": "Reading widely is the best way to build general cultural knowledge."
+    },
+    {
+      "word": "문해력",
+      "pos": "명사",
+      "en": "literacy, reading comprehension ability",
+      "example_ko": "긴 글을 읽지 않는 습관 탓에 청소년의 문해력이 낮아지고 있다.",
+      "example_en": "Teenagers' literacy is declining due to the habit of not reading long texts."
+    },
+    {
+      "word": "습득하다",
+      "pos": "동사",
+      "en": "to acquire (knowledge, skills)",
+      "example_ko": "아이들은 놀이를 통해 자연스럽게 언어를 습득한다.",
+      "example_en": "Children naturally acquire language through play."
+    }
+  ]
+}

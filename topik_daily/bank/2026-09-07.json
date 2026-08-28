@@ -1,0 +1,130 @@
+{
+  "passage_ko": "올여름 고향에 내려갔다가 어릴 적 헤엄치며 놀던 개울이 바닥을 드러낸 것을 보았다. 몇 해 전까지만 해도 물이 맑게 흐르더니 이제는 갈라진 흙바닥만 남아 있었다. 아버지는 봄부터 비가 거의 오지 않아 올해 농사도 망쳤다며 한숨을 쉬셨다. 나는 기후 변화가 (    ) 것을 그제야 실감했다. 뉴스 속 남의 이야기라고만 여겼던 내 자신이 부끄러워졌다.",
+  "passage_en": "This summer I went down to my hometown and saw that the stream where I used to swim and play as a child had run dry to the bottom. Until just a few years ago the water flowed clear, but now only cracked dirt remained. My father sighed, saying that it had barely rained since spring and this year's farming was ruined too. Only then did it sink in for me that climate change (    ). I felt ashamed of myself for having regarded it as merely someone else's story on the news.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "과학자들의 과장된 주장일 뿐이라는",
+      "en": "is nothing more than an exaggerated claim by scientists"
+    },
+    {
+      "ko": "도시에서만 일어나는 문제라는",
+      "en": "is a problem that occurs only in cities"
+    },
+    {
+      "ko": "시간이 지나면 저절로 해결된다는",
+      "en": "will resolve itself as time goes by"
+    },
+    {
+      "ko": "먼 미래가 아니라 바로 내 고향의 일이라는",
+      "en": "is not a distant future but something happening right in my hometown"
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "글쓴이는 말라 버린 고향 개울과 아버지의 한숨을 직접 보고 나서야 기후 변화를 실감했다고 말한다. 마지막 문장에서 '뉴스 속 남의 이야기'로만 여겼던 자신을 부끄러워하므로, 기후 변화가 바로 자기 고향의 일이라는 4번이 알맞다.",
+  "explanation_en": "Seeing the dried-up stream makes the writer realize climate change is happening in his own hometown rather than being someone else's news story, so choice 4 is correct.",
+  "passage_vocab": [
+    {
+      "word": "드러내다",
+      "pos": "동사",
+      "en": "to expose, to reveal",
+      "context": "개울이 바닥을 드러낸 것"
+    },
+    {
+      "word": "한숨",
+      "pos": "명사",
+      "en": "sigh",
+      "context": "망쳤다며 한숨을 쉬셨다"
+    },
+    {
+      "word": "실감하다",
+      "pos": "동사",
+      "en": "to feel keenly, to truly realize",
+      "context": "그제야 실감했다"
+    },
+    {
+      "word": "여기다",
+      "pos": "동사",
+      "en": "to consider, to regard as",
+      "context": "남의 이야기라고만 여겼던"
+    },
+    {
+      "word": "망치다",
+      "pos": "동사",
+      "en": "to ruin, to spoil",
+      "context": "올해 농사도 망쳤다며"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "오염",
+      "pos": "명사",
+      "en": "pollution, contamination",
+      "example_ko": "공장 폐수로 인한 강물 오염이 심각한 수준에 이르렀다.",
+      "example_en": "River pollution caused by factory wastewater has reached a serious level."
+    },
+    {
+      "word": "재활용",
+      "pos": "명사",
+      "en": "recycling",
+      "example_ko": "플라스틱은 종류별로 나누어 버려야 재활용이 가능하다.",
+      "example_en": "Plastic can only be recycled if it is sorted by type before being thrown away."
+    },
+    {
+      "word": "가뭄",
+      "pos": "명사",
+      "en": "drought",
+      "example_ko": "오랜 가뭄으로 저수지의 물이 절반 이하로 줄었다.",
+      "example_en": "Due to the long drought, the water in the reservoir has dropped to less than half."
+    },
+    {
+      "word": "홍수",
+      "pos": "명사",
+      "en": "flood",
+      "example_ko": "지난달 홍수로 마을의 다리가 물에 잠겼다.",
+      "example_en": "Last month's flood submerged the village bridge."
+    },
+    {
+      "word": "배출하다",
+      "pos": "동사",
+      "en": "to emit, to discharge",
+      "example_ko": "자동차는 도시에서 온실가스를 가장 많이 배출하는 수단 중 하나이다.",
+      "example_en": "Cars are one of the biggest emitters of greenhouse gases in cities."
+    },
+    {
+      "word": "보존하다",
+      "pos": "동사",
+      "en": "to preserve, to conserve",
+      "example_ko": "이 습지는 희귀 생물이 많아 원형 그대로 보존해야 한다.",
+      "example_en": "This wetland has many rare species and must be preserved as it is."
+    },
+    {
+      "word": "폭염",
+      "pos": "명사",
+      "en": "heat wave",
+      "example_ko": "폭염이 이어지자 시에서는 무더위 쉼터를 운영하기 시작했다.",
+      "example_en": "As the heat wave continued, the city began operating cooling shelters."
+    },
+    {
+      "word": "생태계",
+      "pos": "명사",
+      "en": "ecosystem",
+      "example_ko": "외래종 물고기가 늘면서 호수의 생태계가 흔들리고 있다.",
+      "example_en": "As invasive fish increase, the lake's ecosystem is being shaken."
+    },
+    {
+      "word": "멸종",
+      "pos": "명사",
+      "en": "extinction",
+      "example_ko": "서식지가 파괴되면 그곳에 살던 동물은 멸종 위기에 놓인다.",
+      "example_en": "When a habitat is destroyed, the animals living there face the risk of extinction."
+    },
+    {
+      "word": "일회용품",
+      "pos": "명사",
+      "en": "disposable products",
+      "example_ko": "우리 회사는 회의실에서 일회용품 사용을 금지하고 있다.",
+      "example_en": "Our company bans the use of disposable products in meeting rooms."
+    }
+  ]
+}
