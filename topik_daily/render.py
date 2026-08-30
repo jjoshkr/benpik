@@ -31,8 +31,9 @@ def render_text(plan: DailyPlan, p: dict) -> str:
     lines.append(p["passage_ko"])
     lines.append("")
     lines.append(f"❓ {p['question']}")
+    # 선택지는 한국어만 표기한다 — 영어 병기는 문제 풀이에 힌트가 되어 뺐다(운영자 결정).
     for i, c in enumerate(p["choices"]):
-        lines.append(f"   {CIRCLED[i]} {c['ko']}  ({c['en']})")
+        lines.append(f"   {CIRCLED[i]} {c['ko']}")
 
     section("🌐 English Translation")
     lines.append(p["passage_en"])
@@ -85,11 +86,9 @@ def render_html(plan: DailyPlan, p: dict) -> str:
     out.append(f'<h2 style="{_H2}">📖 오늘의 지문</h2>')
     out.append(f'<p style="{_P}">{e(p["passage_ko"])}</p>')
     out.append(f'<p style="{_P}"><strong>❓ {e(p["question"])}</strong></p>')
+    # 선택지는 한국어만 표기한다 — 영어 병기는 문제 풀이에 힌트가 되어 뺐다(운영자 결정).
     for i, c in enumerate(p["choices"]):
-        out.append(
-            f'<p style="{_P}margin-left:8px;">{CIRCLED[i]} {e(c["ko"])}<br>'
-            f'<span style="color:#777;font-size:13px;">&nbsp;&nbsp;&nbsp;{e(c["en"])}</span></p>'
-        )
+        out.append(f'<p style="{_P}margin-left:8px;">{CIRCLED[i]} {e(c["ko"])}</p>')
 
     out.append(f'<h2 style="{_H2}">🌐 English Translation</h2>')
     out.append(f'<p style="{_P}">{e(p["passage_en"])}</p>')

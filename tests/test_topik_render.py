@@ -32,8 +32,10 @@ def test_text_contains_all_content():
     assert PAYLOAD["passage_ko"] in text
     assert PAYLOAD["passage_en"] in text
     assert PAYLOAD["question"] in text
+    # 선택지는 한국어만 — 영어 병기는 힌트가 되므로 렌더링하지 않는다
     for c in PAYLOAD["choices"]:
-        assert c["ko"] in text and c["en"] in text
+        assert c["ko"] in text
+        assert c["en"] not in text
     assert "③" in text  # answer=3
     assert PLAN.exam_label in text
     assert PLAN.exam_url in text
@@ -47,6 +49,9 @@ def test_html_structure_and_escaping():
     html = render_html(PLAN, p)
     assert "&lt;성장&gt;" in html and "&amp;" in html
     assert "<성장>" not in html
+    # HTML 에서도 선택지 영어는 렌더링하지 않는다
+    for c in p["choices"]:
+        assert c["en"] not in html
     # 정답 섹션이 기출 단어 섹션보다 뒤
     assert html.index("정답 및 해설") > html.index("오늘의 기출 단어 10")
     assert PLAN.exam_url in html
