@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "benpik"
+version = "0.3.0"
+description = "TOPIK II 읽기 일일 학습 메일 — 콘텐츠 뱅크 + GitHub Actions cron 발송 (표준 라이브러리만)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "jjoshkr" }]
+# NFR-1: 외부 패키지 0개 — 런타임은 표준 라이브러리만 쓴다.
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+include = ["topik_daily*"]
+
+[tool.setuptools.package-data]
+# 콘텐츠 뱅크 (미리 생성해 둔 하루치 JSON)
+"topik_daily" = ["bank/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
