@@ -1,0 +1,124 @@
+{
+  "passage_ko": "내비게이션은 낯선 길도 손쉽게 찾아 주는 편리한 기술이다. 그러나 내비게이션에 오래 의존한 사람은 공간 기억 능력이 떨어진다는 연구 결과가 있다. 뇌는 스스로 길을 찾는 과정에서 활발하게 활동하는데, 기계가 그 과정을 대신하면 관련 능력이 점차 약해지기 때문이다. 전문가들은 이런 기술에 무조건 기대다가는 인간 고유의 인지 능력이 퇴화할 수 있다고 경고한다. 따라서 가까운 거리는 지도를 보지 않고 기억에 의지해 찾아가 보는 연습이 필요하다.",
+  "passage_en": "A navigation system is a convenient technology that easily guides us along even unfamiliar roads. However, research findings show that people who have long depended on navigation systems have weaker spatial memory. This is because the brain works actively in the process of finding a route on its own, and when a machine takes over that process, the related abilities gradually weaken. Experts warn that if we keep blindly leaning on such technology, uniquely human cognitive abilities may deteriorate. Therefore, for short distances, we need to practice finding our way by memory without looking at a map.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "내비게이션을 오래 사용하면 공간 기억 능력이 좋아진다.",
+      "en": "Using a navigation system for a long time improves spatial memory."
+    },
+    {
+      "ko": "뇌는 기계가 길을 대신 찾아 줄 때 더 활발하게 활동한다.",
+      "en": "The brain works more actively when a machine finds the way instead."
+    },
+    {
+      "ko": "스스로 길을 찾는 연습은 인지 능력을 지키는 데 도움이 된다.",
+      "en": "Practicing finding one's own way helps protect cognitive abilities."
+    },
+    {
+      "ko": "전문가들은 가까운 거리에서도 내비게이션을 쓰라고 권한다.",
+      "en": "Experts recommend using navigation systems even for short distances."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "글에 따르면 뇌는 스스로 길을 찾을 때 활발히 활동하며, 기계에 의존하면 관련 능력이 약해진다. 마지막 문장에서 기억에 의지해 길을 찾아가 보는 연습을 권하고 있으므로 3번이 글의 내용과 같다. 1번과 2번은 글의 내용과 반대이고, 4번은 전문가의 경고와 어긋난다.",
+  "explanation_en": "The passage recommends practicing wayfinding by memory to protect cognitive abilities that weaken when machines take over, so choice 3 matches the passage.",
+  "passage_vocab": [
+    {
+      "word": "의존하다",
+      "pos": "동사",
+      "en": "to depend on, to rely on",
+      "context": "내비게이션에 오래 의존한 사람"
+    },
+    {
+      "word": "고유",
+      "pos": "명사",
+      "en": "inherent, intrinsic (quality)",
+      "context": "인간 고유의 인지 능력"
+    },
+    {
+      "word": "인지",
+      "pos": "명사",
+      "en": "cognition, perception",
+      "context": "인지 능력이 퇴화할 수 있다고"
+    },
+    {
+      "word": "퇴화하다",
+      "pos": "동사",
+      "en": "to degenerate, to atrophy",
+      "context": "인지 능력이 퇴화할 수 있다고 경고한다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "첨단",
+      "pos": "명사",
+      "en": "cutting edge, high-tech",
+      "example_ko": "이 병원은 첨단 장비를 갖추고 있어 정밀한 검사가 가능하다.",
+      "example_en": "This hospital is equipped with cutting-edge equipment, making precise examinations possible."
+    },
+    {
+      "word": "발명",
+      "pos": "명사",
+      "en": "invention",
+      "example_ko": "전화기의 발명은 인류의 생활을 크게 바꾸어 놓았다.",
+      "example_en": "The invention of the telephone greatly changed human life."
+    },
+    {
+      "word": "실험",
+      "pos": "명사",
+      "en": "experiment",
+      "example_ko": "새 약은 수많은 실험을 거친 뒤에야 판매될 수 있다.",
+      "example_en": "A new medicine can be sold only after going through numerous experiments."
+    },
+    {
+      "word": "데이터",
+      "pos": "명사",
+      "en": "data",
+      "example_ko": "이 앱은 수집한 데이터를 바탕으로 사용자에게 음악을 추천한다.",
+      "example_en": "This app recommends music to users based on the data it collects."
+    },
+    {
+      "word": "자동화",
+      "pos": "명사",
+      "en": "automation",
+      "example_ko": "공장의 생산 과정이 자동화되면서 생산 속도가 빨라졌다.",
+      "example_en": "As the factory's production process was automated, production speed increased."
+    },
+    {
+      "word": "성능",
+      "pos": "명사",
+      "en": "performance (of a device)",
+      "example_ko": "새로 나온 노트북은 성능이 좋은 만큼 가격도 비싸다.",
+      "example_en": "The new laptop performs well, but it is priced accordingly."
+    },
+    {
+      "word": "고장",
+      "pos": "명사",
+      "en": "breakdown, malfunction",
+      "example_ko": "엘리베이터가 고장이 나서 계단으로 올라가야 했다.",
+      "example_en": "The elevator broke down, so we had to take the stairs."
+    },
+    {
+      "word": "분석하다",
+      "pos": "동사",
+      "en": "to analyze",
+      "example_ko": "연구팀은 설문 결과를 분석해 보고서를 작성했다.",
+      "example_en": "The research team analyzed the survey results and wrote a report."
+    },
+    {
+      "word": "활용하다",
+      "pos": "동사",
+      "en": "to utilize, to make use of",
+      "example_ko": "수업 시간에 인터넷 자료를 활용하면 이해가 쉬워진다.",
+      "example_en": "Using internet resources in class makes understanding easier."
+    },
+    {
+      "word": "정교하다",
+      "pos": "형용사",
+      "en": "precise, elaborate",
+      "example_ko": "이 시계는 부품 하나하나가 매우 정교하게 만들어졌다.",
+      "example_en": "Each part of this watch is made with great precision."
+    }
+  ]
+}

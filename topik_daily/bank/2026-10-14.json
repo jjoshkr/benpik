@@ -1,0 +1,124 @@
+{
+  "passage_ko": "직원 여러분께 알려 드립니다. 다음 달부터 우리 회사는 주 1회 재택근무 제도를 시범 운영합니다. 일부에서는 집에서 일하면 업무 효율이 떨어지지 않겠느냐고 걱정하시지만, 지난해 시범 부서의 성과를 보면 그럴 리가 없다는 것을 확인할 수 있습니다. 오히려 출퇴근 시간이 줄면서 직원 만족도와 업무 집중도가 함께 높아졌습니다. 참여를 원하시는 분은 이번 주 금요일까지 인사팀에 신청서를 제출해 주시기 바랍니다.",
+  "passage_en": "This is an announcement for all employees. Starting next month, our company will pilot a work-from-home program one day a week. Some worry that working from home might lower work efficiency, but last year's results from the pilot department confirm that this cannot be the case. On the contrary, with commuting time reduced, both employee satisfaction and concentration at work improved. Those who wish to participate are asked to submit an application form to the HR team by this Friday.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "재택근무의 부작용을 심각하게 우려하고 있다",
+      "en": "The writer is seriously concerned about the side effects of working from home."
+    },
+    {
+      "ko": "제도 시행을 신중하게 미루자고 제안하고 있다",
+      "en": "The writer suggests cautiously postponing the program."
+    },
+    {
+      "ko": "직원들의 적극적인 참여를 권장하고 있다",
+      "en": "The writer encourages employees to participate actively."
+    },
+    {
+      "ko": "시범 부서의 성과에 의문을 제기하고 있다",
+      "en": "The writer raises doubts about the pilot department's results."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "글쓴이는 재택근무에 대한 걱정을 시범 부서의 성과를 근거로 반박하고, 만족도와 집중도가 높아졌다는 긍정적인 결과를 제시한다. 마지막에 신청 방법까지 안내하며 참여를 독려하고 있으므로 3번이 알맞다. 부작용을 우려하거나 시행을 미루자는 태도와는 거리가 멀다.",
+  "explanation_en": "The writer counters worries with positive pilot results and guides employees on how to apply, clearly encouraging active participation.",
+  "passage_vocab": [
+    {
+      "word": "시범",
+      "pos": "명사",
+      "en": "trial, pilot (operation)",
+      "context": "재택근무 제도를 시범 운영합니다"
+    },
+    {
+      "word": "효율",
+      "pos": "명사",
+      "en": "efficiency",
+      "context": "업무 효율이 떨어지지 않겠느냐고"
+    },
+    {
+      "word": "만족도",
+      "pos": "명사",
+      "en": "level of satisfaction",
+      "context": "직원 만족도와 업무 집중도가"
+    },
+    {
+      "word": "제출하다",
+      "pos": "동사",
+      "en": "to submit",
+      "context": "인사팀에 신청서를 제출해 주시기"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "휴가",
+      "pos": "명사",
+      "en": "vacation, leave",
+      "example_ko": "이번 여름에는 휴가를 내고 제주도에 다녀올 계획이다.",
+      "example_en": "This summer, I plan to take a vacation and visit Jeju Island."
+    },
+    {
+      "word": "보고서",
+      "pos": "명사",
+      "en": "report",
+      "example_ko": "금요일까지 시장 조사 보고서를 완성해야 한다.",
+      "example_en": "I have to finish the market research report by Friday."
+    },
+    {
+      "word": "발표",
+      "pos": "명사",
+      "en": "presentation, announcement",
+      "example_ko": "그는 신제품 발표를 앞두고 밤늦게까지 자료를 준비했다.",
+      "example_en": "He prepared materials until late at night ahead of the new product presentation."
+    },
+    {
+      "word": "계약",
+      "pos": "명사",
+      "en": "contract",
+      "example_ko": "두 회사는 오랜 협의 끝에 계약을 맺었다.",
+      "example_en": "The two companies signed a contract after long discussions."
+    },
+    {
+      "word": "경영",
+      "pos": "명사",
+      "en": "management (of a business)",
+      "example_ko": "그녀는 대학에서 경영을 공부하고 회사를 차렸다.",
+      "example_en": "She studied business management in college and started her own company."
+    },
+    {
+      "word": "사직",
+      "pos": "명사",
+      "en": "resignation",
+      "example_ko": "그는 건강 문제로 회사에 사직 의사를 밝혔다.",
+      "example_en": "He informed the company of his intention to resign due to health problems."
+    },
+    {
+      "word": "연차",
+      "pos": "명사",
+      "en": "annual leave",
+      "example_ko": "연차를 모아서 다음 달에 긴 여행을 떠나려고 한다.",
+      "example_en": "I am saving up my annual leave to go on a long trip next month."
+    },
+    {
+      "word": "역량",
+      "pos": "명사",
+      "en": "capability, competence",
+      "example_ko": "회사는 직원들의 역량을 키우기 위해 교육 프로그램을 운영한다.",
+      "example_en": "The company runs training programs to develop its employees' capabilities."
+    },
+    {
+      "word": "회의",
+      "pos": "명사",
+      "en": "meeting, conference",
+      "example_ko": "월요일 아침마다 팀 전체 회의가 열린다.",
+      "example_en": "A whole-team meeting is held every Monday morning."
+    },
+    {
+      "word": "협상",
+      "pos": "명사",
+      "en": "negotiation",
+      "example_ko": "노사 양측은 임금 협상을 다시 시작하기로 했다.",
+      "example_en": "Labor and management agreed to restart wage negotiations."
+    }
+  ]
+}

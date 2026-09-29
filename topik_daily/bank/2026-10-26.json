@@ -1,0 +1,130 @@
+{
+  "passage_ko": "직원 여러분께 '마음 나눔 상담실' 운영을 안내드립니다. 여러분도 아시다시피 지난 사내 설문 조사에서 많은 분들이 동료와의 갈등이나 업무 스트레스로 어려움을 겪고 있다고 응답하셨습니다. 이에 회사에서는 매주 화요일과 목요일 오후에 전문 상담사와 일대일로 이야기를 나눌 수 있는 상담실을 운영하기로 했습니다. 상담 내용은 (    ) 안심하고 신청하시기 바랍니다. 신청은 사내 게시판에서 이름 대신 사번만 입력하시면 됩니다.",
+  "passage_en": "We would like to inform all employees about the opening of the 'Heart Sharing Counseling Room'. As you know, in the recent company survey, many of you responded that you are struggling with conflicts with coworkers or work-related stress. Accordingly, the company has decided to run a counseling room where you can talk one-on-one with a professional counselor on Tuesday and Thursday afternoons. The content of your counseling sessions (    ), so please apply with peace of mind. To apply, simply enter your employee number instead of your name on the company bulletin board.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "상담사가 회사에 모두 보고하므로",
+      "en": "will all be reported to the company by the counselor, so"
+    },
+    {
+      "ko": "신청 인원이 많으면 공개될 수 있으니",
+      "en": "may be disclosed if there are many applicants, so"
+    },
+    {
+      "ko": "철저히 비밀이 보장되니",
+      "en": "will be kept strictly confidential, so"
+    },
+    {
+      "ko": "근무 평가에 그대로 반영되니",
+      "en": "will be reflected directly in your performance review, so"
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "빈칸 뒤에 '안심하고 신청하시기 바랍니다'가 이어지고, 마지막 문장에서 이름 대신 사번만 입력하게 하여 신원을 보호한다는 내용이 나온다. 따라서 상담 내용의 비밀이 철저히 보장된다는 3번이 가장 자연스럽다. 회사에 보고되거나 공개되거나 평가에 반영된다면 안심하고 신청하라는 말과 모순된다.",
+  "explanation_en": "Since the blank is followed by 'apply with peace of mind' and the notice protects identity by using employee numbers instead of names, the blank must assure strict confidentiality.",
+  "passage_vocab": [
+    {
+      "word": "상담",
+      "pos": "명사",
+      "en": "counseling, consultation",
+      "context": "상담 내용은 (    ) 안심하고"
+    },
+    {
+      "word": "응답하다",
+      "pos": "동사",
+      "en": "to respond, to answer (a survey)",
+      "context": "어려움을 겪고 있다고 응답하셨습니다"
+    },
+    {
+      "word": "일대일",
+      "pos": "명사",
+      "en": "one-on-one",
+      "context": "전문 상담사와 일대일로 이야기를"
+    },
+    {
+      "word": "안심하다",
+      "pos": "동사",
+      "en": "to feel at ease, to be relieved",
+      "context": "안심하고 신청하시기 바랍니다"
+    },
+    {
+      "word": "사번",
+      "pos": "명사",
+      "en": "employee number",
+      "context": "이름 대신 사번만 입력하시면"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "인연",
+      "pos": "명사",
+      "en": "tie, (fateful) connection between people",
+      "example_ko": "우리는 십 년 전 유학 시절에 맺은 인연을 지금까지 이어 오고 있다.",
+      "example_en": "We have kept up the connection we formed while studying abroad ten years ago."
+    },
+    {
+      "word": "다정하다",
+      "pos": "형용사",
+      "en": "to be warm, affectionate",
+      "example_ko": "그는 누구에게나 다정하게 말을 건넨다.",
+      "example_en": "He speaks warmly to everyone."
+    },
+    {
+      "word": "응원하다",
+      "pos": "동사",
+      "en": "to cheer for, to support",
+      "example_ko": "친구의 새로운 도전을 진심으로 응원했다.",
+      "example_en": "I sincerely cheered on my friend's new challenge."
+    },
+    {
+      "word": "원만하다",
+      "pos": "형용사",
+      "en": "to be amicable, harmonious",
+      "example_ko": "그는 성격이 부드러워서 누구와도 원만하게 지낸다.",
+      "example_en": "He has a gentle personality, so he gets along amicably with everyone."
+    },
+    {
+      "word": "자존감",
+      "pos": "명사",
+      "en": "self-esteem",
+      "example_ko": "작은 성공의 경험이 쌓이면 자존감이 높아진다.",
+      "example_en": "As experiences of small successes accumulate, self-esteem rises."
+    },
+    {
+      "word": "동창",
+      "pos": "명사",
+      "en": "alumnus, schoolmate",
+      "example_ko": "길에서 우연히 고등학교 동창을 만나 한참 이야기를 나눴다.",
+      "example_en": "I ran into a high school classmate on the street and talked for a long while."
+    },
+    {
+      "word": "동질감",
+      "pos": "명사",
+      "en": "sense of kinship, feeling of sameness",
+      "example_ko": "같은 고민을 나누다 보니 서로 동질감을 느끼게 되었다.",
+      "example_en": "Sharing the same worries, we came to feel a sense of kinship."
+    },
+    {
+      "word": "사과하다",
+      "pos": "동사",
+      "en": "to apologize",
+      "example_ko": "잘못을 했으면 미루지 말고 바로 사과하는 것이 좋다.",
+      "example_en": "If you have done something wrong, it is best to apologize right away without delay."
+    },
+    {
+      "word": "부담스럽다",
+      "pos": "형용사",
+      "en": "to feel burdensome, uncomfortable (under pressure)",
+      "example_ko": "너무 비싼 선물은 받는 사람에게 오히려 부담스러울 수 있다.",
+      "example_en": "A gift that is too expensive can actually feel burdensome to the recipient."
+    },
+    {
+      "word": "겸손하다",
+      "pos": "형용사",
+      "en": "to be humble, modest",
+      "example_ko": "그는 큰 상을 받고도 겸손한 태도를 잃지 않았다.",
+      "example_en": "Even after receiving a major award, he never lost his humble attitude."
+    }
+  ]
+}

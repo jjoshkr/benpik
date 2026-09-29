@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 해가 진 뒤에 고궁을 거니는 야간 관람이 큰 인기를 끌고 있다. 낮의 붐비는 인파를 피해 여유롭게 문화유산을 즐기고자 하는 사람들이 밤의 궁궐로 모여드는 것이다. 은은한 조명 아래 드러나는 전각의 모습은 낮과는 전혀 다른 분위기를 자아내 관람객의 발길을 사로잡는다. 예매가 시작되자마자 표가 매진될 정도로 반응이 뜨겁자, 다른 지역의 문화유산에서도 야간 개방 행사가 잇따라 열리고 있다.",
+  "passage_en": "Night-time tours strolling through the old palaces after sunset have recently become very popular. People who wish to enjoy cultural heritage at a leisurely pace, away from the daytime crowds, are gathering at the palaces by night. Revealed under soft lighting, the palace halls create an atmosphere entirely different from daytime and captivate visitors. With tickets selling out as soon as booking opens, night-opening events are now being held one after another at heritage sites in other regions as well.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "고궁의 야간 개방은 문화유산 훼손으로 이어질 수 있다",
+      "en": "Opening old palaces at night can lead to damage to cultural heritage"
+    },
+    {
+      "ko": "고궁 관람은 날씨가 좋은 낮 시간에 하는 것이 좋다",
+      "en": "It is best to tour old palaces during the day when the weather is good"
+    },
+    {
+      "ko": "밤의 고궁이 주는 색다른 매력 덕분에 야간 관람이 인기를 얻고 있다",
+      "en": "Night tours are gaining popularity thanks to the distinctive charm of palaces at night"
+    },
+    {
+      "ko": "문화유산 관람료를 낮춰 방문객을 늘려야 한다",
+      "en": "Admission fees for heritage sites should be lowered to attract more visitors"
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "글은 밤의 고궁이 낮과 전혀 다른 분위기를 자아내 사람들이 몰려들고, 그 인기에 힘입어 야간 개방이 다른 지역으로도 확산되고 있다는 내용이다. 따라서 주제로는 3번이 알맞다. 훼손이나 관람료에 대한 내용은 글에 나오지 않는다.",
+  "explanation_en": "The passage explains that palaces at night offer a completely different charm that draws crowds, so choice 3 states the main idea.",
+  "passage_vocab": [
+    {
+      "word": "인파",
+      "pos": "명사",
+      "en": "crowd (of people)",
+      "context": "낮의 붐비는 인파를 피해"
+    },
+    {
+      "word": "전각",
+      "pos": "명사",
+      "en": "palace hall, palace building",
+      "context": "은은한 조명 아래 드러나는 전각의 모습"
+    },
+    {
+      "word": "자아내다",
+      "pos": "동사",
+      "en": "to create, to evoke (a mood)",
+      "context": "전혀 다른 분위기를 자아내"
+    },
+    {
+      "word": "매진되다",
+      "pos": "동사",
+      "en": "to be sold out",
+      "context": "표가 매진될 정도로"
+    },
+    {
+      "word": "잇따르다",
+      "pos": "동사",
+      "en": "to follow one after another",
+      "context": "야간 개방 행사가 잇따라 열리고 있다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "볼거리",
+      "pos": "명사",
+      "en": "things to see, attractions",
+      "example_ko": "이 도시는 볼거리가 많아서 가족 단위 방문객에게 인기다.",
+      "example_en": "This city has many attractions, so it is popular with families."
+    },
+    {
+      "word": "산책로",
+      "pos": "명사",
+      "en": "walking trail",
+      "example_ko": "호수 둘레에 산책로가 잘 만들어져 있다.",
+      "example_en": "A walking trail is well laid out around the lake."
+    },
+    {
+      "word": "매표소",
+      "pos": "명사",
+      "en": "ticket office",
+      "example_ko": "매표소 앞에 이미 긴 줄이 늘어서 있었다.",
+      "example_en": "A long line had already formed in front of the ticket office."
+    },
+    {
+      "word": "개방하다",
+      "pos": "동사",
+      "en": "to open (to the public)",
+      "example_ko": "이 정원은 봄철에만 일반인에게 개방한다.",
+      "example_en": "This garden is open to the public only in spring."
+    },
+    {
+      "word": "유람선",
+      "pos": "명사",
+      "en": "sightseeing boat, cruise ship",
+      "example_ko": "한강에서 유람선을 타고 도시의 야경을 감상했다.",
+      "example_en": "We took a sightseeing boat on the Han River and enjoyed the city's night view."
+    },
+    {
+      "word": "근교",
+      "pos": "명사",
+      "en": "outskirts, suburbs",
+      "example_ko": "주말이면 서울 근교의 카페를 찾는 사람이 많다.",
+      "example_en": "On weekends, many people visit cafes on the outskirts of Seoul."
+    },
+    {
+      "word": "당일치기",
+      "pos": "명사",
+      "en": "day trip",
+      "example_ko": "이번 주말에는 바다로 당일치기 여행을 다녀올 계획이다.",
+      "example_en": "I am planning a day trip to the sea this weekend."
+    },
+    {
+      "word": "재충전",
+      "pos": "명사",
+      "en": "recharging (oneself)",
+      "example_ko": "짧은 여행은 지친 몸과 마음을 재충전하는 기회가 된다.",
+      "example_en": "A short trip is a chance to recharge a tired body and mind."
+    },
+    {
+      "word": "둘러보다",
+      "pos": "동사",
+      "en": "to look around",
+      "example_ko": "시간이 없어서 박물관을 서둘러 둘러보았다.",
+      "example_en": "Having little time, we looked around the museum in a hurry."
+    },
+    {
+      "word": "북적이다",
+      "pos": "동사",
+      "en": "to be crowded, to bustle",
+      "example_ko": "연휴를 맞아 기차역이 귀성객으로 북적였다.",
+      "example_en": "The train station bustled with holiday travelers."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "passage_ko": "일회용 플라스틱은 한 번 쓰고 버려지는 데다가 자연에서 분해되는 데 수백 년이 걸린다. 바다로 흘러간 플라스틱은 잘게 부서져 미세 플라스틱이 되고, 이는 물고기의 몸을 거쳐 결국 우리의 식탁까지 올라온다. 그럼에도 여전히 많은 사람들이 편리하다는 이유만으로 일회용품을 아무렇지 않게 사용하고 있다. 오늘의 편리함이 치르게 할 대가를 미래 세대가 떠안게 된다는 점을 생각하면 지금의 소비 습관을 이대로 두어서는 안 된다. 늦기 전에 생산과 소비 전반에서 플라스틱 사용을 줄이려는 노력이 시급하다.",
+  "passage_en": "Single-use plastic is thrown away after one use, and on top of that, it takes hundreds of years to decompose in nature. Plastic that flows into the sea breaks into tiny pieces, becomes microplastic, passes through the bodies of fish, and eventually ends up on our dining tables. Nevertheless, many people still casually use disposable products for no reason other than convenience. Considering that future generations will shoulder the price of today's convenience, we must not leave our current consumption habits as they are. Before it is too late, efforts to reduce plastic use across both production and consumption are urgently needed.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "플라스틱 산업의 발전 가능성을 낙관하고 있다.",
+      "en": "The writer is optimistic about the growth potential of the plastics industry."
+    },
+    {
+      "ko": "무분별한 일회용품 사용을 우려하며 변화를 촉구하고 있다.",
+      "en": "The writer is concerned about the indiscriminate use of disposables and urges change."
+    },
+    {
+      "ko": "미세 플라스틱의 위험성이 과장되었다고 반박하고 있다.",
+      "en": "The writer refutes the danger of microplastics as exaggerated."
+    },
+    {
+      "ko": "개인의 소비 습관에 대해 중립적인 입장을 지키고 있다.",
+      "en": "The writer maintains a neutral stance on individual consumption habits."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "필자는 일회용 플라스틱의 해악을 나열한 뒤 '소비 습관을 이대로 두어서는 안 된다', '노력이 시급하다'라고 말한다. 문제를 걱정하면서 변화를 강하게 요구하고 있으므로 2번이 알맞다. 낙관하거나 위험을 부정하거나 중립을 지키는 태도는 글에 나타나지 않는다.",
+  "explanation_en": "After listing the harms of single-use plastic, the writer declares that current habits must not continue and that reduction efforts are urgent, showing concern and a call for change.",
+  "passage_vocab": [
+    {
+      "word": "분해되다",
+      "pos": "동사",
+      "en": "to decompose, to be broken down",
+      "context": "자연에서 분해되는 데 수백 년이"
+    },
+    {
+      "word": "대가",
+      "pos": "명사",
+      "en": "price, cost (of an action)",
+      "context": "편리함이 치르게 할 대가를"
+    },
+    {
+      "word": "떠안다",
+      "pos": "동사",
+      "en": "to shoulder, to take on (a burden)",
+      "context": "미래 세대가 떠안게 된다는 점을"
+    },
+    {
+      "word": "전반",
+      "pos": "명사",
+      "en": "the whole, overall (of an area)",
+      "context": "생산과 소비 전반에서"
+    },
+    {
+      "word": "시급하다",
+      "pos": "형용사",
+      "en": "to be urgent",
+      "context": "줄이려는 노력이 시급하다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "가뭄",
+      "pos": "명사",
+      "en": "drought",
+      "example_ko": "오랜 가뭄으로 저수지의 물이 바닥을 드러냈다.",
+      "example_en": "Because of the long drought, the reservoir has nearly run dry."
+    },
+    {
+      "word": "홍수",
+      "pos": "명사",
+      "en": "flood",
+      "example_ko": "집중 호우로 강 주변 마을에 홍수가 났다.",
+      "example_en": "Torrential rain caused flooding in the villages along the river."
+    },
+    {
+      "word": "재활용",
+      "pos": "명사",
+      "en": "recycling",
+      "example_ko": "유리병은 깨끗이 씻어서 재활용 상자에 넣어야 한다.",
+      "example_en": "Glass bottles should be washed clean and put in the recycling bin."
+    },
+    {
+      "word": "오염",
+      "pos": "명사",
+      "en": "pollution, contamination",
+      "example_ko": "공장 폐수 때문에 강물의 오염이 심각해졌다.",
+      "example_en": "The river's pollution has become serious because of factory wastewater."
+    },
+    {
+      "word": "멸종",
+      "pos": "명사",
+      "en": "extinction",
+      "example_ko": "서식지가 사라지면서 멸종 위기에 놓인 동물이 늘고 있다.",
+      "example_en": "As habitats disappear, more animals are being pushed to the brink of extinction."
+    },
+    {
+      "word": "산림",
+      "pos": "명사",
+      "en": "forest",
+      "example_ko": "산불로 잃은 산림을 되살리는 데는 수십 년이 걸린다.",
+      "example_en": "It takes decades to restore forests lost to wildfires."
+    },
+    {
+      "word": "대기",
+      "pos": "명사",
+      "en": "atmosphere, air",
+      "example_ko": "바람이 불지 않는 날에는 대기 중 오염 물질이 쌓이기 쉽다.",
+      "example_en": "On windless days, pollutants tend to build up in the air."
+    },
+    {
+      "word": "절약하다",
+      "pos": "동사",
+      "en": "to save, to conserve",
+      "example_ko": "물을 절약하기 위해 샤워 시간을 오 분으로 줄였다.",
+      "example_en": "To conserve water, I cut my shower time down to five minutes."
+    },
+    {
+      "word": "보존하다",
+      "pos": "동사",
+      "en": "to preserve, to conserve",
+      "example_ko": "이 습지는 희귀한 새들을 위해 원형 그대로 보존해야 한다.",
+      "example_en": "This wetland must be preserved as it is for the sake of rare birds."
+    },
+    {
+      "word": "재생",
+      "pos": "명사",
+      "en": "regeneration, renewal (renewable)",
+      "example_ko": "정부는 태양광 같은 재생 에너지에 대한 투자를 늘리고 있다.",
+      "example_en": "The government is increasing investment in renewable energy such as solar power."
+    }
+  ]
+}

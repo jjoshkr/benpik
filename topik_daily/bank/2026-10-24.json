@@ -1,0 +1,124 @@
+{
+  "passage_ko": "직장인들이 점심시간을 어떻게 보내는지 조사한 결과가 발표됐다. 한 취업 포털이 직장인 1,000명을 조사한 결과, 응답자의 40퍼센트가 점심시간에 제대로 쉬기는커녕 밀린 일을 하거나 끼니를 대충 때운다고 답했다. 점심시간을 온전히 누리지 못하는 이유로는 빠듯한 업무량과 자리를 비우기 어려운 조직 분위기가 꼽혔다. 전문가들은 점심시간의 휴식이 오후 업무의 능률을 높이는 만큼 (    ) 문화가 자리 잡아야 한다고 조언했다.",
+  "passage_en": "Survey results on how office workers spend their lunch breaks have been released. When a job portal surveyed 1,000 office workers, 40 percent of respondents answered that, far from resting properly during lunch, they catch up on backlogged work or grab a quick bite. A heavy workload and an office atmosphere that makes it hard to leave one's desk were cited as the reasons workers cannot fully enjoy their lunch break. Experts advised that since resting at lunchtime raises afternoon work efficiency, a culture in which (    ) needs to take root.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "점심 메뉴를 다 같이 정하는",
+      "en": "everyone chooses the lunch menu together"
+    },
+    {
+      "ko": "점심시간을 지금보다 줄이는",
+      "en": "the lunch break is made shorter than now"
+    },
+    {
+      "ko": "누구나 눈치 보지 않고 점심시간을 쉴 수 있는",
+      "en": "anyone can rest during lunch without minding others' eyes"
+    },
+    {
+      "ko": "오후 회의를 점심시간에 여는",
+      "en": "afternoon meetings are held during lunch"
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "앞에서 직장인들이 업무량과 조직 분위기 때문에 점심시간에 제대로 쉬지 못한다고 했고, 점심 휴식이 오후 능률을 높인다고 했다. 따라서 누구나 눈치 보지 않고 쉴 수 있는 문화가 필요하다는 3번이 알맞다. 점심시간을 줄이거나 회의를 여는 것은 글의 흐름과 반대된다.",
+  "explanation_en": "Since workers cannot rest because of workload and office atmosphere, the blank calls for a culture where everyone can rest freely at lunch, making choice 3 correct.",
+  "passage_vocab": [
+    {
+      "word": "때우다",
+      "pos": "동사",
+      "en": "to make do with (a quick meal)",
+      "context": "끼니를 대충 때운다고 답했다"
+    },
+    {
+      "word": "온전히",
+      "pos": "부사",
+      "en": "fully, completely",
+      "context": "점심시간을 온전히 누리지 못하는"
+    },
+    {
+      "word": "빠듯하다",
+      "pos": "형용사",
+      "en": "to be tight, barely manageable",
+      "context": "빠듯한 업무량과"
+    },
+    {
+      "word": "꼽히다",
+      "pos": "동사",
+      "en": "to be cited, to be counted as",
+      "context": "조직 분위기가 꼽혔다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "부서",
+      "pos": "명사",
+      "en": "department, division",
+      "example_ko": "그는 올해 초 홍보 부서로 자리를 옮겼다.",
+      "example_en": "He moved to the publicity department early this year."
+    },
+    {
+      "word": "직무",
+      "pos": "명사",
+      "en": "job duties",
+      "example_ko": "새 직원은 일주일 동안 직무 교육을 받는다.",
+      "example_en": "New employees receive a week of job training."
+    },
+    {
+      "word": "근로자",
+      "pos": "명사",
+      "en": "worker, employee",
+      "example_ko": "근로자의 권리는 법으로 보호받는다.",
+      "example_en": "Workers' rights are protected by law."
+    },
+    {
+      "word": "사기",
+      "pos": "명사",
+      "en": "morale",
+      "example_ko": "칭찬 한마디가 직원들의 사기를 높인다.",
+      "example_en": "A word of praise raises employees' morale."
+    },
+    {
+      "word": "협업",
+      "pos": "명사",
+      "en": "collaboration",
+      "example_ko": "이번 프로젝트는 두 팀의 협업으로 완성되었다.",
+      "example_en": "This project was completed through collaboration between the two teams."
+    },
+    {
+      "word": "결재",
+      "pos": "명사",
+      "en": "approval (of documents by a superior)",
+      "example_ko": "부장님의 결재를 받아야 계약을 진행할 수 있다.",
+      "example_en": "The contract can proceed only after the department head's approval."
+    },
+    {
+      "word": "분담하다",
+      "pos": "동사",
+      "en": "to divide up, to share (work)",
+      "example_ko": "일을 공평하게 분담했더니 훨씬 빨리 끝났다.",
+      "example_en": "When we divided the work fairly, it was finished much faster."
+    },
+    {
+      "word": "원동력",
+      "pos": "명사",
+      "en": "driving force",
+      "example_ko": "가족의 응원이 그가 일하는 원동력이 된다.",
+      "example_en": "His family's support is the driving force behind his work."
+    },
+    {
+      "word": "능숙하다",
+      "pos": "형용사",
+      "en": "to be skilled, proficient",
+      "example_ko": "그녀는 외국 손님을 능숙하게 응대했다.",
+      "example_en": "She dealt with the foreign customers skillfully."
+    },
+    {
+      "word": "시행하다",
+      "pos": "동사",
+      "en": "to implement, to put into effect",
+      "example_ko": "회사는 다음 달부터 유연 근무제를 시행하기로 했다.",
+      "example_en": "The company decided to implement flexible working hours starting next month."
+    }
+  ]
+}

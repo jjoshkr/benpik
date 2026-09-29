@@ -1,0 +1,130 @@
+{
+  "passage_ko": "음악과 영화는 물론 커피와 빨래까지, 매달 일정 금액을 내고 이용하는 구독 서비스가 생활 곳곳에 파고들고 있다. 한 조사에 따르면 성인 한 명이 평균 세 개가 넘는 구독 서비스에 가입해 있으며, 이 가운데 상당수는 거의 이용하지 않는 것으로 나타났다. 소액이라는 이유로 해지를 미루다 보면 한 달 지출이 어느새 눈덩이처럼 불어나기 마련이다. 결국 구독 서비스가 생활을 풍요롭게 하는 도구가 되느냐 가계에 부담만 주는 습관이 되느냐는 소비자가 이를 어떻게 관리하기 나름이다. 이용 내역을 정기적으로 점검하고 쓰지 않는 서비스는 과감히 정리하는 태도가 필요하다.",
+  "passage_en": "From music and movies to coffee and laundry, subscription services paid for with a fixed monthly fee are working their way into every corner of daily life. According to one survey, the average adult is signed up for more than three subscription services, and a considerable number of them are hardly ever used. If you keep putting off cancellation because each fee is small, your monthly spending is bound to swell like a snowball before you know it. In the end, whether subscription services become a tool that enriches daily life or a habit that only burdens the household budget depends on how consumers manage them. What is needed is the attitude of regularly reviewing your usage and boldly cutting off the services you do not use.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "구독 서비스의 확산을 무조건 반기고 있다",
+      "en": "The writer unconditionally welcomes the spread of subscription services"
+    },
+    {
+      "ko": "구독 서비스는 소비자가 관리하기에 달려 있다고 보고 점검을 권하고 있다",
+      "en": "The writer holds that subscriptions depend on how consumers manage them and recommends reviewing them"
+    },
+    {
+      "ko": "구독 서비스를 당장 모두 해지해야 한다고 주장하고 있다",
+      "en": "The writer insists that all subscription services should be canceled immediately"
+    },
+    {
+      "ko": "기업에 구독 요금 인하를 요구하고 있다",
+      "en": "The writer demands that companies lower subscription fees"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "필자는 구독 서비스 자체를 나쁘다고 보지 않고, 생활을 풍요롭게 하느냐 부담이 되느냐는 소비자가 관리하기 나름이라고 말한다. 그러면서 이용 내역을 정기적으로 점검하고 안 쓰는 서비스를 정리하라고 권하므로 2번이 필자의 태도로 알맞다. 전면 해지나 요금 인하 요구는 글에 나타나 있지 않다.",
+  "explanation_en": "The writer neither praises nor rejects subscriptions outright but argues the outcome depends on the consumer's own management, recommending regular review, so choice 2 fits.",
+  "passage_vocab": [
+    {
+      "word": "파고들다",
+      "pos": "동사",
+      "en": "to work one's way into, to permeate",
+      "context": "생활 곳곳에 파고들고 있다"
+    },
+    {
+      "word": "해지",
+      "pos": "명사",
+      "en": "cancellation (of a contract or service)",
+      "context": "해지를 미루다 보면"
+    },
+    {
+      "word": "불어나다",
+      "pos": "동사",
+      "en": "to swell, to grow larger",
+      "context": "눈덩이처럼 불어나기 마련이다"
+    },
+    {
+      "word": "과감히",
+      "pos": "부사",
+      "en": "boldly, decisively",
+      "context": "과감히 정리하는 태도가"
+    },
+    {
+      "word": "점검하다",
+      "pos": "동사",
+      "en": "to check, to review",
+      "context": "이용 내역을 정기적으로 점검하고"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "요금",
+      "pos": "명사",
+      "en": "fee, charge, fare",
+      "example_ko": "다음 달부터 버스 요금이 오른다고 한다.",
+      "example_en": "They say bus fares will go up starting next month."
+    },
+    {
+      "word": "유료",
+      "pos": "명사",
+      "en": "paid (service), charging a fee",
+      "example_ko": "이 앱은 한 달 뒤부터 유료로 전환된다.",
+      "example_en": "This app switches to a paid plan after one month."
+    },
+    {
+      "word": "충동구매",
+      "pos": "명사",
+      "en": "impulse buying",
+      "example_ko": "세일이라는 말에 충동구매를 하고 후회했다.",
+      "example_en": "I bought on impulse at the word 'sale' and regretted it."
+    },
+    {
+      "word": "과소비",
+      "pos": "명사",
+      "en": "overspending, excessive consumption",
+      "example_ko": "카드 사용이 늘면서 과소비가 심해졌다.",
+      "example_en": "As card use increased, overspending got worse."
+    },
+    {
+      "word": "납부하다",
+      "pos": "동사",
+      "en": "to pay (a bill, tax, fee)",
+      "example_ko": "매달 25일까지 관리비를 납부해야 한다.",
+      "example_en": "The maintenance fee must be paid by the 25th of each month."
+    },
+    {
+      "word": "명세서",
+      "pos": "명사",
+      "en": "statement, itemized bill",
+      "example_ko": "카드 명세서를 보고 나서야 지출이 많았음을 알았다.",
+      "example_en": "Only after seeing the card statement did I realize how much I had spent."
+    },
+    {
+      "word": "갱신하다",
+      "pos": "동사",
+      "en": "to renew",
+      "example_ko": "계약을 갱신하기 전에 조건을 꼼꼼히 확인했다.",
+      "example_en": "I checked the terms carefully before renewing the contract."
+    },
+    {
+      "word": "자동이체",
+      "pos": "명사",
+      "en": "automatic transfer, direct debit",
+      "example_ko": "통신비는 매달 자동이체로 빠져나간다.",
+      "example_en": "The phone bill is withdrawn by automatic payment every month."
+    },
+    {
+      "word": "알뜰하다",
+      "pos": "형용사",
+      "en": "to be thrifty, frugal",
+      "example_ko": "어머니는 알뜰하게 살림을 꾸려 오셨다.",
+      "example_en": "My mother has always run the household thriftily."
+    },
+    {
+      "word": "혜택",
+      "pos": "명사",
+      "en": "benefit, perk",
+      "example_ko": "이 카드는 영화 할인 혜택이 있다.",
+      "example_en": "This card offers a movie discount benefit."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "passage_ko": "어릴 적 우리 집 처마 밑에는 해마다 제비가 찾아와 둥지를 틀었다. 할머니께서는 제비가 오면 좋은 일이 생긴다며 둥지를 함부로 건드리지 못하게 하셨다. 그런데 몇 해 전부터 찾아오는 제비의 수가 눈에 띄게 줄더니 올봄에는 끝내 한 마리도 돌아오지 않았다. 논이 사라지고 농약 사용이 늘면서 제비가 먹이와 집 지을 진흙을 구하기 어려워졌기 때문이라고 한다. 텅 빈 처마를 올려다보며 우리가 잃어 가는 것이 작은 새 한 마리만은 아니라는 생각에 마음이 무거워졌다.",
+  "passage_en": "When I was young, swallows came to build a nest under the eaves of our house every year. My grandmother would say that good things happen when the swallows come, and she never let us touch the nest carelessly. But a few years ago the number of swallows visiting began to drop noticeably, and this spring not a single one returned in the end. I am told it is because, as rice paddies disappear and pesticide use increases, swallows can hardly find food or the mud to build their nests. Looking up at the empty eaves, my heart grew heavy at the thought that what we are losing is not just one small bird.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "제비는 예로부터 좋은 소식을 전해 주는 새로 여겨졌다",
+      "en": "Swallows have traditionally been regarded as birds that bring good news"
+    },
+    {
+      "ko": "해마다 오던 제비가 사라진 것은 환경 변화를 보여 주는 경고이다",
+      "en": "The disappearance of the swallows that came every year is a warning that shows environmental change"
+    },
+    {
+      "ko": "농촌 인구가 줄면서 빈집이 늘어나고 있다",
+      "en": "As the rural population shrinks, empty houses are increasing"
+    },
+    {
+      "ko": "새의 둥지는 함부로 옮기면 안 된다",
+      "en": "Bird nests must not be moved carelessly"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "글쓴이는 해마다 찾아오던 제비가 끝내 돌아오지 않게 된 까닭을 논의 감소와 농약 사용에서 찾고, 잃어 가는 것이 작은 새 한 마리만은 아니라며 안타까워한다. 즉 제비의 실종을 통해 환경 변화의 심각성을 말하고 있으므로 주제는 2번이다. 제비에 대한 옛 믿음은 글의 일부일 뿐 중심 내용이 아니다.",
+  "explanation_en": "Through the swallows that no longer return, the writer points to worrying environmental change, so choice 2 is the main idea.",
+  "passage_vocab": [
+    {
+      "word": "처마",
+      "pos": "명사",
+      "en": "eaves",
+      "context": "우리 집 처마 밑에는"
+    },
+    {
+      "word": "둥지",
+      "pos": "명사",
+      "en": "nest",
+      "context": "제비가 찾아와 둥지를 틀었다"
+    },
+    {
+      "word": "함부로",
+      "pos": "부사",
+      "en": "carelessly, thoughtlessly",
+      "context": "둥지를 함부로 건드리지 못하게"
+    },
+    {
+      "word": "끝내",
+      "pos": "부사",
+      "en": "in the end, ultimately",
+      "context": "끝내 한 마리도 돌아오지 않았다"
+    },
+    {
+      "word": "농약",
+      "pos": "명사",
+      "en": "pesticide",
+      "context": "농약 사용이 늘면서"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "터전",
+      "pos": "명사",
+      "en": "home ground, foundation of life",
+      "example_ko": "개발로 인해 많은 동물이 삶의 터전을 잃었다.",
+      "example_en": "Development has cost many animals their homes."
+    },
+    {
+      "word": "생명체",
+      "pos": "명사",
+      "en": "living creature",
+      "example_ko": "작은 곤충도 소중한 생명체이다.",
+      "example_en": "Even a small insect is a precious living creature."
+    },
+    {
+      "word": "파괴하다",
+      "pos": "동사",
+      "en": "to destroy",
+      "example_ko": "무리한 개발은 자연을 파괴하는 결과를 낳는다.",
+      "example_en": "Reckless development ends up destroying nature."
+    },
+    {
+      "word": "공존하다",
+      "pos": "동사",
+      "en": "to coexist",
+      "example_ko": "인간과 야생 동물이 공존하는 방법을 찾아야 한다.",
+      "example_en": "We must find ways for humans and wild animals to coexist."
+    },
+    {
+      "word": "토양",
+      "pos": "명사",
+      "en": "soil",
+      "example_ko": "화학 비료를 많이 쓰면 토양이 점점 나빠진다.",
+      "example_en": "Heavy use of chemical fertilizer gradually degrades the soil."
+    },
+    {
+      "word": "습지",
+      "pos": "명사",
+      "en": "wetland",
+      "example_ko": "습지는 다양한 새들의 보금자리 역할을 한다.",
+      "example_en": "Wetlands serve as a home for many kinds of birds."
+    },
+    {
+      "word": "벌목",
+      "pos": "명사",
+      "en": "logging, felling trees",
+      "example_ko": "무분별한 벌목으로 숲이 빠르게 사라지고 있다.",
+      "example_en": "Forests are disappearing quickly because of indiscriminate logging."
+    },
+    {
+      "word": "정화하다",
+      "pos": "동사",
+      "en": "to purify",
+      "example_ko": "숲은 더러운 공기를 정화하는 역할을 한다.",
+      "example_en": "Forests play a role in purifying dirty air."
+    },
+    {
+      "word": "복원하다",
+      "pos": "동사",
+      "en": "to restore",
+      "example_ko": "시에서는 오염된 하천을 복원하는 사업을 시작했다.",
+      "example_en": "The city has begun a project to restore the polluted stream."
+    },
+    {
+      "word": "생태",
+      "pos": "명사",
+      "en": "ecology",
+      "example_ko": "학생들이 갯벌의 생태를 조사하러 떠났다.",
+      "example_en": "The students set off to study the ecology of the mudflat."
+    }
+  ]
+}

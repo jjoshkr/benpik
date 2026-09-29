@@ -1,0 +1,124 @@
+{
+  "passage_ko": "직장 내 세대 차이로 인한 갈등이 늘면서 이를 해결하려는 기업들의 움직임이 활발하다. 한 조사에 따르면 직장인 열 명 중 여섯 명이 세대 차이 때문에 의사소통에 어려움을 겪은 적이 있다고 답했다. 이에 일부 기업은 젊은 사원이 임원에게 최신 문화를 알려 주는 '역멘토링' 제도를 도입해 세대가 서로를 이해하도록 돕고 있다. 전문가들은 세대 갈등을 개인의 문제로 돌리기보다 대화의 기회를 제도적으로 마련하는 것이 중요하다고 강조한다.",
+  "passage_en": "As conflicts caused by generational differences in the workplace increase, companies are actively moving to resolve them. According to one survey, six out of ten office workers answered that they have experienced communication difficulties because of generational differences. In response, some companies have introduced a 'reverse mentoring' program in which young employees teach executives about the latest culture, helping the generations understand each other. Experts emphasize that rather than blaming generational conflict on individuals, it is important to institutionally create opportunities for dialogue.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "젊은 사원들은 임원과 대화하는 것을 부담스러워한다.",
+      "en": "Young employees find it burdensome to talk with executives."
+    },
+    {
+      "ko": "세대 차이는 시간이 지나면 자연스럽게 해결된다.",
+      "en": "Generational differences resolve naturally over time."
+    },
+    {
+      "ko": "기업들이 세대 간 이해를 넓히기 위한 제도적 노력을 기울이고 있다.",
+      "en": "Companies are making institutional efforts to broaden understanding between generations."
+    },
+    {
+      "ko": "직장인의 의사소통 능력은 개인의 노력에 달려 있다.",
+      "en": "Office workers' communication skills depend on individual effort."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "이 글은 직장 내 세대 갈등을 줄이기 위해 기업들이 역멘토링 같은 제도를 도입하고 있다는 내용의 기사다. 세대 간 이해를 넓히려는 제도적 노력이 글의 중심 내용이므로 3번이 주제로 알맞다. 1번과 2번은 글에 없는 내용이고 4번은 전문가의 견해와 어긋난다.",
+  "explanation_en": "The article's main point is that companies are institutionally addressing workplace generational conflict, for example through reverse mentoring, so choice 3 is correct.",
+  "passage_vocab": [
+    {
+      "word": "의사소통",
+      "pos": "명사",
+      "en": "communication",
+      "context": "의사소통에 어려움을 겪은 적이 있다"
+    },
+    {
+      "word": "임원",
+      "pos": "명사",
+      "en": "executive, board member",
+      "context": "젊은 사원이 임원에게 최신 문화를 알려 주는"
+    },
+    {
+      "word": "도입하다",
+      "pos": "동사",
+      "en": "to introduce, to adopt (a system)",
+      "context": "'역멘토링' 제도를 도입해"
+    },
+    {
+      "word": "마련하다",
+      "pos": "동사",
+      "en": "to arrange, to prepare, to establish",
+      "context": "대화의 기회를 제도적으로 마련하는 것"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "유대감",
+      "pos": "명사",
+      "en": "sense of bonding, connectedness",
+      "example_ko": "함께 어려움을 이겨 내면서 팀원들 사이에 유대감이 생겼다.",
+      "example_en": "A sense of bonding grew among the team members as they overcame difficulties together."
+    },
+    {
+      "word": "말투",
+      "pos": "명사",
+      "en": "way of speaking, tone",
+      "example_ko": "그는 말투가 부드러워서 처음 만난 사람도 편하게 느낀다.",
+      "example_en": "His way of speaking is gentle, so even people meeting him for the first time feel at ease."
+    },
+    {
+      "word": "겸손하다",
+      "pos": "형용사",
+      "en": "humble, modest",
+      "example_ko": "그 선수는 우승한 뒤에도 겸손한 태도를 잃지 않았다.",
+      "example_en": "Even after winning, the athlete never lost his humble attitude."
+    },
+    {
+      "word": "친밀하다",
+      "pos": "형용사",
+      "en": "close, intimate",
+      "example_ko": "두 사람은 오래 알고 지내서 매우 친밀한 사이다.",
+      "example_en": "The two have known each other for a long time and are very close."
+    },
+    {
+      "word": "소외감",
+      "pos": "명사",
+      "en": "sense of alienation, feeling left out",
+      "example_ko": "새 학교에 전학 온 첫 주에는 소외감을 느끼기 쉽다.",
+      "example_en": "It is easy to feel left out during the first week at a new school."
+    },
+    {
+      "word": "눈치",
+      "pos": "명사",
+      "en": "tact, ability to read a situation",
+      "example_ko": "그는 눈치가 빨라서 분위기가 어색해지기 전에 화제를 바꾼다.",
+      "example_en": "He is quick to read the room and changes the subject before the mood becomes awkward."
+    },
+    {
+      "word": "격려하다",
+      "pos": "동사",
+      "en": "to encourage",
+      "example_ko": "시험에 떨어진 친구를 따뜻한 말로 격려했다.",
+      "example_en": "I encouraged my friend who failed the exam with warm words."
+    },
+    {
+      "word": "사과하다",
+      "pos": "동사",
+      "en": "to apologize",
+      "example_ko": "잘못을 했으면 먼저 진심으로 사과하는 것이 중요하다.",
+      "example_en": "If you have done something wrong, it is important to apologize sincerely first."
+    },
+    {
+      "word": "원만하다",
+      "pos": "형용사",
+      "en": "amicable, smooth (of relationships)",
+      "example_ko": "그녀는 성품이 좋아 누구와도 원만한 관계를 이어 간다.",
+      "example_en": "She has a good character and keeps amicable relationships with everyone."
+    },
+    {
+      "word": "서먹하다",
+      "pos": "형용사",
+      "en": "awkward, distant (between people)",
+      "example_ko": "오랜만에 만난 동창과는 처음에 조금 서먹했다.",
+      "example_en": "It was a little awkward at first with a classmate I had not seen in a long time."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "passage_ko": "시민 마음 건강 센터에서 오는 11월부터 '관계의 기술' 무료 강좌를 엽니다. 이 강좌는 가족이나 동료와의 갈등 때문에 속이 터질 지경이라고 느끼는 분들을 위해 마련되었습니다. 전문 상담사와 함께 자신의 감정을 표현하는 방법과 상대의 이야기를 듣는 자세를 연습하게 됩니다. 강좌는 매주 수요일 저녁 7시에 열리며, 정원은 20명입니다. 참가를 원하시는 분은 10월 20일까지 센터 홈페이지에서 신청서를 작성해 주시기 바랍니다.",
+  "passage_en": "Starting this November, the Civic Mental Health Center will open a free course called 'The Art of Relationships.' This course has been prepared for those who feel they are at the point of bursting with frustration because of conflicts with family or coworkers. Together with professional counselors, participants will practice ways to express their feelings and attitudes for listening to others. The course meets every Wednesday at 7 p.m., and enrollment is limited to twenty people. Those who wish to participate should fill out an application form on the center's website by October 20.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "강좌를 들으려면 참가비를 내야 한다.",
+      "en": "You must pay a fee to take the course."
+    },
+    {
+      "ko": "강좌는 매주 토요일 오전에 진행된다.",
+      "en": "The course is held every Saturday morning."
+    },
+    {
+      "ko": "참가 신청은 10월 20일까지 홈페이지에서 하면 된다.",
+      "en": "You can apply on the website until October 20."
+    },
+    {
+      "ko": "정원에 제한이 없어 누구나 들을 수 있다.",
+      "en": "There is no enrollment limit, so anyone can attend."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "안내문 마지막에 참가를 원하면 10월 20일까지 센터 홈페이지에서 신청서를 작성하라고 했으므로 3번이 일치한다. 강좌는 무료이고 매주 수요일 저녁 7시에 열리며 정원이 20명으로 제한되어 있다. 따라서 나머지 선택지는 모두 내용과 다르다.",
+  "explanation_en": "The notice says applications are accepted on the website until October 20, while the course is free, meets Wednesday evenings, and is capped at twenty people, contradicting the other options.",
+  "passage_vocab": [
+    {
+      "word": "속이 터지다",
+      "pos": "표현",
+      "en": "to be bursting with frustration",
+      "context": "속이 터질 지경이라고 느끼는 분들"
+    },
+    {
+      "word": "상담사",
+      "pos": "명사",
+      "en": "counselor",
+      "context": "전문 상담사와 함께"
+    },
+    {
+      "word": "정원",
+      "pos": "명사",
+      "en": "fixed number of participants, capacity",
+      "context": "정원은 20명입니다"
+    },
+    {
+      "word": "작성하다",
+      "pos": "동사",
+      "en": "to fill out, write up (a document)",
+      "context": "신청서를 작성해 주시기 바랍니다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "서먹하다",
+      "pos": "형용사",
+      "en": "to be awkward, distant (with someone)",
+      "example_ko": "오랜만에 만난 친구와 처음에는 서먹했다.",
+      "example_en": "At first it felt awkward with the friend I had not seen in a long time."
+    },
+    {
+      "word": "털어놓다",
+      "pos": "동사",
+      "en": "to confide, open up about",
+      "example_ko": "그는 고민을 어머니에게 모두 털어놓았다.",
+      "example_en": "He confided all his worries to his mother."
+    },
+    {
+      "word": "위안",
+      "pos": "명사",
+      "en": "comfort, consolation",
+      "example_ko": "힘들 때 친구의 한마디가 큰 위안이 되었다.",
+      "example_en": "When times were hard, a single word from my friend was a great comfort."
+    },
+    {
+      "word": "친밀하다",
+      "pos": "형용사",
+      "en": "to be close, intimate",
+      "example_ko": "두 사람은 오랜 시간을 함께하며 친밀한 사이가 되었다.",
+      "example_en": "The two became close after spending a long time together."
+    },
+    {
+      "word": "격려하다",
+      "pos": "동사",
+      "en": "to encourage",
+      "example_ko": "감독은 실수한 선수를 꾸짖지 않고 격려했다.",
+      "example_en": "The coach encouraged the player who made a mistake instead of scolding him."
+    },
+    {
+      "word": "극복하다",
+      "pos": "동사",
+      "en": "to overcome",
+      "example_ko": "그녀는 주위의 도움으로 슬픔을 극복했다.",
+      "example_en": "She overcame her sorrow with the help of those around her."
+    },
+    {
+      "word": "솔직하다",
+      "pos": "형용사",
+      "en": "to be honest, frank",
+      "example_ko": "관계를 오래 이어 가려면 솔직한 대화가 필요하다.",
+      "example_en": "To keep a relationship going for a long time, honest conversation is necessary."
+    },
+    {
+      "word": "양보하다",
+      "pos": "동사",
+      "en": "to yield, concede",
+      "example_ko": "서로 조금씩 양보하면 다툼이 줄어든다.",
+      "example_en": "If both sides yield a little, quarrels decrease."
+    },
+    {
+      "word": "스트레스",
+      "pos": "명사",
+      "en": "stress",
+      "example_ko": "그는 산책을 하면서 스트레스를 푼다.",
+      "example_en": "He relieves stress by taking walks."
+    },
+    {
+      "word": "유대감",
+      "pos": "명사",
+      "en": "sense of bond, connectedness",
+      "example_ko": "함께 고생한 경험이 두 사람의 유대감을 깊게 했다.",
+      "example_en": "The experience of struggling together deepened the bond between the two."
+    }
+  ]
+}

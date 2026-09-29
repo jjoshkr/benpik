@@ -1,0 +1,124 @@
+{
+  "passage_ko": "오는 10월 셋째 주 토요일부터 일주일간 시민 문화 회관에서 '가을 예술 주간'이 열립니다. 기간 중에는 지역 작가들의 그림과 사진을 감상할 수 있으며, 저녁마다 무료 음악회도 마련되어 있습니다. 특히 아이와 함께 도자기를 빚어 보는 체험 행사는 온 가족이 즐길 만한 프로그램으로 꼽힙니다. 모든 행사는 무료이지만 체험 행사는 인원이 제한되어 있으므로 홈페이지에서 미리 신청하시기 바랍니다.",
+  "passage_en": "Starting the third Saturday of October, 'Autumn Arts Week' will be held for one week at the Civic Cultural Center. During the period, you can view paintings and photographs by local artists, and a free concert is also arranged every evening. In particular, the hands-on event where you shape pottery together with your children is considered a program the whole family will find worth enjoying. All events are free, but as spots for the hands-on event are limited, please apply in advance on our website.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "지역 작가를 돕기 위한 기부금 모금을 안내하고 있다.",
+      "en": "It provides information about a fundraising campaign to help local artists."
+    },
+    {
+      "ko": "가을 예술 주간의 행사 내용과 참여 방법을 안내하고 있다.",
+      "en": "It introduces the programs of Autumn Arts Week and how to take part."
+    },
+    {
+      "ko": "도자기 체험 행사가 취소되었음을 알리고 있다.",
+      "en": "It announces that the pottery event has been canceled."
+    },
+    {
+      "ko": "문화 회관의 회원 가입 절차 변경을 공지하고 있다.",
+      "en": "It announces changes to the cultural center's membership procedures."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "이 글은 가을 예술 주간에 열리는 전시와 음악회, 도자기 체험 행사와 신청 방법을 알리는 안내문이다. 따라서 행사 내용과 참여 방법을 안내한다는 2번이 주제로 알맞다. 기부금 모금이나 행사 취소, 회원 가입 절차는 글에 나오지 않는다.",
+  "explanation_en": "The notice informs readers of the exhibitions, concerts, and pottery event of Autumn Arts Week and explains how to apply, so its theme is guiding participation in the festival.",
+  "passage_vocab": [
+    {
+      "word": "마련되다",
+      "pos": "동사",
+      "en": "to be arranged, prepared",
+      "context": "무료 음악회도 마련되어 있습니다"
+    },
+    {
+      "word": "빚다",
+      "pos": "동사",
+      "en": "to shape, mold (clay)",
+      "context": "도자기를 빚어 보는 체험 행사"
+    },
+    {
+      "word": "꼽히다",
+      "pos": "동사",
+      "en": "to be counted as, regarded as",
+      "context": "즐길 만한 프로그램으로 꼽힙니다"
+    },
+    {
+      "word": "제한되다",
+      "pos": "동사",
+      "en": "to be limited, restricted",
+      "context": "인원이 제한되어 있으므로"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "전시회",
+      "pos": "명사",
+      "en": "exhibition",
+      "example_ko": "주말에 친구와 사진 전시회에 다녀왔다.",
+      "example_en": "I went to a photo exhibition with a friend over the weekend."
+    },
+    {
+      "word": "걸작",
+      "pos": "명사",
+      "en": "masterpiece",
+      "example_ko": "이 그림은 20세기 최고의 걸작으로 평가받는다.",
+      "example_en": "This painting is regarded as one of the greatest masterpieces of the twentieth century."
+    },
+    {
+      "word": "창작",
+      "pos": "명사",
+      "en": "creation, creative work",
+      "example_ko": "그 작가는 새로운 소설 창작에 몰두하고 있다.",
+      "example_en": "The writer is immersed in creating a new novel."
+    },
+    {
+      "word": "관람하다",
+      "pos": "동사",
+      "en": "to view, watch (a show or exhibit)",
+      "example_ko": "미술관에서는 조용히 작품을 관람해야 한다.",
+      "example_en": "In an art museum, you should view the works quietly."
+    },
+    {
+      "word": "문화재",
+      "pos": "명사",
+      "en": "cultural heritage, cultural property",
+      "example_ko": "경주에는 소중한 문화재가 많이 남아 있다.",
+      "example_en": "Many precious cultural properties remain in Gyeongju."
+    },
+    {
+      "word": "전통",
+      "pos": "명사",
+      "en": "tradition",
+      "example_ko": "한옥에는 조상들의 전통과 지혜가 담겨 있다.",
+      "example_en": "Hanok houses contain the traditions and wisdom of our ancestors."
+    },
+    {
+      "word": "예술가",
+      "pos": "명사",
+      "en": "artist",
+      "example_ko": "그 예술가는 버려진 물건으로 조형물을 만든다.",
+      "example_en": "The artist makes sculptures out of discarded objects."
+    },
+    {
+      "word": "상영하다",
+      "pos": "동사",
+      "en": "to screen (a film)",
+      "example_ko": "이 극장에서는 오래된 한국 영화를 상영한다.",
+      "example_en": "This theater screens old Korean films."
+    },
+    {
+      "word": "무대",
+      "pos": "명사",
+      "en": "stage",
+      "example_ko": "그 배우는 무대에 서면 전혀 다른 사람이 된다.",
+      "example_en": "That actor becomes a completely different person on stage."
+    },
+    {
+      "word": "공예",
+      "pos": "명사",
+      "en": "craft, craftwork",
+      "example_ko": "시장 골목에는 전통 공예를 파는 가게가 많다.",
+      "example_en": "The market alley has many shops selling traditional crafts."
+    }
+  ]
+}

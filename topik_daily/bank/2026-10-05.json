@@ -1,0 +1,124 @@
+{
+  "passage_ko": "지난 주말에 나는 계획 없이 기차를 타고 강릉에 다녀왔다. 친구는 비 예보가 있으니 가 보나 마나 고생만 할 거라고 말렸지만, 나는 그냥 떠나고 싶었다. 도착하니 정말 비가 내렸는데, 안개 낀 바다는 오히려 맑은 날보다 신비로웠다. 우산을 쓰고 해변을 걷다가 작은 찻집에서 몸을 녹이며 오랜만에 아무 생각 없이 쉬었다. 완벽한 날씨보다 중요한 것은 떠나겠다는 마음 그 자체인지도 모른다.",
+  "passage_en": "Last weekend I took a train to Gangneung without any plan. My friend tried to stop me, saying that with rain in the forecast the trip would obviously bring me nothing but trouble, but I simply wanted to get away. When I arrived it really was raining, yet the mist-covered sea looked even more mysterious than on a clear day. Walking along the beach under an umbrella, I warmed myself in a small teahouse and rested without a single thought for the first time in ages. Perhaps what matters more than perfect weather is the very will to set out.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "필자는 비가 내렸는데도 강릉 여행에서 만족을 느꼈다.",
+      "en": "Even though it rained, the writer felt satisfied with the trip to Gangneung."
+    },
+    {
+      "ko": "친구는 필자에게 강릉 여행을 적극적으로 권했다.",
+      "en": "The friend strongly encouraged the writer to travel to Gangneung."
+    },
+    {
+      "ko": "필자가 강릉에 도착했을 때 날씨가 맑게 개어 있었다.",
+      "en": "When the writer arrived in Gangneung, the weather had cleared up."
+    },
+    {
+      "ko": "필자는 이 여행을 오래전부터 꼼꼼하게 계획했다.",
+      "en": "The writer had planned this trip meticulously long in advance."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 비가 내렸지만 안개 낀 바다가 오히려 신비로웠고 찻집에서 오랜만에 편히 쉬었다고 했으므로 1번이 일치한다. 친구는 여행을 권한 것이 아니라 말렸고, 도착했을 때는 비가 내리고 있었다. 또한 이 여행은 계획 없이 떠난 것이었다.",
+  "explanation_en": "The writer found the rainy trip satisfying, whereas the friend discouraged the trip, it was raining on arrival, and the journey was unplanned.",
+  "passage_vocab": [
+    {
+      "word": "예보",
+      "pos": "명사",
+      "en": "(weather) forecast",
+      "context": "비 예보가 있으니"
+    },
+    {
+      "word": "말리다",
+      "pos": "동사",
+      "en": "to dissuade, stop (someone from doing)",
+      "context": "고생만 할 거라고 말렸지만"
+    },
+    {
+      "word": "신비롭다",
+      "pos": "형용사",
+      "en": "to be mysterious, mystical",
+      "context": "맑은 날보다 신비로웠다"
+    },
+    {
+      "word": "몸을 녹이다",
+      "pos": "표현",
+      "en": "to warm oneself up",
+      "context": "찻집에서 몸을 녹이며"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "여정",
+      "pos": "명사",
+      "en": "journey, itinerary",
+      "example_ko": "이번 여정의 마지막 도시는 부산이었다.",
+      "example_en": "The last city of this journey was Busan."
+    },
+    {
+      "word": "휴식",
+      "pos": "명사",
+      "en": "rest, break",
+      "example_ko": "바쁜 일상 속에서도 충분한 휴식이 필요하다.",
+      "example_en": "Even in a busy daily life, you need enough rest."
+    },
+    {
+      "word": "만끽하다",
+      "pos": "동사",
+      "en": "to fully enjoy, savor",
+      "example_ko": "우리는 제주도의 가을 풍경을 만끽했다.",
+      "example_en": "We fully enjoyed the autumn scenery of Jeju Island."
+    },
+    {
+      "word": "벗어나다",
+      "pos": "동사",
+      "en": "to escape, get out of",
+      "example_ko": "복잡한 도시에서 벗어나 산으로 향했다.",
+      "example_en": "We got away from the crowded city and headed for the mountains."
+    },
+    {
+      "word": "유적지",
+      "pos": "명사",
+      "en": "historic site",
+      "example_ko": "경주의 유적지를 돌아보며 역사를 배웠다.",
+      "example_en": "We learned history while touring the historic sites of Gyeongju."
+    },
+    {
+      "word": "항공권",
+      "pos": "명사",
+      "en": "airline ticket",
+      "example_ko": "방학이 되기 전에 미리 항공권을 사 두었다.",
+      "example_en": "I bought my plane ticket in advance before the vacation began."
+    },
+    {
+      "word": "체험하다",
+      "pos": "동사",
+      "en": "to experience (hands-on)",
+      "example_ko": "농촌 마을에서 전통 음식 만들기를 체험했다.",
+      "example_en": "In a farming village, we tried our hand at making traditional food."
+    },
+    {
+      "word": "야영",
+      "pos": "명사",
+      "en": "camping",
+      "example_ko": "여름마다 가족과 강가에서 야영을 즐긴다.",
+      "example_en": "Every summer I enjoy camping by the river with my family."
+    },
+    {
+      "word": "취향",
+      "pos": "명사",
+      "en": "taste, preference",
+      "example_ko": "여행 취향이 비슷한 사람과 다니면 편하다.",
+      "example_en": "Traveling with someone who has similar tastes in travel is comfortable."
+    },
+    {
+      "word": "동행",
+      "pos": "명사",
+      "en": "companion, traveling together",
+      "example_ko": "혼자 가는 여행도 좋지만 동행이 있으면 더 든든하다.",
+      "example_en": "Traveling alone is nice, but having a companion makes you feel more secure."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "passage_ko": "나는 마흔이 넘어서야 서예를 배우기 시작했다. 젊은 사람들 사이에서 붓을 잡는 일이 처음에는 쑥스러웠지만, 선생님은 배움에 늦은 나이란 없다고 하셨다. 신기하게도 연습에 시간을 들이는 만큼 글씨가 조금씩 반듯해졌다. 이제 나는 결과보다 배우는 과정 자체가 주는 기쁨을 알게 되었다. 배움이란 나이와 상관없이 삶을 새롭게 가꾸어 주는 힘인 듯하다.",
+  "passage_en": "It was only after I turned forty that I began learning calligraphy. At first I felt bashful holding a brush among younger students, but my teacher said there is no such thing as being too old to learn. Remarkably, my handwriting straightened out little by little in proportion to the time I put into practice. Now I have come to know the joy that the process of learning itself brings, more than the results. Learning, it seems, is a power that renews and enriches our lives regardless of age.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "서예는 어릴 때 시작해야 실력이 빨리 는다.",
+      "en": "Calligraphy skills improve quickly only if you start young."
+    },
+    {
+      "ko": "글씨를 잘 쓰려면 무엇보다 좋은 스승을 만나야 한다.",
+      "en": "To write well, meeting a good teacher matters most."
+    },
+    {
+      "ko": "나이가 들수록 새로운 것을 배우기는 어려워진다.",
+      "en": "The older you get, the harder it becomes to learn new things."
+    },
+    {
+      "ko": "배움은 나이와 관계없이 삶을 새롭게 가꾸어 준다.",
+      "en": "Learning renews and enriches life regardless of age."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "필자는 마흔이 넘어 시작한 서예를 통해 시간을 들인 만큼 실력이 늘고 배우는 과정 자체가 기쁨이 된다는 것을 깨닫는다. 마지막 문장에서 배움은 나이와 상관없이 삶을 가꾸어 주는 힘이라고 정리하므로 4번이 주제로 알맞다. 어린 나이의 유리함이나 스승의 중요성은 글의 중심 내용이 아니다.",
+  "explanation_en": "Through taking up calligraphy after forty, the writer realizes that effort brings progress and that the process of learning itself enriches life regardless of age.",
+  "passage_vocab": [
+    {
+      "word": "쑥스럽다",
+      "pos": "형용사",
+      "en": "to be bashful, embarrassed",
+      "context": "붓을 잡는 일이 처음에는 쑥스러웠지만"
+    },
+    {
+      "word": "반듯하다",
+      "pos": "형용사",
+      "en": "to be straight, neat",
+      "context": "글씨가 조금씩 반듯해졌다"
+    },
+    {
+      "word": "들이다",
+      "pos": "동사",
+      "en": "to put in (time, effort)",
+      "context": "연습에 시간을 들이는 만큼"
+    },
+    {
+      "word": "가꾸다",
+      "pos": "동사",
+      "en": "to cultivate, tend",
+      "context": "삶을 새롭게 가꾸어 주는 힘"
+    },
+    {
+      "word": "배움",
+      "pos": "명사",
+      "en": "learning (as a pursuit)",
+      "context": "배움에 늦은 나이란 없다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "강의",
+      "pos": "명사",
+      "en": "lecture",
+      "example_ko": "그 교수님의 강의는 항상 학생들로 가득 찬다.",
+      "example_en": "That professor's lectures are always full of students."
+    },
+    {
+      "word": "학습",
+      "pos": "명사",
+      "en": "learning, study",
+      "example_ko": "규칙적인 학습 습관이 좋은 결과로 이어진다.",
+      "example_en": "Regular study habits lead to good results."
+    },
+    {
+      "word": "성적",
+      "pos": "명사",
+      "en": "grades, academic results",
+      "example_ko": "이번 학기에는 성적이 많이 올랐다.",
+      "example_en": "My grades improved a lot this semester."
+    },
+    {
+      "word": "꾸준히",
+      "pos": "부사",
+      "en": "steadily, consistently",
+      "example_ko": "외국어는 매일 꾸준히 공부해야 실력이 는다.",
+      "example_en": "Your foreign language skills improve only if you study steadily every day."
+    },
+    {
+      "word": "암기하다",
+      "pos": "동사",
+      "en": "to memorize",
+      "example_ko": "단어는 문장과 함께 암기하면 더 오래 기억된다.",
+      "example_en": "Words are remembered longer when memorized together with sentences."
+    },
+    {
+      "word": "습득하다",
+      "pos": "동사",
+      "en": "to acquire (a skill, language)",
+      "example_ko": "아이들은 놀이를 통해 자연스럽게 언어를 습득한다.",
+      "example_en": "Children acquire language naturally through play."
+    },
+    {
+      "word": "지식",
+      "pos": "명사",
+      "en": "knowledge",
+      "example_ko": "책을 많이 읽으면 다양한 분야의 지식을 쌓을 수 있다.",
+      "example_en": "Reading many books lets you build knowledge in various fields."
+    },
+    {
+      "word": "사교육",
+      "pos": "명사",
+      "en": "private education",
+      "example_ko": "사교육에 드는 비용이 가계에 큰 부담이 되고 있다.",
+      "example_en": "The cost of private education is a heavy burden on households."
+    },
+    {
+      "word": "평가하다",
+      "pos": "동사",
+      "en": "to evaluate",
+      "example_ko": "시험 점수만으로 학생을 평가해서는 안 된다.",
+      "example_en": "Students should not be evaluated by test scores alone."
+    },
+    {
+      "word": "몰두하다",
+      "pos": "동사",
+      "en": "to be absorbed in, immerse oneself",
+      "example_ko": "그는 연구에 몰두하느라 시간 가는 줄 몰랐다.",
+      "example_en": "He was so absorbed in his research that he lost track of time."
+    }
+  ]
+}
