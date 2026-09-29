@@ -1,0 +1,130 @@
+{
+  "passage_ko": "하루 30분씩 운동을 해도 나머지 시간 내내 앉아서 지낸다면 건강 개선 효과가 크게 줄어든다는 연구 결과가 나왔다. 한 대학교 연구진이 성인 5천 명을 8년간 추적 조사한 결과, 오래 앉아 있는 습관을 바꾸지 않는 한 운동만으로는 심혈관 질환 위험을 충분히 낮추기 어려운 것으로 나타났다. 연구진은 한 시간에 한 번씩 일어나 몸을 움직이는 것만으로도 위험을 낮출 수 있다고 설명했다. 이번 연구는 국제 학술지에 실렸으며 관련 학계의 주목을 받고 있다.",
+  "passage_en": "Research findings show that even if you exercise for 30 minutes a day, the health benefits shrink greatly if you spend the rest of the day sitting. A university research team tracked 5,000 adults for eight years and found that, as long as people do not change their habit of sitting for long periods, exercise alone can hardly reduce the risk of cardiovascular disease sufficiently. The researchers explained that simply standing up and moving once every hour can lower the risk. The study was published in an international academic journal and is drawing attention from the related academic community.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "한 시간에 한 번씩 일어나 움직이면 질환 위험을 낮출 수 있다.",
+      "en": "Standing up and moving once every hour can lower the risk of disease."
+    },
+    {
+      "ko": "하루 30분씩 운동하면 오래 앉아 있어도 건강에 문제가 없다.",
+      "en": "If you exercise 30 minutes a day, sitting for long periods causes no health problems."
+    },
+    {
+      "ko": "이 연구는 청소년 5천 명을 대상으로 8년간 진행되었다.",
+      "en": "This study was conducted on 5,000 teenagers over eight years."
+    },
+    {
+      "ko": "연구 결과는 아직 학술지에 발표되지 않았다.",
+      "en": "The findings have not yet been published in an academic journal."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "연구진은 한 시간에 한 번씩 일어나 몸을 움직이는 것만으로도 심혈관 질환 위험을 낮출 수 있다고 설명했으므로 1번이 글의 내용과 같다. 하루 30분 운동을 해도 오래 앉아 있으면 효과가 크게 줄어든다고 했고, 연구 대상은 청소년이 아니라 성인이며, 결과는 이미 국제 학술지에 실렸다.",
+  "explanation_en": "The researchers said that getting up and moving once an hour alone can lower cardiovascular risk, which matches choice 1, while the other choices contradict specific details.",
+  "passage_vocab": [
+    {
+      "word": "추적",
+      "pos": "명사",
+      "en": "tracking, follow-up",
+      "context": "성인 5천 명을 8년간 추적 조사한 결과"
+    },
+    {
+      "word": "심혈관",
+      "pos": "명사",
+      "en": "cardiovascular (heart and blood vessels)",
+      "context": "심혈관 질환 위험을 충분히 낮추기"
+    },
+    {
+      "word": "질환",
+      "pos": "명사",
+      "en": "disease, ailment",
+      "context": "심혈관 질환 위험을"
+    },
+    {
+      "word": "학술지",
+      "pos": "명사",
+      "en": "academic journal",
+      "context": "국제 학술지에 실렸으며"
+    },
+    {
+      "word": "학계",
+      "pos": "명사",
+      "en": "academia, academic circles",
+      "context": "관련 학계의 주목을 받고 있다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "증상",
+      "pos": "명사",
+      "en": "symptom",
+      "example_ko": "감기 증상이 일주일 넘게 계속되면 병원에 가야 한다.",
+      "example_en": "If cold symptoms last more than a week, you should see a doctor."
+    },
+    {
+      "word": "처방",
+      "pos": "명사",
+      "en": "prescription",
+      "example_ko": "의사의 처방 없이는 이 약을 살 수 없다.",
+      "example_en": "You cannot buy this medicine without a doctor's prescription."
+    },
+    {
+      "word": "검진",
+      "pos": "명사",
+      "en": "medical checkup, examination",
+      "example_ko": "우리 회사는 해마다 직원들에게 건강 검진을 받게 한다.",
+      "example_en": "Our company has its employees get a health checkup every year."
+    },
+    {
+      "word": "비만",
+      "pos": "명사",
+      "en": "obesity",
+      "example_ko": "비만을 막으려면 식습관부터 바꿔야 한다.",
+      "example_en": "To prevent obesity, you must first change your eating habits."
+    },
+    {
+      "word": "근육",
+      "pos": "명사",
+      "en": "muscle",
+      "example_ko": "무리하게 운동을 했더니 다리 근육이 아프다.",
+      "example_en": "My leg muscles hurt because I exercised too hard."
+    },
+    {
+      "word": "피로",
+      "pos": "명사",
+      "en": "fatigue, tiredness",
+      "example_ko": "충분히 자는 것이 피로를 푸는 가장 좋은 방법이다.",
+      "example_en": "Getting enough sleep is the best way to relieve fatigue."
+    },
+    {
+      "word": "금연",
+      "pos": "명사",
+      "en": "quitting smoking, no smoking",
+      "example_ko": "아버지는 건강을 위해 올해부터 금연을 결심하셨다.",
+      "example_en": "For his health, my father resolved to quit smoking starting this year."
+    },
+    {
+      "word": "앓다",
+      "pos": "동사",
+      "en": "to suffer from (an illness)",
+      "example_ko": "그는 지난겨울 독감을 심하게 앓았다.",
+      "example_en": "He suffered badly from the flu last winter."
+    },
+    {
+      "word": "꾸준하다",
+      "pos": "형용사",
+      "en": "steady, consistent",
+      "example_ko": "꾸준한 운동이 건강을 지키는 가장 확실한 방법이다.",
+      "example_en": "Consistent exercise is the surest way to protect your health."
+    },
+    {
+      "word": "유지하다",
+      "pos": "동사",
+      "en": "to maintain, to keep",
+      "example_ko": "적정 체중을 유지하려면 식사량을 조절해야 한다.",
+      "example_en": "To maintain a proper weight, you need to control how much you eat."
+    }
+  ]
+}

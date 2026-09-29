@@ -1,0 +1,130 @@
+{
+  "passage_ko": "지난 10년 사이 전국의 소규모 공연장 세 곳 중 한 곳이 문을 닫은 것으로 나타났다. 관객이 대형 공연과 온라인 영상으로 몰리면서 소극장들이 설 자리를 잃어 가고 있는 것이다. 소극장은 신인 예술가들이 처음 무대에 서는 공간이라는 점에서, 소극장이 사라지는 것은 예술의 뿌리가 흔들리는 셈이다. 일부 지방자치단체가 임대료를 지원하고 있지만 그 규모는 아직 턱없이 부족하다. 문화의 다양성을 지키기 위해서는 보다 적극적인 지원 방안 마련이 시급해 보인다.",
+  "passage_en": "It has been found that one in three small performance venues nationwide has closed over the past decade. As audiences flock to large-scale performances and online videos, small theaters are losing their place. Given that small theaters are where new artists first take the stage, the disappearance of small theaters effectively means that the roots of the arts are being shaken. Some local governments subsidize rent, but the scale of support is still far from enough. To preserve cultural diversity, more active support measures seem urgently needed.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "대형 공연 중심의 변화를 반기고 있다",
+      "en": "The writer welcomes the shift toward large-scale performances."
+    },
+    {
+      "ko": "소극장의 폐업을 자연스러운 흐름으로 받아들이고 있다",
+      "en": "The writer accepts the closure of small theaters as a natural trend."
+    },
+    {
+      "ko": "신인 예술가들의 실력 부족을 지적하고 있다",
+      "en": "The writer points out new artists' lack of skill."
+    },
+    {
+      "ko": "소극장의 위기를 우려하며 지원 확대를 촉구하고 있다",
+      "en": "The writer is concerned about the crisis of small theaters and urges expanded support."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "필자는 소극장의 감소를 '예술의 뿌리가 흔들리는 셈'이라고 표현하며 심각한 위기로 보고 있다. 또한 현재의 지원이 턱없이 부족하다며 적극적인 지원 방안 마련이 시급하다고 주장하므로 4번이 알맞다. 변화를 반기거나 폐업을 당연하게 여기는 태도는 글의 내용과 반대된다.",
+  "explanation_en": "By calling the decline of small theaters a shaking of the arts' roots and urging more active support, the writer shows concern and calls for expanded assistance.",
+  "passage_vocab": [
+    {
+      "word": "몰리다",
+      "pos": "동사",
+      "en": "to flock, to crowd toward",
+      "context": "대형 공연과 온라인 영상으로 몰리면서"
+    },
+    {
+      "word": "신인",
+      "pos": "명사",
+      "en": "newcomer, rookie",
+      "context": "신인 예술가들이 처음 무대에 서는"
+    },
+    {
+      "word": "임대료",
+      "pos": "명사",
+      "en": "rent (for a building or space)",
+      "context": "지방자치단체가 임대료를 지원하고"
+    },
+    {
+      "word": "턱없이",
+      "pos": "부사",
+      "en": "absurdly, far (from enough)",
+      "context": "아직 턱없이 부족하다"
+    },
+    {
+      "word": "시급하다",
+      "pos": "형용사",
+      "en": "to be urgent",
+      "context": "방안 마련이 시급해 보인다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "전시회",
+      "pos": "명사",
+      "en": "exhibition",
+      "example_ko": "주말에 미술관에서 열리는 사진 전시회에 다녀왔다.",
+      "example_en": "Over the weekend, I visited a photo exhibition held at an art museum."
+    },
+    {
+      "word": "창작",
+      "pos": "명사",
+      "en": "creation, creative work",
+      "example_ko": "그 작가는 창작 활동에 전념하기 위해 시골로 내려갔다.",
+      "example_en": "The writer moved to the countryside to devote himself to his creative work."
+    },
+    {
+      "word": "유산",
+      "pos": "명사",
+      "en": "heritage, legacy",
+      "example_ko": "한옥 마을은 잘 보존된 문화 유산으로 꼽힌다.",
+      "example_en": "The hanok village is considered a well-preserved piece of cultural heritage."
+    },
+    {
+      "word": "계승하다",
+      "pos": "동사",
+      "en": "to inherit, to carry on",
+      "example_ko": "그는 아버지의 뒤를 이어 전통 도자기 기술을 계승하고 있다.",
+      "example_en": "Following in his father's footsteps, he is carrying on traditional pottery techniques."
+    },
+    {
+      "word": "전통",
+      "pos": "명사",
+      "en": "tradition",
+      "example_ko": "명절마다 온 가족이 모여 전통 음식을 만든다.",
+      "example_en": "Every holiday, the whole family gathers to make traditional food."
+    },
+    {
+      "word": "감상하다",
+      "pos": "동사",
+      "en": "to appreciate, to enjoy (art)",
+      "example_ko": "조용한 곳에서 음악을 감상하는 것을 좋아한다.",
+      "example_en": "I like appreciating music in a quiet place."
+    },
+    {
+      "word": "무용",
+      "pos": "명사",
+      "en": "dance (as an art form)",
+      "example_ko": "그녀는 어릴 때부터 한국 무용을 배웠다.",
+      "example_en": "She has learned Korean dance since she was young."
+    },
+    {
+      "word": "축제",
+      "pos": "명사",
+      "en": "festival",
+      "example_ko": "매년 가을이면 시내에서 국제 영화 축제가 열린다.",
+      "example_en": "Every fall, an international film festival is held downtown."
+    },
+    {
+      "word": "배우",
+      "pos": "명사",
+      "en": "actor",
+      "example_ko": "그 배우는 연극 무대에서 연기를 시작했다.",
+      "example_en": "That actor began acting on the theater stage."
+    },
+    {
+      "word": "상영",
+      "pos": "명사",
+      "en": "screening (of a film)",
+      "example_ko": "이 영화는 다음 주부터 전국 극장에서 상영된다.",
+      "example_en": "This movie will be screened in theaters nationwide starting next week."
+    }
+  ]
+}

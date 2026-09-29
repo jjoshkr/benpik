@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 우리 사회에서는 수도권으로 인구가 집중되면서 지방의 작은 도시들이 사라질 위기에 놓여 있다. 정부가 다양한 지원 정책을 내놓았음에도 불구하고 청년들의 유출은 좀처럼 줄어들지 않고 있다. 일자리와 교육, 문화 시설이 대도시에 몰려 있는 상황에서 청년들에게 지방에 남으라고 요구하는 것은 설득력이 떨어지기 때문이다. 전문가들은 이 문제를 해결하려면 일시적인 보조금을 주는 데 그치지 말고 (    ) 한다고 지적한다. 청년이 지역에서 자신의 미래를 계획할 수 있을 때 비로소 지방에도 활력이 돌아올 것이다.",
+  "passage_en": "Recently in our society, as the population concentrates in the capital region, small provincial cities are facing the risk of disappearing. Even though the government has introduced various support policies, the outflow of young people is hardly decreasing. This is because, with jobs, education, and cultural facilities clustered in big cities, demanding that young people stay in the provinces carries little persuasive power. Experts point out that to solve this problem, we must not stop at handing out temporary subsidies but (    ). Only when young people can plan their own future in the region will vitality return to the provinces.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "대도시의 문화 시설을 더욱 확충해야",
+      "en": "must further expand cultural facilities in big cities"
+    },
+    {
+      "ko": "지역 안에서 안정적으로 일하고 생활할 수 있는 기반을 마련해야",
+      "en": "must build a foundation that allows people to work and live stably within the region"
+    },
+    {
+      "ko": "청년들이 대도시로 떠나도록 적극 권유해야",
+      "en": "must actively encourage young people to leave for big cities"
+    },
+    {
+      "ko": "인구를 조사하는 방식을 전면적으로 바꿔야",
+      "en": "must completely change the way the population is surveyed"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "빈칸 뒤 문장에서 청년이 지역에서 미래를 계획할 수 있어야 지방에 활력이 돌아온다고 했다. 따라서 일시적 보조금을 넘어 지역 안에서 일하고 생활할 기반을 만들어야 한다는 2번이 가장 자연스럽다. 대도시 시설 확충이나 대도시 이주 권유는 글의 방향과 반대이고, 인구 조사 방식은 글의 내용과 관련이 없다.",
+  "explanation_en": "The following sentence says vitality returns only when young people can plan their future in the region, so the blank should call for building a stable foundation for working and living locally, beyond temporary subsidies.",
+  "passage_vocab": [
+    {
+      "word": "집중되다",
+      "pos": "동사",
+      "en": "to be concentrated",
+      "context": "수도권으로 인구가 집중되면서"
+    },
+    {
+      "word": "유출",
+      "pos": "명사",
+      "en": "outflow, drain",
+      "context": "청년들의 유출은 좀처럼 줄어들지"
+    },
+    {
+      "word": "좀처럼",
+      "pos": "부사",
+      "en": "hardly, rarely (with negative)",
+      "context": "좀처럼 줄어들지 않고 있다"
+    },
+    {
+      "word": "설득력",
+      "pos": "명사",
+      "en": "persuasive power",
+      "context": "설득력이 떨어지기 때문이다"
+    },
+    {
+      "word": "활력",
+      "pos": "명사",
+      "en": "vitality, energy",
+      "context": "지방에도 활력이 돌아올 것이다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "분쟁",
+      "pos": "명사",
+      "en": "dispute, conflict",
+      "example_ko": "층간 소음 때문에 이웃 간의 분쟁이 잦아졌다.",
+      "example_en": "Disputes between neighbors over noise between floors have become frequent."
+    },
+    {
+      "word": "격차",
+      "pos": "명사",
+      "en": "gap, disparity",
+      "example_ko": "도시와 농촌의 교육 격차가 갈수록 벌어지고 있다.",
+      "example_en": "The education gap between cities and rural areas is widening over time."
+    },
+    {
+      "word": "안전망",
+      "pos": "명사",
+      "en": "safety net",
+      "example_ko": "위기 가정을 위한 사회 안전망을 더 촘촘히 짜야 한다.",
+      "example_en": "The social safety net for families in crisis must be woven more tightly."
+    },
+    {
+      "word": "인권",
+      "pos": "명사",
+      "en": "human rights",
+      "example_ko": "모든 사람의 인권은 마땅히 존중되어야 한다.",
+      "example_en": "Everyone's human rights must be duly respected."
+    },
+    {
+      "word": "생계",
+      "pos": "명사",
+      "en": "livelihood",
+      "example_ko": "그는 가족의 생계를 위해 두 가지 일을 하고 있다.",
+      "example_en": "He works two jobs to support his family."
+    },
+    {
+      "word": "양극화",
+      "pos": "명사",
+      "en": "polarization",
+      "example_ko": "소득 양극화가 심해지면 사회 전체가 불안해진다.",
+      "example_en": "When income polarization deepens, the whole society becomes unstable."
+    },
+    {
+      "word": "소외되다",
+      "pos": "동사",
+      "en": "to be marginalized, to be left out",
+      "example_ko": "디지털 기기에 익숙하지 않은 노인들이 소외되기 쉽다.",
+      "example_en": "Elderly people unfamiliar with digital devices are easily marginalized."
+    },
+    {
+      "word": "제도",
+      "pos": "명사",
+      "en": "system, institution",
+      "example_ko": "새로운 제도가 실제로 효과가 있는지 지켜봐야 한다.",
+      "example_en": "We need to watch whether the new system actually works."
+    },
+    {
+      "word": "여론",
+      "pos": "명사",
+      "en": "public opinion",
+      "example_ko": "이번 정책에 대한 여론은 크게 둘로 나뉘었다.",
+      "example_en": "Public opinion on this policy was largely divided in two."
+    },
+    {
+      "word": "시위",
+      "pos": "명사",
+      "en": "protest, demonstration",
+      "example_ko": "시민들은 광장에 모여 평화적인 시위를 벌였다.",
+      "example_en": "Citizens gathered in the square and held a peaceful protest."
+    }
+  ]
+}

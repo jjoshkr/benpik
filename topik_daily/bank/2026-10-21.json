@@ -1,0 +1,124 @@
+{
+  "passage_ko": "쉰을 앞두고 처음으로 수영을 배우기 시작했다. 이 나이에 새로운 것을 배운다는 사실이 처음에는 조금 부끄럽기도 했다. 그런데 물과 친해질수록 몸에 힘을 빼는 법을 알게 되었고, 석 달이 지나자 드디어 25미터를 쉬지 않고 헤엄칠 수 있게 되었다. 젊은 수강생들보다 배우는 속도는 느리지만 나는 어제의 나와 견주며 조금씩 나아지는 재미를 알아 가고 있다. 배움에 늦은 나이란 없다는 말을 요즘 들어 실감하고 있다.",
+  "passage_en": "Just before turning fifty, I started learning to swim for the first time. At first I was a little embarrassed to be learning something new at my age. But the more comfortable I became in the water, the better I understood how to relax my body, and after three months I could finally swim 25 meters without stopping. I learn more slowly than the younger students, but I am discovering the joy of improving little by little, measuring myself against who I was yesterday. These days I truly feel the saying that no age is too late for learning.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "글쓴이는 석 달 만에 25미터를 쉬지 않고 헤엄치게 되었다",
+      "en": "The writer became able to swim 25 meters without stopping after three months"
+    },
+    {
+      "ko": "글쓴이는 어릴 때부터 수영을 배워 왔다",
+      "en": "The writer has been learning to swim since childhood"
+    },
+    {
+      "ko": "글쓴이는 젊은 수강생들보다 빨리 배우는 편이다",
+      "en": "The writer learns faster than the younger students"
+    },
+    {
+      "ko": "글쓴이는 부끄러워서 수영 강습을 그만두었다",
+      "en": "The writer quit the swimming lessons out of embarrassment"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "글쓴이는 석 달이 지나자 25미터를 쉬지 않고 헤엄칠 수 있게 되었다고 했으므로 1번이 글의 내용과 같다. 수영은 쉰을 앞두고 처음 배우기 시작했고, 젊은 수강생들보다 배우는 속도가 느리다고 했다. 처음에 부끄러움을 느꼈지만 그만두었다는 내용은 없다.",
+  "explanation_en": "The writer says that after three months he could finally swim 25 meters without stopping, so choice 1 matches the passage.",
+  "passage_vocab": [
+    {
+      "word": "앞두다",
+      "pos": "동사",
+      "en": "to have (an age or event) just ahead",
+      "context": "쉰을 앞두고 처음으로"
+    },
+    {
+      "word": "수강생",
+      "pos": "명사",
+      "en": "student in a course",
+      "context": "젊은 수강생들보다 배우는 속도는"
+    },
+    {
+      "word": "견주다",
+      "pos": "동사",
+      "en": "to compare, to measure against",
+      "context": "어제의 나와 견주며"
+    },
+    {
+      "word": "실감하다",
+      "pos": "동사",
+      "en": "to feel keenly, to realize vividly",
+      "context": "요즘 들어 실감하고 있다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "기초",
+      "pos": "명사",
+      "en": "basics, foundation",
+      "example_ko": "외국어는 기초를 튼튼히 다지는 것이 중요하다.",
+      "example_en": "With a foreign language, building a solid foundation is important."
+    },
+    {
+      "word": "반복하다",
+      "pos": "동사",
+      "en": "to repeat",
+      "example_ko": "같은 동작을 반복하다 보면 몸이 저절로 기억한다.",
+      "example_en": "If you repeat the same motion, your body remembers it on its own."
+    },
+    {
+      "word": "향상되다",
+      "pos": "동사",
+      "en": "to improve, to be enhanced",
+      "example_ko": "매일 연습했더니 실력이 눈에 띄게 향상되었다.",
+      "example_en": "After practicing every day, my skills improved noticeably."
+    },
+    {
+      "word": "자세",
+      "pos": "명사",
+      "en": "posture; attitude",
+      "example_ko": "바른 자세로 앉아야 허리에 무리가 가지 않는다.",
+      "example_en": "You should sit with correct posture to avoid straining your back."
+    },
+    {
+      "word": "끈기",
+      "pos": "명사",
+      "en": "perseverance, tenacity",
+      "example_ko": "무엇이든 잘하려면 재능보다 끈기가 필요하다.",
+      "example_en": "To do anything well, you need perseverance more than talent."
+    },
+    {
+      "word": "터득하다",
+      "pos": "동사",
+      "en": "to grasp, to master (through experience)",
+      "example_ko": "그는 오랜 훈련 끝에 힘을 빼는 요령을 터득했다.",
+      "example_en": "After long training, he mastered the knack of relaxing his body."
+    },
+    {
+      "word": "도전하다",
+      "pos": "동사",
+      "en": "to challenge oneself, to take on",
+      "example_ko": "나이와 상관없이 새로운 일에 도전하는 사람들이 늘고 있다.",
+      "example_en": "More and more people are taking on new challenges regardless of age."
+    },
+    {
+      "word": "수료하다",
+      "pos": "동사",
+      "en": "to complete (a course)",
+      "example_ko": "그녀는 6개월 과정의 요리 수업을 수료했다.",
+      "example_en": "She completed a six-month cooking course."
+    },
+    {
+      "word": "초보자",
+      "pos": "명사",
+      "en": "beginner",
+      "example_ko": "이 강좌는 수영을 처음 배우는 초보자를 위한 것이다.",
+      "example_en": "This class is for beginners learning to swim for the first time."
+    },
+    {
+      "word": "진도",
+      "pos": "명사",
+      "en": "progress (in study, in a course)",
+      "example_ko": "수업 진도가 빨라서 따라가기가 쉽지 않다.",
+      "example_en": "The class moves quickly, so it is not easy to keep up."
+    }
+  ]
+}

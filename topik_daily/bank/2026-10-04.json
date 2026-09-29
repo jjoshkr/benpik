@@ -1,0 +1,124 @@
+{
+  "passage_ko": "한 취업 정보 업체가 직장인 천 명을 조사한 결과, 응답자의 70퍼센트가 근무 시간을 스스로 정하는 유연 근무제를 원하는 것으로 나타났다. 유연 근무제를 이미 도입한 기업들은 직원들의 지각과 조퇴가 줄고 업무 만족도가 높아졌다고 밝혔다. 한 인사 담당자는 직원이 존중받는다고 느끼면 일에 더 몰입하는 법이라며 제도의 효과를 설명했다. 다만 부서 간 소통이 어려워질 수 있다는 우려도 있어, 도입 기업들은 모두가 함께 일하는 공통 근무 시간을 따로 정해 두고 있다.",
+  "passage_en": "A job information company surveyed one thousand office workers and found that 70 percent of respondents want a flexible work system in which they set their own working hours. Companies that have already introduced flexible work reported that lateness and early departures decreased and job satisfaction rose. One HR manager explained the system's effect, saying that when employees feel respected, they naturally become more immersed in their work. However, since there are concerns that communication between departments could become difficult, the adopting companies set aside common working hours during which everyone works together.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "응답자의 절반이 되지 않는 사람들만 유연 근무제를 원했다.",
+      "en": "Fewer than half of the respondents wanted flexible work."
+    },
+    {
+      "ko": "유연 근무제를 도입한 기업에서는 직원들의 지각이 오히려 늘었다.",
+      "en": "In companies that introduced flexible work, employee lateness actually increased."
+    },
+    {
+      "ko": "유연 근무제 도입 기업들은 공통 근무 시간을 모두 없앴다.",
+      "en": "Companies adopting flexible work abolished all common working hours."
+    },
+    {
+      "ko": "유연 근무제 도입 기업들은 소통을 위해 공통 근무 시간을 정해 두었다.",
+      "en": "Companies adopting flexible work set common working hours to keep communication going."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "글의 마지막 문장에서 도입 기업들이 부서 간 소통 문제를 우려해 공통 근무 시간을 따로 정해 두었다고 했으므로 4번이 일치한다. 응답자의 70퍼센트가 유연 근무제를 원했고, 도입 기업에서는 지각과 조퇴가 줄었다고 했으므로 나머지 선택지는 내용과 어긋난다.",
+  "explanation_en": "The final sentence says adopting companies set common working hours to address communication concerns, while the other options contradict the survey figure and the reported decrease in lateness.",
+  "passage_vocab": [
+    {
+      "word": "유연",
+      "pos": "명사",
+      "en": "flexibility (used in 유연 근무제, flexible work system)",
+      "context": "근무 시간을 스스로 정하는 유연 근무제"
+    },
+    {
+      "word": "조퇴",
+      "pos": "명사",
+      "en": "leaving work early",
+      "context": "직원들의 지각과 조퇴가 줄고"
+    },
+    {
+      "word": "몰입하다",
+      "pos": "동사",
+      "en": "to be immersed in, absorbed in",
+      "context": "일에 더 몰입하는 법이라며"
+    },
+    {
+      "word": "우려",
+      "pos": "명사",
+      "en": "concern, worry",
+      "context": "어려워질 수 있다는 우려도 있어"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "직장",
+      "pos": "명사",
+      "en": "workplace",
+      "example_ko": "그는 집에서 가까운 직장을 구하고 싶어 한다.",
+      "example_en": "He wants to find a workplace close to home."
+    },
+    {
+      "word": "근무",
+      "pos": "명사",
+      "en": "work, duty (being on the job)",
+      "example_ko": "이 회사는 주 5일 근무를 원칙으로 한다.",
+      "example_en": "This company works five days a week as a rule."
+    },
+    {
+      "word": "사표",
+      "pos": "명사",
+      "en": "letter of resignation",
+      "example_ko": "그는 오랜 고민 끝에 사표를 냈다.",
+      "example_en": "After long deliberation, he handed in his resignation."
+    },
+    {
+      "word": "재택근무",
+      "pos": "명사",
+      "en": "working from home",
+      "example_ko": "재택근무 덕분에 출퇴근에 드는 시간이 줄었다.",
+      "example_en": "Thanks to working from home, time spent commuting has decreased."
+    },
+    {
+      "word": "능률",
+      "pos": "명사",
+      "en": "efficiency, productivity",
+      "example_ko": "짧게라도 쉬어야 일의 능률이 오른다.",
+      "example_en": "You need at least short breaks for your work efficiency to rise."
+    },
+    {
+      "word": "경쟁",
+      "pos": "명사",
+      "en": "competition",
+      "example_ko": "입사 시험의 경쟁이 해마다 치열해지고 있다.",
+      "example_en": "Competition in company entrance exams gets fiercer every year."
+    },
+    {
+      "word": "보람",
+      "pos": "명사",
+      "en": "sense of reward, fulfillment",
+      "example_ko": "힘들어도 환자가 나아지는 모습을 보면 보람을 느낀다.",
+      "example_en": "Even when it is hard, I feel rewarded when I see patients getting better."
+    },
+    {
+      "word": "적성",
+      "pos": "명사",
+      "en": "aptitude",
+      "example_ko": "직업을 고를 때는 적성에 맞는지 따져 봐야 한다.",
+      "example_en": "When choosing a job, you should consider whether it suits your aptitude."
+    },
+    {
+      "word": "담당하다",
+      "pos": "동사",
+      "en": "to be in charge of",
+      "example_ko": "그녀는 회사에서 홍보 일을 담당하고 있다.",
+      "example_en": "She is in charge of public relations at the company."
+    },
+    {
+      "word": "처리하다",
+      "pos": "동사",
+      "en": "to handle, process",
+      "example_ko": "그는 급한 일부터 순서대로 처리했다.",
+      "example_en": "He handled the urgent tasks first, in order."
+    }
+  ]
+}

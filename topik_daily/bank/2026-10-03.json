@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 식당이나 카페에서 점원 대신 무인 주문 기계를 두는 곳이 빠르게 늘고 있다. 기계 사용에 익숙하지 않은 노년층은 주문 단계에서 헤매다가 뒤에 선 사람들의 눈치를 보기 십상이다. 실제로 한 조사에서는 70대 응답자의 절반 이상이 무인 기계 때문에 주문을 포기한 경험이 있다고 답했다. 이에 따라 일부 지방자치단체는 노인을 대상으로 기계 사용 교육을 실시하고, 글자를 키운 화면을 도입하도록 권고하고 있다.",
+  "passage_en": "Recently, the number of restaurants and cafes that install self-service ordering kiosks instead of staff is growing rapidly. Elderly people who are unfamiliar with the machines are apt to fumble through the ordering steps while nervously minding the people lined up behind them. In fact, in one survey more than half of respondents in their seventies answered that they had given up on ordering because of the kiosks. Accordingly, some local governments are providing kiosk-use training for senior citizens and recommending the introduction of screens with larger letters.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "무인 주문 기계를 설치하는 가게는 점점 줄어들고 있다.",
+      "en": "The number of stores installing self-service kiosks is gradually decreasing."
+    },
+    {
+      "ko": "70대 응답자의 절반 이상이 무인 기계 때문에 주문을 포기한 적이 있다.",
+      "en": "More than half of respondents in their seventies have given up on ordering because of the kiosks."
+    },
+    {
+      "ko": "지방자치단체는 무인 주문 기계의 설치를 전면 금지했다.",
+      "en": "Local governments have completely banned the installation of self-service kiosks."
+    },
+    {
+      "ko": "노년층 대부분은 무인 기계 사용에 익숙한 편이다.",
+      "en": "Most elderly people are fairly familiar with using the kiosks."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "한 조사에서 70대 응답자의 절반 이상이 무인 기계 때문에 주문을 포기한 경험이 있다고 답했으므로 2번이 내용과 일치한다. 무인 기계를 두는 가게는 늘고 있고, 지방자치단체는 설치를 금지한 것이 아니라 교육과 화면 개선을 권고하고 있다. 또한 노년층은 기계 사용에 익숙하지 않다고 했다.",
+  "explanation_en": "The passage states that over half of surveyed people in their seventies had given up ordering because of kiosks, while the other options contradict details in the text.",
+  "passage_vocab": [
+    {
+      "word": "노년층",
+      "pos": "명사",
+      "en": "the elderly (as a demographic group)",
+      "context": "기계 사용에 익숙하지 않은 노년층"
+    },
+    {
+      "word": "헤매다",
+      "pos": "동사",
+      "en": "to wander, fumble about",
+      "context": "주문 단계에서 헤매다가"
+    },
+    {
+      "word": "눈치를 보다",
+      "pos": "표현",
+      "en": "to mind others' reactions, watch how others feel",
+      "context": "뒤에 선 사람들의 눈치를 보기 십상이다"
+    },
+    {
+      "word": "실시하다",
+      "pos": "동사",
+      "en": "to carry out, implement",
+      "context": "기계 사용 교육을 실시하고"
+    },
+    {
+      "word": "권고하다",
+      "pos": "동사",
+      "en": "to recommend, advise (officially)",
+      "context": "화면을 도입하도록 권고하고 있다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "갈등",
+      "pos": "명사",
+      "en": "conflict",
+      "example_ko": "세대 간 갈등을 줄이려면 서로의 입장을 들어 봐야 한다.",
+      "example_en": "To reduce generational conflict, we need to listen to each other's positions."
+    },
+    {
+      "word": "격차",
+      "pos": "명사",
+      "en": "gap, disparity",
+      "example_ko": "도시와 농촌의 교육 격차가 점점 벌어지고 있다.",
+      "example_en": "The education gap between cities and rural areas keeps widening."
+    },
+    {
+      "word": "불평등",
+      "pos": "명사",
+      "en": "inequality",
+      "example_ko": "소득 불평등은 사회 통합을 어렵게 만든다.",
+      "example_en": "Income inequality makes social cohesion difficult."
+    },
+    {
+      "word": "차별",
+      "pos": "명사",
+      "en": "discrimination",
+      "example_ko": "누구도 출신 지역 때문에 차별을 받아서는 안 된다.",
+      "example_en": "No one should be discriminated against because of where they come from."
+    },
+    {
+      "word": "빈곤",
+      "pos": "명사",
+      "en": "poverty",
+      "example_ko": "노인 빈곤 문제가 갈수록 심각해지고 있다.",
+      "example_en": "The problem of elderly poverty is becoming increasingly serious."
+    },
+    {
+      "word": "복지",
+      "pos": "명사",
+      "en": "welfare",
+      "example_ko": "정부는 장애인을 위한 복지 제도를 확대하기로 했다.",
+      "example_en": "The government decided to expand welfare programs for people with disabilities."
+    },
+    {
+      "word": "소외",
+      "pos": "명사",
+      "en": "alienation, exclusion",
+      "example_ko": "디지털 기기에 익숙하지 않은 사람들이 소외를 겪고 있다.",
+      "example_en": "People unfamiliar with digital devices are experiencing exclusion."
+    },
+    {
+      "word": "지적하다",
+      "pos": "동사",
+      "en": "to point out",
+      "example_ko": "전문가들은 제도의 허점을 지적했다.",
+      "example_en": "Experts pointed out loopholes in the system."
+    },
+    {
+      "word": "시급하다",
+      "pos": "형용사",
+      "en": "to be urgent",
+      "example_ko": "주거 문제 해결이 무엇보다 시급하다.",
+      "example_en": "Solving the housing problem is more urgent than anything else."
+    },
+    {
+      "word": "마련하다",
+      "pos": "동사",
+      "en": "to prepare, come up with (a measure)",
+      "example_ko": "정부는 청년을 위한 지원 방안을 마련하고 있다.",
+      "example_en": "The government is preparing support measures for young people."
+    }
+  ]
+}

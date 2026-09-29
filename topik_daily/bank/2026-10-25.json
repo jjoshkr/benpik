@@ -1,0 +1,130 @@
+{
+  "passage_ko": "지난달에 혼자 제주도로 사흘간 여행을 다녀왔다. 떠나기 전에는 일에 쫓겨 밥 먹을 시간도 없을 정도로 바쁜 나날을 보내고 있었다. 그런데 바닷가를 따라 천천히 걷다 보니 복잡했던 머릿속이 신기하게도 차분해졌다. 나는 그동안 여행을 단순한 시간 낭비라고 여겼지만, 이번 여행을 통해 (    ) 깨달았다. 돌아오는 비행기 안에서 나는 벌써 다음 여행을 계획하고 있었다.",
+  "passage_en": "Last month I went on a three-day trip to Jeju Island by myself. Before leaving, I was so swamped with work that I was living days so busy I barely had time to eat. But as I walked slowly along the seashore, my tangled mind grew strangely calm. I had always considered travel a simple waste of time, but through this trip I realized (    ). On the flight home, I was already planning my next trip.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "쉼이란 멈추는 것이 아니라 다시 나아가기 위한 준비라는 것을",
+      "en": "that rest is not stopping, but preparation for moving forward again"
+    },
+    {
+      "ko": "혼자 하는 여행이 얼마나 위험한지를",
+      "en": "how dangerous traveling alone is"
+    },
+    {
+      "ko": "일을 미루면 결국 나만 손해라는 것을",
+      "en": "that putting off work only hurts me in the end"
+    },
+    {
+      "ko": "여행에는 생각보다 많은 돈이 든다는 것을",
+      "en": "that travel costs more money than expected"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 여행을 시간 낭비라고 여겼지만 걷는 동안 머릿속이 차분해지는 경험을 했고, 돌아오는 길에 벌써 다음 여행을 계획한다. 여행에 대한 생각이 긍정적으로 바뀌었으므로 쉼의 가치를 깨달았다는 1번이 가장 알맞다. 위험이나 비용, 일에 대한 후회는 글의 흐름과 맞지 않는다.",
+  "explanation_en": "The writer's view of travel shifts from 'a waste of time' to something restorative, shown by the calmed mind and the eagerness to plan another trip, so the blank should state the realization that rest is preparation for moving forward.",
+  "passage_vocab": [
+    {
+      "word": "사흘",
+      "pos": "명사",
+      "en": "three days",
+      "context": "제주도로 사흘간 여행을"
+    },
+    {
+      "word": "쫓기다",
+      "pos": "동사",
+      "en": "to be pressed, to be chased (by work, time)",
+      "context": "일에 쫓겨 밥 먹을 시간도"
+    },
+    {
+      "word": "여기다",
+      "pos": "동사",
+      "en": "to consider, to regard as",
+      "context": "단순한 시간 낭비라고 여겼지만"
+    },
+    {
+      "word": "낭비",
+      "pos": "명사",
+      "en": "waste (of time, money)",
+      "context": "단순한 시간 낭비라고"
+    },
+    {
+      "word": "깨닫다",
+      "pos": "동사",
+      "en": "to realize",
+      "context": "이번 여행을 통해 (    ) 깨달았다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "여권",
+      "pos": "명사",
+      "en": "passport",
+      "example_ko": "여권 유효 기간이 육 개월 이상 남아 있는지 미리 확인하세요.",
+      "example_en": "Check in advance that your passport is valid for at least six more months."
+    },
+    {
+      "word": "항공권",
+      "pos": "명사",
+      "en": "airline ticket",
+      "example_ko": "일찍 예매할수록 항공권을 싸게 살 수 있다.",
+      "example_en": "The earlier you book, the cheaper you can buy an airline ticket."
+    },
+    {
+      "word": "비수기",
+      "pos": "명사",
+      "en": "off-season",
+      "example_ko": "비수기에는 호텔 요금이 절반 가까이 내려간다.",
+      "example_en": "In the off-season, hotel rates drop by nearly half."
+    },
+    {
+      "word": "탑승",
+      "pos": "명사",
+      "en": "boarding",
+      "example_ko": "탑승 시작 삼십 분 전까지 게이트 앞에 도착해야 한다.",
+      "example_en": "You must arrive at the gate thirty minutes before boarding begins."
+    },
+    {
+      "word": "유적지",
+      "pos": "명사",
+      "en": "historic site",
+      "example_ko": "경주에는 걸어서 돌아볼 수 있는 유적지가 많다.",
+      "example_en": "In Gyeongju there are many historic sites you can tour on foot."
+    },
+    {
+      "word": "동호회",
+      "pos": "명사",
+      "en": "club, hobby group",
+      "example_ko": "그는 주말마다 자전거 동호회 사람들과 함께 달린다.",
+      "example_en": "He rides with people from his cycling club every weekend."
+    },
+    {
+      "word": "등산",
+      "pos": "명사",
+      "en": "hiking, mountain climbing",
+      "example_ko": "아버지는 건강을 위해 매주 일요일마다 등산을 하신다.",
+      "example_en": "My father goes hiking every Sunday for his health."
+    },
+    {
+      "word": "낚시",
+      "pos": "명사",
+      "en": "fishing",
+      "example_ko": "삼촌은 낚시를 하러 새벽마다 강가에 나간다.",
+      "example_en": "My uncle goes out to the riverside at dawn to fish."
+    },
+    {
+      "word": "휴식",
+      "pos": "명사",
+      "en": "rest, break",
+      "example_ko": "장시간 운전할 때는 두 시간마다 휴식을 취하는 것이 좋다.",
+      "example_en": "When driving for long hours, it is good to take a break every two hours."
+    },
+    {
+      "word": "짐",
+      "pos": "명사",
+      "en": "luggage, load",
+      "example_ko": "짐을 줄이면 여행이 훨씬 가벼워진다.",
+      "example_en": "If you cut down on luggage, your trip becomes much lighter."
+    }
+  ]
+}

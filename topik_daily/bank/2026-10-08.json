@@ -1,0 +1,124 @@
+{
+  "passage_ko": "최근 20~30대 사이에서 하루 동안 돈을 한 푼도 쓰지 않는 '무지출 챌린지'가 확산되고 있다. 고물가 시대에 월세와 공과금을 내느라고 저축할 여유가 사라진 젊은 층이 스스로 소비를 통제하기 시작한 것이다. 이들은 도시락을 싸서 출근하고 무료 문화 행사를 찾아다니는 등 (    ) 방법을 온라인에서 활발히 공유하고 있다. 전문가들은 이러한 움직임이 일시적인 유행을 넘어 합리적인 소비 문화로 자리 잡을 수 있다고 평가했다.",
+  "passage_en": "Recently, the 'no-spend challenge,' in which people spend not a single penny for a whole day, is spreading among those in their twenties and thirties. In this era of high prices, young people who have no room left to save because they spend everything paying rent and utility bills have begun to control their own consumption. They actively share online ways to (    ), such as packing lunches for work and seeking out free cultural events. Experts assessed that this movement could take root as a rational consumption culture, going beyond a passing fad.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "생활비를 절약하는",
+      "en": "save on living expenses"
+    },
+    {
+      "ko": "수입을 늘리는",
+      "en": "increase their income"
+    },
+    {
+      "ko": "여가를 즐기는",
+      "en": "enjoy their leisure time"
+    },
+    {
+      "ko": "건강을 관리하는",
+      "en": "manage their health"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "빈칸 앞에 도시락을 싸서 출근하고 무료 행사를 찾아다니는 등 돈을 아끼는 사례가 나열되어 있다. 이는 모두 생활비를 절약하는 방법이므로 1번이 알맞다. 수입을 늘리거나 건강을 관리하는 내용은 글에 나오지 않는다.",
+  "explanation_en": "The examples before the blank—packing lunches and attending free events—are all ways of cutting living costs, so choice 1 fits best.",
+  "passage_vocab": [
+    {
+      "word": "확산되다",
+      "pos": "동사",
+      "en": "to spread, to proliferate",
+      "context": "'무지출 챌린지'가 확산되고 있다"
+    },
+    {
+      "word": "공과금",
+      "pos": "명사",
+      "en": "utility bills",
+      "context": "월세와 공과금을 내느라고"
+    },
+    {
+      "word": "통제하다",
+      "pos": "동사",
+      "en": "to control, to regulate",
+      "context": "스스로 소비를 통제하기 시작한"
+    },
+    {
+      "word": "일시적",
+      "pos": "명사",
+      "en": "temporary, momentary",
+      "context": "일시적인 유행을 넘어"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "가계",
+      "pos": "명사",
+      "en": "household finances",
+      "example_ko": "물가가 오르면서 가계의 부담이 갈수록 커지고 있다.",
+      "example_en": "As prices rise, the burden on household finances keeps growing."
+    },
+    {
+      "word": "할인",
+      "pos": "명사",
+      "en": "discount",
+      "example_ko": "이 매장은 회원에게 10% 할인 혜택을 제공한다.",
+      "example_en": "This store offers members a 10 percent discount."
+    },
+    {
+      "word": "소득",
+      "pos": "명사",
+      "en": "income",
+      "example_ko": "소득이 늘어도 지출이 더 빨리 늘면 돈을 모으기 어렵다.",
+      "example_en": "Even if income increases, it is hard to save money if spending grows faster."
+    },
+    {
+      "word": "환불",
+      "pos": "명사",
+      "en": "refund",
+      "example_ko": "영수증이 없으면 환불을 받기 어려울 수 있다.",
+      "example_en": "Without a receipt, it may be difficult to get a refund."
+    },
+    {
+      "word": "가격",
+      "pos": "명사",
+      "en": "price",
+      "example_ko": "같은 제품이라도 매장마다 가격이 조금씩 다르다.",
+      "example_en": "Even for the same product, prices vary slightly from store to store."
+    },
+    {
+      "word": "경쟁",
+      "pos": "명사",
+      "en": "competition",
+      "example_ko": "기업 간 경쟁이 치열해지면서 제품의 질이 점점 좋아지고 있다.",
+      "example_en": "As competition among companies intensifies, the quality of products keeps improving."
+    },
+    {
+      "word": "수요",
+      "pos": "명사",
+      "en": "demand",
+      "example_ko": "겨울이 되자 난방 기구의 수요가 크게 늘었다.",
+      "example_en": "With winter's arrival, demand for heating appliances rose sharply."
+    },
+    {
+      "word": "공급",
+      "pos": "명사",
+      "en": "supply",
+      "example_ko": "공급이 수요를 따라가지 못해 가격이 급등했다.",
+      "example_en": "Prices soared because supply could not keep up with demand."
+    },
+    {
+      "word": "낭비하다",
+      "pos": "동사",
+      "en": "to waste",
+      "example_ko": "충동구매는 돈을 낭비하는 대표적인 습관이다.",
+      "example_en": "Impulse buying is a typical habit of wasting money."
+    },
+    {
+      "word": "인상되다",
+      "pos": "동사",
+      "en": "to be raised (of prices, fares)",
+      "example_ko": "다음 달부터 버스 요금이 200원 인상된다.",
+      "example_en": "Bus fares will be raised by 200 won starting next month."
+    }
+  ]
+}

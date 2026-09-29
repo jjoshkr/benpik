@@ -1,0 +1,124 @@
+{
+  "passage_ko": "봄과 가을이 되면 수많은 철새가 한반도를 찾아온다. 그런데 최근 겨울 기온이 오르는 바람에 철새가 남쪽으로 떠나는 시기가 점점 늦어지고, 일부는 아예 이동을 포기한 채 한곳에 머물러 겨울을 나기도 한다. 문제는 이동 시기가 어긋나면 도착지에서 먹이를 제때 구하지 못해 번식에 어려움을 겪게 된다는 점이다. 이에 조류학자들은 철새 도래지의 기온과 먹이 변화를 오랜 기간 기록해 (    ) 자료로 활용해야 한다고 강조한다.",
+  "passage_en": "Every spring and autumn, countless migratory birds visit the Korean Peninsula. Recently, however, because winter temperatures have been rising, the birds' departure for the south keeps getting later, and some even give up migrating altogether and stay in one place through the winter. The problem is that when the timing of migration goes off schedule, the birds cannot find food at the right time at their destination and struggle to breed. Accordingly, ornithologists stress that the temperature and food changes at migratory bird sites should be recorded over a long period and used as data to (    ).",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "철새의 수를 인위적으로 늘리는",
+      "en": "artificially increase the number of migratory birds"
+    },
+    {
+      "ko": "이동 시기의 변화를 미리 내다보는",
+      "en": "foresee changes in migration timing in advance"
+    },
+    {
+      "ko": "도래지를 관광지로 바꾸는",
+      "en": "turn the bird sites into tourist attractions"
+    },
+    {
+      "ko": "철새에게 직접 먹이를 주는",
+      "en": "feed the migratory birds directly"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "글 전체가 기온 상승 때문에 철새의 이동 시기가 달라지고 있다는 내용을 다루고 있다. 오랜 기간의 기록은 앞으로의 변화를 예측하는 데 쓰는 것이 자연스러우므로 2번이 알맞다. 관광지 개발이나 먹이 주기에 대한 내용은 글에 나오지 않는다.",
+  "explanation_en": "The passage is about shifting migration timing, so long-term records would naturally serve as data for foreseeing such changes, making choice 2 correct.",
+  "passage_vocab": [
+    {
+      "word": "도래지",
+      "pos": "명사",
+      "en": "stopover or wintering site (of migratory birds)",
+      "context": "철새 도래지의 기온과 먹이 변화를"
+    },
+    {
+      "word": "번식",
+      "pos": "명사",
+      "en": "breeding, reproduction",
+      "context": "번식에 어려움을 겪게 된다"
+    },
+    {
+      "word": "어긋나다",
+      "pos": "동사",
+      "en": "to go off schedule, to be mismatched",
+      "context": "이동 시기가 어긋나면"
+    },
+    {
+      "word": "제때",
+      "pos": "부사",
+      "en": "at the right time",
+      "context": "먹이를 제때 구하지 못해"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "서식하다",
+      "pos": "동사",
+      "en": "to inhabit, to live (of animals)",
+      "example_ko": "이 호수에는 다양한 물새가 서식하고 있다.",
+      "example_en": "A variety of waterbirds live in this lake."
+    },
+    {
+      "word": "개체",
+      "pos": "명사",
+      "en": "individual (organism)",
+      "example_ko": "이 지역의 두루미 개체 수가 해마다 줄고 있다.",
+      "example_en": "The number of cranes in this area is decreasing every year."
+    },
+    {
+      "word": "적응하다",
+      "pos": "동사",
+      "en": "to adapt",
+      "example_ko": "동물들은 변화하는 환경에 적응하며 살아간다.",
+      "example_en": "Animals survive by adapting to their changing environment."
+    },
+    {
+      "word": "이주",
+      "pos": "명사",
+      "en": "migration, relocation",
+      "example_ko": "기후 변화 때문에 살던 곳을 떠나 이주를 택하는 사람들도 있다.",
+      "example_en": "Some people choose to relocate, leaving their homes because of climate change."
+    },
+    {
+      "word": "기상",
+      "pos": "명사",
+      "en": "weather (conditions)",
+      "example_ko": "갑작스러운 기상 악화로 비행기가 출발하지 못했다.",
+      "example_en": "The plane could not depart due to a sudden worsening of the weather."
+    },
+    {
+      "word": "강수량",
+      "pos": "명사",
+      "en": "precipitation",
+      "example_ko": "올해는 강수량이 부족해서 저수지가 바닥을 드러냈다.",
+      "example_en": "This year the reservoir ran dry because of insufficient precipitation."
+    },
+    {
+      "word": "무더위",
+      "pos": "명사",
+      "en": "sweltering heat",
+      "example_ko": "한여름 무더위에는 야외 활동을 피하는 것이 좋다.",
+      "example_en": "It is best to avoid outdoor activities in the midsummer heat."
+    },
+    {
+      "word": "한파",
+      "pos": "명사",
+      "en": "cold wave",
+      "example_ko": "갑작스러운 한파로 수도관이 얼어 터졌다.",
+      "example_en": "The water pipes froze and burst because of a sudden cold wave."
+    },
+    {
+      "word": "보전하다",
+      "pos": "동사",
+      "en": "to preserve, to conserve",
+      "example_ko": "후손을 위해 자연을 아름답게 보전해야 한다.",
+      "example_en": "We must preserve the beauty of nature for future generations."
+    },
+    {
+      "word": "관측하다",
+      "pos": "동사",
+      "en": "to observe, to monitor (scientifically)",
+      "example_ko": "기상청은 태풍의 이동 경로를 실시간으로 관측하고 있다.",
+      "example_en": "The weather agency is monitoring the typhoon's path in real time."
+    }
+  ]
+}

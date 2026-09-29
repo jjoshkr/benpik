@@ -1,0 +1,124 @@
+{
+  "passage_ko": "자녀가 남보다 앞서 배우기를 바라는 것은 어느 부모에게나 자연스러운 마음일 것이다. 그러나 지나친 선행 학습은 오히려 배움에 대한 흥미를 떨어뜨리기 마련이다. 이미 아는 내용을 학교에서 다시 접하면 수업에 집중하지 않게 되고, 스스로 생각하는 힘을 기를 기회도 놓치게 된다. 배움에서 정작 중요한 것은 진도의 속도가 아니라 스스로 질문하고 답을 찾아가는 과정이다. 교육의 목표는 시험 점수가 아니라 생각하는 힘을 기르는 데 있다는 사실을 잊지 말아야 한다.",
+  "passage_en": "It is natural for any parent to hope that their child learns ahead of others. However, excessive advance learning is bound to dampen a child's interest in learning itself. When students encounter material they already know at school, they stop paying attention in class and miss the chance to build the ability to think for themselves. What truly matters in learning is not the speed of progress but the process of asking questions and finding answers on one's own. We must not forget that the goal of education lies not in test scores but in cultivating the power to think.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "선행 학습의 효과를 높이 평가하고 있다",
+      "en": "The writer highly values the effectiveness of advance learning."
+    },
+    {
+      "ko": "지나친 선행 학습의 부작용을 우려하고 있다",
+      "en": "The writer is concerned about the side effects of excessive advance learning."
+    },
+    {
+      "ko": "학교의 시험 제도를 강하게 비판하고 있다",
+      "en": "The writer strongly criticizes the school examination system."
+    },
+    {
+      "ko": "부모의 교육열을 긍정적으로 바라보고 있다",
+      "en": "The writer views parents' enthusiasm for education positively."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "필자는 지나친 선행 학습이 배움에 대한 흥미를 떨어뜨리고 스스로 생각하는 힘을 기를 기회를 빼앗는다고 지적한다. 이는 선행 학습의 부작용을 걱정하는 태도이므로 2번이 알맞다. 시험 제도 자체를 비판하거나 부모의 교육열을 긍정하는 내용은 나오지 않는다.",
+  "explanation_en": "The writer points out that excessive advance learning reduces interest and deprives children of chances to think for themselves, showing concern about its side effects.",
+  "passage_vocab": [
+    {
+      "word": "선행",
+      "pos": "명사",
+      "en": "going ahead, advance (learning)",
+      "context": "지나친 선행 학습은"
+    },
+    {
+      "word": "접하다",
+      "pos": "동사",
+      "en": "to encounter, to come across",
+      "context": "학교에서 다시 접하면"
+    },
+    {
+      "word": "정작",
+      "pos": "부사",
+      "en": "actually, when it comes down to it",
+      "context": "배움에서 정작 중요한 것은"
+    },
+    {
+      "word": "진도",
+      "pos": "명사",
+      "en": "progress (through a curriculum)",
+      "context": "진도의 속도가 아니라"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "암기",
+      "pos": "명사",
+      "en": "memorization",
+      "example_ko": "단어를 무조건 암기하기보다 문장 속에서 배우는 것이 효과적이다.",
+      "example_en": "Rather than memorizing words unconditionally, it is more effective to learn them in sentences."
+    },
+    {
+      "word": "학원",
+      "pos": "명사",
+      "en": "private academy, cram school",
+      "example_ko": "그 학생은 방과 후에 수학 학원에 다닌다.",
+      "example_en": "That student attends a math academy after school."
+    },
+    {
+      "word": "성적",
+      "pos": "명사",
+      "en": "grades, academic results",
+      "example_ko": "성적이 바로 오르지 않아도 꾸준히 공부하는 태도가 중요하다.",
+      "example_en": "Even if your grades do not improve right away, a steady attitude toward studying is important."
+    },
+    {
+      "word": "과제",
+      "pos": "명사",
+      "en": "assignment, task",
+      "example_ko": "이번 주까지 제출해야 할 과제가 세 개나 된다.",
+      "example_en": "I have as many as three assignments to submit by the end of this week."
+    },
+    {
+      "word": "토론",
+      "pos": "명사",
+      "en": "debate, discussion",
+      "example_ko": "수업 시간에 찬성과 반대로 나뉘어 토론을 벌였다.",
+      "example_en": "In class, we split into pro and con sides and held a debate."
+    },
+    {
+      "word": "강의",
+      "pos": "명사",
+      "en": "lecture",
+      "example_ko": "그 교수의 강의는 늘 학생들로 가득 찬다.",
+      "example_en": "That professor's lectures are always full of students."
+    },
+    {
+      "word": "평가",
+      "pos": "명사",
+      "en": "evaluation, assessment",
+      "example_ko": "이번 학기부터 시험 대신 과제 중심의 평가가 도입된다.",
+      "example_en": "Starting this semester, assignment-based evaluation will be introduced instead of exams."
+    },
+    {
+      "word": "습득하다",
+      "pos": "동사",
+      "en": "to acquire (a skill or knowledge)",
+      "example_ko": "아이들은 놀이를 통해 자연스럽게 언어를 습득한다.",
+      "example_en": "Children naturally acquire language through play."
+    },
+    {
+      "word": "몰입하다",
+      "pos": "동사",
+      "en": "to be immersed, to be absorbed",
+      "example_ko": "그는 책에 몰입해서 시간이 가는 줄도 몰랐다.",
+      "example_en": "He was so absorbed in the book that he lost track of time."
+    },
+    {
+      "word": "사교육",
+      "pos": "명사",
+      "en": "private education",
+      "example_ko": "사교육에 드는 비용이 가정에 큰 부담이 되고 있다.",
+      "example_en": "The cost of private education is placing a heavy burden on families."
+    }
+  ]
+}

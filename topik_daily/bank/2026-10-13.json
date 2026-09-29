@@ -1,0 +1,130 @@
+{
+  "passage_ko": "퇴근길 지하철역 계단에서 한 어르신이 무거운 짐을 들고 힘겹게 오르고 계셨다. 나는 바쁘다는 핑계로 못 본 척하며 그 곁을 그냥 지나쳤다. 그런데 잠시 후 한 학생이 달려가 짐을 들어 드리는 모습을 보고 얼굴이 화끈거렸다. 어쩌면 우리 사회의 문제는 거창한 데 있는 것이 아니라 이런 작은 외면이 쌓이는 데 있는지도 모른다. 그날 이후 나는 도움이 필요한 사람 앞에서 더 이상 망설이지 않겠다고 다짐했다.",
+  "passage_en": "On my way home from work, an elderly man was struggling up the subway station stairs with a heavy load. Using busyness as an excuse, I pretended not to see him and simply walked past. But a moment later, I saw a student run over and carry the load for him, and my face burned with shame. Perhaps the problems of our society lie not in anything grand but in the accumulation of small acts of looking away like this. Since that day, I have resolved never again to hesitate in front of someone who needs help.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "자신의 무관심을 부끄러워하며 반성하고 있다",
+      "en": "The writer feels ashamed of their indifference and reflects on it."
+    },
+    {
+      "ko": "어려운 이웃을 외면하는 사회를 강하게 비난하고 있다",
+      "en": "The writer harshly condemns a society that turns away from neighbors in need."
+    },
+    {
+      "ko": "학생의 행동을 지나친 참견이라고 여기고 있다",
+      "en": "The writer regards the student's action as excessive meddling."
+    },
+    {
+      "ko": "바쁜 일상 탓에 어쩔 수 없었다고 자신을 합리화하고 있다",
+      "en": "The writer rationalizes that it could not be helped because of a busy daily life."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 못 본 척 지나친 자신의 행동에 얼굴이 화끈거렸다고 고백하고, 다시는 망설이지 않겠다고 다짐한다. 이는 자신의 무관심을 부끄러워하며 반성하는 태도이므로 1번이 알맞다. 사회 전체를 비난하기보다 자신을 돌아보고 있으며, 자신의 행동을 합리화하지도 않는다.",
+  "explanation_en": "The writer confesses shame at pretending not to see the elderly man and resolves not to hesitate again, showing self-reflection rather than blame or rationalization.",
+  "passage_vocab": [
+    {
+      "word": "힘겹다",
+      "pos": "형용사",
+      "en": "to be laborious, to be a struggle",
+      "context": "무거운 짐을 들고 힘겹게 오르고"
+    },
+    {
+      "word": "화끈거리다",
+      "pos": "동사",
+      "en": "to burn, to flush (with embarrassment)",
+      "context": "얼굴이 화끈거렸다"
+    },
+    {
+      "word": "거창하다",
+      "pos": "형용사",
+      "en": "to be grandiose, to be grand",
+      "context": "거창한 데 있는 것이 아니라"
+    },
+    {
+      "word": "외면",
+      "pos": "명사",
+      "en": "looking away, disregard",
+      "context": "작은 외면이 쌓이는 데"
+    },
+    {
+      "word": "다짐하다",
+      "pos": "동사",
+      "en": "to resolve, to vow",
+      "context": "망설이지 않겠다고 다짐했다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "갈등",
+      "pos": "명사",
+      "en": "conflict",
+      "example_ko": "세대 간 갈등을 줄이려면 서로의 입장을 이해하려는 노력이 필요하다.",
+      "example_en": "To reduce conflict between generations, we need to make an effort to understand each other's positions."
+    },
+    {
+      "word": "차별",
+      "pos": "명사",
+      "en": "discrimination",
+      "example_ko": "누구도 성별이나 나이 때문에 차별을 받아서는 안 된다.",
+      "example_en": "No one should be discriminated against because of gender or age."
+    },
+    {
+      "word": "불평등",
+      "pos": "명사",
+      "en": "inequality",
+      "example_ko": "교육 기회의 불평등은 사회 문제로 이어지기 쉽다.",
+      "example_en": "Inequality in educational opportunities easily leads to social problems."
+    },
+    {
+      "word": "양극화",
+      "pos": "명사",
+      "en": "polarization",
+      "example_ko": "소득 양극화가 심해지면서 중산층이 줄어들고 있다.",
+      "example_en": "As income polarization deepens, the middle class is shrinking."
+    },
+    {
+      "word": "복지",
+      "pos": "명사",
+      "en": "welfare",
+      "example_ko": "정부는 노인 복지 예산을 늘리기로 했다.",
+      "example_en": "The government decided to increase the budget for elderly welfare."
+    },
+    {
+      "word": "빈곤",
+      "pos": "명사",
+      "en": "poverty",
+      "example_ko": "빈곤 문제를 해결하려면 일자리 지원이 함께 이루어져야 한다.",
+      "example_en": "To solve the problem of poverty, job support must be provided as well."
+    },
+    {
+      "word": "소외되다",
+      "pos": "동사",
+      "en": "to be marginalized, to be left out",
+      "example_ko": "디지털 기기에 익숙하지 않은 노인들이 소외되기 쉽다.",
+      "example_en": "Elderly people unfamiliar with digital devices are easily left out."
+    },
+    {
+      "word": "익명",
+      "pos": "명사",
+      "en": "anonymity",
+      "example_ko": "익명 게시판에는 무책임한 글이 올라오기도 한다.",
+      "example_en": "Irresponsible posts sometimes appear on anonymous bulletin boards."
+    },
+    {
+      "word": "제도",
+      "pos": "명사",
+      "en": "system, institution",
+      "example_ko": "새로운 제도가 자리 잡으려면 시간이 필요하다.",
+      "example_en": "It takes time for a new system to take root."
+    },
+    {
+      "word": "해결책",
+      "pos": "명사",
+      "en": "solution",
+      "example_ko": "문제를 비판하기는 쉽지만 해결책을 내놓기는 어렵다.",
+      "example_en": "It is easy to criticize a problem but hard to come up with a solution."
+    }
+  ]
+}

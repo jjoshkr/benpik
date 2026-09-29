@@ -1,0 +1,130 @@
+{
+  "passage_ko": "친구의 생일에 메신저로 축하 인사를 보내는 대신에 오랜만에 손편지를 써 보았다. 자판을 두드리면 일 분이면 끝날 말인데 한 자 한 자 눌러쓰다 보니 한 시간이 훌쩍 지나 있었다. 그런데 신기하게도 문장을 고르고 다듬는 동안 그 친구와 함께한 시간들이 하나둘 떠올라 (    ). 편지를 받은 친구는 요즘 세상에 이런 선물이 어디 있냐며 평생 간직하겠다고 했다. 무엇이든 빠른 것이 당연해진 시대에, 느리기 때문에 전할 수 있는 마음도 있다는 것을 새삼 깨달았다.",
+  "passage_en": "For my friend's birthday, instead of sending congratulations through a messenger app, I wrote a letter by hand for the first time in ages. It was something a minute of typing on a keyboard would have finished, but as I pressed out each character one by one, an hour had slipped by. Strangely, though, while I was choosing and polishing my sentences, memories of the times we had shared came back one by one, and (    ). My friend who received the letter said there was no gift like this these days and promised to treasure it for life. In an age when speed is taken for granted, I realized anew that there are feelings that can be delivered precisely because they are slow.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "글씨 연습을 더 해야겠다고 다짐했다",
+      "en": "I resolved to practice my handwriting more"
+    },
+    {
+      "ko": "편지지를 사러 문구점에 다시 갔다",
+      "en": "I went back to the stationery store to buy letter paper"
+    },
+    {
+      "ko": "친구에게 미안한 마음이 커졌다",
+      "en": "I felt increasingly sorry toward my friend"
+    },
+    {
+      "ko": "마음이 저절로 따뜻해졌다",
+      "en": "my heart grew warm all on its own"
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "빈칸 앞에는 편지를 쓰는 동안 친구와 함께한 추억이 하나둘 떠올랐다는 내용이 있다. 좋은 추억을 떠올리는 상황이므로 마음이 따뜻해졌다는 4번이 가장 자연스럽다. 글씨 연습이나 미안한 마음은 글의 흐름과 관계가 없다.",
+  "explanation_en": "Since the blank follows the warm memories recalled while writing, choice 4, that the writer's heart naturally grew warm, fits best.",
+  "passage_vocab": [
+    {
+      "word": "자판",
+      "pos": "명사",
+      "en": "keyboard",
+      "context": "자판을 두드리면 일 분이면 끝날 말인데"
+    },
+    {
+      "word": "훌쩍",
+      "pos": "부사",
+      "en": "(of time) in a flash, before one knows it",
+      "context": "한 시간이 훌쩍 지나 있었다"
+    },
+    {
+      "word": "다듬다",
+      "pos": "동사",
+      "en": "to polish, to refine",
+      "context": "문장을 고르고 다듬는 동안"
+    },
+    {
+      "word": "간직하다",
+      "pos": "동사",
+      "en": "to treasure, to keep",
+      "context": "평생 간직하겠다고 했다"
+    },
+    {
+      "word": "새삼",
+      "pos": "부사",
+      "en": "anew, once again",
+      "context": "새삼 깨달았다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "기기",
+      "pos": "명사",
+      "en": "device, appliance",
+      "example_ko": "요즘은 스마트 기기 없이 하루도 지내기 어렵다.",
+      "example_en": "These days it is hard to get through a single day without smart devices."
+    },
+    {
+      "word": "통신",
+      "pos": "명사",
+      "en": "communication, telecommunications",
+      "example_ko": "산간 지역이라 통신 상태가 좋지 않았다.",
+      "example_en": "The signal was poor because it was a mountainous area."
+    },
+    {
+      "word": "디지털",
+      "pos": "명사",
+      "en": "digital",
+      "example_ko": "종이 문서를 디지털 파일로 바꾸는 작업이 한창이다.",
+      "example_en": "Work is under way to convert paper documents into digital files."
+    },
+    {
+      "word": "편의성",
+      "pos": "명사",
+      "en": "convenience, ease of use",
+      "example_ko": "이 앱은 편의성을 높이려고 화면 구성을 단순하게 만들었다.",
+      "example_en": "This app uses a simple screen layout to improve convenience."
+    },
+    {
+      "word": "전송하다",
+      "pos": "동사",
+      "en": "to transmit, to send (electronically)",
+      "example_ko": "회의 자료를 이메일로 전송해 주시기 바랍니다.",
+      "example_en": "Please send the meeting materials by email."
+    },
+    {
+      "word": "저장하다",
+      "pos": "동사",
+      "en": "to save, to store",
+      "example_ko": "작성한 글은 수시로 저장해 두는 습관이 필요하다.",
+      "example_en": "You need the habit of saving your writing frequently."
+    },
+    {
+      "word": "발전하다",
+      "pos": "동사",
+      "en": "to develop, to advance",
+      "example_ko": "과학 기술이 발전할수록 생활은 더욱 편리해진다.",
+      "example_en": "The more science and technology advance, the more convenient life becomes."
+    },
+    {
+      "word": "의존하다",
+      "pos": "동사",
+      "en": "to depend on, to rely on",
+      "example_ko": "기계에 지나치게 의존하면 스스로 생각하는 힘이 약해진다.",
+      "example_en": "If we rely too much on machines, our ability to think for ourselves weakens."
+    },
+    {
+      "word": "기능",
+      "pos": "명사",
+      "en": "function, feature",
+      "example_ko": "새 휴대폰에는 번역 기능이 기본으로 들어 있다.",
+      "example_en": "The new phone comes with a translation feature built in."
+    },
+    {
+      "word": "접속하다",
+      "pos": "동사",
+      "en": "to access, to connect (online)",
+      "example_ko": "수업이 시작되기 전에 온라인 강의실에 접속했다.",
+      "example_en": "I logged in to the online classroom before the lesson began."
+    }
+  ]
+}

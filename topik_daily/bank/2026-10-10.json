@@ -1,0 +1,130 @@
+{
+  "passage_ko": "시민 여러분께 안내 말씀 드립니다. 우리 구청에서는 오는 11월 매주 토요일 오전에 시민 누구나 참여할 수 있는 심폐소생술 교육을 실시합니다. 이번 교육에서는 전문 강사의 시범을 볼 수 있을 뿐만 아니라 모형 인형으로 가슴 압박을 직접 실습해 볼 수도 있습니다. 심장이 멈춘 환자는 사 분 안에 응급 처치를 받느냐에 따라 생존율이 크게 달라지므로 (    ) 소중한 생명을 구하는 데 큰 힘이 됩니다. 참여를 원하시는 분은 구청 누리집에서 미리 신청해 주시기 바랍니다.",
+  "passage_en": "We would like to inform all citizens. This coming November, every Saturday morning, our district office will hold CPR training that any citizen can join. In this training, you can not only watch a demonstration by a professional instructor but also practice chest compressions yourself on a training mannequin. Since the survival rate of a patient whose heart has stopped varies greatly depending on whether they receive emergency care within four minutes, (    ) is a great help in saving precious lives. Those who wish to participate are asked to sign up in advance on the district office website.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "주변 사람이 심폐소생술을 익혀 두는 것이",
+      "en": "having the people nearby learn CPR in advance"
+    },
+    {
+      "ko": "병원을 정기적으로 방문하는 것이",
+      "en": "visiting the hospital regularly"
+    },
+    {
+      "ko": "구급차가 오기를 기다리기만 하는 것이",
+      "en": "simply waiting for the ambulance to arrive"
+    },
+    {
+      "ko": "건강 상태를 매일 기록하는 것이",
+      "en": "keeping a daily record of one's health"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "빈칸 앞에서 심장이 멈춘 뒤 사 분 안에 이루어지는 응급 처치가 생존율을 좌우한다고 했다. 구급차가 도착하기 전에 곁에 있는 사람이 바로 도울 수 있어야 하므로 심폐소생술을 미리 익혀 두어야 한다는 1번이 알맞다. 정기적인 병원 방문이나 건강 기록은 응급 상황과 직접 관계가 없다.",
+  "explanation_en": "Because emergency care within four minutes determines survival, choice 1, that people nearby should learn CPR in advance, fits the blank.",
+  "passage_vocab": [
+    {
+      "word": "심폐소생술",
+      "pos": "명사",
+      "en": "CPR (cardiopulmonary resuscitation)",
+      "context": "심폐소생술 교육을 실시합니다"
+    },
+    {
+      "word": "시범",
+      "pos": "명사",
+      "en": "demonstration",
+      "context": "전문 강사의 시범을 볼 수 있을"
+    },
+    {
+      "word": "실습하다",
+      "pos": "동사",
+      "en": "to practice hands-on",
+      "context": "가슴 압박을 직접 실습해 볼 수도"
+    },
+    {
+      "word": "처치",
+      "pos": "명사",
+      "en": "(emergency) treatment, measures",
+      "context": "응급 처치를 받느냐에 따라"
+    },
+    {
+      "word": "생존율",
+      "pos": "명사",
+      "en": "survival rate",
+      "context": "생존율이 크게 달라지므로"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "응급실",
+      "pos": "명사",
+      "en": "emergency room",
+      "example_ko": "한밤중에 배가 너무 아파서 응급실에 갔다.",
+      "example_en": "I went to the emergency room in the middle of the night because of severe stomach pain."
+    },
+    {
+      "word": "구조하다",
+      "pos": "동사",
+      "en": "to rescue",
+      "example_ko": "소방관들이 물에 빠진 아이를 무사히 구조했다.",
+      "example_en": "Firefighters safely rescued the child who had fallen into the water."
+    },
+    {
+      "word": "호흡",
+      "pos": "명사",
+      "en": "breathing, respiration",
+      "example_ko": "긴장했을 때는 깊게 호흡을 하면 마음이 가라앉는다.",
+      "example_en": "When you are nervous, breathing deeply calms you down."
+    },
+    {
+      "word": "맥박",
+      "pos": "명사",
+      "en": "pulse",
+      "example_ko": "간호사가 환자의 맥박을 재고 기록했다.",
+      "example_en": "The nurse took the patient's pulse and recorded it."
+    },
+    {
+      "word": "부상",
+      "pos": "명사",
+      "en": "injury",
+      "example_ko": "축구를 하다가 다리에 가벼운 부상을 입었다.",
+      "example_en": "I suffered a minor leg injury while playing soccer."
+    },
+    {
+      "word": "골절",
+      "pos": "명사",
+      "en": "fracture",
+      "example_ko": "빙판길에 넘어져 팔에 골절이 생겼다.",
+      "example_en": "I slipped on the icy road and fractured my arm."
+    },
+    {
+      "word": "의식",
+      "pos": "명사",
+      "en": "consciousness",
+      "example_ko": "쓰러졌던 환자가 다행히 곧 의식을 되찾았다.",
+      "example_en": "Fortunately, the collapsed patient soon regained consciousness."
+    },
+    {
+      "word": "간호",
+      "pos": "명사",
+      "en": "nursing, care (for the sick)",
+      "example_ko": "어머니는 밤새 아픈 동생의 간호를 맡으셨다.",
+      "example_en": "My mother took care of my sick younger brother all night."
+    },
+    {
+      "word": "위급하다",
+      "pos": "형용사",
+      "en": "to be critical, urgent",
+      "example_ko": "위급한 상황에서는 침착하게 119에 신고해야 한다.",
+      "example_en": "In a critical situation, you must calmly call 119."
+    },
+    {
+      "word": "신속하다",
+      "pos": "형용사",
+      "en": "to be rapid, prompt",
+      "example_ko": "사고 현장에서는 신속한 대응이 무엇보다 중요하다.",
+      "example_en": "At the scene of an accident, a prompt response matters most."
+    }
+  ]
+}

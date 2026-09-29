@@ -1,0 +1,130 @@
+{
+  "passage_ko": "국민 건강 조사 결과에 따르면 하루 30분 이상 걷는 성인의 비율이 최근 5년 사이 크게 늘어난 것으로 나타났다. 전문가들은 오랫동안 걷기를 실천해 온 사람치고 만성 질환에 시달리는 경우는 드물다며 걷기의 효과를 강조했다. 실제로 규칙적인 걷기가 혈압을 낮추고 심혈관 질환의 위험을 줄여 준다는 연구 결과도 잇따라 발표되고 있다. 이에 따라 여러 지방자치단체가 산책로를 정비하고 걷기 대회를 여는 등 주민들의 참여를 유도하고 있다.",
+  "passage_en": "According to the results of a national health survey, the proportion of adults who walk more than 30 minutes a day has grown significantly over the past five years. Experts emphasized the benefits of walking, saying that it is rare for anyone who has long made a habit of walking to suffer from chronic diseases. Indeed, research findings that regular walking lowers blood pressure and reduces the risk of cardiovascular disease are being published one after another. Accordingly, many local governments are encouraging residents to participate by improving walking trails and holding walking events.",
+  "question": "위 글의 주제로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "걷기는 만성 질환 예방에 도움이 되어 사회적으로도 장려되고 있다.",
+      "en": "Walking helps prevent chronic diseases and is being encouraged across society."
+    },
+    {
+      "ko": "걷기 대회는 참가자가 적어 곧 폐지될 예정이다.",
+      "en": "Walking events will soon be abolished because of low participation."
+    },
+    {
+      "ko": "걷기 운동은 다른 운동에 비해 효과가 거의 없다.",
+      "en": "Walking is hardly effective compared to other forms of exercise."
+    },
+    {
+      "ko": "만성 질환이 있는 사람은 걷기 운동을 피하는 것이 좋다.",
+      "en": "People with chronic diseases should avoid walking for exercise."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "이 기사는 걷는 성인이 늘고 있다는 조사 결과와 함께 걷기가 만성 질환 예방에 효과적이라는 전문가의 의견, 지방자치단체의 장려 활동을 소개하고 있다. 따라서 글 전체를 아우르는 주제는 1번이다. 걷기 대회의 폐지나 걷기의 무용성은 글의 내용과 반대된다.",
+  "explanation_en": "The article reports that more adults are walking, that experts credit walking with preventing chronic disease, and that local governments are promoting it, so the theme is that walking is beneficial and socially encouraged.",
+  "passage_vocab": [
+    {
+      "word": "만성",
+      "pos": "명사",
+      "en": "chronic (condition)",
+      "context": "만성 질환에 시달리는 경우"
+    },
+    {
+      "word": "시달리다",
+      "pos": "동사",
+      "en": "to suffer from, be plagued by",
+      "context": "만성 질환에 시달리는 경우는 드물다"
+    },
+    {
+      "word": "심혈관",
+      "pos": "명사",
+      "en": "cardiovascular (system)",
+      "context": "심혈관 질환의 위험을 줄여 준다는"
+    },
+    {
+      "word": "정비하다",
+      "pos": "동사",
+      "en": "to maintain, put in good order",
+      "context": "산책로를 정비하고"
+    },
+    {
+      "word": "유도하다",
+      "pos": "동사",
+      "en": "to induce, encourage",
+      "context": "주민들의 참여를 유도하고 있다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "증상",
+      "pos": "명사",
+      "en": "symptom",
+      "example_ko": "감기 증상이 심하면 무리하지 말고 쉬어야 한다.",
+      "example_en": "If your cold symptoms are severe, you should rest instead of pushing yourself."
+    },
+    {
+      "word": "처방",
+      "pos": "명사",
+      "en": "prescription",
+      "example_ko": "의사의 처방 없이 약을 함부로 먹으면 안 된다.",
+      "example_en": "You should not take medicine carelessly without a doctor's prescription."
+    },
+    {
+      "word": "검진",
+      "pos": "명사",
+      "en": "medical checkup",
+      "example_ko": "일 년에 한 번은 건강 검진을 받는 것이 좋다.",
+      "example_en": "It is good to get a health checkup once a year."
+    },
+    {
+      "word": "유지하다",
+      "pos": "동사",
+      "en": "to maintain",
+      "example_ko": "적절한 운동은 건강을 유지하는 데 필수적이다.",
+      "example_en": "Proper exercise is essential for maintaining one's health."
+    },
+    {
+      "word": "피로",
+      "pos": "명사",
+      "en": "fatigue",
+      "example_ko": "잠을 충분히 자지 못하면 피로가 쌓이기 쉽다.",
+      "example_en": "If you do not get enough sleep, fatigue easily builds up."
+    },
+    {
+      "word": "섭취하다",
+      "pos": "동사",
+      "en": "to ingest, consume",
+      "example_ko": "채소와 과일을 골고루 섭취하는 것이 중요하다.",
+      "example_en": "It is important to eat a balanced amount of vegetables and fruits."
+    },
+    {
+      "word": "비만",
+      "pos": "명사",
+      "en": "obesity",
+      "example_ko": "비만은 여러 성인병의 원인이 될 수 있다.",
+      "example_en": "Obesity can cause various adult diseases."
+    },
+    {
+      "word": "전염되다",
+      "pos": "동사",
+      "en": "to be transmitted, spread (of disease)",
+      "example_ko": "독감은 기침을 통해 쉽게 전염된다.",
+      "example_en": "The flu is easily transmitted through coughing."
+    },
+    {
+      "word": "악화되다",
+      "pos": "동사",
+      "en": "to worsen",
+      "example_ko": "치료 시기를 놓치면 병이 악화되기 쉽다.",
+      "example_en": "If you miss the right time for treatment, the illness can easily worsen."
+    },
+    {
+      "word": "완화하다",
+      "pos": "동사",
+      "en": "to relieve, ease",
+      "example_ko": "따뜻한 물로 샤워하면 근육의 긴장을 완화할 수 있다.",
+      "example_en": "Taking a warm shower can relieve muscle tension."
+    }
+  ]
+}
