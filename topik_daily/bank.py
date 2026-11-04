@@ -36,6 +36,20 @@ def load_entry(d: date, bank_dir: Path = BANK_DIR) -> dict | None:
         raise GenerationError(f"뱅크 파일이 데이터 계약을 어겼다 ({path.name}): {e}") from e
 
 
+def recycle_date(d: date, bank_dir: Path = BANK_DIR) -> date | None:
+    """뱅크가 비었을 때 재사용할 과거 날짜. 같은 날짜는 항상 같은 결과(NFR-3).
+
+    d 이전의 뱅크 날짜들을 순서대로 순환하므로 연속 공백 기간에도 매일 다른 회차가 나간다.
+    """
+    past = sorted(
+        date.fromisoformat(f.stem) for f in bank_dir.glob("*.json")
+        if f.stem < d.isoformat()
+    )
+    if not past:
+        return None
+    return past[d.toordinal() % len(past)]
+
+
 def days_remaining(d: date, bank_dir: Path = BANK_DIR) -> int:
     """오늘부터 빈 날 없이 연속으로 준비된 일수 (오늘 포함)."""
     n = 0
