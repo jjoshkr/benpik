@@ -1,0 +1,130 @@
+{
+  "passage_ko": "〈알뜰 나눔 장터 안내〉 우리 구에서는 쓰지 않는 물건을 이웃과 사고팔 수 있는 '알뜰 나눔 장터'를 엽니다. 지난해 장터에 참여한 주민들에게 소감을 물었더니 필요 없는 물건을 정리하면서 생활비도 아낄 수 있어 좋았다는 답이 가장 많았습니다. 판매를 원하시는 분은 이번 달 20일까지 구청 누리집에서 신청하시면 됩니다. 다만 장터의 취지를 살리기 위해 물건 한 개의 가격은 (    ) 정해 주시기 바랍니다. 판매 수익의 10퍼센트는 지역 아동 센터에 기부됩니다.",
+  "passage_en": "<Notice: Thrifty Sharing Market> Our district is opening a 'Thrifty Sharing Market' where you can buy and sell items you no longer use with your neighbors. When we asked residents who took part in last year's market about their impressions, the most common answer was that they liked being able to sort out things they didn't need while also saving on living expenses. Those who wish to sell may apply on the district office website by the 20th of this month. However, to keep to the purpose of the market, please set the price of each item (    ). Ten percent of sales proceeds will be donated to the local children's center.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "새 제품보다 비싸게",
+      "en": "higher than a new product"
+    },
+    {
+      "ko": "판매자 마음대로",
+      "en": "however the seller likes"
+    },
+    {
+      "ko": "만 원을 넘지 않도록",
+      "en": "so that it does not exceed 10,000 won"
+    },
+    {
+      "ko": "구매자가 원하는 만큼 높게",
+      "en": "as high as buyers are willing to pay"
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "이 장터는 이웃과 물건을 나누며 생활비를 아끼는 것이 목적이다. '취지를 살리기 위해'라는 표현 뒤에는 가격을 제한하는 내용이 와야 하므로 만 원을 넘지 않도록 정하라는 3번이 알맞다.",
+  "explanation_en": "To preserve the market's purpose of thrifty sharing, prices should be capped, so choice 3 is correct.",
+  "passage_vocab": [
+    {
+      "word": "소감",
+      "pos": "명사",
+      "en": "impressions, thoughts",
+      "context": "주민들에게 소감을 물었더니"
+    },
+    {
+      "word": "누리집",
+      "pos": "명사",
+      "en": "website (pure Korean term)",
+      "context": "구청 누리집에서 신청하시면"
+    },
+    {
+      "word": "취지",
+      "pos": "명사",
+      "en": "purpose, intent",
+      "context": "장터의 취지를 살리기 위해"
+    },
+    {
+      "word": "수익",
+      "pos": "명사",
+      "en": "proceeds, profit",
+      "context": "판매 수익의 10퍼센트는"
+    },
+    {
+      "word": "기부되다",
+      "pos": "동사",
+      "en": "to be donated",
+      "context": "지역 아동 센터에 기부됩니다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "상승하다",
+      "pos": "동사",
+      "en": "to rise, to go up",
+      "example_ko": "원자재 가격이 상승하면서 제품 가격도 올랐다.",
+      "example_en": "As raw material prices rose, product prices went up too."
+    },
+    {
+      "word": "적립하다",
+      "pos": "동사",
+      "en": "to accumulate (points), to save up",
+      "example_ko": "구매 금액의 5퍼센트를 포인트로 적립해 준다.",
+      "example_en": "5 percent of the purchase amount is credited as points."
+    },
+    {
+      "word": "위축되다",
+      "pos": "동사",
+      "en": "to shrink, to be dampened",
+      "example_ko": "경기가 나빠지자 소비 심리가 위축되었다.",
+      "example_en": "As the economy worsened, consumer sentiment was dampened."
+    },
+    {
+      "word": "불황",
+      "pos": "명사",
+      "en": "recession, slump",
+      "example_ko": "오랜 불황으로 문을 닫는 가게가 늘었다.",
+      "example_en": "More shops closed due to the long recession."
+    },
+    {
+      "word": "금리",
+      "pos": "명사",
+      "en": "interest rate",
+      "example_ko": "금리가 오르면 대출 이자 부담이 커진다.",
+      "example_en": "When interest rates rise, the burden of loan interest grows."
+    },
+    {
+      "word": "하락하다",
+      "pos": "동사",
+      "en": "to fall, to drop",
+      "example_ko": "수요가 줄어들면서 집값이 하락하고 있다.",
+      "example_en": "Housing prices are falling as demand decreases."
+    },
+    {
+      "word": "상환하다",
+      "pos": "동사",
+      "en": "to repay",
+      "example_ko": "그는 5년 만에 학자금 대출을 모두 상환했다.",
+      "example_en": "He fully repaid his student loan after five years."
+    },
+    {
+      "word": "투자하다",
+      "pos": "동사",
+      "en": "to invest",
+      "example_ko": "그는 그동안 모은 돈을 주식에 투자했다.",
+      "example_en": "He invested the money he had saved up in stocks."
+    },
+    {
+      "word": "유행",
+      "pos": "명사",
+      "en": "trend, fashion",
+      "example_ko": "유행을 따라 물건을 사다 보면 돈이 금방 없어진다.",
+      "example_en": "If you keep buying things to follow trends, your money disappears quickly."
+    },
+    {
+      "word": "유통",
+      "pos": "명사",
+      "en": "distribution",
+      "example_ko": "유통 과정을 줄이면 소비자 가격이 내려간다.",
+      "example_en": "Shortening the distribution process lowers consumer prices."
+    }
+  ]
+}

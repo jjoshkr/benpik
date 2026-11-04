@@ -1,0 +1,124 @@
+{
+  "passage_ko": "새 학기가 되면 낯선 사람들 사이에서 숨이 막힐 지경이라고 호소하는 학생들이 적지 않습니다. 학생상담센터에서는 이러한 학생들을 위해 '관계 맺기 연습' 프로그램을 운영합니다. 매주 수요일 소규모 모임에서 자신의 감정을 솔직하게 표현하고 다른 사람의 이야기에 귀를 기울이는 방법을 함께 익힙니다. 관계가 어렵다는 것은 결코 부끄러운 일이 아니며, 누구나 연습을 통해 충분히 나아질 수 있습니다. 혼자 고민하지 마시고 부담 없이 신청해 주시기 바랍니다.",
+  "passage_en": "When a new semester begins, quite a few students complain that they feel almost suffocated among unfamiliar people. For these students, the Student Counseling Center runs a 'Practicing Relationships' program. Every Wednesday, in small-group meetings, participants learn together how to express their feelings honestly and how to listen closely to others. Finding relationships difficult is by no means something to be ashamed of, and anyone can improve considerably through practice. Please don't struggle alone, and feel free to sign up.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "관계를 어려워하는 학생들을 이해하며 참여를 격려하고 있다",
+      "en": "The writer understands students who struggle with relationships and encourages them to take part"
+    },
+    {
+      "ko": "관계에 서툰 학생들의 소극적인 태도를 꾸짖고 있다",
+      "en": "The writer scolds the passive attitude of students who are awkward in relationships"
+    },
+    {
+      "ko": "프로그램의 효과에 대해 의심하고 있다",
+      "en": "The writer doubts the effectiveness of the program"
+    },
+    {
+      "ko": "관계 문제는 혼자 해결하는 것이 바람직하다고 보고 있다",
+      "en": "The writer believes relationship problems are best solved alone"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 관계가 어려운 것이 부끄러운 일이 아니며 연습하면 나아질 수 있다고 말한다. 또 혼자 고민하지 말고 부담 없이 신청하라고 권하므로 학생들을 이해하고 참여를 격려하는 1번이 알맞다. 혼자 해결하라는 4번은 글의 내용과 반대이다.",
+  "explanation_en": "The notice reassures students that relationship difficulties are nothing to be ashamed of and warmly encourages them to join, so choice 1 is correct.",
+  "passage_vocab": [
+    {
+      "word": "호소하다",
+      "pos": "동사",
+      "en": "to complain of, to appeal",
+      "context": "숨이 막힐 지경이라고 호소하는"
+    },
+    {
+      "word": "소규모",
+      "pos": "명사",
+      "en": "small scale",
+      "context": "소규모 모임에서"
+    },
+    {
+      "word": "귀를 기울이다",
+      "pos": "관용 표현",
+      "en": "to listen closely, to lend an ear",
+      "context": "이야기에 귀를 기울이는 방법"
+    },
+    {
+      "word": "결코",
+      "pos": "부사",
+      "en": "(not) at all, by no means",
+      "context": "결코 부끄러운 일이 아니며"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "자존심",
+      "pos": "명사",
+      "en": "pride, self-respect",
+      "example_ko": "자존심이 상해서 친구에게 먼저 연락하지 못했다.",
+      "example_en": "My pride was hurt, so I couldn't contact my friend first."
+    },
+    {
+      "word": "외향적",
+      "pos": "명사",
+      "en": "extroverted",
+      "example_ko": "외향적인 동생은 어디에서나 금방 친구를 사귄다.",
+      "example_en": "My extroverted younger sibling makes friends quickly anywhere."
+    },
+    {
+      "word": "배려하다",
+      "pos": "동사",
+      "en": "to be considerate of, to care for",
+      "example_ko": "상대방의 입장을 배려하는 말 한마디가 큰 힘이 된다.",
+      "example_en": "A single considerate word for the other person's position can be a great help."
+    },
+    {
+      "word": "신뢰",
+      "pos": "명사",
+      "en": "trust",
+      "example_ko": "한번 잃은 신뢰를 되찾기는 쉽지 않다.",
+      "example_en": "It is not easy to regain trust once it is lost."
+    },
+    {
+      "word": "다투다",
+      "pos": "동사",
+      "en": "to quarrel, to argue",
+      "example_ko": "사소한 일로 동생과 다투고 나서 하루 종일 마음이 불편했다.",
+      "example_en": "After quarreling with my younger sibling over a trivial matter, I felt uneasy all day."
+    },
+    {
+      "word": "친분",
+      "pos": "명사",
+      "en": "acquaintance, friendly relationship",
+      "example_ko": "그 사람과는 오래전부터 친분이 있어서 편하게 부탁할 수 있다.",
+      "example_en": "I've known that person for a long time, so I can ask favors comfortably."
+    },
+    {
+      "word": "자책하다",
+      "pos": "동사",
+      "en": "to blame oneself",
+      "example_ko": "실수를 너무 자책하지 말고 다음에 잘하면 된다.",
+      "example_en": "Don't blame yourself too much for the mistake; just do better next time."
+    },
+    {
+      "word": "불안감",
+      "pos": "명사",
+      "en": "anxiety, sense of unease",
+      "example_ko": "시험 결과를 기다리는 동안 불안감이 점점 커졌다.",
+      "example_en": "While waiting for the exam results, my anxiety grew steadily."
+    },
+    {
+      "word": "거절하다",
+      "pos": "동사",
+      "en": "to refuse, to decline",
+      "example_ko": "부탁을 거절하는 것이 미안해서 늘 받아 주었다.",
+      "example_en": "I always accepted requests because I felt bad about refusing."
+    },
+    {
+      "word": "감정적",
+      "pos": "명사",
+      "en": "emotional (nature)",
+      "example_ko": "감정적으로 대응하기보다 차분하게 이야기하는 것이 좋다.",
+      "example_en": "It is better to talk calmly than to respond emotionally."
+    }
+  ]
+}

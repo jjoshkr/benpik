@@ -1,0 +1,124 @@
+{
+  "passage_ko": "〈'손끝으로 보는 미술관' 전시 안내〉 대부분의 미술관이 작품 보호를 위해 관람객의 접촉을 엄격히 금지하는 반면에 이번 전시에서는 모든 작품을 직접 손으로 만져 볼 수 있습니다. 이번 전시는 시각 장애인도 예술을 온전히 즐길 수 있도록 기획되었으며, 작품마다 점자 설명과 음성 해설이 함께 제공됩니다. 눈으로만 보던 작품을 손끝으로 느끼다 보면 예술을 감상하는 새로운 방식을 발견하게 되실 것입니다. 여러분의 많은 관심과 참여를 기다립니다.",
+  "passage_en": "<Exhibition Notice: 'The Museum You See with Your Fingertips'> Whereas most art museums strictly forbid visitors from touching works in order to protect them, at this exhibition you can touch every piece with your own hands. This exhibition was planned so that visually impaired people can also fully enjoy art, and braille descriptions and audio commentary are provided for each work. As you feel with your fingertips the works you once only looked at with your eyes, you will discover a new way of appreciating art. We look forward to your interest and participation.",
+  "question": "이 글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "미술관의 작품 보호 방식을 비판하고 있다.",
+      "en": "The writer criticizes how museums protect artworks."
+    },
+    {
+      "ko": "시각 장애인을 위한 시설이 부족한 것을 걱정하고 있다.",
+      "en": "The writer is worried about the lack of facilities for the visually impaired."
+    },
+    {
+      "ko": "새로운 방식으로 작품을 즐기는 전시에 참여를 권하고 있다.",
+      "en": "The writer encourages participation in an exhibition offering a new way to enjoy art."
+    },
+    {
+      "ko": "전시 작품의 예술성을 의심하고 있다.",
+      "en": "The writer doubts the artistic value of the exhibited works."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "이 글은 작품을 직접 만져 볼 수 있는 전시를 소개하고, 새로운 감상 방식을 발견할 수 있다며 관심과 참여를 부탁하는 안내문이다. 다른 미술관의 방식을 언급했지만 비판하는 것은 아니므로 3번이 알맞다.",
+  "explanation_en": "The notice introduces a touchable exhibition and invites people to join, so choice 3 is correct.",
+  "passage_vocab": [
+    {
+      "word": "접촉",
+      "pos": "명사",
+      "en": "contact, touch",
+      "context": "관람객의 접촉을 엄격히 금지하는"
+    },
+    {
+      "word": "엄격히",
+      "pos": "부사",
+      "en": "strictly",
+      "context": "엄격히 금지하는 반면에"
+    },
+    {
+      "word": "기획되다",
+      "pos": "동사",
+      "en": "to be planned, to be organized",
+      "context": "온전히 즐길 수 있도록 기획되었으며"
+    },
+    {
+      "word": "점자",
+      "pos": "명사",
+      "en": "braille",
+      "context": "점자 설명과 음성 해설이"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "예술성",
+      "pos": "명사",
+      "en": "artistic value, artistry",
+      "example_ko": "이 영화는 대중성과 예술성을 모두 인정받았다.",
+      "example_en": "This film was recognized for both its popular appeal and its artistic value."
+    },
+    {
+      "word": "상상력",
+      "pos": "명사",
+      "en": "imagination",
+      "example_ko": "그림책은 아이들의 상상력을 키워 준다.",
+      "example_en": "Picture books help develop children's imagination."
+    },
+    {
+      "word": "감수성",
+      "pos": "명사",
+      "en": "sensitivity, sensibility",
+      "example_ko": "어릴 때 음악을 들으면 감수성이 풍부해진다.",
+      "example_en": "Listening to music as a child enriches one's sensibility."
+    },
+    {
+      "word": "작가",
+      "pos": "명사",
+      "en": "writer, author, artist",
+      "example_ko": "그 작가는 새 소설에서 자신의 어린 시절을 그렸다.",
+      "example_en": "The author portrayed her own childhood in her new novel."
+    },
+    {
+      "word": "영감",
+      "pos": "명사",
+      "en": "inspiration",
+      "example_ko": "작가는 여행에서 새 작품의 영감을 얻었다.",
+      "example_en": "The author got inspiration for a new work while traveling."
+    },
+    {
+      "word": "독창적",
+      "pos": "명사",
+      "en": "original, creative (nature)",
+      "example_ko": "그의 작품은 독창적인 색채로 유명하다.",
+      "example_en": "His works are famous for their original use of color."
+    },
+    {
+      "word": "거장",
+      "pos": "명사",
+      "en": "master, maestro",
+      "example_ko": "그는 한국 영화계의 거장으로 불린다.",
+      "example_en": "He is called a master of Korean cinema."
+    },
+    {
+      "word": "기획",
+      "pos": "명사",
+      "en": "planning",
+      "example_ko": "이번 공연은 기획 단계부터 관객의 의견을 반영했다.",
+      "example_en": "This performance reflected audience opinions from the planning stage."
+    },
+    {
+      "word": "연기하다",
+      "pos": "동사",
+      "en": "to act, to perform (a role)",
+      "example_ko": "그 배우는 노인 역할을 실감 나게 연기했다.",
+      "example_en": "The actor played the role of an old man very convincingly."
+    },
+    {
+      "word": "해석하다",
+      "pos": "동사",
+      "en": "to interpret",
+      "example_ko": "같은 그림이라도 보는 사람에 따라 다르게 해석할 수 있다.",
+      "example_en": "Even the same painting can be interpreted differently depending on the viewer."
+    }
+  ]
+}

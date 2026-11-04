@@ -1,0 +1,130 @@
+{
+  "passage_ko": "출근길 지하철에서 나는 휴대전화를 보는 척하며 주변을 외면하곤 했다. 어느 날 한 할머니가 무거운 짐을 든 채 계단 앞에서 한참을 서 계셨는데, 바쁘게 오가는 사람들 가운데 아무도 걸음을 멈추지 않았다. 나 역시 그냥 지나가려다 문득 부끄러운 마음이 들어 짐을 들어 드렸다. 할머니는 고맙다고 하시며 요즘은 말을 거는 사람조차 드물다고 하셨다. 그날 이후 나는 무관심이 개인의 문제만이 아니라 우리 사회가 함께 풀어야 할 숙제라고 생각하게 되었다.",
+  "passage_en": "On the subway on my way to work, I used to pretend to look at my phone and ignore what was around me. One day an elderly woman stood in front of the stairs for a long time holding a heavy bag, but among the people busily passing by, no one stopped. I too was about to walk past, but suddenly felt ashamed and carried her bag for her. She thanked me and said that these days even people who speak to her are rare. Since that day, I have come to think that indifference is not just an individual's problem but a task our society must solve together.",
+  "question": "이 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "필자는 할머니의 짐을 들어 드렸다.",
+      "en": "The writer carried the elderly woman's bag for her."
+    },
+    {
+      "ko": "많은 사람들이 할머니를 도우려고 걸음을 멈췄다.",
+      "en": "Many people stopped to help the elderly woman."
+    },
+    {
+      "ko": "할머니는 요즘 사람들이 말을 자주 걸어 준다고 했다.",
+      "en": "The elderly woman said people often talk to her these days."
+    },
+    {
+      "ko": "필자는 지하철에서 늘 다른 사람을 먼저 도와 왔다.",
+      "en": "The writer had always been the first to help others on the subway."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 지나가려다 부끄러운 마음이 들어 할머니의 짐을 들어 드렸다고 했으므로 1번이 내용과 같다. 아무도 걸음을 멈추지 않았고, 할머니는 말을 거는 사람조차 드물다고 했으므로 2번과 3번은 틀리다. 필자는 평소 휴대전화를 보는 척하며 주변을 외면했으므로 4번도 틀리다.",
+  "explanation_en": "The writer says they felt ashamed and carried the elderly woman's bag, which matches choice 1.",
+  "passage_vocab": [
+    {
+      "word": "외면하다",
+      "pos": "동사",
+      "en": "to turn away from, to ignore",
+      "context": "주변을 외면하곤 했다"
+    },
+    {
+      "word": "한참",
+      "pos": "명사",
+      "en": "a long while",
+      "context": "한참을 서 계셨는데"
+    },
+    {
+      "word": "문득",
+      "pos": "부사",
+      "en": "suddenly (a thought/feeling)",
+      "context": "문득 부끄러운 마음이 들어"
+    },
+    {
+      "word": "드물다",
+      "pos": "형용사",
+      "en": "to be rare",
+      "context": "말을 거는 사람조차 드물다고"
+    },
+    {
+      "word": "무관심",
+      "pos": "명사",
+      "en": "indifference",
+      "context": "무관심이 개인의 문제만이 아니라"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "고독사",
+      "pos": "명사",
+      "en": "dying alone (unattended death)",
+      "example_ko": "혼자 사는 노인의 고독사를 막기 위한 대책이 필요하다.",
+      "example_en": "Measures are needed to prevent elderly people living alone from dying alone."
+    },
+    {
+      "word": "노숙인",
+      "pos": "명사",
+      "en": "homeless person",
+      "example_ko": "겨울이 되면 노숙인을 위한 쉼터가 문을 연다.",
+      "example_en": "When winter comes, shelters for homeless people open."
+    },
+    {
+      "word": "사각지대",
+      "pos": "명사",
+      "en": "blind spot (gap in coverage)",
+      "example_ko": "복지의 사각지대에 놓인 가정을 찾아 도와야 한다.",
+      "example_en": "We must find and help households left in the blind spots of welfare."
+    },
+    {
+      "word": "기부하다",
+      "pos": "동사",
+      "en": "to donate",
+      "example_ko": "그는 매달 월급의 일부를 기부한다.",
+      "example_en": "He donates part of his salary every month."
+    },
+    {
+      "word": "자원봉사",
+      "pos": "명사",
+      "en": "volunteer work",
+      "example_ko": "주말마다 동물 보호소에서 자원봉사를 한다.",
+      "example_en": "I do volunteer work at an animal shelter every weekend."
+    },
+    {
+      "word": "저소득층",
+      "pos": "명사",
+      "en": "low-income group",
+      "example_ko": "정부는 저소득층을 위한 주거 지원을 늘리기로 했다.",
+      "example_en": "The government decided to increase housing support for low-income households."
+    },
+    {
+      "word": "혐오",
+      "pos": "명사",
+      "en": "hatred, aversion",
+      "example_ko": "온라인에서 특정 집단에 대한 혐오 표현이 늘고 있다.",
+      "example_en": "Hate speech against certain groups is increasing online."
+    },
+    {
+      "word": "청년층",
+      "pos": "명사",
+      "en": "young adults (as a group)",
+      "example_ko": "청년층의 취업난이 좀처럼 나아지지 않고 있다.",
+      "example_en": "The job shortage among young adults is hardly improving."
+    },
+    {
+      "word": "공동체",
+      "pos": "명사",
+      "en": "community",
+      "example_ko": "마을 공동체가 함께 축제를 준비했다.",
+      "example_en": "The village community prepared the festival together."
+    },
+    {
+      "word": "고립되다",
+      "pos": "동사",
+      "en": "to be isolated",
+      "example_ko": "폭설로 산골 마을이 사흘 동안 고립되었다.",
+      "example_en": "The mountain village was cut off for three days due to heavy snow."
+    }
+  ]
+}

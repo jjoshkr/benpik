@@ -1,0 +1,130 @@
+{
+  "passage_ko": "주 4일 근무제를 시범 도입한 기업들의 성과가 공개됐다. 일하는 날이 줄면 생산성이 떨어질 것이라는 우려와 달리, 참여 기업 대부분에서 생산성은 떨어지기는커녕 오히려 조금 올랐다. 직원들은 불필요한 회의가 줄고 업무에 더 집중하게 되었다고 답했으며, 회사를 옮길지 고민하는 직원의 비율도 크게 낮아졌다. 다만 고객 응대가 중요한 업종에서는 인력 운영에 어려움을 겪은 사례도 있어 업종별 특성을 고려한 보완이 필요하다는 지적이 나왔다.",
+  "passage_en": "The results from companies that trialed a four-day workweek have been released. Contrary to concerns that productivity would fall if workdays were cut, at most participating companies productivity, far from falling, actually rose slightly. Employees said that unnecessary meetings decreased and they became more focused on their work, and the proportion of employees considering changing companies also dropped sharply. However, there were also cases in industries where customer service is important that struggled with staffing, prompting remarks that adjustments tailored to each industry's characteristics are needed.",
+  "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "주 4일 근무제는 모든 업종에 바로 적용할 수 있다.",
+      "en": "The four-day workweek can be applied immediately to all industries."
+    },
+    {
+      "ko": "주 4일 근무제가 생산성을 해치지 않는다는 결과가 나왔다.",
+      "en": "Results showed that the four-day workweek does not harm productivity."
+    },
+    {
+      "ko": "회의를 줄이면 직원들의 이직이 늘어난다.",
+      "en": "Reducing meetings increases employee turnover."
+    },
+    {
+      "ko": "고객 응대 업종은 인력이 항상 부족하다.",
+      "en": "Customer-service industries always lack staff."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "이 기사는 주 4일 근무제 시범 도입 결과 생산성이 떨어지지 않고 오히려 올랐다는 내용을 중심으로 한다. 일부 업종의 어려움은 보충 설명일 뿐이므로 2번이 주제로 알맞다. 1번은 마지막 문장과 맞지 않는다.",
+  "explanation_en": "The article centers on trial results showing the four-day week did not lower productivity, so choice 2 is the main topic.",
+  "passage_vocab": [
+    {
+      "word": "시범",
+      "pos": "명사",
+      "en": "trial, pilot",
+      "context": "시범 도입한 기업들의"
+    },
+    {
+      "word": "생산성",
+      "pos": "명사",
+      "en": "productivity",
+      "context": "생산성이 떨어질 것이라는 우려와 달리"
+    },
+    {
+      "word": "우려",
+      "pos": "명사",
+      "en": "concern, worry",
+      "context": "우려와 달리"
+    },
+    {
+      "word": "응대",
+      "pos": "명사",
+      "en": "dealing with (customers), reception",
+      "context": "고객 응대가 중요한 업종에서는"
+    },
+    {
+      "word": "보완",
+      "pos": "명사",
+      "en": "supplementation, improvement",
+      "context": "업종별 특성을 고려한 보완이 필요하다는"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "사내",
+      "pos": "명사",
+      "en": "in-house, within the company",
+      "example_ko": "사내 게시판에 새로운 휴가 규정이 올라왔다.",
+      "example_en": "New vacation rules were posted on the company bulletin board."
+    },
+    {
+      "word": "창업",
+      "pos": "명사",
+      "en": "starting a business, start-up",
+      "example_ko": "요즘은 청년 창업을 지원하는 제도가 많다.",
+      "example_en": "These days there are many programs that support young people starting businesses."
+    },
+    {
+      "word": "조직",
+      "pos": "명사",
+      "en": "organization",
+      "example_ko": "새로 온 팀장은 조직 분위기를 크게 바꾸어 놓았다.",
+      "example_en": "The new team leader greatly changed the atmosphere of the organization."
+    },
+    {
+      "word": "직원",
+      "pos": "명사",
+      "en": "employee, staff member",
+      "example_ko": "이 회사는 직원 복지에 많은 투자를 한다.",
+      "example_en": "This company invests heavily in employee welfare."
+    },
+    {
+      "word": "은퇴하다",
+      "pos": "동사",
+      "en": "to retire",
+      "example_ko": "아버지는 30년 동안 일한 회사에서 은퇴하셨다.",
+      "example_en": "My father retired from the company where he had worked for 30 years."
+    },
+    {
+      "word": "수당",
+      "pos": "명사",
+      "en": "allowance, extra pay",
+      "example_ko": "주말에 근무하면 추가 수당이 지급된다.",
+      "example_en": "Extra allowance is paid for working on weekends."
+    },
+    {
+      "word": "노동",
+      "pos": "명사",
+      "en": "labor, work",
+      "example_ko": "장시간 노동은 건강을 해칠 수 있다.",
+      "example_en": "Working long hours can harm your health."
+    },
+    {
+      "word": "실직하다",
+      "pos": "동사",
+      "en": "to lose one's job",
+      "example_ko": "경기가 나빠지면서 실직한 사람이 늘었다.",
+      "example_en": "As the economy worsened, the number of people who lost their jobs increased."
+    },
+    {
+      "word": "효율적",
+      "pos": "명사",
+      "en": "efficient (nature)",
+      "example_ko": "일을 효율적으로 나누면 야근을 줄일 수 있다.",
+      "example_en": "If you divide up the work efficiently, you can reduce overtime."
+    },
+    {
+      "word": "처우",
+      "pos": "명사",
+      "en": "treatment (pay and conditions)",
+      "example_ko": "노조는 비정규직의 처우 개선을 요구했다.",
+      "example_en": "The union demanded better treatment for non-regular workers."
+    }
+  ]
+}

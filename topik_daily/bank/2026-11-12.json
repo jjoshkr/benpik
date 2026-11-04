@@ -1,0 +1,130 @@
+{
+  "passage_ko": "인터넷에 올라온 자극적인 제목의 기사만 보고 내용을 판단하는 사람이 적지 않다. 이처럼 제목만 읽고 넘어가면 사실과 다른 정보를 그대로 믿거나 남에게 퍼뜨리기 십상이다. 특히 확인되지 않은 소문이 빠르게 퍼지면 아무 잘못도 없는 엉뚱한 사람이 큰 피해를 입기도 한다. 그러므로 기사를 접할 때는 본문을 끝까지 읽고, 여러 출처를 비교해 사실 여부를 따져 보는 습관을 길러야 한다.",
+  "passage_en": "Quite a few people judge an article's content just by looking at its sensational headline online. When you read only the headline and move on like this, you are very likely to believe false information as it is or spread it to others. In particular, when unverified rumors spread quickly, an innocent, unrelated person may suffer great harm. Therefore, when coming across an article, we should develop the habit of reading the body to the end and comparing several sources to check whether it is true.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "인터넷 기사에서 제목이 가장 중요하다고 강조하고 있다.",
+      "en": "It emphasizes that the headline is the most important part of an online article."
+    },
+    {
+      "ko": "언론사에 자극적인 기사를 쓰지 말라고 요구하고 있다.",
+      "en": "It demands that news outlets stop writing sensational articles."
+    },
+    {
+      "ko": "소문으로 인한 피해를 어쩔 수 없는 일로 여기고 있다.",
+      "en": "It regards harm from rumors as unavoidable."
+    },
+    {
+      "ko": "정보를 신중하게 확인하는 습관이 필요하다고 주장하고 있다.",
+      "en": "It argues that a habit of carefully verifying information is needed."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "필자는 제목만 보고 판단하면 잘못된 정보를 믿거나 퍼뜨리기 쉽다고 지적한 뒤, 본문을 끝까지 읽고 여러 출처를 비교하는 습관을 길러야 한다고 말한다. 따라서 4번이 필자의 태도로 알맞다. 필자는 언론사가 아니라 독자의 습관에 초점을 맞추고 있다.",
+  "explanation_en": "The writer argues readers must build the habit of reading fully and cross-checking sources, so choice 4 reflects the writer's attitude.",
+  "passage_vocab": [
+    {
+      "word": "자극적",
+      "pos": "명사",
+      "en": "sensational, provocative",
+      "context": "자극적인 제목의 기사만 보고"
+    },
+    {
+      "word": "퍼뜨리다",
+      "pos": "동사",
+      "en": "to spread (rumors)",
+      "context": "남에게 퍼뜨리기 십상이다"
+    },
+    {
+      "word": "엉뚱하다",
+      "pos": "형용사",
+      "en": "to be unrelated, unexpected",
+      "context": "엉뚱한 사람이 큰 피해를 입기도"
+    },
+    {
+      "word": "출처",
+      "pos": "명사",
+      "en": "source",
+      "context": "여러 출처를 비교해"
+    },
+    {
+      "word": "따지다",
+      "pos": "동사",
+      "en": "to examine closely, to weigh",
+      "context": "사실 여부를 따져 보는"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "사생활",
+      "pos": "명사",
+      "en": "private life, privacy",
+      "example_ko": "연예인의 사생활도 보호받아야 한다.",
+      "example_en": "Celebrities' private lives should also be protected."
+    },
+    {
+      "word": "침해하다",
+      "pos": "동사",
+      "en": "to infringe, to violate",
+      "example_ko": "허락 없이 사진을 올리는 것은 초상권을 침해하는 일이다.",
+      "example_en": "Posting photos without permission infringes on portrait rights."
+    },
+    {
+      "word": "악플",
+      "pos": "명사",
+      "en": "malicious online comment",
+      "example_ko": "그 가수는 악플 때문에 한동안 활동을 쉬었다.",
+      "example_en": "That singer took a break for a while because of malicious comments."
+    },
+    {
+      "word": "허위",
+      "pos": "명사",
+      "en": "falsehood, false (information)",
+      "example_ko": "허위 광고로 소비자를 속인 업체가 처벌을 받았다.",
+      "example_en": "A company that deceived consumers with false advertising was punished."
+    },
+    {
+      "word": "조작하다",
+      "pos": "동사",
+      "en": "to manipulate, to fabricate",
+      "example_ko": "실험 결과를 조작한 사실이 드러났다.",
+      "example_en": "It was revealed that the experiment results had been fabricated."
+    },
+    {
+      "word": "규제하다",
+      "pos": "동사",
+      "en": "to regulate",
+      "example_ko": "정부는 일회용 컵 사용을 규제하기로 했다.",
+      "example_en": "The government decided to regulate the use of disposable cups."
+    },
+    {
+      "word": "처벌",
+      "pos": "명사",
+      "en": "punishment",
+      "example_ko": "음주 운전에 대한 처벌이 더 강화되었다.",
+      "example_en": "Punishment for drunk driving has been strengthened."
+    },
+    {
+      "word": "취약하다",
+      "pos": "형용사",
+      "en": "to be vulnerable, weak",
+      "example_ko": "노인들은 전화 사기에 취약한 편이다.",
+      "example_en": "Elderly people tend to be vulnerable to phone scams."
+    },
+    {
+      "word": "공정하다",
+      "pos": "형용사",
+      "en": "to be fair, just",
+      "example_ko": "모든 지원자에게 공정한 기회가 주어져야 한다.",
+      "example_en": "All applicants should be given a fair chance."
+    },
+    {
+      "word": "실태",
+      "pos": "명사",
+      "en": "actual state, real conditions",
+      "example_ko": "청소년 수면 부족 실태에 대한 조사가 실시되었다.",
+      "example_en": "A survey was conducted on the actual state of sleep deprivation among teenagers."
+    }
+  ]
+}

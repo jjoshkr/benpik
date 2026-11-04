@@ -1,0 +1,124 @@
+{
+  "passage_ko": "1인 가구가 빠르게 늘어나면서 사회적 고립이 새로운 사회 문제로 떠오르고 있다. 통신 기술의 발달로 언제든 다른 사람과 연락할 수 있게 되었음에도 불구하고 마음을 터놓을 사람이 한 명도 없다고 답하는 사람은 오히려 늘었다. 이러한 고립은 우울증과 같은 정신 건강 문제로 이어지기 쉽다는 점에서 개인의 문제로만 볼 수 없다. 따라서 지역 사회가 이웃 간 교류의 장을 마련하고 고립된 사람들을 적극적으로 찾아 나서는 노력이 필요하다.",
+  "passage_en": "As single-person households increase rapidly, social isolation is emerging as a new social problem. Even though advances in communication technology have made it possible to contact others at any time, the number of people who say they have no one at all to open up to has actually grown. Such isolation cannot be viewed only as a personal matter, given that it easily leads to mental health problems such as depression. Therefore, efforts are needed for local communities to create spaces for interaction among neighbors and to actively reach out to isolated people.",
+  "question": "다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "통신 기술은 인간관계를 풍요롭게 만든다.",
+      "en": "Communication technology enriches human relationships."
+    },
+    {
+      "ko": "1인 가구는 대부분 정신 건강에 문제가 있다.",
+      "en": "Most single-person households have mental health problems."
+    },
+    {
+      "ko": "이웃과 연락하려면 통신 기술을 활용해야 한다.",
+      "en": "To contact neighbors, one should use communication technology."
+    },
+    {
+      "ko": "사회적 고립 문제는 지역 사회가 함께 해결해 나가야 한다.",
+      "en": "The problem of social isolation must be tackled together by local communities."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "글은 사회적 고립이 개인의 문제로만 볼 수 없는 사회 문제라고 설명한 뒤, 지역 사회가 적극적으로 나서야 한다고 결론짓는다. 따라서 글 전체의 중심 생각은 4번이다. 1번은 글의 내용과 반대되고, 2번과 3번은 글에서 말하지 않은 내용이다.",
+  "explanation_en": "The passage argues that social isolation is a social issue that local communities must address together, so choice 4 is the main idea.",
+  "passage_vocab": [
+    {
+      "word": "1인 가구",
+      "pos": "명사",
+      "en": "single-person household",
+      "context": "1인 가구가 빠르게 늘어나면서"
+    },
+    {
+      "word": "고립",
+      "pos": "명사",
+      "en": "isolation",
+      "context": "사회적 고립이 새로운 사회 문제로"
+    },
+    {
+      "word": "떠오르다",
+      "pos": "동사",
+      "en": "to emerge, to come to the fore",
+      "context": "새로운 사회 문제로 떠오르고 있다"
+    },
+    {
+      "word": "교류",
+      "pos": "명사",
+      "en": "interaction, exchange",
+      "context": "이웃 간 교류의 장을 마련하고"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "세대",
+      "pos": "명사",
+      "en": "generation",
+      "example_ko": "세대 간의 생각 차이를 줄이려면 대화가 필요하다.",
+      "example_en": "Dialogue is needed to narrow differences in thinking between generations."
+    },
+    {
+      "word": "학대",
+      "pos": "명사",
+      "en": "abuse, mistreatment",
+      "example_ko": "아동 학대를 막으려면 이웃의 관심이 필요하다.",
+      "example_en": "Neighbors' attention is needed to prevent child abuse."
+    },
+    {
+      "word": "대응하다",
+      "pos": "동사",
+      "en": "to respond to, to deal with",
+      "example_ko": "정부는 집값 문제에 신속하게 대응해야 한다.",
+      "example_en": "The government must respond quickly to the housing price problem."
+    },
+    {
+      "word": "방치되다",
+      "pos": "동사",
+      "en": "to be neglected, to be left unattended",
+      "example_ko": "버려진 건물이 수년째 방치되어 있다.",
+      "example_en": "The abandoned building has been left unattended for years."
+    },
+    {
+      "word": "대두되다",
+      "pos": "동사",
+      "en": "to emerge (as an issue)",
+      "example_ko": "최근 청소년 도박 문제가 대두되고 있다.",
+      "example_en": "Teen gambling has recently emerged as an issue."
+    },
+    {
+      "word": "제기하다",
+      "pos": "동사",
+      "en": "to raise (a question/issue)",
+      "example_ko": "시민 단체가 개발 사업에 대해 문제를 제기했다.",
+      "example_en": "A civic group raised concerns about the development project."
+    },
+    {
+      "word": "촉구하다",
+      "pos": "동사",
+      "en": "to urge, to call for",
+      "example_ko": "주민들은 안전 대책 마련을 촉구했다.",
+      "example_en": "Residents called for safety measures."
+    },
+    {
+      "word": "형평성",
+      "pos": "명사",
+      "en": "fairness, equity",
+      "example_ko": "세금 제도의 형평성을 놓고 논란이 일었다.",
+      "example_en": "Controversy arose over the fairness of the tax system."
+    },
+    {
+      "word": "주거",
+      "pos": "명사",
+      "en": "housing, residence",
+      "example_ko": "청년들의 주거 문제가 심각한 사회 문제로 떠올랐다.",
+      "example_en": "Young people's housing problems have emerged as a serious social issue."
+    },
+    {
+      "word": "안전사고",
+      "pos": "명사",
+      "en": "(safety) accident",
+      "example_ko": "겨울철에는 빙판길 안전사고가 자주 일어난다.",
+      "example_en": "In winter, accidents on icy roads happen frequently."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "passage_ko": "주변 사람에게 고마운 마음을 자주 표현하는 사람일수록 인간관계에 대한 만족도가 높다는 연구 결과가 나왔다. 한 대학 연구팀이 성인 500명을 6주 동안 관찰한 결과, 매일 한 사람에게 감사 메시지를 보낸 집단은 그렇지 않은 집단보다 외로움을 덜 느끼는 것으로 나타났다. 연구팀은 감사 표현이 받는 사람뿐 아니라 (    ) 효과가 있다고 분석했다. 연구를 이끈 김 교수는 \"감사하는 마음이 습관이 되도록 작은 일부터 말로 표현해 보라\"고 조언했다.",
+  "passage_en": "A study has found that the more often people express gratitude to those around them, the more satisfied they are with their relationships. When a university research team observed 500 adults for six weeks, the group that sent a thank-you message to one person every day turned out to feel less lonely than the group that did not. The research team analyzed that expressing gratitude has the effect of (    ) as well as the person who receives it. Professor Kim, who led the study, advised, \"Try expressing it in words, starting with small things, so that a grateful heart becomes a habit.\"",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "상대방의 실수를 줄여 주는",
+      "en": "reducing the other person's mistakes"
+    },
+    {
+      "ko": "메시지 비용을 아껴 주는",
+      "en": "saving on messaging costs"
+    },
+    {
+      "ko": "다른 사람과의 연락을 줄이게 하는",
+      "en": "making one contact others less"
+    },
+    {
+      "ko": "표현하는 사람 자신의 마음도 안정시키는",
+      "en": "calming the mind of the person who expresses it, too"
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "감사 메시지를 보낸 사람들이 외로움을 덜 느꼈다는 결과가 나왔으므로, 감사 표현은 표현하는 사람 자신에게도 좋은 영향을 준다. '받는 사람뿐 아니라'와 이어지는 내용으로 4번이 알맞다.",
+  "explanation_en": "Since the senders themselves felt less lonely, gratitude benefits not only the receiver but also the person expressing it, so choice 4 is correct.",
+  "passage_vocab": [
+    {
+      "word": "만족도",
+      "pos": "명사",
+      "en": "level of satisfaction",
+      "context": "인간관계에 대한 만족도가 높다는"
+    },
+    {
+      "word": "관찰하다",
+      "pos": "동사",
+      "en": "to observe",
+      "context": "성인 500명을 6주 동안 관찰한 결과"
+    },
+    {
+      "word": "집단",
+      "pos": "명사",
+      "en": "group",
+      "context": "감사 메시지를 보낸 집단은"
+    },
+    {
+      "word": "분석하다",
+      "pos": "동사",
+      "en": "to analyze",
+      "context": "효과가 있다고 분석했다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "칭찬하다",
+      "pos": "동사",
+      "en": "to praise, to compliment",
+      "example_ko": "선생님은 작은 노력도 아낌없이 칭찬해 주셨다.",
+      "example_en": "The teacher generously praised even small efforts."
+    },
+    {
+      "word": "어색하다",
+      "pos": "형용사",
+      "en": "to be awkward",
+      "example_ko": "오랜만에 만난 친구와 처음에는 조금 어색했다.",
+      "example_en": "At first it was a little awkward with a friend I hadn't seen in a long time."
+    },
+    {
+      "word": "경청하다",
+      "pos": "동사",
+      "en": "to listen attentively",
+      "example_ko": "좋은 상담사는 상대의 말을 끝까지 경청한다.",
+      "example_en": "A good counselor listens attentively to the end."
+    },
+    {
+      "word": "성숙하다",
+      "pos": "형용사",
+      "en": "to be mature",
+      "example_ko": "그는 나이에 비해 생각이 성숙한 편이다.",
+      "example_en": "He is fairly mature in his thinking for his age."
+    },
+    {
+      "word": "호감",
+      "pos": "명사",
+      "en": "good feeling, favorable impression",
+      "example_ko": "밝게 웃는 모습에 호감이 갔다.",
+      "example_en": "I took a liking to her bright smile."
+    },
+    {
+      "word": "고민",
+      "pos": "명사",
+      "en": "worry, concern",
+      "example_ko": "친구에게 고민을 이야기하고 나니 마음이 한결 가벼워졌다.",
+      "example_en": "After telling my friend about my worries, I felt much lighter."
+    },
+    {
+      "word": "외면하다",
+      "pos": "동사",
+      "en": "to turn away from, to ignore",
+      "example_ko": "친구의 어려움을 외면할 수 없었다.",
+      "example_en": "I couldn't turn away from my friend's difficulties."
+    },
+    {
+      "word": "너그럽다",
+      "pos": "형용사",
+      "en": "to be generous, lenient",
+      "example_ko": "할머니는 손주들의 실수에 늘 너그러우셨다.",
+      "example_en": "Grandmother was always lenient about her grandchildren's mistakes."
+    },
+    {
+      "word": "의심하다",
+      "pos": "동사",
+      "en": "to doubt, to suspect",
+      "example_ko": "한번 거짓말을 한 사람은 다시 의심하게 된다.",
+      "example_en": "You end up suspecting someone who has lied to you once."
+    },
+    {
+      "word": "배려",
+      "pos": "명사",
+      "en": "consideration, thoughtfulness",
+      "example_ko": "작은 배려가 상대의 마음을 움직인다.",
+      "example_en": "A small act of consideration moves people's hearts."
+    }
+  ]
+}

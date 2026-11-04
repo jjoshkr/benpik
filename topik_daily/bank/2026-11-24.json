@@ -1,0 +1,124 @@
+{
+  "passage_ko": "최근 유명 관광지를 바쁘게 돌아다니는 대신 한 지역에 오래 머무르며 현지인처럼 생활하는 '한 달 살기' 여행이 주목받고 있다. 이러한 여행을 선택하는 사람들은 짧은 일정에 쫓기지 않고 그 지역의 일상과 정취를 깊이 느끼고자 한다. 그래서 이들은 이름난 관광 명소보다 동네 시장이나 작은 도서관처럼 (    ) 장소를 즐겨 찾는다. 일부 지방자치단체는 이런 흐름에 맞춰 장기 체류 여행자에게 숙소 비용 일부를 지원하는 제도를 내놓기도 했다.",
+  "passage_en": "Recently, 'one-month living' trips, in which travelers stay in one region for a long time and live like locals instead of rushing around famous tourist sites, have been drawing attention. People who choose this kind of travel want to deeply feel the everyday life and atmosphere of the region without being pressed by a tight schedule. That is why, rather than well-known tourist attractions, they like to visit places (    ), such as neighborhood markets or small libraries. In line with this trend, some local governments have even introduced programs that cover part of the lodging costs for long-stay travelers.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "관광객이 한꺼번에 몰리는",
+      "en": "where tourists crowd in all at once"
+    },
+    {
+      "ko": "현지 주민의 생활이 묻어나는",
+      "en": "where the daily life of local residents shows through"
+    },
+    {
+      "ko": "입장료가 비싸고 화려한",
+      "en": "that are flashy and charge expensive admission"
+    },
+    {
+      "ko": "사진을 찍기 좋게 꾸며진",
+      "en": "that are decorated to be good for taking photos"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "이 여행을 하는 사람들은 지역의 일상과 정취를 깊이 느끼고자 한다고 했다. 빈칸 앞의 '동네 시장이나 작은 도서관'도 주민들이 생활하는 공간이므로 현지 주민의 생활이 묻어나는 장소라는 2번이 알맞다.",
+  "explanation_en": "Because these travelers want to feel local daily life, the places they seek are ones where residents' everyday life shows through, so choice 2 is correct.",
+  "passage_vocab": [
+    {
+      "word": "정취",
+      "pos": "명사",
+      "en": "atmosphere, charm (of a place)",
+      "context": "지역의 일상과 정취를 깊이 느끼고자"
+    },
+    {
+      "word": "주목받다",
+      "pos": "동사",
+      "en": "to draw attention",
+      "context": "'한 달 살기' 여행이 주목받고 있다"
+    },
+    {
+      "word": "지방자치단체",
+      "pos": "명사",
+      "en": "local government",
+      "context": "일부 지방자치단체는"
+    },
+    {
+      "word": "체류",
+      "pos": "명사",
+      "en": "stay, sojourn",
+      "context": "장기 체류 여행자에게"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "숙소",
+      "pos": "명사",
+      "en": "accommodation, lodging",
+      "example_ko": "역에서 가까운 숙소를 잡아서 이동하기가 편했다.",
+      "example_en": "I got accommodation near the station, so getting around was easy."
+    },
+    {
+      "word": "관광지",
+      "pos": "명사",
+      "en": "tourist attraction, tourist spot",
+      "example_ko": "주말이라 유명한 관광지마다 사람들로 붐볐다.",
+      "example_en": "Since it was the weekend, every famous tourist spot was crowded."
+    },
+    {
+      "word": "풍경",
+      "pos": "명사",
+      "en": "scenery, landscape",
+      "example_ko": "기차 창밖으로 펼쳐진 풍경이 정말 아름다웠다.",
+      "example_en": "The scenery outside the train window was truly beautiful."
+    },
+    {
+      "word": "여행지",
+      "pos": "명사",
+      "en": "travel destination",
+      "example_ko": "올해 가장 인기 있는 여행지는 제주도였다.",
+      "example_en": "This year's most popular travel destination was Jeju Island."
+    },
+    {
+      "word": "일행",
+      "pos": "명사",
+      "en": "party, group (traveling together)",
+      "example_ko": "일행과 떨어져 길을 잃을 뻔했다.",
+      "example_en": "I almost got lost after being separated from my group."
+    },
+    {
+      "word": "머무르다",
+      "pos": "동사",
+      "en": "to stay, to remain",
+      "example_ko": "우리는 바닷가 마을에 일주일 동안 머물렀다.",
+      "example_en": "We stayed in a seaside village for a week."
+    },
+    {
+      "word": "운항",
+      "pos": "명사",
+      "en": "(ship/flight) operation, service",
+      "example_ko": "태풍 때문에 배의 운항이 중단되었다.",
+      "example_en": "Ferry service was suspended because of the typhoon."
+    },
+    {
+      "word": "설레다",
+      "pos": "동사",
+      "en": "to be excited, to flutter (with anticipation)",
+      "example_ko": "여행을 떠나기 전날 밤에는 마음이 설레서 잠이 오지 않았다.",
+      "example_en": "The night before the trip, I was so excited that I couldn't sleep."
+    },
+    {
+      "word": "한적하다",
+      "pos": "형용사",
+      "en": "to be quiet and secluded",
+      "example_ko": "주말에는 한적한 시골 마을에서 쉬고 싶다.",
+      "example_en": "On weekends I want to rest in a quiet country village."
+    },
+    {
+      "word": "묵다",
+      "pos": "동사",
+      "en": "to stay (overnight)",
+      "example_ko": "우리는 바닷가 근처 민박에 이틀 동안 묵었다.",
+      "example_en": "We stayed at a guesthouse near the beach for two days."
+    }
+  ]
+}

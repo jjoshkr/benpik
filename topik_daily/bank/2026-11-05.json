@@ -1,0 +1,130 @@
+{
+  "passage_ko": "대화 중 상대방의 휴대 전화 사용으로 인해 무시당했다고 느끼는 사람이 많은 것으로 나타났다. 한 대학 연구팀이 성인 800명을 조사한 결과, 응답자의 65퍼센트가 함께 있는 사람이 휴대 전화만 들여다볼 때 서운함을 느낀 적이 있다고 답했다. 특히 이러한 경험이 반복될수록 상대에 대한 신뢰도가 낮아지는 경향이 있었다. 연구팀은 마주 앉아 대화할 때 휴대 전화를 잠시 내려놓는 작은 배려가 관계를 지키는 데 효과적이라고 밝혔다.",
+  "passage_en": "It has been found that many people feel ignored because of the other person's phone use during a conversation. When a university research team surveyed 800 adults, 65 percent of respondents said they had felt hurt when the person they were with only stared at their phone. In particular, the more often such experiences were repeated, the more their trust in the other person tended to drop. The research team said that the small consideration of putting the phone down for a moment when talking face to face is effective in protecting relationships.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "응답자의 절반 이하가 서운함을 느낀 적이 있다.",
+      "en": "Less than half of the respondents had felt hurt."
+    },
+    {
+      "ko": "휴대 전화 사용은 상대에 대한 신뢰도와 관계가 없다.",
+      "en": "Phone use has nothing to do with trust in the other person."
+    },
+    {
+      "ko": "연구팀은 대화 중 휴대 전화 사용을 금지해야 한다고 주장했다.",
+      "en": "The research team argued that phone use during conversations should be banned."
+    },
+    {
+      "ko": "이런 경험이 반복되면 상대를 덜 믿게 되는 경향이 있다.",
+      "en": "When such experiences repeat, people tend to trust the other person less."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "글에서 이러한 경험이 반복될수록 상대에 대한 신뢰도가 낮아지는 경향이 있었다고 했으므로 4번이 정답이다. 서운함을 느낀 응답자는 65퍼센트로 절반이 넘고, 연구팀은 금지가 아니라 작은 배려를 권했다.",
+  "explanation_en": "The passage states that trust in the other person tends to fall as such experiences repeat, so choice 4 is correct.",
+  "passage_vocab": [
+    {
+      "word": "무시당하다",
+      "pos": "동사",
+      "en": "to be ignored, to be disregarded",
+      "context": "무시당했다고 느끼는 사람이"
+    },
+    {
+      "word": "들여다보다",
+      "pos": "동사",
+      "en": "to look into, to stare at",
+      "context": "휴대 전화만 들여다볼 때"
+    },
+    {
+      "word": "신뢰도",
+      "pos": "명사",
+      "en": "degree of trust, reliability",
+      "context": "상대에 대한 신뢰도가 낮아지는"
+    },
+    {
+      "word": "경향",
+      "pos": "명사",
+      "en": "tendency, trend",
+      "context": "낮아지는 경향이 있었다"
+    },
+    {
+      "word": "배려",
+      "pos": "명사",
+      "en": "consideration, thoughtfulness",
+      "context": "내려놓는 작은 배려가"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "질투",
+      "pos": "명사",
+      "en": "jealousy, envy",
+      "example_ko": "동생은 언니가 칭찬받을 때마다 질투를 느꼈다.",
+      "example_en": "The younger sister felt jealous whenever her older sister was praised."
+    },
+    {
+      "word": "열등감",
+      "pos": "명사",
+      "en": "inferiority complex",
+      "example_ko": "그는 키가 작다는 열등감을 운동으로 이겨 냈다.",
+      "example_en": "He overcame his inferiority complex about being short through sports."
+    },
+    {
+      "word": "존중하다",
+      "pos": "동사",
+      "en": "to respect",
+      "example_ko": "서로의 생각이 달라도 상대의 의견을 존중해야 한다.",
+      "example_en": "Even if our thoughts differ, we should respect each other's opinions."
+    },
+    {
+      "word": "의지하다",
+      "pos": "동사",
+      "en": "to lean on, to rely on (emotionally)",
+      "example_ko": "힘들 때 의지할 수 있는 친구가 있어서 다행이다.",
+      "example_en": "I'm glad to have a friend I can lean on in hard times."
+    },
+    {
+      "word": "원망하다",
+      "pos": "동사",
+      "en": "to resent, to blame",
+      "example_ko": "그는 실패를 남의 탓으로 돌리며 동료를 원망했다.",
+      "example_en": "He blamed his failure on others and resented his colleague."
+    },
+    {
+      "word": "거리감",
+      "pos": "명사",
+      "en": "sense of distance, aloofness",
+      "example_ko": "존댓말을 계속 쓰니 친구 사이에 거리감이 느껴졌다.",
+      "example_en": "Continuing to use formal speech created a sense of distance between the friends."
+    },
+    {
+      "word": "내성적",
+      "pos": "명사",
+      "en": "introverted (nature)",
+      "example_ko": "내성적인 성격이라 처음 만난 사람과 말을 잘 못 한다.",
+      "example_en": "Being introverted, I find it hard to talk with people I've just met."
+    },
+    {
+      "word": "사교적",
+      "pos": "명사",
+      "en": "sociable (nature)",
+      "example_ko": "그녀는 사교적이어서 어디서든 금방 친구를 사귄다.",
+      "example_en": "She is sociable, so she makes friends quickly anywhere."
+    },
+    {
+      "word": "섭섭하다",
+      "pos": "형용사",
+      "en": "to feel let down, to be sorry (to part)",
+      "example_ko": "친한 친구가 이사를 간다니 정말 섭섭하다.",
+      "example_en": "I'm really sad that my close friend is moving away."
+    },
+    {
+      "word": "체면",
+      "pos": "명사",
+      "en": "face, dignity, honor",
+      "example_ko": "그는 체면 때문에 모른다는 말을 하지 못했다.",
+      "example_en": "He couldn't say he didn't know because of saving face."
+    }
+  ]
+}

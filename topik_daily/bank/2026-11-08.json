@@ -1,0 +1,124 @@
+{
+  "passage_ko": "전기 자동차의 보급이 늘면서 배터리 기술에 대한 관심도 커지고 있다. 현재 널리 쓰이는 리튬 이온 배터리는 기존 배터리에 비해 가볍고 많은 양의 전기를 저장할 수 있다는 장점이 있다. 그러나 강한 충격을 받거나 온도가 지나치게 높아지면 불이 날 위험이 있다. 그래서 최근에는 배터리 내부를 액체 대신 고체 물질로 채워 (    ) 전고체 배터리 개발이 활발하게 진행되고 있다.",
+  "passage_en": "As electric vehicles become more widespread, interest in battery technology is also growing. The lithium-ion battery widely used today has the advantage of being lighter than conventional batteries and able to store a large amount of electricity. However, it risks catching fire if it receives a strong impact or its temperature rises too high. So recently, development of all-solid-state batteries that (    ) by filling the inside with solid material instead of liquid has been actively under way.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "가격을 크게 높인",
+      "en": "greatly raise the price"
+    },
+    {
+      "ko": "무게를 두 배로 늘린",
+      "en": "double the weight"
+    },
+    {
+      "ko": "충전 시간을 더 길게 만든",
+      "en": "make charging time longer"
+    },
+    {
+      "ko": "화재 위험을 낮춘",
+      "en": "lower the risk of fire"
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "앞 문장에서 리튬 이온 배터리는 충격이나 높은 온도에 불이 날 위험이 있다고 했고, '그래서'로 이어지므로 이 단점을 보완하는 내용이 와야 한다. 따라서 화재 위험을 낮춘 배터리라는 4번이 알맞다.",
+  "explanation_en": "Since the previous sentence mentions fire risk and the blank follows '그래서', it must describe a battery that lowers fire risk, so choice 4 is correct.",
+  "passage_vocab": [
+    {
+      "word": "보급",
+      "pos": "명사",
+      "en": "spread, widespread adoption",
+      "context": "전기 자동차의 보급이 늘면서"
+    },
+    {
+      "word": "기존",
+      "pos": "명사",
+      "en": "existing, conventional",
+      "context": "기존 배터리에 비해"
+    },
+    {
+      "word": "충격",
+      "pos": "명사",
+      "en": "impact, shock",
+      "context": "강한 충격을 받거나"
+    },
+    {
+      "word": "지나치게",
+      "pos": "부사",
+      "en": "excessively, too much",
+      "context": "온도가 지나치게 높아지면"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "원리",
+      "pos": "명사",
+      "en": "principle",
+      "example_ko": "냉장고가 작동하는 원리는 생각보다 간단하다.",
+      "example_en": "The principle by which a refrigerator works is simpler than you'd think."
+    },
+    {
+      "word": "장치",
+      "pos": "명사",
+      "en": "device, equipment",
+      "example_ko": "이 차에는 졸음을 감지하는 안전 장치가 있다.",
+      "example_en": "This car has a safety device that detects drowsiness."
+    },
+    {
+      "word": "상용화",
+      "pos": "명사",
+      "en": "commercialization",
+      "example_ko": "자율 주행 기술의 상용화까지는 시간이 더 필요하다.",
+      "example_en": "More time is needed before self-driving technology is commercialized."
+    },
+    {
+      "word": "특허",
+      "pos": "명사",
+      "en": "patent",
+      "example_ko": "그 회사는 새로운 기술로 특허를 받았다.",
+      "example_en": "That company obtained a patent for its new technology."
+    },
+    {
+      "word": "혁신",
+      "pos": "명사",
+      "en": "innovation",
+      "example_ko": "스마트폰은 통신 방식에 큰 혁신을 가져왔다.",
+      "example_en": "Smartphones brought great innovation to the way we communicate."
+    },
+    {
+      "word": "결함",
+      "pos": "명사",
+      "en": "defect, flaw",
+      "example_ko": "제품에서 결함이 발견되어 전량 회수되었다.",
+      "example_en": "A defect was found in the product, and all units were recalled."
+    },
+    {
+      "word": "작동하다",
+      "pos": "동사",
+      "en": "to operate, to work (machine)",
+      "example_ko": "정전이 되자 엘리베이터가 작동하지 않았다.",
+      "example_en": "When the power went out, the elevator stopped working."
+    },
+    {
+      "word": "수명",
+      "pos": "명사",
+      "en": "lifespan, life (of a product)",
+      "example_ko": "배터리 수명을 늘리려면 완전히 방전시키지 않는 것이 좋다.",
+      "example_en": "To extend battery life, it is better not to drain it completely."
+    },
+    {
+      "word": "인공위성",
+      "pos": "명사",
+      "en": "artificial satellite",
+      "example_ko": "인공위성 덕분에 정확한 날씨 예보가 가능해졌다.",
+      "example_en": "Thanks to satellites, accurate weather forecasts became possible."
+    },
+    {
+      "word": "검증하다",
+      "pos": "동사",
+      "en": "to verify, to validate",
+      "example_ko": "새 약은 안전성을 충분히 검증한 뒤에 판매된다.",
+      "example_en": "A new drug is sold only after its safety has been thoroughly verified."
+    }
+  ]
+}

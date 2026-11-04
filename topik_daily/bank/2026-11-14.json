@@ -1,0 +1,130 @@
+{
+  "passage_ko": "예전의 나는 여행을 떠나기 전에 시간 단위로 빈틈없는 계획을 세워야 마음이 놓였다. 하지만 막상 현지에 도착하면 날씨나 교통 사정 때문에 일정이 틀어지기 일쑤여서, 계획을 꼼꼼히 세우나 마나 결과는 늘 비슷했다. 지난봄 작은 섬마을에서 배가 끊겨 하루를 더 머물게 되었을 때, 나는 처음으로 예정에 없던 시간을 느긋하게 즐겨 보았다. 골목을 천천히 걸으며 주민들과 나눈 대화는 어떤 명소보다 오래 기억에 남았다. 이제 나는 여행의 진짜 즐거움이 계획표 바깥에 있다고 믿는다.",
+  "passage_en": "In the past, I could only feel at ease before a trip once I had drawn up a meticulous, hour-by-hour plan. But once I actually arrived, my schedule would often fall apart because of the weather or traffic, so whether or not I planned carefully, the result was always about the same. Last spring, when the ferries stopped running and I had to stay an extra day in a small island village, I enjoyed unplanned time at a leisurely pace for the first time. The conversations I had with the villagers while slowly walking the alleys stayed in my memory longer than any famous sight. Now I believe the real joy of travel lies outside the itinerary.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "철저한 계획이 성공적인 여행의 조건이라고 강조하고 있다",
+      "en": "The writer stresses that thorough planning is the condition for a successful trip"
+    },
+    {
+      "ko": "섬 여행의 불편한 교통을 비판하고 있다",
+      "en": "The writer criticizes the inconvenient transportation of island trips"
+    },
+    {
+      "ko": "계획에서 벗어난 여유로운 여행을 긍정적으로 받아들이고 있다",
+      "en": "The writer positively embraces relaxed travel that departs from the plan"
+    },
+    {
+      "ko": "유명한 관광지를 꼭 방문해야 한다고 권하고 있다",
+      "en": "The writer recommends that famous tourist spots must be visited"
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "필자는 계획을 세우나 마나 일정이 바뀌곤 했다고 말하며, 섬에서 예정에 없던 시간을 즐긴 경험을 소개한다. 마지막 문장에서 여행의 즐거움이 계획표 바깥에 있다고 믿는다고 했으므로 3번이 알맞다. 명소보다 주민과의 대화가 더 기억에 남았다고 했으므로 4번은 반대이다.",
+  "explanation_en": "The writer concludes that the true joy of travel lies outside the plan, showing a positive attitude toward unplanned, relaxed travel (choice 3).",
+  "passage_vocab": [
+    {
+      "word": "빈틈없다",
+      "pos": "형용사",
+      "en": "to be thorough, airtight",
+      "context": "빈틈없는 계획을 세워야"
+    },
+    {
+      "word": "틀어지다",
+      "pos": "동사",
+      "en": "to go wrong, to fall apart (plans)",
+      "context": "일정이 틀어지기 일쑤여서"
+    },
+    {
+      "word": "일쑤",
+      "pos": "명사",
+      "en": "a frequent (bad) habit; often",
+      "context": "틀어지기 일쑤여서"
+    },
+    {
+      "word": "느긋하다",
+      "pos": "형용사",
+      "en": "to be relaxed, unhurried",
+      "context": "느긋하게 즐겨 보았다"
+    },
+    {
+      "word": "명소",
+      "pos": "명사",
+      "en": "famous place, attraction",
+      "context": "어떤 명소보다 오래"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "왕복",
+      "pos": "명사",
+      "en": "round trip",
+      "example_ko": "서울에서 부산까지 왕복 기차표를 미리 끊어 두었다.",
+      "example_en": "I bought a round-trip train ticket from Seoul to Busan in advance."
+    },
+    {
+      "word": "경비",
+      "pos": "명사",
+      "en": "expenses, costs",
+      "example_ko": "이번 여행 경비는 친구들과 똑같이 나누어 내기로 했다.",
+      "example_en": "We decided to split the travel expenses equally among the friends."
+    },
+    {
+      "word": "현지",
+      "pos": "명사",
+      "en": "the local area, on-site",
+      "example_ko": "현지 음식을 맛보는 것이 여행의 큰 즐거움이다.",
+      "example_en": "Tasting local food is one of the great joys of traveling."
+    },
+    {
+      "word": "낯설다",
+      "pos": "형용사",
+      "en": "to be unfamiliar, strange",
+      "example_ko": "처음 가 본 도시라서 모든 것이 낯설었다.",
+      "example_en": "Since it was my first time in the city, everything felt unfamiliar."
+    },
+    {
+      "word": "꾸리다",
+      "pos": "동사",
+      "en": "to pack (bags), to put together",
+      "example_ko": "내일 아침 일찍 떠나야 해서 오늘 밤에 짐을 꾸렸다.",
+      "example_en": "I have to leave early tomorrow morning, so I packed my bags tonight."
+    },
+    {
+      "word": "일교차",
+      "pos": "명사",
+      "en": "daily temperature range",
+      "example_ko": "가을에는 일교차가 커서 감기에 걸리기 쉽다.",
+      "example_en": "In autumn the big gap between day and night temperatures makes it easy to catch a cold."
+    },
+    {
+      "word": "견문",
+      "pos": "명사",
+      "en": "knowledge gained from experience, broadened horizons",
+      "example_ko": "여행은 견문을 넓히는 가장 좋은 방법이다.",
+      "example_en": "Travel is the best way to broaden your horizons."
+    },
+    {
+      "word": "기행문",
+      "pos": "명사",
+      "en": "travel essay, travelogue",
+      "example_ko": "그는 시베리아 횡단 열차를 탄 경험을 기행문으로 남겼다.",
+      "example_en": "He recorded his ride on the Trans-Siberian Railway in a travelogue."
+    },
+    {
+      "word": "출국",
+      "pos": "명사",
+      "en": "departure from a country",
+      "example_ko": "출국 수속을 마치고 면세점을 둘러보았다.",
+      "example_en": "After finishing departure procedures, I looked around the duty-free shop."
+    },
+    {
+      "word": "배낭",
+      "pos": "명사",
+      "en": "backpack",
+      "example_ko": "그는 배낭 하나만 메고 세계 여행을 떠났다.",
+      "example_en": "He set off on a world trip carrying only a backpack."
+    }
+  ]
+}

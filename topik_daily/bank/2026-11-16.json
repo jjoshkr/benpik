@@ -1,0 +1,130 @@
+{
+  "passage_ko": "도시의 기온이 주변 지역보다 높게 나타나는 현상을 '열섬 현상'이라고 한다. 낮 동안 도로와 건물이 햇빛의 열을 흡수했다가 밤에 천천히 내보내는 바람에 도시는 해가 진 뒤에도 쉽게 식지 않는다. 여기에 자동차와 냉방기에서 나오는 열까지 더해져 한여름 밤에도 잠을 이루기 어려운 날이 늘고 있다. 이를 줄이기 위해 여러 도시에서는 건물 옥상에 정원을 만들거나 도로 곳곳에 나무를 심는 등 녹지를 넓히는 데 힘을 기울이고 있다. 녹지는 그늘을 만들고 수분을 증발시켜 주변 온도를 낮추는 역할을 하기 때문이다.",
+  "passage_en": "The phenomenon in which temperatures in a city are higher than in surrounding areas is called the 'heat island effect.' Because roads and buildings absorb heat from the sun during the day and release it slowly at night, cities do not cool down easily even after sunset. Add to this the heat from cars and air conditioners, and the number of midsummer nights when it is hard to fall asleep is increasing. To reduce this, many cities are putting effort into expanding green space, for example by creating gardens on building rooftops or planting trees along roads. This is because green spaces create shade and evaporate moisture, which lowers the surrounding temperature.",
+  "question": "이 글의 주제로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "자동차 이용을 줄여야 한다.",
+      "en": "We must reduce car use."
+    },
+    {
+      "ko": "여름철에는 냉방기를 올바르게 사용해야 한다.",
+      "en": "Air conditioners should be used properly in summer."
+    },
+    {
+      "ko": "옥상 정원은 간단한 방법으로 만들 수 있다.",
+      "en": "Rooftop gardens can be made in a simple way."
+    },
+    {
+      "ko": "도시 열섬 현상의 원인과 녹지를 통한 완화 노력을 알아본다.",
+      "en": "It examines the causes of the urban heat island effect and efforts to ease it through green space."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "글은 열섬 현상의 정의와 원인을 설명한 뒤, 이를 줄이기 위해 녹지를 넓히는 노력과 그 효과를 소개한다. 따라서 원인과 완화 노력을 함께 담은 4번이 주제로 알맞다. 자동차나 냉방기, 옥상 정원은 글의 일부 내용일 뿐이다.",
+  "explanation_en": "The passage explains what causes the urban heat island effect and how cities are easing it with green space, so choice 4 captures the main topic.",
+  "passage_vocab": [
+    {
+      "word": "현상",
+      "pos": "명사",
+      "en": "phenomenon",
+      "context": "'열섬 현상'이라고 한다"
+    },
+    {
+      "word": "흡수하다",
+      "pos": "동사",
+      "en": "to absorb",
+      "context": "햇빛의 열을 흡수했다가"
+    },
+    {
+      "word": "녹지",
+      "pos": "명사",
+      "en": "green space",
+      "context": "녹지를 넓히는 데"
+    },
+    {
+      "word": "힘을 기울이다",
+      "pos": "관용 표현",
+      "en": "to devote effort to",
+      "context": "넓히는 데 힘을 기울이고 있다"
+    },
+    {
+      "word": "증발시키다",
+      "pos": "동사",
+      "en": "to evaporate (something)",
+      "context": "수분을 증발시켜"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "자외선",
+      "pos": "명사",
+      "en": "ultraviolet rays",
+      "example_ko": "자외선이 강한 날에는 선크림을 꼭 바르세요.",
+      "example_en": "On days with strong UV rays, be sure to put on sunscreen."
+    },
+    {
+      "word": "온난화",
+      "pos": "명사",
+      "en": "(global) warming",
+      "example_ko": "온난화로 인해 북극의 빙하가 빠르게 녹고 있다.",
+      "example_en": "Due to global warming, Arctic glaciers are melting rapidly."
+    },
+    {
+      "word": "이상기후",
+      "pos": "명사",
+      "en": "abnormal climate, extreme weather",
+      "example_ko": "올해는 이상기후로 여름에 우박이 내리기도 했다.",
+      "example_en": "This year, due to abnormal weather, it even hailed in summer."
+    },
+    {
+      "word": "수질",
+      "pos": "명사",
+      "en": "water quality",
+      "example_ko": "공장 폐수 때문에 강의 수질이 나빠졌다.",
+      "example_en": "The river's water quality worsened because of factory wastewater."
+    },
+    {
+      "word": "산성비",
+      "pos": "명사",
+      "en": "acid rain",
+      "example_ko": "산성비는 숲과 건물에 큰 피해를 준다.",
+      "example_en": "Acid rain causes great damage to forests and buildings."
+    },
+    {
+      "word": "일회용품",
+      "pos": "명사",
+      "en": "disposable products",
+      "example_ko": "카페에서 일회용품 사용을 줄이기 위해 컵을 가져갔다.",
+      "example_en": "I brought my own cup to cut down on disposables at the café."
+    },
+    {
+      "word": "태양광",
+      "pos": "명사",
+      "en": "solar power, sunlight",
+      "example_ko": "우리 아파트 옥상에 태양광 발전 시설이 설치되었다.",
+      "example_en": "A solar power facility was installed on the roof of our apartment building."
+    },
+    {
+      "word": "썩다",
+      "pos": "동사",
+      "en": "to rot, to decompose",
+      "example_ko": "플라스틱은 땅에 묻어도 수백 년 동안 썩지 않는다.",
+      "example_en": "Plastic does not decompose for hundreds of years even when buried in the ground."
+    },
+    {
+      "word": "방출하다",
+      "pos": "동사",
+      "en": "to emit, to release",
+      "example_ko": "이 공장은 매년 많은 양의 열을 방출한다.",
+      "example_en": "This factory releases a large amount of heat every year."
+    },
+    {
+      "word": "감축하다",
+      "pos": "동사",
+      "en": "to reduce, to cut back",
+      "example_ko": "정부는 탄소 배출량을 절반으로 감축하겠다고 발표했다.",
+      "example_en": "The government announced it would cut carbon emissions in half."
+    }
+  ]
+}

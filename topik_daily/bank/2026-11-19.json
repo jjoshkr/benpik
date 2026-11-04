@@ -1,0 +1,124 @@
+{
+  "passage_ko": "○○구 보건소에서 주민의 건강 증진을 위해 '아침 걷기 교실'을 운영합니다. 걷기는 심장과 폐를 튼튼하게 할 뿐만 아니라 스트레스를 줄이고 기분을 좋게 하는 데에도 효과가 있습니다. 참가자는 매주 화요일과 목요일 오전 7시에 구민공원에 모여 전문 강사와 함께 올바른 자세로 40분간 걷게 됩니다. 참가비는 무료이며, 첫 모임 때 간단한 체력 측정도 받을 수 있습니다. 관심 있는 주민께서는 이달 말까지 보건소 누리집에서 신청해 주십시오.",
+  "passage_en": "The ○○-gu Public Health Center is running a 'Morning Walking Class' to promote residents' health. Walking not only strengthens the heart and lungs but is also effective in reducing stress and lifting your mood. Participants will gather at the district park every Tuesday and Thursday at 7 a.m. and walk for 40 minutes with correct posture alongside a professional instructor. Participation is free, and you can also receive a simple fitness assessment at the first session. Interested residents, please apply on the health center's website by the end of this month.",
+  "question": "이 글의 주제로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "보건소 이용 시간이 변경되었다.",
+      "en": "The health center's hours have changed."
+    },
+    {
+      "ko": "구민공원에서 시설 공사가 진행된다.",
+      "en": "Facility construction is underway at the district park."
+    },
+    {
+      "ko": "건강을 위한 걷기 프로그램에 참가할 사람을 모집한다.",
+      "en": "Participants are being recruited for a walking program for health."
+    },
+    {
+      "ko": "주민들의 체력 측정 결과를 발표한다.",
+      "en": "The results of residents' fitness tests are announced."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "이 안내문은 보건소가 운영하는 '아침 걷기 교실'의 효과, 일정, 참가 방법을 알리고 신청을 받는 글이다. 따라서 걷기 프로그램 참가자를 모집한다는 3번이 주제이다. 체력 측정은 프로그램에 포함된 일부 내용일 뿐 결과 발표가 아니다.",
+  "explanation_en": "The notice introduces a public health center's morning walking class and invites residents to sign up, so choice 3 is the topic.",
+  "passage_vocab": [
+    {
+      "word": "증진",
+      "pos": "명사",
+      "en": "promotion, enhancement",
+      "context": "건강 증진을 위해"
+    },
+    {
+      "word": "올바르다",
+      "pos": "형용사",
+      "en": "to be correct, proper",
+      "context": "올바른 자세로"
+    },
+    {
+      "word": "측정",
+      "pos": "명사",
+      "en": "measurement",
+      "context": "간단한 체력 측정도"
+    },
+    {
+      "word": "누리집",
+      "pos": "명사",
+      "en": "website (pure-Korean term)",
+      "context": "보건소 누리집에서"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "두통",
+      "pos": "명사",
+      "en": "headache",
+      "example_ko": "잠이 부족하면 두통이 생긴다.",
+      "example_en": "When I don't get enough sleep, I get a headache."
+    },
+    {
+      "word": "복용하다",
+      "pos": "동사",
+      "en": "to take (medicine)",
+      "example_ko": "이 약은 하루 세 번 식후에 복용하세요.",
+      "example_en": "Take this medicine three times a day after meals."
+    },
+    {
+      "word": "체온",
+      "pos": "명사",
+      "en": "body temperature",
+      "example_ko": "열이 나는지 체온을 재 보았다.",
+      "example_en": "I took my temperature to see if I had a fever."
+    },
+    {
+      "word": "혈압",
+      "pos": "명사",
+      "en": "blood pressure",
+      "example_ko": "짠 음식을 많이 먹으면 혈압이 오를 수 있다.",
+      "example_en": "Eating a lot of salty food can raise your blood pressure."
+    },
+    {
+      "word": "식욕",
+      "pos": "명사",
+      "en": "appetite",
+      "example_ko": "감기에 걸려서 식욕이 전혀 없다.",
+      "example_en": "I caught a cold and have no appetite at all."
+    },
+    {
+      "word": "어지럽다",
+      "pos": "형용사",
+      "en": "to be dizzy",
+      "example_ko": "갑자기 일어났더니 머리가 어지러웠다.",
+      "example_en": "I felt dizzy when I suddenly stood up."
+    },
+    {
+      "word": "기침",
+      "pos": "명사",
+      "en": "cough",
+      "example_ko": "감기에 걸려서 밤새 기침이 멈추지 않았다.",
+      "example_en": "I caught a cold, and my cough didn't stop all night."
+    },
+    {
+      "word": "붓다",
+      "pos": "동사",
+      "en": "to swell",
+      "example_ko": "넘어진 뒤로 발목이 퉁퉁 부었다.",
+      "example_en": "My ankle swelled up badly after I fell."
+    },
+    {
+      "word": "진료",
+      "pos": "명사",
+      "en": "medical care, consultation",
+      "example_ko": "토요일에는 오전에만 진료를 한다.",
+      "example_en": "On Saturdays, consultations are held in the morning only."
+    },
+    {
+      "word": "완치",
+      "pos": "명사",
+      "en": "complete recovery, full cure",
+      "example_ko": "꾸준히 치료를 받은 덕분에 완치 판정을 받았다.",
+      "example_en": "Thanks to steady treatment, I was declared fully cured."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "passage_ko": "어린 시절 겨울이면 마당에 눈이 무릎까지 쌓이곤 했다. 그런데 몇 해 전부터 눈 소식이 뜸해지더니 올해는 12월이 다 가도록 눈 한 번 구경하지 못했다. 눈사람을 만들 날만 손꼽아 기다리던 조카는 창밖을 내다보며 실망한 얼굴로 한숨을 쉬었다. 그 모습을 보며 나는 기후 변화가 뉴스 속 이야기가 아니라 (    ) 문제라는 사실을 실감했다.",
+  "passage_en": "When I was a child, snow used to pile up knee-deep in the yard every winter. But a few years ago news of snow became rare, and this year we haven't seen a single snowfall even though December is almost over. My nephew, who had been eagerly counting the days until he could build a snowman, looked out the window and sighed with a disappointed face. Watching him, I keenly realized that climate change is not a story in the news but a problem (    ).",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "우리 일상에 이미 스며든",
+      "en": "that has already seeped into our daily lives"
+    },
+    {
+      "ko": "먼 미래에나 일어날",
+      "en": "that will only happen in the distant future"
+    },
+    {
+      "ko": "과학자들만 관심을 갖는",
+      "en": "that only scientists care about"
+    },
+    {
+      "ko": "아이들과는 상관없는",
+      "en": "that has nothing to do with children"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 눈이 오지 않아 조카가 실망하는 모습을 직접 보고 기후 변화를 실감했다. '뉴스 속 이야기가 아니라'와 대조되므로 이미 일상에 스며든 문제라는 1번이 알맞다.",
+  "explanation_en": "The writer feels climate change through a personal, everyday experience, so it is a problem that has already entered daily life (choice 1).",
+  "passage_vocab": [
+    {
+      "word": "뜸하다",
+      "pos": "형용사",
+      "en": "to be infrequent, rare",
+      "context": "눈 소식이 뜸해지더니"
+    },
+    {
+      "word": "손꼽아 기다리다",
+      "pos": "관용 표현",
+      "en": "to eagerly count the days",
+      "context": "손꼽아 기다리던 조카는"
+    },
+    {
+      "word": "실감하다",
+      "pos": "동사",
+      "en": "to keenly feel, to realize vividly",
+      "context": "사실을 실감했다"
+    },
+    {
+      "word": "기후 변화",
+      "pos": "명사",
+      "en": "climate change",
+      "context": "기후 변화가 뉴스 속 이야기가 아니라"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "폐수",
+      "pos": "명사",
+      "en": "wastewater",
+      "example_ko": "공장에서 몰래 버린 폐수 때문에 강물이 오염되었다.",
+      "example_en": "The river was polluted by wastewater that a factory secretly dumped."
+    },
+    {
+      "word": "빙하",
+      "pos": "명사",
+      "en": "glacier",
+      "example_ko": "기온이 오르면서 빙하가 녹는 속도가 빨라지고 있다.",
+      "example_en": "As temperatures rise, glaciers are melting faster."
+    },
+    {
+      "word": "기온",
+      "pos": "명사",
+      "en": "(air) temperature",
+      "example_ko": "오늘은 기온이 영하로 떨어져 무척 추웠다.",
+      "example_en": "Today the temperature dropped below zero, so it was very cold."
+    },
+    {
+      "word": "폐기물",
+      "pos": "명사",
+      "en": "waste",
+      "example_ko": "공장은 폐기물을 안전하게 처리해야 한다.",
+      "example_en": "Factories must dispose of waste safely."
+    },
+    {
+      "word": "풍력",
+      "pos": "명사",
+      "en": "wind power",
+      "example_ko": "바람이 많이 부는 섬에서는 풍력 발전이 활발하다.",
+      "example_en": "On windy islands, wind power generation is very active."
+    },
+    {
+      "word": "자연재해",
+      "pos": "명사",
+      "en": "natural disaster",
+      "example_ko": "지진과 같은 자연재해에 미리 대비해야 한다.",
+      "example_en": "We must prepare in advance for natural disasters such as earthquakes."
+    },
+    {
+      "word": "오존층",
+      "pos": "명사",
+      "en": "ozone layer",
+      "example_ko": "오존층이 파괴되면 자외선이 그대로 땅에 도달한다.",
+      "example_en": "If the ozone layer is destroyed, UV rays reach the ground directly."
+    },
+    {
+      "word": "버려지다",
+      "pos": "동사",
+      "en": "to be thrown away, to be abandoned",
+      "example_ko": "해마다 엄청난 양의 음식이 그대로 버려진다.",
+      "example_en": "Every year, a huge amount of food is simply thrown away."
+    },
+    {
+      "word": "미세먼지",
+      "pos": "명사",
+      "en": "fine dust",
+      "example_ko": "미세먼지 농도가 높아 마스크를 썼다.",
+      "example_en": "I wore a mask because fine dust levels were high."
+    },
+    {
+      "word": "친환경",
+      "pos": "명사",
+      "en": "eco-friendliness, eco-friendly",
+      "example_ko": "요즘 친환경 포장재를 쓰는 기업이 늘고 있다.",
+      "example_en": "More companies are using eco-friendly packaging these days."
+    }
+  ]
+}

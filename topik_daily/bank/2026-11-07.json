@@ -1,0 +1,130 @@
+{
+  "passage_ko": "[나눔 알뜰 장터 개최 안내] 다가오는 11월 21일 토요일 오전 10시부터 시민 공원 광장에서 '나눔 알뜰 장터'가 열립니다. 이번 장터에서는 의류와 도서를 비롯해서 장난감, 생활용품 등 다양한 중고 물품을 저렴한 가격에 사고팔 수 있습니다. 판매를 원하시는 분은 11월 13일까지 구청 누리집에서 신청하시면 되며, 참가비는 받지 않습니다. 판매 수익금의 10퍼센트는 지역 아동 센터에 기부됩니다. 비가 올 경우 행사는 다음 주 토요일로 연기됩니다.",
+  "passage_en": "[Notice: Sharing Flea Market] The 'Sharing Flea Market' will be held in the Citizens' Park plaza from 10 a.m. on Saturday, November 21. At this market, you can buy and sell a variety of second-hand items at low prices, including clothing and books as well as toys and household goods. Those who wish to sell can apply on the district office website by November 13, and there is no participation fee. Ten percent of sales proceeds will be donated to the local children's center. In case of rain, the event will be postponed to the following Saturday.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "장터는 구청 건물 안에서 열린다.",
+      "en": "The market is held inside the district office building."
+    },
+    {
+      "ko": "판매자는 참가비를 내야 한다.",
+      "en": "Sellers must pay a participation fee."
+    },
+    {
+      "ko": "판매 수익금의 일부는 기부된다.",
+      "en": "Part of the sales proceeds is donated."
+    },
+    {
+      "ko": "비가 오면 행사가 취소된다.",
+      "en": "The event is canceled if it rains."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "안내문에서 판매 수익금의 10퍼센트가 지역 아동 센터에 기부된다고 했으므로 3번이 정답이다. 장터는 시민 공원 광장에서 열리고 참가비는 받지 않으며, 비가 오면 취소가 아니라 연기된다.",
+  "explanation_en": "The notice says 10 percent of sales proceeds go to a local children's center, so choice 3 is correct.",
+  "passage_vocab": [
+    {
+      "word": "개최",
+      "pos": "명사",
+      "en": "holding (an event)",
+      "context": "알뜰 장터 개최 안내"
+    },
+    {
+      "word": "중고",
+      "pos": "명사",
+      "en": "second-hand, used",
+      "context": "다양한 중고 물품을"
+    },
+    {
+      "word": "수익금",
+      "pos": "명사",
+      "en": "proceeds, earnings",
+      "context": "판매 수익금의 10퍼센트는"
+    },
+    {
+      "word": "기부되다",
+      "pos": "동사",
+      "en": "to be donated",
+      "context": "지역 아동 센터에 기부됩니다"
+    },
+    {
+      "word": "연기되다",
+      "pos": "동사",
+      "en": "to be postponed",
+      "context": "다음 주 토요일로 연기됩니다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "할부",
+      "pos": "명사",
+      "en": "installment payment",
+      "example_ko": "노트북을 12개월 할부로 구입했다.",
+      "example_en": "I bought the laptop on a 12-month installment plan."
+    },
+    {
+      "word": "적금",
+      "pos": "명사",
+      "en": "installment savings account",
+      "example_ko": "결혼 자금을 모으려고 매달 적금을 붓고 있다.",
+      "example_en": "I'm paying into a savings account every month to save for my wedding."
+    },
+    {
+      "word": "이자",
+      "pos": "명사",
+      "en": "interest (on money)",
+      "example_ko": "은행에 돈을 맡기면 이자가 붙는다.",
+      "example_en": "If you deposit money in the bank, interest accrues."
+    },
+    {
+      "word": "거래",
+      "pos": "명사",
+      "en": "transaction, deal",
+      "example_ko": "온라인 중고 거래를 할 때는 사기를 조심해야 한다.",
+      "example_en": "You have to watch out for fraud when trading second-hand goods online."
+    },
+    {
+      "word": "품절되다",
+      "pos": "동사",
+      "en": "to be sold out",
+      "example_ko": "광고가 나간 뒤 그 상품은 하루 만에 품절되었다.",
+      "example_en": "After the ad aired, the product sold out in a single day."
+    },
+    {
+      "word": "반품하다",
+      "pos": "동사",
+      "en": "to return (goods)",
+      "example_ko": "사이즈가 맞지 않아서 옷을 반품했다.",
+      "example_en": "I returned the clothes because they didn't fit."
+    },
+    {
+      "word": "흥정하다",
+      "pos": "동사",
+      "en": "to haggle, to bargain",
+      "example_ko": "시장에서 상인과 흥정해서 값을 조금 깎았다.",
+      "example_en": "I haggled with the merchant at the market and got the price down a little."
+    },
+    {
+      "word": "실속",
+      "pos": "명사",
+      "en": "practical value, substance",
+      "example_ko": "포장만 화려하고 실속이 없는 선물은 받고 싶지 않다.",
+      "example_en": "I don't want gifts that are flashy outside but lack real value."
+    },
+    {
+      "word": "경기",
+      "pos": "명사",
+      "en": "economy, business conditions",
+      "example_ko": "경기가 나빠지자 사람들이 지갑을 닫기 시작했다.",
+      "example_en": "As the economy worsened, people started to tighten their purse strings."
+    },
+    {
+      "word": "대출",
+      "pos": "명사",
+      "en": "loan",
+      "example_ko": "집을 사기 위해 은행에서 대출을 받았다.",
+      "example_en": "I took out a bank loan to buy a house."
+    }
+  ]
+}

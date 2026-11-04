@@ -1,0 +1,130 @@
+{
+  "passage_ko": "[가을밤 고궁 음악회 안내] 깊어 가는 가을, 고궁의 밤을 아름다운 선율로 채울 음악회가 열립니다. 11월 20일부터 22일까지 사흘간 매일 오후 7시에 고궁 후원 특설 무대에서 공연이 진행됩니다. 국악과 클래식이 어우러진 이번 무대는 온 가족이 함께 즐길 만한 공연으로, 해설이 곁들여져 처음 듣는 분도 쉽게 감상하실 수 있습니다. 관람료는 무료이지만 좌석이 한정되어 있으므로 (    ). 공연 당일에는 고궁 내 주차가 불가능하니 대중교통을 이용해 주시기 바랍니다.",
+  "passage_en": "[Notice: Autumn Night Palace Concert] As autumn deepens, a concert will fill the night at the old palace with beautiful melodies. Performances will take place on a special stage in the palace's rear garden every day at 7 p.m. for three days, from November 20 to 22. Blending Korean traditional music and classical music, this performance is one the whole family can enjoy, and with commentary included, even first-time listeners can appreciate it easily. Admission is free, but since seating is limited, (    ). Parking inside the palace is not available on performance days, so please use public transportation.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "당일 현장에서 자유롭게 입장하시면 됩니다",
+      "en": "you may enter freely on site on the day"
+    },
+    {
+      "ko": "공연이 끝난 뒤 관람료를 내시기 바랍니다",
+      "en": "please pay the admission fee after the performance"
+    },
+    {
+      "ko": "반드시 미리 온라인으로 신청해 주시기 바랍니다",
+      "en": "please be sure to apply online in advance"
+    },
+    {
+      "ko": "고궁 주차장을 먼저 예약해 주십시오",
+      "en": "please reserve the palace parking lot first"
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "빈칸 앞에서 관람료는 무료이지만 좌석이 한정되어 있다고 했으므로, 미리 신청해야 한다는 내용이 자연스럽다. 따라서 3번이 정답이다. 관람료는 무료이고 주차는 불가능하므로 2번과 4번은 맞지 않는다.",
+  "explanation_en": "Because seats are limited even though admission is free, the blank should ask visitors to apply in advance, which is choice 3.",
+  "passage_vocab": [
+    {
+      "word": "고궁",
+      "pos": "명사",
+      "en": "old palace",
+      "context": "고궁의 밤을"
+    },
+    {
+      "word": "선율",
+      "pos": "명사",
+      "en": "melody",
+      "context": "아름다운 선율로 채울"
+    },
+    {
+      "word": "어우러지다",
+      "pos": "동사",
+      "en": "to blend in harmony",
+      "context": "국악과 클래식이 어우러진"
+    },
+    {
+      "word": "곁들이다",
+      "pos": "동사",
+      "en": "to add as an accompaniment",
+      "context": "해설이 곁들여져"
+    },
+    {
+      "word": "한정되다",
+      "pos": "동사",
+      "en": "to be limited",
+      "context": "좌석이 한정되어 있으므로"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "소장하다",
+      "pos": "동사",
+      "en": "to own, to hold (in a collection)",
+      "example_ko": "이 박물관은 고려 시대 도자기를 많이 소장하고 있다.",
+      "example_en": "This museum holds many ceramics from the Goryeo period."
+    },
+    {
+      "word": "연출",
+      "pos": "명사",
+      "en": "direction (of a play/film)",
+      "example_ko": "그 연극은 배우들의 연기와 연출이 모두 훌륭했다.",
+      "example_en": "In that play, both the acting and the direction were excellent."
+    },
+    {
+      "word": "화가",
+      "pos": "명사",
+      "en": "painter",
+      "example_ko": "그 화가는 평생 고향의 바다를 그렸다.",
+      "example_en": "That painter painted the sea of his hometown all his life."
+    },
+    {
+      "word": "각색하다",
+      "pos": "동사",
+      "en": "to adapt (for stage/screen)",
+      "example_ko": "인기 소설을 각색한 드라마가 방송된다.",
+      "example_en": "A drama adapted from a popular novel is being broadcast."
+    },
+    {
+      "word": "장르",
+      "pos": "명사",
+      "en": "genre",
+      "example_ko": "그는 재즈부터 국악까지 다양한 장르의 음악을 즐긴다.",
+      "example_en": "He enjoys music of various genres, from jazz to Korean traditional music."
+    },
+    {
+      "word": "기획하다",
+      "pos": "동사",
+      "en": "to plan, to organize (a project)",
+      "example_ko": "그녀는 청년 작가들을 위한 전시를 기획했다.",
+      "example_en": "She organized an exhibition for young artists."
+    },
+    {
+      "word": "대중문화",
+      "pos": "명사",
+      "en": "popular culture",
+      "example_ko": "한국의 대중문화가 세계적으로 큰 인기를 얻고 있다.",
+      "example_en": "Korean popular culture is gaining great popularity worldwide."
+    },
+    {
+      "word": "매료되다",
+      "pos": "동사",
+      "en": "to be fascinated, to be captivated",
+      "example_ko": "관객들은 그의 연주에 완전히 매료되었다.",
+      "example_en": "The audience was completely captivated by his performance."
+    },
+    {
+      "word": "표현력",
+      "pos": "명사",
+      "en": "expressive power",
+      "example_ko": "어릴 때부터 그림을 그리면 표현력이 길러진다.",
+      "example_en": "Drawing from a young age develops expressive ability."
+    },
+    {
+      "word": "묘사하다",
+      "pos": "동사",
+      "en": "to depict, to describe",
+      "example_ko": "작가는 시골 마을의 풍경을 섬세하게 묘사했다.",
+      "example_en": "The author depicted the scenery of the country village in delicate detail."
+    }
+  ]
+}

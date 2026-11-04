@@ -1,0 +1,130 @@
+{
+  "passage_ko": "외국어를 배울 때 많은 학습자는 실수를 두려워한다. 그러나 새로운 언어를 익히는 과정에서는 누구나 실수를 하기 마련이다. 언어학자들에 따르면 학습자가 범하는 오류는 오히려 그가 언어의 규칙을 스스로 세워 가고 있다는 증거이다. 아이들이 모국어를 배울 때 잘못된 표현을 쓰다가 점차 바른 표현으로 고쳐 나가는 것도 같은 원리이다. 따라서 교사는 오류를 곧바로 지적하기보다 학습자가 스스로 깨달을 수 있도록 기다려 주는 것이 바람직하다.",
+  "passage_en": "When learning a foreign language, many learners are afraid of making mistakes. However, anyone is bound to make mistakes in the process of acquiring a new language. According to linguists, the errors learners make are in fact evidence that they are building the rules of the language on their own. The way children use incorrect expressions when learning their native language and gradually correct them is based on the same principle. Therefore, rather than pointing out errors immediately, it is desirable for teachers to wait so that learners can realize them on their own.",
+  "question": "이 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "실수를 하지 않는 학습자가 외국어를 빨리 익힌다.",
+      "en": "Learners who make no mistakes acquire a foreign language quickly."
+    },
+    {
+      "ko": "아이들은 모국어를 배울 때 처음부터 바른 표현을 쓴다.",
+      "en": "Children use correct expressions from the start when learning their native language."
+    },
+    {
+      "ko": "교사는 학습자의 오류를 그 자리에서 바로 고쳐 주어야 한다.",
+      "en": "Teachers should correct learners' errors on the spot."
+    },
+    {
+      "ko": "학습자의 오류는 언어 규칙을 스스로 세워 가는 증거가 된다.",
+      "en": "Learners' errors are evidence that they are building language rules on their own."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "글에서 언어학자들은 학습자의 오류가 언어 규칙을 스스로 세워 가고 있다는 증거라고 했으므로 4번이 내용과 같다. 아이들은 잘못된 표현을 쓰다가 점차 고쳐 나간다고 했으므로 2번은 틀리다. 교사는 오류를 곧바로 지적하기보다 기다려 주라고 했으므로 3번도 틀리다.",
+  "explanation_en": "The passage states that learners' errors are evidence they are building the language's rules themselves, matching choice 4.",
+  "passage_vocab": [
+    {
+      "word": "범하다",
+      "pos": "동사",
+      "en": "to commit (an error)",
+      "context": "학습자가 범하는 오류는"
+    },
+    {
+      "word": "오류",
+      "pos": "명사",
+      "en": "error",
+      "context": "범하는 오류는 오히려"
+    },
+    {
+      "word": "증거",
+      "pos": "명사",
+      "en": "evidence, proof",
+      "context": "세워 가고 있다는 증거이다"
+    },
+    {
+      "word": "모국어",
+      "pos": "명사",
+      "en": "native language, mother tongue",
+      "context": "모국어를 배울 때"
+    },
+    {
+      "word": "바람직하다",
+      "pos": "형용사",
+      "en": "to be desirable",
+      "context": "기다려 주는 것이 바람직하다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "교육과정",
+      "pos": "명사",
+      "en": "curriculum",
+      "example_ko": "새 교육과정에서는 토론 수업이 늘어났다.",
+      "example_en": "In the new curriculum, discussion classes have increased."
+    },
+    {
+      "word": "자율",
+      "pos": "명사",
+      "en": "autonomy, self-regulation",
+      "example_ko": "이 학교는 학생들의 자율을 존중한다.",
+      "example_en": "This school respects students' autonomy."
+    },
+    {
+      "word": "학점",
+      "pos": "명사",
+      "en": "(academic) credit, grade",
+      "example_ko": "졸업하려면 140학점을 채워야 한다.",
+      "example_en": "You need to earn 140 credits to graduate."
+    },
+    {
+      "word": "출석",
+      "pos": "명사",
+      "en": "attendance",
+      "example_ko": "이 수업은 출석이 성적의 20퍼센트를 차지한다.",
+      "example_en": "In this class, attendance makes up 20 percent of the grade."
+    },
+    {
+      "word": "학구열",
+      "pos": "명사",
+      "en": "zeal for learning, enthusiasm for education",
+      "example_ko": "그 동네는 학부모들의 학구열이 매우 높기로 유명하다.",
+      "example_en": "That neighborhood is famous for parents' very strong zeal for education."
+    },
+    {
+      "word": "논문",
+      "pos": "명사",
+      "en": "thesis, paper",
+      "example_ko": "졸업을 하려면 논문을 제출해야 한다.",
+      "example_en": "You must submit a thesis in order to graduate."
+    },
+    {
+      "word": "깨우치다",
+      "pos": "동사",
+      "en": "to come to understand, to learn (to read)",
+      "example_ko": "할머니는 일흔이 넘어서 한글을 깨우치셨다.",
+      "example_en": "My grandmother learned to read Hangeul after turning seventy."
+    },
+    {
+      "word": "입시",
+      "pos": "명사",
+      "en": "entrance exam",
+      "example_ko": "입시 준비 때문에 고3 학생들은 늘 바쁘다.",
+      "example_en": "High school seniors are always busy preparing for entrance exams."
+    },
+    {
+      "word": "재수",
+      "pos": "명사",
+      "en": "retaking the entrance exam (after failing)",
+      "example_ko": "그는 재수 끝에 원하던 대학에 합격했다.",
+      "example_en": "After retaking the exam a year later, he got into the university he wanted."
+    },
+    {
+      "word": "낙제",
+      "pos": "명사",
+      "en": "failing (a course/grade)",
+      "example_ko": "시험을 보지 않으면 낙제를 받을 수도 있다.",
+      "example_en": "If you skip the exam, you might fail the course."
+    }
+  ]
+}
