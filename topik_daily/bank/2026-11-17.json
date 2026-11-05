@@ -1,0 +1,130 @@
+{
+  "passage_ko": "고물가가 이어지면서 중고 거래 앱을 이용하는 사람이 크게 늘고 있다. 한 조사에 따르면 지난해 국내 중고 거래 시장의 규모는 5년 전보다 두 배 이상 커졌다. 특히 그동안 새 물건을 사느라고 월급의 상당 부분을 써 온 20~30대 사이에서는 필요한 물건을 중고로 구하고 쓰지 않는 물건은 되파는 방식이 자리를 잡았다. 전문가들은 중고 거래가 단순한 절약을 넘어 자원 순환에도 도움이 되는 만큼 이러한 흐름이 당분간 계속될 것으로 내다봤다.",
+  "passage_en": "As high prices persist, the number of people using secondhand trading apps is rising sharply. According to one survey, the size of the domestic secondhand market last year was more than twice what it was five years earlier. In particular, among people in their 20s and 30s, who had been spending a large share of their salaries buying new items, the practice of getting what they need secondhand and reselling what they don't use has taken hold. Experts predicted that this trend will continue for some time, since secondhand trading goes beyond simple saving and also helps recycle resources.",
+  "question": "이 글의 주제로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "중고 거래 앱은 사용 방법이 간단하다.",
+      "en": "Secondhand trading apps are simple to use."
+    },
+    {
+      "ko": "고물가 속에서 중고 거래가 새로운 소비 방식으로 자리 잡고 있다.",
+      "en": "Amid high prices, secondhand trading is taking hold as a new way of consuming."
+    },
+    {
+      "ko": "20~30대의 지나친 지출이 사회 문제가 되고 있다.",
+      "en": "Excessive spending by people in their 20s and 30s is becoming a social problem."
+    },
+    {
+      "ko": "새 물건이 중고 물건보다 품질이 훨씬 좋다.",
+      "en": "New items are of much better quality than used ones."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "기사는 고물가로 중고 거래 시장이 크게 성장했고, 특히 젊은 층에서 중고로 사고 되파는 방식이 자리를 잡았다고 전한다. 전문가들도 이 흐름이 계속될 것으로 보았으므로 2번이 주제로 알맞다. 3번의 지출 문제는 배경으로만 언급되었다.",
+  "explanation_en": "The article reports that high prices have made secondhand trading an established consumption pattern, especially among young adults, so choice 2 is the main idea.",
+  "passage_vocab": [
+    {
+      "word": "고물가",
+      "pos": "명사",
+      "en": "high prices, high cost of living",
+      "context": "고물가가 이어지면서"
+    },
+    {
+      "word": "규모",
+      "pos": "명사",
+      "en": "scale, size",
+      "context": "시장의 규모는"
+    },
+    {
+      "word": "되팔다",
+      "pos": "동사",
+      "en": "to resell",
+      "context": "쓰지 않는 물건은 되파는 방식"
+    },
+    {
+      "word": "순환",
+      "pos": "명사",
+      "en": "circulation, cycle",
+      "context": "자원 순환에도 도움이"
+    },
+    {
+      "word": "내다보다",
+      "pos": "동사",
+      "en": "to foresee, to predict",
+      "context": "계속될 것으로 내다봤다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "적자",
+      "pos": "명사",
+      "en": "deficit, loss",
+      "example_ko": "가게가 석 달째 적자를 보고 있어 걱정이다.",
+      "example_en": "I'm worried because the shop has been running at a loss for three months."
+    },
+    {
+      "word": "흑자",
+      "pos": "명사",
+      "en": "surplus, profit",
+      "example_ko": "올해 회사는 처음으로 흑자로 돌아섰다.",
+      "example_en": "This year the company turned a profit for the first time."
+    },
+    {
+      "word": "예산",
+      "pos": "명사",
+      "en": "budget",
+      "example_ko": "이번 달 예산을 넘지 않도록 지출을 기록하고 있다.",
+      "example_en": "I'm recording my spending so as not to go over this month's budget."
+    },
+    {
+      "word": "환율",
+      "pos": "명사",
+      "en": "exchange rate",
+      "example_ko": "환율이 올라서 해외 직구 가격도 비싸졌다.",
+      "example_en": "Because the exchange rate rose, overseas direct purchases became more expensive too."
+    },
+    {
+      "word": "저축하다",
+      "pos": "동사",
+      "en": "to save (money)",
+      "example_ko": "월급의 30퍼센트를 꾸준히 저축하고 있다.",
+      "example_en": "I'm steadily saving 30 percent of my salary."
+    },
+    {
+      "word": "소비자",
+      "pos": "명사",
+      "en": "consumer",
+      "example_ko": "소비자들은 가격뿐 아니라 품질도 꼼꼼히 따진다.",
+      "example_en": "Consumers carefully consider not only price but also quality."
+    },
+    {
+      "word": "시세",
+      "pos": "명사",
+      "en": "market price, going rate",
+      "example_ko": "중고차를 팔기 전에 시세를 알아보았다.",
+      "example_en": "I checked the market price before selling my used car."
+    },
+    {
+      "word": "품절",
+      "pos": "명사",
+      "en": "sold out",
+      "example_ko": "인기 상품이라 하루 만에 품절이 되었다.",
+      "example_en": "Being a popular item, it sold out in a single day."
+    },
+    {
+      "word": "가성비",
+      "pos": "명사",
+      "en": "value for money",
+      "example_ko": "이 식당은 가성비가 좋아 학생들에게 인기가 많다.",
+      "example_en": "This restaurant is popular with students because it's good value for money."
+    },
+    {
+      "word": "구매하다",
+      "pos": "동사",
+      "en": "to purchase, to buy",
+      "example_ko": "요즘은 많은 사람들이 온라인으로 생필품을 구매한다.",
+      "example_en": "These days many people buy daily necessities online."
+    }
+  ]
+}

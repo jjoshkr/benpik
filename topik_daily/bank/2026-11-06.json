@@ -1,0 +1,124 @@
+{
+  "passage_ko": "올해도 우리 동네 벚꽃이 예년보다 열흘 가까이 일찍 피었다. 어릴 적에는 4월 초 식목일 무렵에야 꽃구경을 갔던 기억이 있는데, 이제는 3월 말이면 꽃잎이 떨어지기 시작한다. 기상청 자료에 따르면 지난 100년 동안 우리나라 봄의 시작이 2주 정도 앞당겨졌다고 한다. 일찍 핀 꽃을 보며 마냥 반가워하기보다 달라진 계절을 걱정하게 되는 것은 나만의 마음은 아닐 것이다.",
+  "passage_en": "This year again, the cherry blossoms in my neighborhood bloomed nearly ten days earlier than in an average year. I remember that as a child we only went flower-viewing around Arbor Day in early April, but now the petals start falling by the end of March. According to data from the Korea Meteorological Administration, the start of spring in Korea has moved about two weeks earlier over the past 100 years. I doubt I am the only one who, looking at the early blossoms, worries about the changing seasons rather than simply welcoming them.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "필자의 동네에서는 예전보다 벚꽃이 일찍 핀다.",
+      "en": "In the writer's neighborhood, cherry blossoms bloom earlier than before."
+    },
+    {
+      "ko": "필자는 어릴 때 3월 말에 꽃구경을 갔다.",
+      "en": "As a child, the writer went flower-viewing at the end of March."
+    },
+    {
+      "ko": "지난 100년 동안 봄의 시작이 늦어졌다.",
+      "en": "The start of spring has become later over the past 100 years."
+    },
+    {
+      "ko": "필자는 일찍 핀 꽃을 보며 반가워하기만 한다.",
+      "en": "The writer only feels glad seeing the early blossoms."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 동네 벚꽃이 예년보다 열흘 가까이 일찍 피었다고 했으므로 1번이 정답이다. 어릴 때는 4월 초에 꽃구경을 갔고, 봄의 시작은 앞당겨졌으며, 필자는 반가움보다 걱정을 느낀다고 했다.",
+  "explanation_en": "The writer says the neighborhood cherry blossoms bloomed nearly ten days earlier than usual, so choice 1 is correct.",
+  "passage_vocab": [
+    {
+      "word": "예년",
+      "pos": "명사",
+      "en": "an average (normal) year",
+      "context": "예년보다 열흘 가까이 일찍"
+    },
+    {
+      "word": "무렵",
+      "pos": "명사",
+      "en": "around (a time)",
+      "context": "식목일 무렵에야"
+    },
+    {
+      "word": "앞당겨지다",
+      "pos": "동사",
+      "en": "to be moved up, to come earlier",
+      "context": "2주 정도 앞당겨졌다고 한다"
+    },
+    {
+      "word": "마냥",
+      "pos": "부사",
+      "en": "simply, endlessly",
+      "context": "마냥 반가워하기보다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "탄소",
+      "pos": "명사",
+      "en": "carbon",
+      "example_ko": "정부는 탄소 배출을 줄이기 위한 계획을 발표했다.",
+      "example_en": "The government announced a plan to reduce carbon emissions."
+    },
+    {
+      "word": "배기가스",
+      "pos": "명사",
+      "en": "exhaust fumes",
+      "example_ko": "오래된 차일수록 배기가스가 많이 나온다.",
+      "example_en": "The older the car, the more exhaust it emits."
+    },
+    {
+      "word": "고갈되다",
+      "pos": "동사",
+      "en": "to be depleted, to run dry",
+      "example_ko": "석유 같은 자원은 언젠가 고갈될 것이다.",
+      "example_en": "Resources like oil will be depleted someday."
+    },
+    {
+      "word": "매립하다",
+      "pos": "동사",
+      "en": "to bury (waste), to landfill",
+      "example_ko": "이 지역에서는 더 이상 쓰레기를 매립할 땅이 없다.",
+      "example_en": "There is no more land in this area to bury garbage."
+    },
+    {
+      "word": "해수면",
+      "pos": "명사",
+      "en": "sea level",
+      "example_ko": "해수면이 높아지면 작은 섬들이 물에 잠길 수 있다.",
+      "example_en": "If sea levels rise, small islands may be submerged."
+    },
+    {
+      "word": "황사",
+      "pos": "명사",
+      "en": "yellow dust",
+      "example_ko": "봄철 황사가 심한 날에는 마스크를 쓰는 것이 좋다.",
+      "example_en": "On spring days with heavy yellow dust, it is good to wear a mask."
+    },
+    {
+      "word": "가속화되다",
+      "pos": "동사",
+      "en": "to accelerate, to speed up",
+      "example_ko": "지구 온난화가 가속화되면서 빙하가 빠르게 녹고 있다.",
+      "example_en": "As global warming accelerates, glaciers are melting quickly."
+    },
+    {
+      "word": "절감하다",
+      "pos": "동사",
+      "en": "to cut down, to reduce (costs/energy)",
+      "example_ko": "단열 공사를 하면 난방비를 크게 절감할 수 있다.",
+      "example_en": "Insulation work can greatly reduce heating costs."
+    },
+    {
+      "word": "자원",
+      "pos": "명사",
+      "en": "resources",
+      "example_ko": "작은 나라일수록 자원을 아껴 쓰는 지혜가 필요하다.",
+      "example_en": "The smaller the country, the more wisdom it needs to use resources sparingly."
+    },
+    {
+      "word": "녹지",
+      "pos": "명사",
+      "en": "green space",
+      "example_ko": "도심에 녹지를 늘리면 여름철 기온이 낮아진다.",
+      "example_en": "Adding green space downtown lowers summer temperatures."
+    }
+  ]
+}

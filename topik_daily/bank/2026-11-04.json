@@ -1,0 +1,124 @@
+{
+  "passage_ko": "최근 '슬로 트래블'이라고 불리는 여행 방식이 주목을 받고 있다. 슬로 트래블은 짧은 기간에 여러 관광지를 바쁘게 도는 대신 한 지역에 오래 머물며 현지인의 일상을 경험하는 여행을 말한다. 이는 일주일 남짓한 휴가로 여러 도시를 다 둘러보기에는 시간이 턱없이 부족하다는 반성에서 시작되었다. 이 방식은 이동에 드는 비용과 피로를 줄여 줄 뿐만 아니라 지역 경제에도 도움이 된다는 평가를 받는다. 다만 장기간 머물 숙소를 구하기 어렵다는 점은 아직 해결해야 할 과제로 남아 있다.",
+  "passage_en": "Recently, a style of travel called 'slow travel' has been drawing attention. Slow travel refers to staying in one area for a long time and experiencing the daily lives of locals, instead of rushing around many tourist sites in a short period. It began from the realization that a vacation of a week or so is far too short to see all of several cities. This style not only reduces the cost and fatigue of moving around but is also credited with helping the local economy. However, the difficulty of finding accommodation for a long stay remains a problem yet to be solved.",
+  "question": "위 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "슬로 트래블은 짧은 기간에 여러 관광지를 도는 여행이다.",
+      "en": "Slow travel is a trip that covers many tourist sites in a short period."
+    },
+    {
+      "ko": "슬로 트래블은 이동에 드는 비용을 줄이는 데 도움이 된다.",
+      "en": "Slow travel helps reduce the cost of getting around."
+    },
+    {
+      "ko": "슬로 트래블을 하면 장기간 머물 숙소를 구하기가 쉽다.",
+      "en": "With slow travel, it is easy to find accommodation for a long stay."
+    },
+    {
+      "ko": "슬로 트래블은 지역 경제에 부담을 준다.",
+      "en": "Slow travel puts a burden on the local economy."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "글에서 슬로 트래블은 이동에 드는 비용과 피로를 줄여 준다고 했으므로 2번이 정답이다. 슬로 트래블은 한 지역에 오래 머무는 여행이고, 지역 경제에 도움이 되며, 숙소를 구하기 어렵다는 점이 과제라고 했으므로 나머지는 틀리다.",
+  "explanation_en": "The passage says slow travel reduces the cost and fatigue of moving around, so choice 2 matches.",
+  "passage_vocab": [
+    {
+      "word": "주목",
+      "pos": "명사",
+      "en": "attention, notice",
+      "context": "주목을 받고 있다"
+    },
+    {
+      "word": "현지인",
+      "pos": "명사",
+      "en": "local (person)",
+      "context": "현지인의 일상을 경험하는"
+    },
+    {
+      "word": "남짓하다",
+      "pos": "형용사",
+      "en": "to be a little over (an amount)",
+      "context": "일주일 남짓한 휴가로"
+    },
+    {
+      "word": "턱없이",
+      "pos": "부사",
+      "en": "far too, absurdly",
+      "context": "시간이 턱없이 부족하다는"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "행선지",
+      "pos": "명사",
+      "en": "destination",
+      "example_ko": "버스에 타기 전에 행선지를 꼭 확인하세요.",
+      "example_en": "Be sure to check the destination before getting on the bus."
+    },
+    {
+      "word": "경유하다",
+      "pos": "동사",
+      "en": "to go via, to stop over",
+      "example_ko": "이 비행기는 홍콩을 경유해서 런던으로 간다.",
+      "example_en": "This flight goes to London via Hong Kong."
+    },
+    {
+      "word": "명소",
+      "pos": "명사",
+      "en": "famous spot, attraction",
+      "example_ko": "이 다리는 야경이 아름다워 서울의 명소가 되었다.",
+      "example_en": "This bridge became a Seoul attraction for its beautiful night view."
+    },
+    {
+      "word": "정취",
+      "pos": "명사",
+      "en": "atmosphere, charm (of a place)",
+      "example_ko": "골목마다 옛 도시의 정취가 그대로 남아 있다.",
+      "example_en": "The charm of the old city remains in every alley."
+    },
+    {
+      "word": "휴양지",
+      "pos": "명사",
+      "en": "resort, holiday spot",
+      "example_ko": "여름이면 이 섬은 휴양지를 찾는 사람들로 붐빈다.",
+      "example_en": "In summer this island is crowded with people looking for a resort."
+    },
+    {
+      "word": "노선",
+      "pos": "명사",
+      "en": "route, line",
+      "example_ko": "새로운 지하철 노선이 내년에 개통된다.",
+      "example_en": "A new subway line will open next year."
+    },
+    {
+      "word": "연착되다",
+      "pos": "동사",
+      "en": "to be delayed (in arrival)",
+      "example_ko": "폭설 때문에 기차가 한 시간이나 연착되었다.",
+      "example_en": "Because of heavy snow, the train was delayed by a whole hour."
+    },
+    {
+      "word": "체류하다",
+      "pos": "동사",
+      "en": "to stay (abroad), to sojourn",
+      "example_ko": "그는 연구를 위해 일 년 동안 독일에 체류했다.",
+      "example_en": "He stayed in Germany for a year for his research."
+    },
+    {
+      "word": "소요되다",
+      "pos": "동사",
+      "en": "to take, to be required (time/cost)",
+      "example_ko": "공항까지는 차로 약 40분이 소요된다.",
+      "example_en": "It takes about 40 minutes by car to get to the airport."
+    },
+    {
+      "word": "출입국",
+      "pos": "명사",
+      "en": "entry and departure (immigration)",
+      "example_ko": "연휴에는 출입국 심사에 시간이 오래 걸린다.",
+      "example_en": "During holidays, immigration checks take a long time."
+    }
+  ]
+}

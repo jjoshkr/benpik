@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 우리 회사의 이름을 사칭한 전자 우편이 직원들에게 발송되고 있어 각별한 주의를 당부드립니다. 인사팀이나 전산팀이 전자 우편으로 비밀번호를 물어볼 리가 없으니 이러한 요청에는 절대 응하지 마십시오. 의심스러운 메일을 받으셨다면 첨부 파일을 열지 말고 즉시 전산팀(내선 2040)으로 신고해 주시기 바랍니다. 아울러 다음 주 수요일 오후 3시 대회의실에서 보안 교육이 진행되오니 전 직원은 반드시 참석해 주십시오.",
+  "passage_en": "E-mails impersonating our company's name have recently been sent to employees, so we ask that you take special care. The HR team and the IT team would never ask for your password by e-mail, so never respond to such requests. If you receive a suspicious e-mail, do not open the attachment, and report it immediately to the IT team (extension 2040). In addition, security training will be held in the main conference room next Wednesday at 3 p.m., and all employees must attend.",
+  "question": "이 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "전산팀은 전자 우편으로 비밀번호를 확인한다.",
+      "en": "The IT team checks passwords by e-mail."
+    },
+    {
+      "ko": "의심스러운 메일은 첨부 파일을 열어 본 후 신고해야 한다.",
+      "en": "Suspicious e-mails should be reported after opening the attachment."
+    },
+    {
+      "ko": "보안 교육에는 모든 직원이 참석해야 한다.",
+      "en": "All employees must attend the security training."
+    },
+    {
+      "ko": "보안 교육은 다음 주 수요일 오전에 열린다.",
+      "en": "The security training is held next Wednesday morning."
+    }
+  ],
+  "answer": 3,
+  "explanation_ko": "안내문 마지막 문장에서 전 직원은 보안 교육에 반드시 참석하라고 했으므로 3번이 내용과 같다. 전산팀이 비밀번호를 물어볼 리가 없다고 했으므로 1번은 틀리고, 첨부 파일은 열지 말라고 했으므로 2번도 틀리다. 교육은 오전이 아니라 오후 3시에 열린다.",
+  "explanation_en": "The notice says every employee must attend the security training, which matches choice 3.",
+  "passage_vocab": [
+    {
+      "word": "사칭하다",
+      "pos": "동사",
+      "en": "to impersonate, to falsely claim to be",
+      "context": "회사의 이름을 사칭한"
+    },
+    {
+      "word": "각별하다",
+      "pos": "형용사",
+      "en": "to be special, particular",
+      "context": "각별한 주의를"
+    },
+    {
+      "word": "당부",
+      "pos": "명사",
+      "en": "request, earnest appeal",
+      "context": "주의를 당부드립니다"
+    },
+    {
+      "word": "응하다",
+      "pos": "동사",
+      "en": "to respond to, to comply with",
+      "context": "요청에는 절대 응하지 마십시오"
+    },
+    {
+      "word": "첨부",
+      "pos": "명사",
+      "en": "attachment",
+      "context": "첨부 파일을 열지 말고"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "출근하다",
+      "pos": "동사",
+      "en": "to go to work, to get to work",
+      "example_ko": "지하철이 지연되어 평소보다 늦게 출근했다.",
+      "example_en": "The subway was delayed, so I got to work later than usual."
+    },
+    {
+      "word": "거래처",
+      "pos": "명사",
+      "en": "client, business partner",
+      "example_ko": "오후에 거래처 사람들과 회의가 잡혀 있다.",
+      "example_en": "I have a meeting scheduled with people from a client company this afternoon."
+    },
+    {
+      "word": "맡다",
+      "pos": "동사",
+      "en": "to take charge of, to be in charge of",
+      "example_ko": "이번 프로젝트는 김 대리가 맡기로 했다.",
+      "example_en": "It was decided that Assistant Manager Kim would take charge of this project."
+    },
+    {
+      "word": "결근",
+      "pos": "명사",
+      "en": "absence from work",
+      "example_ko": "몸이 아파서 어쩔 수 없이 결근을 했다.",
+      "example_en": "I was sick, so I had no choice but to miss work."
+    },
+    {
+      "word": "직급",
+      "pos": "명사",
+      "en": "job rank, position",
+      "example_ko": "우리 회사는 직급 대신 이름에 '님'을 붙여 부른다.",
+      "example_en": "At our company, we address each other by name plus '-nim' instead of by job rank."
+    },
+    {
+      "word": "이직하다",
+      "pos": "동사",
+      "en": "to change jobs",
+      "example_ko": "더 나은 조건을 찾아 다른 회사로 이직했다.",
+      "example_en": "I moved to another company in search of better conditions."
+    },
+    {
+      "word": "신입",
+      "pos": "명사",
+      "en": "newcomer, new employee",
+      "example_ko": "신입 사원들은 첫 달 동안 회사 교육을 받는다.",
+      "example_en": "New employees receive company training during their first month."
+    },
+    {
+      "word": "실적",
+      "pos": "명사",
+      "en": "performance results, track record",
+      "example_ko": "이번 분기 영업 실적이 목표를 넘었다.",
+      "example_en": "Sales results this quarter exceeded the target."
+    },
+    {
+      "word": "퇴사하다",
+      "pos": "동사",
+      "en": "to leave a company, to resign",
+      "example_ko": "그는 건강 문제로 올해 초에 퇴사했다.",
+      "example_en": "He left the company early this year due to health problems."
+    },
+    {
+      "word": "상여금",
+      "pos": "명사",
+      "en": "bonus",
+      "example_ko": "연말에 상여금을 받아 부모님께 선물을 드렸다.",
+      "example_en": "I received a year-end bonus and bought my parents a gift."
+    }
+  ]
+}

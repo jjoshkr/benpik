@@ -9,7 +9,7 @@
 # 필요한 Secrets (NFR-6 — 코드·로그에 노출 금지):
 #   SMTP_USER          발신 계정 (예: Gmail 주소)
 #   SMTP_PASS          앱 비밀번호
-#   ANTHROPIC_API_KEY  (선택) 뱅크에 없는 날짜의 API 생성 폴백 — 없으면 뱅크 소진 시 실패
+#   ANTHROPIC_API_KEY  (선택) 뱅크에 없는 날짜의 API 생성 폴백 — 없으면 과거 회차 재발송
 #
 # 주의: 60일간 커밋이 없으면 GitHub 가 스케줄을 자동 정지한다(§11).
 

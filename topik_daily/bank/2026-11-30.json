@@ -1,0 +1,124 @@
+{
+  "passage_ko": "학창 시절 나는 시험 전날 밤을 새워 교과서를 통째로 외우는 학생이었다. 그렇게 받은 점수는 나쁘지 않았지만 시험이 끝나면 머릿속에 남는 것이 거의 없었다. 어른이 되어 다시 공부를 시작하면서 나는 서두를수록 오히려 배움이 얕아진다는 것을 깨달았다. 요즘은 하루에 조금씩이라도 이해한 내용을 내 말로 정리해 보는데, 속도는 느려도 배운 것이 훨씬 오래 기억에 남는다. 공부의 깊이는 들인 시간보다 배움을 대하는 태도에서 나온다고 나는 믿는다.",
+  "passage_en": "In my school days, I was a student who stayed up all night before exams memorizing textbooks wholesale. The scores I got that way weren't bad, but once the exams were over, almost nothing stayed in my head. When I started studying again as an adult, I realized that the more I hurried, the shallower my learning actually became. These days I try to summarize what I've understood in my own words, even a little each day, and although it's slow, what I learn stays in my memory much longer. I believe that the depth of study comes not from the time spent but from the attitude one takes toward learning.",
+  "question": "이 글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "밤을 새워 공부하는 학생들을 부러워하고 있다.",
+      "en": "The writer envies students who study all night."
+    },
+    {
+      "ko": "천천히 이해하며 배우는 방식의 가치를 강조하고 있다.",
+      "en": "The writer emphasizes the value of learning slowly with understanding."
+    },
+    {
+      "ko": "학교 시험 제도의 문제점을 비판하고 있다.",
+      "en": "The writer criticizes problems with the school exam system."
+    },
+    {
+      "ko": "어른이 되어 공부하는 것을 후회하고 있다.",
+      "en": "The writer regrets studying as an adult."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "필자는 벼락치기로 외운 내용은 금방 잊었지만, 천천히 이해하며 정리한 내용은 오래 남는다는 경험을 이야기한다. 마지막 문장에서 배움을 대하는 태도가 중요하다고 했으므로 2번이 알맞다. 시험 제도를 비판하거나 공부를 후회하는 내용은 없다.",
+  "explanation_en": "The writer contrasts cramming with slow, thoughtful study and values the latter, so choice 2 is correct.",
+  "passage_vocab": [
+    {
+      "word": "학창 시절",
+      "pos": "명사",
+      "en": "school days",
+      "context": "학창 시절 나는"
+    },
+    {
+      "word": "통째로",
+      "pos": "부사",
+      "en": "wholesale, in its entirety",
+      "context": "교과서를 통째로 외우는"
+    },
+    {
+      "word": "얕아지다",
+      "pos": "동사",
+      "en": "to become shallow",
+      "context": "배움이 얕아진다는 것을"
+    },
+    {
+      "word": "깨닫다",
+      "pos": "동사",
+      "en": "to realize",
+      "context": "깨달았다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "학업",
+      "pos": "명사",
+      "en": "studies, schoolwork",
+      "example_ko": "그는 아르바이트와 학업을 함께 하느라 바쁘다.",
+      "example_en": "He is busy juggling a part-time job and his studies."
+    },
+    {
+      "word": "의욕",
+      "pos": "명사",
+      "en": "motivation, will",
+      "example_ko": "칭찬을 들으니 공부할 의욕이 생겼다.",
+      "example_en": "Hearing praise made me motivated to study."
+    },
+    {
+      "word": "시행착오",
+      "pos": "명사",
+      "en": "trial and error",
+      "example_ko": "여러 번의 시행착오 끝에 나만의 공부법을 찾았다.",
+      "example_en": "After much trial and error, I found my own way of studying."
+    },
+    {
+      "word": "지도하다",
+      "pos": "동사",
+      "en": "to guide, to coach, to teach",
+      "example_ko": "선생님은 학생들을 한 명씩 정성껏 지도하셨다.",
+      "example_en": "The teacher carefully guided the students one by one."
+    },
+    {
+      "word": "체득하다",
+      "pos": "동사",
+      "en": "to learn through experience, to master",
+      "example_ko": "운전은 책보다 직접 해 보면서 체득하는 것이다.",
+      "example_en": "Driving is mastered by doing it, not from books."
+    },
+    {
+      "word": "이수하다",
+      "pos": "동사",
+      "en": "to complete (a course)",
+      "example_ko": "이 과정을 모두 이수하면 수료증을 받을 수 있다.",
+      "example_en": "If you complete this entire course, you can receive a certificate of completion."
+    },
+    {
+      "word": "강좌",
+      "pos": "명사",
+      "en": "course, lecture (series)",
+      "example_ko": "구청에서 주민을 위한 무료 컴퓨터 강좌를 연다.",
+      "example_en": "The district office is offering a free computer course for residents."
+    },
+    {
+      "word": "결석",
+      "pos": "명사",
+      "en": "absence (from school)",
+      "example_ko": "감기 때문에 이틀 동안 결석을 했다.",
+      "example_en": "I was absent for two days because of a cold."
+    },
+    {
+      "word": "학부모",
+      "pos": "명사",
+      "en": "parents (of students)",
+      "example_ko": "학부모들이 모여 학교 급식 문제를 논의했다.",
+      "example_en": "Parents gathered to discuss the school meal issue."
+    },
+    {
+      "word": "풀이",
+      "pos": "명사",
+      "en": "solution, working out (a problem)",
+      "example_ko": "답만 쓰지 말고 문제 풀이 과정도 자세히 적어 보세요.",
+      "example_en": "Don't just write the answer; write out how you solved the problem in detail, too."
+    }
+  ]
+}

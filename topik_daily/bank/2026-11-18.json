@@ -1,0 +1,130 @@
+{
+  "passage_ko": "길을 찾을 때마다 휴대전화 지도 앱에 의지하던 나는 얼마 전 일부러 앱을 끄고 동네를 걸어 보았다. 화면을 들여다보는 대신에 간판과 골목의 모양을 눈여겨보니, 그동안 무심코 지나쳤던 작은 서점과 오래된 빵집이 눈에 들어왔다. 기술은 분명 우리의 삶을 편리하게 해 주었지만, 그만큼 스스로 관찰하고 생각할 기회를 빼앗아 가기도 한다. 기술을 버리자는 것이 아니라, 때로는 기술 없이 세상을 직접 경험해 보는 시간도 필요하다는 것이다.",
+  "passage_en": "I used to rely on the map app on my phone every time I needed to find my way, but not long ago I deliberately turned it off and walked around my neighborhood. When I paid attention to the signs and the shapes of the alleys instead of staring at a screen, a small bookstore and an old bakery that I had absent-mindedly passed by caught my eye. Technology has certainly made our lives more convenient, but by the same token it also takes away chances to observe and think for ourselves. I am not saying we should abandon technology; rather, sometimes we also need time to experience the world directly without it.",
+  "question": "이 글의 주제로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "기술에 기대지 않고 세상을 직접 경험하는 시간도 필요하다.",
+      "en": "We also need time to experience the world directly without leaning on technology."
+    },
+    {
+      "ko": "지도 앱의 기능을 더 정확하게 개선해야 한다.",
+      "en": "Map apps' features should be improved to be more accurate."
+    },
+    {
+      "ko": "동네의 작은 가게들을 적극적으로 이용해야 한다.",
+      "en": "We should actively patronize small neighborhood shops."
+    },
+    {
+      "ko": "기술의 발전은 삶을 더 불편하게 만들었다.",
+      "en": "Technological progress has made life more inconvenient."
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 앱을 끄고 걸으며 새로운 것을 발견한 경험을 바탕으로, 기술이 관찰하고 생각할 기회를 빼앗기도 한다고 말한다. 마지막 문장에서 기술 없이 세상을 직접 경험하는 시간이 필요하다고 정리하므로 1번이 주제이다. 필자는 기술이 삶을 편리하게 했다고 인정하므로 4번은 틀리다.",
+  "explanation_en": "The essay's conclusion is that we sometimes need to experience the world directly without technology, which is choice 1.",
+  "passage_vocab": [
+    {
+      "word": "들여다보다",
+      "pos": "동사",
+      "en": "to look into, to stare at",
+      "context": "화면을 들여다보는 대신에"
+    },
+    {
+      "word": "눈여겨보다",
+      "pos": "동사",
+      "en": "to observe carefully, to take note of",
+      "context": "골목의 모양을 눈여겨보니"
+    },
+    {
+      "word": "무심코",
+      "pos": "부사",
+      "en": "absent-mindedly, without thinking",
+      "context": "무심코 지나쳤던"
+    },
+    {
+      "word": "관찰하다",
+      "pos": "동사",
+      "en": "to observe",
+      "context": "스스로 관찰하고 생각할 기회"
+    },
+    {
+      "word": "빼앗다",
+      "pos": "동사",
+      "en": "to take away, to rob",
+      "context": "기회를 빼앗아 가기도 한다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "인공지능",
+      "pos": "명사",
+      "en": "artificial intelligence (AI)",
+      "example_ko": "인공지능이 번역 같은 일을 점점 더 잘 해내고 있다.",
+      "example_en": "Artificial intelligence is getting better and better at tasks like translation."
+    },
+    {
+      "word": "기술력",
+      "pos": "명사",
+      "en": "technological capability",
+      "example_ko": "우리 회사는 뛰어난 기술력을 인정받아 해외에 진출했다.",
+      "example_en": "Our company was recognized for its excellent technology and expanded overseas."
+    },
+    {
+      "word": "발견하다",
+      "pos": "동사",
+      "en": "to discover",
+      "example_ko": "과학자들이 새로운 별을 발견했다.",
+      "example_en": "Scientists discovered a new star."
+    },
+    {
+      "word": "개발하다",
+      "pos": "동사",
+      "en": "to develop",
+      "example_ko": "이 회사는 소음이 적은 세탁기를 개발했다.",
+      "example_en": "This company developed a low-noise washing machine."
+    },
+    {
+      "word": "실용적",
+      "pos": "명사",
+      "en": "practical (nature)",
+      "example_ko": "이 제품은 디자인보다 실용적인 기능에 초점을 맞췄다.",
+      "example_en": "This product focuses on practical functions rather than design."
+    },
+    {
+      "word": "원격",
+      "pos": "명사",
+      "en": "remote (control/access)",
+      "example_ko": "의사가 원격으로 환자를 진료하는 시대가 왔다.",
+      "example_en": "An era has come when doctors treat patients remotely."
+    },
+    {
+      "word": "우주",
+      "pos": "명사",
+      "en": "space, universe",
+      "example_ko": "어릴 때부터 우주 비행사가 되는 것이 꿈이었다.",
+      "example_en": "Ever since I was little, my dream was to become an astronaut."
+    },
+    {
+      "word": "탐사",
+      "pos": "명사",
+      "en": "exploration",
+      "example_ko": "이번 탐사에서 화성에 물이 있었다는 흔적이 발견되었다.",
+      "example_en": "In this exploration, traces showing that there had been water on Mars were found."
+    },
+    {
+      "word": "연구원",
+      "pos": "명사",
+      "en": "researcher",
+      "example_ko": "그녀는 반도체 회사의 연구원으로 일한다.",
+      "example_en": "She works as a researcher at a semiconductor company."
+    },
+    {
+      "word": "개량하다",
+      "pos": "동사",
+      "en": "to improve, to upgrade (a breed/product)",
+      "example_ko": "농부들은 추위에 강한 품종으로 벼를 개량했다.",
+      "example_en": "Farmers improved rice into a variety that is resistant to cold."
+    }
+  ]
+}

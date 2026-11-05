@@ -1,0 +1,124 @@
+{
+  "passage_ko": "나는 퇴근 후 일주일에 두 번 피아노를 배운다. 마흔이 넘어 시작한 탓에 손가락이 마음처럼 움직이지 않아 속상할 때가 많다. 그래도 선생님은 \"연습하는 만큼 손이 기억할 거예요.\"라며 나를 다독여 주셨다. 그 말을 믿고 하루 20분씩이라도 건반 앞에 앉았더니, 석 달 만에 짧은 곡 하나를 끝까지 칠 수 있게 되었다. 배움에는 (    ) 것을 이제야 깨닫는다.",
+  "passage_en": "I take piano lessons twice a week after work. Because I started after turning forty, my fingers often don't move the way I want, and I get upset. Still, my teacher encouraged me, saying, \"Your hands will remember as much as you practice.\" Trusting those words, I sat at the keyboard even for just 20 minutes a day, and after three months I was able to play a short piece all the way through. Only now do I realize that when it comes to learning, (    ).",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "늦은 때가 따로 없다는",
+      "en": "there is no such thing as too late"
+    },
+    {
+      "ko": "타고난 재능이 가장 중요하다는",
+      "en": "natural talent matters most"
+    },
+    {
+      "ko": "좋은 악기가 반드시 필요하다는",
+      "en": "a good instrument is absolutely necessary"
+    },
+    {
+      "ko": "어릴 때 시작해야만 한다는",
+      "en": "you must start when you are young"
+    }
+  ],
+  "answer": 1,
+  "explanation_ko": "필자는 마흔이 넘어 피아노를 시작했지만 꾸준히 연습해서 석 달 만에 곡을 칠 수 있게 되었다. 따라서 배우는 데에 늦은 때는 없다는 1번이 알맞다. 4번은 필자의 경험과 반대되는 내용이다.",
+  "explanation_en": "The writer started piano after forty yet succeeded through practice, so the lesson is that it's never too late to learn (choice 1).",
+  "passage_vocab": [
+    {
+      "word": "속상하다",
+      "pos": "형용사",
+      "en": "to be upset, to feel frustrated",
+      "context": "속상할 때가 많다"
+    },
+    {
+      "word": "다독이다",
+      "pos": "동사",
+      "en": "to comfort, to encourage gently",
+      "context": "나를 다독여 주셨다"
+    },
+    {
+      "word": "건반",
+      "pos": "명사",
+      "en": "keyboard (of an instrument)",
+      "context": "건반 앞에 앉았더니"
+    },
+    {
+      "word": "깨닫다",
+      "pos": "동사",
+      "en": "to realize",
+      "context": "이제야 깨닫는다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "수강하다",
+      "pos": "동사",
+      "en": "to take (a course)",
+      "example_ko": "이번 학기에는 경제학 강의를 수강하기로 했다.",
+      "example_en": "I decided to take an economics course this semester."
+    },
+    {
+      "word": "학위",
+      "pos": "명사",
+      "en": "academic degree",
+      "example_ko": "그는 일하면서 야간 대학원에서 석사 학위를 받았다.",
+      "example_en": "He earned a master's degree at night graduate school while working."
+    },
+    {
+      "word": "교재",
+      "pos": "명사",
+      "en": "textbook, teaching material",
+      "example_ko": "선생님이 직접 만든 교재로 수업을 한다.",
+      "example_en": "The class uses teaching materials the teacher made herself."
+    },
+    {
+      "word": "자격증",
+      "pos": "명사",
+      "en": "certificate, license",
+      "example_ko": "취업을 위해 컴퓨터 자격증을 땄다.",
+      "example_en": "I got a computer certificate to get a job."
+    },
+    {
+      "word": "독학",
+      "pos": "명사",
+      "en": "self-study",
+      "example_ko": "그는 독학으로 일본어를 배워 통역사가 되었다.",
+      "example_en": "He learned Japanese through self-study and became an interpreter."
+    },
+    {
+      "word": "이해력",
+      "pos": "명사",
+      "en": "comprehension, understanding",
+      "example_ko": "책을 많이 읽으면 이해력이 높아진다.",
+      "example_en": "Reading a lot improves comprehension."
+    },
+    {
+      "word": "주입식",
+      "pos": "명사",
+      "en": "rote (cramming-style) learning",
+      "example_ko": "주입식 교육으로는 창의적인 인재를 키우기 어렵다.",
+      "example_en": "It is hard to raise creative talent through rote education."
+    },
+    {
+      "word": "평생교육",
+      "pos": "명사",
+      "en": "lifelong education",
+      "example_ko": "구청에서 어르신을 위한 평생교육 강좌를 운영한다.",
+      "example_en": "The district office runs lifelong-education courses for seniors."
+    },
+    {
+      "word": "응용하다",
+      "pos": "동사",
+      "en": "to apply (knowledge)",
+      "example_ko": "배운 공식을 실제 문제에 응용해 보세요.",
+      "example_en": "Try applying the formula you learned to real problems."
+    },
+    {
+      "word": "숙달되다",
+      "pos": "동사",
+      "en": "to become proficient, to master",
+      "example_ko": "운전에 숙달되려면 꾸준히 연습해야 한다.",
+      "example_en": "To become proficient at driving, you need to practice steadily."
+    }
+  ]
+}

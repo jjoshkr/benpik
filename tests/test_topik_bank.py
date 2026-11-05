@@ -6,7 +6,7 @@ from datetime import date, timedelta
 
 import pytest
 
-from topik_daily.bank import BANK_DIR, days_remaining, load_entry
+from topik_daily.bank import BANK_DIR, days_remaining, load_entry, recycle_date
 from topik_daily.content import build_plan
 from topik_daily.generate import GenerationError
 from tests.test_topik_generate import valid_payload
@@ -42,6 +42,21 @@ def test_days_remaining_counts_consecutive(tmp_path):
         _write(tmp_path, D + timedelta(days=i), valid_payload())
     assert days_remaining(D, bank_dir=tmp_path) == 3
     assert days_remaining(D + timedelta(days=10), bank_dir=tmp_path) == 0
+
+
+def test_recycle_date_picks_past_entry_deterministically(tmp_path):
+    for i in range(3):
+        _write(tmp_path, D + timedelta(days=i), valid_payload())
+    later = D + timedelta(days=30)
+    picked = recycle_date(later, bank_dir=tmp_path)
+    assert picked is not None and picked < later
+    assert recycle_date(later, bank_dir=tmp_path) == picked  # 같은 날짜 → 같은 결과
+    # 연속된 날에는 다른 회차가 나간다
+    assert recycle_date(later + timedelta(days=1), bank_dir=tmp_path) != picked
+
+
+def test_recycle_date_empty_bank(tmp_path):
+    assert recycle_date(D, bank_dir=tmp_path) is None
 
 
 # ---- 커밋된 실제 뱅크 파일 전량 검증 — 리필 커밋의 CI 가드 ----

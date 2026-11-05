@@ -1,0 +1,124 @@
+{
+  "passage_ko": "감기에 걸렸을 때 의사에게 항생제를 처방해 달라고 요구하는 환자가 여전히 많은 것으로 조사됐다. 그러나 감기는 대부분 바이러스가 원인이어서 세균을 없애는 항생제로는 치료 효과를 기대하기 어렵다. 오히려 항생제를 불필요하게 자주 먹으면 약이 잘 듣지 않는 내성균이 생길 위험만 커진다. 환자와 의료진 모두가 항생제를 신중하게 사용하려고 노력하지 않는 한 내성균 문제는 앞으로 더욱 심각해질 수밖에 없다.",
+  "passage_en": "A survey found that many patients still ask their doctors to prescribe antibiotics when they catch a cold. However, since colds are mostly caused by viruses, it is hard to expect any treatment effect from antibiotics, which kill bacteria. On the contrary, taking antibiotics often and unnecessarily only increases the risk of drug-resistant bacteria emerging. Unless both patients and medical staff make an effort to use antibiotics carefully, the problem of resistant bacteria is bound to become even more serious.",
+  "question": "이 글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "새로운 항생제 개발을 서둘러야 한다고 촉구하고 있다.",
+      "en": "The writer urges hurrying the development of new antibiotics."
+    },
+    {
+      "ko": "감기 치료법의 효과를 긍정적으로 평가하고 있다.",
+      "en": "The writer positively evaluates the effectiveness of cold treatments."
+    },
+    {
+      "ko": "의료진의 처방을 전적으로 신뢰하고 있다.",
+      "en": "The writer fully trusts medical staff's prescriptions."
+    },
+    {
+      "ko": "항생제 오남용의 위험성에 대해 경각심을 일깨우고 있다.",
+      "en": "The writer raises awareness of the dangers of antibiotic misuse."
+    }
+  ],
+  "answer": 4,
+  "explanation_ko": "필자는 감기에 항생제가 효과가 없고 불필요한 복용이 내성균을 만든다고 지적한다. 마지막 문장에서 신중하게 사용하지 않으면 문제가 심각해진다고 경고하므로 경각심을 일깨우는 4번이 알맞다.",
+  "explanation_en": "The writer warns that unnecessary antibiotic use breeds resistant bacteria, so choice 4 is correct.",
+  "passage_vocab": [
+    {
+      "word": "항생제",
+      "pos": "명사",
+      "en": "antibiotic",
+      "context": "항생제를 처방해 달라고"
+    },
+    {
+      "word": "처방하다",
+      "pos": "동사",
+      "en": "to prescribe",
+      "context": "항생제를 처방해 달라고 요구하는"
+    },
+    {
+      "word": "내성균",
+      "pos": "명사",
+      "en": "drug-resistant bacteria",
+      "context": "약이 잘 듣지 않는 내성균이"
+    },
+    {
+      "word": "의료진",
+      "pos": "명사",
+      "en": "medical staff",
+      "context": "환자와 의료진 모두가"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "질환",
+      "pos": "명사",
+      "en": "disease, illness",
+      "example_ko": "심장 질환은 평소 생활 습관과 관련이 깊다.",
+      "example_en": "Heart disease is closely related to everyday lifestyle habits."
+    },
+    {
+      "word": "통증",
+      "pos": "명사",
+      "en": "pain",
+      "example_ko": "무릎에 통증이 있어서 계단을 오르기가 힘들다.",
+      "example_en": "I have pain in my knee, so it's hard to climb stairs."
+    },
+    {
+      "word": "환자",
+      "pos": "명사",
+      "en": "patient",
+      "example_ko": "응급실에는 밤늦게까지 환자들이 끊이지 않았다.",
+      "example_en": "Patients kept coming to the emergency room until late at night."
+    },
+    {
+      "word": "합병증",
+      "pos": "명사",
+      "en": "complication (medical)",
+      "example_ko": "당뇨병은 여러 가지 합병증을 일으킬 수 있다.",
+      "example_en": "Diabetes can cause various complications."
+    },
+    {
+      "word": "혈액",
+      "pos": "명사",
+      "en": "blood",
+      "example_ko": "혈액 검사 결과 빈혈이 있다는 것을 알게 되었다.",
+      "example_en": "From the blood test results, I found out that I had anemia."
+    },
+    {
+      "word": "낫다",
+      "pos": "동사",
+      "en": "to get better, to recover",
+      "example_ko": "감기가 다 나으려면 푹 쉬어야 한다.",
+      "example_en": "You need to rest well for your cold to get completely better."
+    },
+    {
+      "word": "다치다",
+      "pos": "동사",
+      "en": "to get hurt, to be injured",
+      "example_ko": "축구를 하다가 발목을 다쳤다.",
+      "example_en": "I hurt my ankle while playing soccer."
+    },
+    {
+      "word": "만성",
+      "pos": "명사",
+      "en": "chronic",
+      "example_ko": "그는 만성 피로에 시달리고 있다.",
+      "example_en": "He is suffering from chronic fatigue."
+    },
+    {
+      "word": "소독하다",
+      "pos": "동사",
+      "en": "to disinfect",
+      "example_ko": "넘어져 다친 무릎을 깨끗이 소독했다.",
+      "example_en": "I thoroughly disinfected the knee I hurt when I fell."
+    },
+    {
+      "word": "의료진",
+      "pos": "명사",
+      "en": "medical staff",
+      "example_ko": "의료진의 빠른 대처 덕분에 환자는 위기를 넘겼다.",
+      "example_en": "Thanks to the medical staff's quick response, the patient got through the crisis."
+    }
+  ]
+}

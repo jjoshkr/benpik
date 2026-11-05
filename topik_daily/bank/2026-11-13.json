@@ -1,0 +1,130 @@
+{
+  "passage_ko": "최근 입사 1년도 안 돼 회사를 떠나는 신입 사원이 늘고 있다는 보도가 잇따르고 있다. 일부에서는 요즘 젊은이들의 인내심이 부족하다고 탓하지만, 이는 문제를 지나치게 단순하게 보는 시각이다. 사람은 자신의 의견이 존중받고 성장할 수 있다고 느낄 때 그 조직에 오래 머물고 싶어지는 법이다. 기업은 신입 사원을 탓하기에 앞서 그들이 마음 놓고 일할 수 있는 환경을 만들고 있는지 먼저 돌아봐야 한다.",
+  "passage_en": "Reports keep coming out that more and more new employees are leaving their companies within a year of joining. Some blame young people today for lacking patience, but this is an overly simplistic view of the problem. People naturally want to stay long in an organization when they feel their opinions are respected and that they can grow. Before blaming new employees, companies should first look back at whether they are creating an environment where those employees can work with peace of mind.",
+  "question": "위 글에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "신입 사원의 인내심 부족을 비판하고 있다.",
+      "en": "It criticizes new employees' lack of patience."
+    },
+    {
+      "ko": "기업이 근무 환경을 먼저 점검해야 한다고 주장하고 있다.",
+      "en": "It argues that companies should first examine their work environment."
+    },
+    {
+      "ko": "잦은 이직을 긍정적인 변화로 평가하고 있다.",
+      "en": "It assesses frequent job changes as a positive change."
+    },
+    {
+      "ko": "언론 보도가 과장되었다고 의심하고 있다.",
+      "en": "It suspects the media reports are exaggerated."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "필자는 젊은이들의 인내심을 탓하는 시각이 지나치게 단순하다고 보고, 기업이 먼저 일하기 좋은 환경을 만들고 있는지 돌아봐야 한다고 말한다. 따라서 2번이 정답이다. 1번은 필자가 반박하는 일부의 의견이다.",
+  "explanation_en": "The writer rejects blaming young workers and urges companies to first review their working environment, so choice 2 is correct.",
+  "passage_vocab": [
+    {
+      "word": "잇따르다",
+      "pos": "동사",
+      "en": "to follow one after another",
+      "context": "보도가 잇따르고 있다"
+    },
+    {
+      "word": "인내심",
+      "pos": "명사",
+      "en": "patience",
+      "context": "젊은이들의 인내심이 부족하다고"
+    },
+    {
+      "word": "탓하다",
+      "pos": "동사",
+      "en": "to blame",
+      "context": "신입 사원을 탓하기에 앞서"
+    },
+    {
+      "word": "시각",
+      "pos": "명사",
+      "en": "viewpoint, perspective",
+      "context": "단순하게 보는 시각이다"
+    },
+    {
+      "word": "돌아보다",
+      "pos": "동사",
+      "en": "to look back on, to reflect on",
+      "context": "먼저 돌아봐야 한다"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "승진",
+      "pos": "명사",
+      "en": "promotion",
+      "example_ko": "그는 입사 5년 만에 과장으로 승진했다.",
+      "example_en": "He was promoted to manager five years after joining the company."
+    },
+    {
+      "word": "이직",
+      "pos": "명사",
+      "en": "changing jobs",
+      "example_ko": "더 나은 조건을 찾아 이직을 고민하고 있다.",
+      "example_en": "I'm thinking about changing jobs to find better conditions."
+    },
+    {
+      "word": "채용",
+      "pos": "명사",
+      "en": "hiring, recruitment",
+      "example_ko": "올해 하반기 신입 사원 채용이 시작되었다.",
+      "example_en": "Recruitment of new employees for the second half of the year has begun."
+    },
+    {
+      "word": "면접관",
+      "pos": "명사",
+      "en": "interviewer",
+      "example_ko": "면접관은 지원자에게 입사 동기를 물었다.",
+      "example_en": "The interviewer asked the applicant about their motivation for applying."
+    },
+    {
+      "word": "구직자",
+      "pos": "명사",
+      "en": "job seeker",
+      "example_ko": "경기가 어려워지면서 구직자 수가 늘었다.",
+      "example_en": "As the economy got harder, the number of job seekers increased."
+    },
+    {
+      "word": "동료",
+      "pos": "명사",
+      "en": "colleague, coworker",
+      "example_ko": "어려울 때 도와준 동료에게 고마움을 전했다.",
+      "example_en": "I expressed my thanks to the colleague who helped me in hard times."
+    },
+    {
+      "word": "야근",
+      "pos": "명사",
+      "en": "overtime (night) work",
+      "example_ko": "프로젝트 마감 때문에 일주일 내내 야근을 했다.",
+      "example_en": "I worked overtime all week because of the project deadline."
+    },
+    {
+      "word": "인수인계",
+      "pos": "명사",
+      "en": "handover (of duties)",
+      "example_ko": "퇴사하기 전에 후임자에게 인수인계를 꼼꼼히 했다.",
+      "example_en": "Before leaving, I carefully handed over my duties to my successor."
+    },
+    {
+      "word": "정규직",
+      "pos": "명사",
+      "en": "permanent (full-time) position",
+      "example_ko": "계약직으로 일하다가 정규직으로 전환되었다.",
+      "example_en": "After working on contract, I was converted to a permanent position."
+    },
+    {
+      "word": "성과급",
+      "pos": "명사",
+      "en": "performance bonus",
+      "example_ko": "목표를 달성한 팀에게 성과급이 지급되었다.",
+      "example_en": "Performance bonuses were paid to the team that met its goals."
+    }
+  ]
+}

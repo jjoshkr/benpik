@@ -1,0 +1,130 @@
+{
+  "passage_ko": "서울의 한 국립 박물관이 지난달 개막한 '조선의 책 문화' 특별전에 한 달 동안 6만 명이 넘는 관람객이 다녀갔다. 하루 평균 2천 명이 전시장을 찾은 셈이다. 이번 전시에서는 조선 시대 사람들이 손으로 직접 베껴 쓴 책과 책을 빌려주던 가게의 장부 등 200여 점이 공개됐다. 특히 옛날 방식으로 책을 엮어 볼 수 있는 체험 공간은 주말마다 긴 줄이 늘어설 만큼 인기를 끌고 있다. 박물관 측은 관람객들의 요청에 따라 전시 기간을 다음 달 말까지 연장하기로 했다.",
+  "passage_en": "More than 60,000 visitors came to the 'Book Culture of Joseon' special exhibition, which a national museum in Seoul opened last month, over the course of a month. That works out to an average of 2,000 people visiting the exhibition hall each day. About 200 items were put on display, including books hand-copied by people of the Joseon era and the ledgers of shops that used to lend out books. In particular, a hands-on space where visitors can try binding books the old-fashioned way is so popular that long lines form every weekend. In response to visitors' requests, the museum decided to extend the exhibition until the end of next month.",
+  "question": "이 글의 내용과 같은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "이번 전시는 다음 달 초에 끝날 예정이다.",
+      "en": "This exhibition is scheduled to end early next month."
+    },
+    {
+      "ko": "이번 전시에는 하루 평균 약 2천 명이 방문했다.",
+      "en": "An average of about 2,000 people a day visited this exhibition."
+    },
+    {
+      "ko": "책을 엮어 보는 체험 공간은 평일에만 운영된다.",
+      "en": "The book-binding hands-on space operates only on weekdays."
+    },
+    {
+      "ko": "이번 전시에서는 조선 시대의 그림이 주로 소개되었다.",
+      "en": "This exhibition mainly introduced paintings from the Joseon era."
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "한 달 동안 6만 명이 넘게 다녀가 하루 평균 2천 명이 찾은 셈이라고 했으므로 2번이 내용과 같다. 전시 기간은 다음 달 말까지 연장되었고, 체험 공간은 주말마다 줄이 설 만큼 인기라고 했으므로 1번과 3번은 틀리다. 전시된 것은 그림이 아니라 책과 장부 등이다.",
+  "explanation_en": "The article says the visitor count equals about 2,000 people a day on average, which matches choice 2.",
+  "passage_vocab": [
+    {
+      "word": "개막하다",
+      "pos": "동사",
+      "en": "to open (an event)",
+      "context": "지난달 개막한"
+    },
+    {
+      "word": "베끼다",
+      "pos": "동사",
+      "en": "to copy (by hand)",
+      "context": "직접 베껴 쓴 책"
+    },
+    {
+      "word": "장부",
+      "pos": "명사",
+      "en": "ledger, account book",
+      "context": "가게의 장부 등"
+    },
+    {
+      "word": "엮다",
+      "pos": "동사",
+      "en": "to bind, to weave together",
+      "context": "책을 엮어 볼 수 있는"
+    },
+    {
+      "word": "연장하다",
+      "pos": "동사",
+      "en": "to extend",
+      "context": "전시 기간을 다음 달 말까지 연장하기로"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "원작",
+      "pos": "명사",
+      "en": "original work",
+      "example_ko": "이 영화는 원작 소설보다 더 큰 인기를 얻었다.",
+      "example_en": "This film became even more popular than the original novel."
+    },
+    {
+      "word": "고전",
+      "pos": "명사",
+      "en": "classic (work)",
+      "example_ko": "고전 소설을 읽으면 옛사람들의 생각을 알 수 있다.",
+      "example_en": "Reading classic novels lets you understand how people of old thought."
+    },
+    {
+      "word": "서예",
+      "pos": "명사",
+      "en": "calligraphy",
+      "example_ko": "할아버지는 은퇴 후 서예를 배우기 시작하셨다.",
+      "example_en": "My grandfather started learning calligraphy after retiring."
+    },
+    {
+      "word": "악기",
+      "pos": "명사",
+      "en": "musical instrument",
+      "example_ko": "어릴 때부터 악기를 하나쯤 배워 두는 것이 좋다.",
+      "example_en": "It's good to learn at least one musical instrument from childhood."
+    },
+    {
+      "word": "미술품",
+      "pos": "명사",
+      "en": "work of art, artwork",
+      "example_ko": "이 박물관에는 귀중한 미술품이 많이 전시되어 있다.",
+      "example_en": "Many valuable works of art are on display in this museum."
+    },
+    {
+      "word": "비평",
+      "pos": "명사",
+      "en": "criticism, review",
+      "example_ko": "그 영화에 대한 날카로운 비평이 신문에 실렸다.",
+      "example_en": "A sharp review of the film was published in the newspaper."
+    },
+    {
+      "word": "대본",
+      "pos": "명사",
+      "en": "script",
+      "example_ko": "배우들이 모여 대본을 읽으며 연습했다.",
+      "example_en": "The actors gathered and rehearsed by reading through the script."
+    },
+    {
+      "word": "출판하다",
+      "pos": "동사",
+      "en": "to publish",
+      "example_ko": "그는 첫 시집을 작은 출판사에서 출판했다.",
+      "example_en": "He published his first poetry collection with a small publisher."
+    },
+    {
+      "word": "감동적",
+      "pos": "명사",
+      "en": "moving, touching",
+      "example_ko": "주인공이 가족을 다시 만나는 장면이 매우 감동적이었다.",
+      "example_en": "The scene where the main character reunites with the family was very moving."
+    },
+    {
+      "word": "초연",
+      "pos": "명사",
+      "en": "premiere, first performance",
+      "example_ko": "이 오페라는 100년 전 이탈리아에서 초연되었다.",
+      "example_en": "This opera premiered in Italy 100 years ago."
+    }
+  ]
+}

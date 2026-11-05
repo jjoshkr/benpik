@@ -1,0 +1,130 @@
+{
+  "passage_ko": "하루 종일 앉아서 일하는 직장인치고 허리 통증을 한 번도 겪어 보지 않은 사람은 드물다. 한 병원이 허리 통증 환자 2,000명을 분석한 결과, 환자의 70퍼센트 이상이 하루 8시간 넘게 의자에 앉아 지내는 것으로 나타났다. 오래 앉아 있으면 허리에 가해지는 압력이 서 있을 때보다 훨씬 커지기 때문이다. 전문의들은 아무리 바빠도 (    ) 습관을 들이는 것이 허리 건강을 지키는 첫걸음이라고 강조했다.",
+  "passage_en": "Among office workers who sit all day long, few have never experienced back pain. When a hospital analyzed 2,000 back-pain patients, over 70 percent of them were found to spend more than eight hours a day sitting in a chair. This is because sitting for a long time puts much more pressure on the lower back than standing does. Specialists stressed that no matter how busy you are, forming the habit of (    ) is the first step to protecting the health of your back.",
+  "question": "(    )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+  "choices": [
+    {
+      "ko": "푹신한 의자를 새로 사는",
+      "en": "buying a new cushioned chair"
+    },
+    {
+      "ko": "한 시간에 한 번씩 일어나 몸을 움직이는",
+      "en": "getting up and moving once every hour"
+    },
+    {
+      "ko": "퇴근 후에 오래 누워 있는",
+      "en": "lying down for a long time after work"
+    },
+    {
+      "ko": "점심을 빨리 먹고 다시 일하는",
+      "en": "eating lunch quickly and getting back to work"
+    }
+  ],
+  "answer": 2,
+  "explanation_ko": "글에서 허리 통증의 원인은 오래 앉아 있는 것이라고 했으므로, 이를 막으려면 자주 일어나 움직이는 습관이 필요하다. 따라서 2번이 알맞다. 푹신한 의자나 빨리 일하러 돌아가는 것은 앉아 있는 시간을 줄여 주지 못한다.",
+  "explanation_en": "Since long sitting causes back pain, the habit of getting up and moving every hour fits the blank, making choice 2 correct.",
+  "passage_vocab": [
+    {
+      "word": "통증",
+      "pos": "명사",
+      "en": "pain, ache",
+      "context": "허리 통증을 한 번도 겪어 보지 않은"
+    },
+    {
+      "word": "드물다",
+      "pos": "형용사",
+      "en": "to be rare",
+      "context": "사람은 드물다"
+    },
+    {
+      "word": "가해지다",
+      "pos": "동사",
+      "en": "to be applied, to be exerted",
+      "context": "허리에 가해지는 압력이"
+    },
+    {
+      "word": "전문의",
+      "pos": "명사",
+      "en": "medical specialist",
+      "context": "전문의들은 … 강조했다"
+    },
+    {
+      "word": "습관을 들이다",
+      "pos": "관용 표현",
+      "en": "to form a habit",
+      "context": "습관을 들이는 것이"
+    }
+  ],
+  "daily_vocab": [
+    {
+      "word": "염증",
+      "pos": "명사",
+      "en": "inflammation",
+      "example_ko": "상처를 깨끗이 소독하지 않으면 염증이 생길 수 있다.",
+      "example_en": "If you don't disinfect a wound properly, it can become inflamed."
+    },
+    {
+      "word": "부작용",
+      "pos": "명사",
+      "en": "side effect",
+      "example_ko": "이 약은 졸음이 오는 부작용이 있다.",
+      "example_en": "This medicine has the side effect of causing drowsiness."
+    },
+    {
+      "word": "완치되다",
+      "pos": "동사",
+      "en": "to be completely cured",
+      "example_ko": "꾸준히 치료받은 덕분에 병이 완치되었다.",
+      "example_en": "Thanks to steady treatment, the illness was completely cured."
+    },
+    {
+      "word": "재발하다",
+      "pos": "동사",
+      "en": "to recur, to relapse",
+      "example_ko": "무리하게 운동하면 허리 디스크가 재발할 수 있다.",
+      "example_en": "If you exercise too hard, a herniated disc can recur."
+    },
+    {
+      "word": "진통제",
+      "pos": "명사",
+      "en": "painkiller",
+      "example_ko": "두통이 심해서 진통제를 한 알 먹었다.",
+      "example_en": "My headache was bad, so I took a painkiller."
+    },
+    {
+      "word": "유전",
+      "pos": "명사",
+      "en": "heredity, genetics",
+      "example_ko": "어떤 질병은 유전의 영향을 많이 받는다.",
+      "example_en": "Some diseases are strongly influenced by heredity."
+    },
+    {
+      "word": "수술",
+      "pos": "명사",
+      "en": "surgery, operation",
+      "example_ko": "할아버지는 무릎 수술을 받고 회복 중이시다.",
+      "example_en": "Grandfather had knee surgery and is recovering."
+    },
+    {
+      "word": "입원하다",
+      "pos": "동사",
+      "en": "to be hospitalized",
+      "example_ko": "그는 교통사고로 2주 동안 입원했다.",
+      "example_en": "He was hospitalized for two weeks after a car accident."
+    },
+    {
+      "word": "감염",
+      "pos": "명사",
+      "en": "infection",
+      "example_ko": "손을 자주 씻으면 감염을 예방할 수 있다.",
+      "example_en": "Washing your hands often can prevent infection."
+    },
+    {
+      "word": "체질",
+      "pos": "명사",
+      "en": "constitution, physical makeup",
+      "example_ko": "나는 추위를 잘 타는 체질이라 겨울이 힘들다.",
+      "example_en": "I have a constitution that feels the cold easily, so winter is hard for me."
+    }
+  ]
+}
